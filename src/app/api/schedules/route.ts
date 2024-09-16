@@ -4,5 +4,7 @@ export async function GET(request: Request) {
   const params = url.searchParams;
   const line = params.get("line");
 
-  return Response.json({});
+  return Response.json({
+    line,
+  });
 }
