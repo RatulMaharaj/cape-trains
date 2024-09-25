@@ -1,5 +1,36 @@
-export const data = {
-  "SIMONS TOWN": {
+export const stations = [
+  "simons town",
+  "glencairn",
+  "sunny cove",
+  "fish hoek",
+  "kalk bay",
+  "st james",
+  "muizenberg",
+  "false bay",
+  "lakeside",
+  "steenberg",
+  "retreat",
+  "heathfield",
+  "diepriver",
+  "steurhof",
+  "plumstead",
+  "wittebome",
+  "wynberg",
+  "kenilworth",
+  "harfield road",
+  "claremont",
+  "newlands",
+  "rondebosch",
+  "rosebank",
+  "mowbray",
+  "observatory",
+  "salt river",
+  "wood stock",
+  "cape town",
+];
+
+export const inbound = {
+  "simons town": {
     "100": "",
     "200": "5:25",
     "102": "",
@@ -20,8 +51,7 @@ export const data = {
     "214": "12:45",
     "120": "",
   },
-
-  GLENCAIRN: {
+  glencairn: {
     "100": "",
     "200": "5:31",
     "102": "",
@@ -42,8 +72,7 @@ export const data = {
     "214": "12:51",
     "120": "",
   },
-
-  "SUNNY COVE": {
+  "sunny cove": {
     "100": "",
     "200": "5:40",
     "102": "",
@@ -64,8 +93,7 @@ export const data = {
     "214": "13:00",
     "120": "",
   },
-
-  "FISH HOEK_A": {
+  "fish hoek_a": {
     "100": "",
     "200": "5:45",
     "102": "",
@@ -86,8 +114,7 @@ export const data = {
     "214": "13:05",
     "120": "",
   },
-
-  "FISH HOEK": {
+  "fish hoek": {
     "100": "4:45",
     "200": "",
     "102": "5:55",
@@ -109,7 +136,7 @@ export const data = {
     "120": "13:30",
   },
 
-  "KALK BAY": {
+  "kalk bay": {
     "100": "4:49",
     "200": "",
     "102": ":559",
@@ -131,7 +158,7 @@ export const data = {
     "120": "13:34",
   },
 
-  "ST JAMES": {
+  "st james": {
     "100": "4:51",
     "200": "",
     "102": "6:01",
@@ -153,7 +180,7 @@ export const data = {
     "120": "13:36",
   },
 
-  MUIZNBERG: {
+  muiznberg: {
     "100": "4:54",
     "200": "",
     "102": "6:04",
@@ -175,7 +202,7 @@ export const data = {
     "120": "13:39",
   },
 
-  "FALSE BAY": {
+  "false bay": {
     "100": "4:56",
     "200": "",
     "102": "6:06",
@@ -197,7 +224,7 @@ export const data = {
     "120": "13:41",
   },
 
-  LAKESIDE: {
+  lakeside: {
     "100": "4:58",
     "200": "",
     "102": "6:08",
@@ -219,7 +246,7 @@ export const data = {
     "120": "13:43",
   },
 
-  STEENBERG: {
+  steenberg: {
     "100": "5:00",
     "200": "",
     "102": "6:10",
@@ -241,7 +268,7 @@ export const data = {
     "120": "13:45",
   },
 
-  RETREAT_A: {
+  retreat_a: {
     "100": "5:02",
     "200": "",
     "102": "6:12",
@@ -263,7 +290,7 @@ export const data = {
     "120": "13:47",
   },
 
-  RETREAT: {
+  retreat: {
     "100": "5:03",
     "200": "",
     "102": "6:13",
@@ -285,7 +312,7 @@ export const data = {
     "120": "13:48",
   },
 
-  HEATHFIELD: {
+  heathfield: {
     "100": "5:06",
     "200": "",
     "102": "6:16",
@@ -307,7 +334,7 @@ export const data = {
     "120": "13:51",
   },
 
-  DIEPRIVER: {
+  diepriver: {
     "100": "5:09",
     "200": "",
     "102": "6:19",
@@ -329,7 +356,7 @@ export const data = {
     "120": "13:54",
   },
 
-  STEURHOF: {
+  steurhof: {
     "100": "5:12",
     "200": "",
     "102": "6:22",
@@ -351,7 +378,7 @@ export const data = {
     "120": "13:57",
   },
 
-  PLUMSTEAD: {
+  plumstead: {
     "100": "5:14",
     "200": "",
     "102": "6:24",
@@ -373,7 +400,7 @@ export const data = {
     "120": "13:59",
   },
 
-  WITTEBOME: {
+  wittebome: {
     "100": "5:16",
     "200": "",
     "102": "6:26",
@@ -394,7 +421,7 @@ export const data = {
     "214": "",
     "120": "14:01",
   },
-  WYNBERG: {
+  wynberg: {
     "100": "5:18",
     "200": "",
     "102": "6:28",
@@ -415,7 +442,7 @@ export const data = {
     "214": "",
     "120": "14:03",
   },
-  KENILWORTH: {
+  kenilworth: {
     "100": "5:20",
     "200": "",
     "102": "6:30",
@@ -436,7 +463,7 @@ export const data = {
     "214": "",
     "120": "14:05",
   },
-  "HARFIELD ROAD": {
+  "harfield road": {
     "100": "5:22",
     "200": "",
     "102": "6:32",
@@ -457,7 +484,7 @@ export const data = {
     "214": "",
     "120": "14:07",
   },
-  CLAREMONT: {
+  claremont: {
     "100": "5:24",
     "200": "",
     "102": "6:34",
@@ -479,7 +506,7 @@ export const data = {
     "120": "14:09",
   },
 
-  NEWLANDS: {
+  newlands: {
     "100": "5:26",
     "200": "",
     "102": "6:36",
@@ -500,7 +527,7 @@ export const data = {
     "214": "",
     "120": "14:11",
   },
-  RONDERBOSCH: {
+  ronderbosch: {
     "100": "5:28",
     "200": "",
     "102": "6:38",
@@ -522,7 +549,7 @@ export const data = {
     "120": "14:13",
   },
 
-  ROSEBANK: {
+  rosebank: {
     "100": "5:30",
     "200": "",
     "102": "6:40",
@@ -544,7 +571,7 @@ export const data = {
     "120": "14:15",
   },
 
-  MOWBRAY: {
+  mowbray: {
     "100": "5:32",
     "200": "",
     "102": "6:42",
@@ -566,7 +593,7 @@ export const data = {
     "120": "14:17",
   },
 
-  OBSERVATORY: {
+  observatory: {
     "100": "5:34",
     "200": "",
     "102": "6:44",
@@ -588,7 +615,7 @@ export const data = {
     "120": "14:19",
   },
 
-  "SALT RIVER": {
+  "salt river": {
     "100": "5:37",
     "200": "",
     "102": "6:47",
@@ -610,7 +637,7 @@ export const data = {
     "120": "14:22",
   },
 
-  "WOOD STOCK": {
+  "wood stock": {
     "100": "5:45",
     "200": "",
     "102": "6:55",
@@ -632,7 +659,7 @@ export const data = {
     "120": "14:30",
   },
 
-  "CAPE TOWN": {
+  "cape town": {
     "100": "5:48",
     "200": "",
     "102": "6:58",
