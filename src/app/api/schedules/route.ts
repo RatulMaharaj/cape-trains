@@ -27,12 +27,9 @@ export async function GET(request: Request) {
 
   const stations = lineData[isInbound ? "inbound" : "outbound"];
 
-  const departureTimes: {
-    [key: string]: string;
-  } = stations[departure];
-  const arrivalTimes: {
-    [key: string]: string;
-  } = stations[arrival];
+  // get departure times for the departure and arrival stations
+  const departureTimes = stations[departure];
+  const arrivalTimes = stations[arrival];
 
   // remove empty times from the departures
   const trainNumbers = Object.keys(departureTimes).filter(

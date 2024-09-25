@@ -2,8 +2,16 @@ import { stations, inbound } from "./southern_line";
 
 type LineData = {
   stations: string[];
-  inbound: any;
-  outbound: any;
+  inbound: {
+    [key: string]: {
+      [key: string]: string;
+    };
+  };
+  outbound: {
+    [key: string]: {
+      [key: string]: string;
+    };
+  };
 };
 
 export default {
@@ -12,4 +20,6 @@ export default {
     inbound,
     outbound: {},
   },
-} as Record<string, LineData>;
+} as {
+  [key: string]: LineData;
+};
