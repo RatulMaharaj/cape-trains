@@ -1,18 +1,25 @@
 import {
   Combobox,
+  ComboboxButton,
   ComboboxInput,
   ComboboxOption,
   ComboboxOptions,
 } from "@headlessui/react";
+import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
+import clsx from "clsx";
 import { useState } from "react";
 
-export default function SelectMenu({
+export default function DropdownMenu({
   options,
+  placeholder,
+  onChange,
 }: {
-  options: { id: any; name: string }[];
+  options: { id: number; name: string }[];
+  placeholder?: string;
+  onChange?: (value: { id: number; name: string }) => void;
 }) {
-  const [selectedOption, setSelectedOption] = useState(options[0]);
   const [query, setQuery] = useState("");
+  const [selected, setSelected] = useState(options[1]);
 
   const filteredOptions =
     query === ""
@@ -23,29 +30,45 @@ export default function SelectMenu({
 
   return (
     <Combobox
-      value={selectedOption}
-      onChange={setSelectedOption}
+      value={selected}
+      onChange={(value) => {
+        if (value) {
+          setSelected(value);
+          if (onChange) {
+            onChange(value);
+          }
+        }
+      }}
       onClose={() => setQuery("")}
     >
-      <ComboboxInput
-        aria-label="Assignee"
-        className="input input-primary input-bordered min-w-96"
-        value={query}
-        placeholder="Select a station"
-        displayValue={(option) => option.name}
-        onChange={(event) => setQuery(event.target.value)}
-      />
+      <div className="relative">
+        <ComboboxInput
+          className={clsx("input input-bordered")}
+          displayValue={(option: { id: number; name: string }) => option?.name}
+          placeholder={placeholder ?? "Select an option"}
+          onChange={(event) => setQuery(event.target.value)}
+        />
+        <ComboboxButton className="group absolute inset-y-0 right-0 px-2.5">
+          <ChevronDownIcon className="size-4 fill-base-content/60 group-data-[hover]:fill-base-content" />
+        </ComboboxButton>
+      </div>
+
       <ComboboxOptions
         anchor="bottom"
-        className="border empty:invisible menu rounded-box mt-2 min-w-96"
+        transition
+        className={clsx(
+          "w-[var(--input-width)] rounded-box border border-white/5 bg-base-200 p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
+          "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0"
+        )}
       >
         {filteredOptions.map((option) => (
           <ComboboxOption
             key={option.id}
             value={option}
-            className="data-[focus]:bg-neutral data-[focus]:text-neutral-content p-1 rounded-btn"
+            className="group flex cursor-default items-center gap-2 rounded-box py-1.5 px-3 select-none data-[focus]:bg-base-300"
           >
-            {option.name}
+            <CheckIcon className="invisible size-4 fill-accent group-data-[selected]:visible" />
+            <div className="text-sm">{option.name}</div>
           </ComboboxOption>
         ))}
       </ComboboxOptions>

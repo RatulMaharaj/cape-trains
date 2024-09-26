@@ -67,12 +67,15 @@ export default function Page() {
         </p>
         <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2">
           <SelectMenu2
-            options={trainLines.map((line) => {
+            options={trainLines.map((line, index) => {
               return {
-                id: line,
+                id: index,
                 name: properCase(line),
               };
             })}
+            onChange={(value) => {
+              setLine(value.name);
+            }}
           />
           <SelectMenu
             placeholder="Select a line"
