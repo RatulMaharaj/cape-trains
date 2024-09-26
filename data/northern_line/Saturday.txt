@@ -1,0 +1,1107 @@
+
+Train No: 2801
+Cape Town 05:45
+Ysterplaat 05:57
+Train No: 2803
+Cape Town 07:55
+Ysterplaat 08:07
+Train No: 2805
+Cape Town 10:05
+Ysterplaat 10:17
+Train No: 2807
+Cape Town 12:15
+Ysterplaat 12:27
+Train No: 2661
+Cape Town 13:50
+Ysterplaat 13:58
+
+
+Train No: 2801
+Cape Town 05:45
+Century City 06:08
+Train No: 2803
+Cape Town 07:55
+Century City 08:18
+Train No: 2805
+Cape Town 10:05
+Century City 10:28
+Train No: 2807
+Cape Town 12:15
+Century City 12:38
+Train No: 2661
+Cape Town 13:50
+Century City 14:06
+
+Train No: 2801
+Cape Town 05:45
+Monte Vista 06:20
+Train No: 2803
+Cape Town 07:55
+Monte Vista 08:30
+Train No: 2805
+Cape Town 10:05
+Monte Vista 10:40
+Train No: 2807
+Cape Town 12:15
+Monte Vista 12:50
+Train No: 2661
+Cape Town 13:50
+Monte Vista 14:13
+
+Train No: 2801
+Cape Town 05:45
+De Grendel 06:27
+Train No: 2803
+Cape Town 07:55
+De Grendel 08:37
+Train No: 2805
+Cape Town 10:05
+De Grendel 10:47
+Train No: 2807
+Cape Town 12:15
+De Grendel 12:57
+
+Train No: 2801
+Cape Town 05:45
+Avondale 06:31
+Train No: 2803
+Cape Town 07:55
+Avondale 08:41
+Train No: 2805
+Cape Town 10:05
+Avondale 10:51
+Train No: 2807
+Cape Town 12:15
+Avondale 13:01
+Train No: 2661
+Cape Town 13:50
+Avondale 14:20
+
+Train No: 2801
+Cape Town 05:45
+Oosterzee 06:35
+Train No: 2803
+Cape Town 07:55
+Oosterzee 08:45
+Train No: 2805
+Cape Town 10:05
+Oosterzee 10:55
+Train No: 2807
+Cape Town 12:15
+Oosterzee 13:05
+Train No: 2661
+Cape Town 13:50
+Oosterzee 14:23
+
+Train No: 2801
+Cape Town 05:45
+Bellville 06:40
+Train No: 2803
+Cape Town 07:55
+Bellville 08:50
+Train No: 2805
+Cape Town 10:05
+Bellville 11:00
+Train No: 2807
+Cape Town 12:15
+Bellville 13:10
+Train No: 2661
+Cape Town 13:50
+Bellville 14:26
+
+Train No: 2800
+Esplanade 07:40
+Cape Town 07:45
+Train No: 2632
+Esplanade 07:42
+Cape Town 07:50
+Train No: 2802
+Esplanade 09:50
+Cape Town 09:55
+Train No: 2804
+Esplanade 12:00
+Cape Town 12:05
+Train No: 2806
+Esplanade 14:10
+Cape Town 14:15
+
+Train No: 2801
+Esplanade 05:50
+Ysterplaat 05:57
+Train No: 2803
+Esplanade 08:00
+Ysterplaat 08:07
+Train No: 2805
+Esplanade 10:10
+Ysterplaat 10:17
+Train No: 2807
+Esplanade 12:20
+Ysterplaat 12:27
+Train No: 2661
+Esplanade 13:53
+Ysterplaat 13:58
+
+
+Train No: 2801
+Esplanade 05:50
+Century City 06:08
+Train No: 2803
+Esplanade 08:00
+Century City 08:18
+Train No: 2805
+Esplanade 10:10
+Century City 10:28
+Train No: 2807
+Esplanade 12:20
+Century City 12:38
+Train No: 2661
+Esplanade 13:53
+Century City 14:06
+
+Train No: 2801
+Esplanade 05:50
+Monte Vista 06:20
+Train No: 2803
+Esplanade 08:00
+Monte Vista 08:30
+Train No: 2805
+Esplanade 10:10
+Monte Vista 10:40
+Train No: 2807
+Esplanade 12:20
+Monte Vista 12:50
+Train No: 2661
+Esplanade 13:53
+Monte Vista 14:13
+
+Train No: 2801
+Esplanade 05:50
+De Grendel 06:27
+Train No: 2803
+Esplanade 08:00
+De Grendel 08:37
+Train No: 2805
+Esplanade 10:10
+De Grendel 10:47
+Train No: 2807
+Esplanade 12:20
+De Grendel 12:57
+
+Train No: 2801
+Esplanade 05:50
+Avondale 06:31
+Train No: 2803
+Esplanade 08:00
+Avondale 08:41
+Train No: 2805
+Esplanade 10:10
+Avondale 10:51
+Train No: 2807
+Esplanade 12:20
+Avondale 13:01
+Train No: 2661
+Esplanade 13:53
+Avondale 14:20
+
+Train No: 2801
+Esplanade 05:50
+Oosterzee 06:35
+Train No: 2803
+Esplanade 08:00
+Oosterzee 08:45
+Train No: 2805
+Esplanade 10:10
+Oosterzee 10:55
+Train No: 2807
+Esplanade 12:20
+Oosterzee 13:05
+Train No: 2661
+Esplanade 13:53
+Oosterzee 14:23
+
+Train No: 2801
+Esplanade 05:50
+Bellville 06:40
+Train No: 2803
+Esplanade 08:00
+Bellville 08:50
+Train No: 2805
+Esplanade 10:10
+Bellville 11:00
+Train No: 2807
+Esplanade 12:20
+Bellville 13:10
+Train No: 2661
+Esplanade 13:53
+Bellville 14:26
+
+Train No: 2800
+Ysterplaat 07:33
+Cape Town 07:45
+Train No: 2632
+Ysterplaat 07:39
+Cape Town 07:50
+Train No: 2802
+Ysterplaat 09:43
+Cape Town 09:55
+Train No: 2804
+Ysterplaat 11:53
+Cape Town 12:05
+Train No: 2806
+Ysterplaat 14:03
+Cape Town 14:15
+
+Train No: 2800
+Ysterplaat 07:33
+Esplanade 07:40
+Train No: 2632
+Ysterplaat 07:39
+Esplanade 07:42
+Train No: 2802
+Ysterplaat 09:43
+Esplanade 09:50
+Train No: 2804
+Ysterplaat 11:53
+Esplanade 12:00
+Train No: 2806
+Ysterplaat 14:03
+Esplanade 14:10
+
+
+Train No: 2801
+Ysterplaat 05:57
+Century City 06:08
+Train No: 2803
+Ysterplaat 08:07
+Century City 08:18
+Train No: 2805
+Ysterplaat 10:17
+Century City 10:28
+Train No: 2807
+Ysterplaat 12:27
+Century City 12:38
+Train No: 2661
+Ysterplaat 13:58
+Century City 14:06
+
+Train No: 2801
+Ysterplaat 05:57
+Monte Vista 06:20
+Train No: 2803
+Ysterplaat 08:07
+Monte Vista 08:30
+Train No: 2805
+Ysterplaat 10:17
+Monte Vista 10:40
+Train No: 2807
+Ysterplaat 12:27
+Monte Vista 12:50
+Train No: 2661
+Ysterplaat 13:58
+Monte Vista 14:13
+
+Train No: 2801
+Ysterplaat 05:57
+De Grendel 06:27
+Train No: 2803
+Ysterplaat 08:07
+De Grendel 08:37
+Train No: 2805
+Ysterplaat 10:17
+De Grendel 10:47
+Train No: 2807
+Ysterplaat 12:27
+De Grendel 12:57
+
+Train No: 2801
+Ysterplaat 05:57
+Avondale 06:31
+Train No: 2803
+Ysterplaat 08:07
+Avondale 08:41
+Train No: 2805
+Ysterplaat 10:17
+Avondale 10:51
+Train No: 2807
+Ysterplaat 12:27
+Avondale 13:01
+Train No: 2661
+Ysterplaat 13:58
+Avondale 14:20
+
+Train No: 2801
+Ysterplaat 05:57
+Oosterzee 06:35
+Train No: 2803
+Ysterplaat 08:07
+Oosterzee 08:45
+Train No: 2805
+Ysterplaat 10:17
+Oosterzee 10:55
+Train No: 2807
+Ysterplaat 12:27
+Oosterzee 13:05
+Train No: 2661
+Ysterplaat 13:58
+Oosterzee 14:23
+
+Train No: 2801
+Ysterplaat 05:57
+Bellville 06:40
+Train No: 2803
+Ysterplaat 08:07
+Bellville 08:50
+Train No: 2805
+Ysterplaat 10:17
+Bellville 11:00
+Train No: 2807
+Ysterplaat 12:27
+Bellville 13:10
+Train No: 2661
+Ysterplaat 13:58
+Bellville 14:26
+
+
+
+
+
+
+
+
+
+
+Train No: 2800
+Century City 07:22
+Cape Town 07:45
+Train No: 2632
+Century City 07:31
+Cape Town 07:50
+Train No: 2802
+Century City 09:32
+Cape Town 09:55
+Train No: 2804
+Century City 11:42
+Cape Town 12:05
+Train No: 2806
+Century City 13:52
+Cape Town 14:15
+
+Train No: 2800
+Century City 07:22
+Esplanade 07:40
+Train No: 2632
+Century City 07:31
+Esplanade 07:42
+Train No: 2802
+Century City 09:32
+Esplanade 09:50
+Train No: 2804
+Century City 11:42
+Esplanade 12:00
+Train No: 2806
+Century City 13:52
+Esplanade 14:10
+
+Train No: 2800
+Century City 07:22
+Ysterplaat 07:33
+Train No: 2632
+Century City 07:31
+Ysterplaat 07:39
+Train No: 2802
+Century City 09:32
+Ysterplaat 09:43
+Train No: 2804
+Century City 11:42
+Ysterplaat 11:53
+Train No: 2806
+Century City 13:52
+Ysterplaat 14:03
+
+
+Train No: 2801
+Century City 06:08
+Monte Vista 06:20
+Train No: 2803
+Century City 08:18
+Monte Vista 08:30
+Train No: 2805
+Century City 10:28
+Monte Vista 10:40
+Train No: 2807
+Century City 12:38
+Monte Vista 12:50
+Train No: 2661
+Century City 14:06
+Monte Vista 14:13
+
+Train No: 2801
+Century City 06:08
+De Grendel 06:27
+Train No: 2803
+Century City 08:18
+De Grendel 08:37
+Train No: 2805
+Century City 10:28
+De Grendel 10:47
+Train No: 2807
+Century City 12:38
+De Grendel 12:57
+
+Train No: 2801
+Century City 06:08
+Avondale 06:31
+Train No: 2803
+Century City 08:18
+Avondale 08:41
+Train No: 2805
+Century City 10:28
+Avondale 10:51
+Train No: 2807
+Century City 12:38
+Avondale 13:01
+Train No: 2661
+Century City 14:06
+Avondale 14:20
+
+Train No: 2801
+Century City 06:08
+Oosterzee 06:35
+Train No: 2803
+Century City 08:18
+Oosterzee 08:45
+Train No: 2805
+Century City 10:28
+Oosterzee 10:55
+Train No: 2807
+Century City 12:38
+Oosterzee 13:05
+Train No: 2661
+Century City 14:06
+Oosterzee 14:23
+
+Train No: 2801
+Century City 06:08
+Bellville 06:40
+Train No: 2803
+Century City 08:18
+Bellville 08:50
+Train No: 2805
+Century City 10:28
+Bellville 11:00
+Train No: 2807
+Century City 12:38
+Bellville 13:10
+Train No: 2661
+Century City 14:06
+Bellville 14:26
+
+Train No: 2800
+Monte Vista 07:10
+Cape Town 07:45
+Train No: 2632
+Monte Vista 07:26
+Cape Town 07:50
+Train No: 2802
+Monte Vista 09:20
+Cape Town 09:55
+Train No: 2804
+Monte Vista 11:30
+Cape Town 12:05
+Train No: 2806
+Monte Vista 13:40
+Cape Town 14:15
+
+Train No: 2800
+Monte Vista 07:10
+Esplanade 07:40
+Train No: 2632
+Monte Vista 07:26
+Esplanade 07:42
+Train No: 2802
+Monte Vista 09:20
+Esplanade 09:50
+Train No: 2804
+Monte Vista 11:30
+Esplanade 12:00
+Train No: 2806
+Monte Vista 13:40
+Esplanade 14:10
+
+Train No: 2800
+Monte Vista 07:10
+Ysterplaat 07:33
+Train No: 2632
+Monte Vista 07:26
+Ysterplaat 07:39
+Train No: 2802
+Monte Vista 09:20
+Ysterplaat 09:43
+Train No: 2804
+Monte Vista 11:30
+Ysterplaat 11:53
+Train No: 2806
+Monte Vista 13:40
+Ysterplaat 14:03
+
+
+Train No: 2800
+Monte Vista 07:10
+Century City 07:22
+Train No: 2632
+Monte Vista 07:26
+Century City 07:31
+Train No: 2802
+Monte Vista 09:20
+Century City 09:32
+Train No: 2804
+Monte Vista 11:30
+Century City 11:42
+Train No: 2806
+Monte Vista 13:40
+Century City 13:52
+
+Train No: 2801
+Monte Vista 06:20
+De Grendel 06:27
+Train No: 2803
+Monte Vista 08:30
+De Grendel 08:37
+Train No: 2805
+Monte Vista 10:40
+De Grendel 10:47
+Train No: 2807
+Monte Vista 12:50
+De Grendel 12:57
+
+Train No: 2801
+Monte Vista 06:20
+Avondale 06:31
+Train No: 2803
+Monte Vista 08:30
+Avondale 08:41
+Train No: 2805
+Monte Vista 10:40
+Avondale 10:51
+Train No: 2807
+Monte Vista 12:50
+Avondale 13:01
+Train No: 2661
+Monte Vista 14:13
+Avondale 14:20
+
+Train No: 2801
+Monte Vista 06:20
+Oosterzee 06:35
+Train No: 2803
+Monte Vista 08:30
+Oosterzee 08:45
+Train No: 2805
+Monte Vista 10:40
+Oosterzee 10:55
+Train No: 2807
+Monte Vista 12:50
+Oosterzee 13:05
+Train No: 2661
+Monte Vista 14:13
+Oosterzee 14:23
+
+Train No: 2801
+Monte Vista 06:20
+Bellville 06:40
+Train No: 2803
+Monte Vista 08:30
+Bellville 08:50
+Train No: 2805
+Monte Vista 10:40
+Bellville 11:00
+Train No: 2807
+Monte Vista 12:50
+Bellville 13:10
+Train No: 2661
+Monte Vista 14:13
+Bellville 14:26
+
+Train No: 2800
+De Grendel 07:03
+Cape Town 07:45
+Train No: 2802
+De Grendel 09:13
+Cape Town 09:55
+Train No: 2804
+De Grendel 11:23
+Cape Town 12:05
+Train No: 2806
+De Grendel 13:33
+Cape Town 14:15
+
+Train No: 2800
+De Grendel 07:03
+Esplanade 07:40
+Train No: 2802
+De Grendel 09:13
+Esplanade 09:50
+Train No: 2804
+De Grendel 11:23
+Esplanade 12:00
+Train No: 2806
+De Grendel 13:33
+Esplanade 14:10
+
+Train No: 2800
+De Grendel 07:03
+Ysterplaat 07:33
+Train No: 2802
+De Grendel 09:13
+Ysterplaat 09:43
+Train No: 2804
+De Grendel 11:23
+Ysterplaat 11:53
+Train No: 2806
+De Grendel 13:33
+Ysterplaat 14:03
+
+
+Train No: 2800
+De Grendel 07:03
+Century City 07:22
+Train No: 2802
+De Grendel 09:13
+Century City 09:32
+Train No: 2804
+De Grendel 11:23
+Century City 11:42
+Train No: 2806
+De Grendel 13:33
+Century City 13:52
+
+Train No: 2800
+De Grendel 07:03
+Monte Vista 07:10
+Train No: 2802
+De Grendel 09:13
+Monte Vista 09:20
+Train No: 2804
+De Grendel 11:23
+Monte Vista 11:30
+Train No: 2806
+De Grendel 13:33
+Monte Vista 13:40
+
+Train No: 2801
+De Grendel 06:27
+Avondale 06:31
+Train No: 2803
+De Grendel 08:37
+Avondale 08:41
+Train No: 2805
+De Grendel 10:47
+Avondale 10:51
+Train No: 2807
+De Grendel 12:57
+Avondale 13:01
+
+Train No: 2801
+De Grendel 06:27
+Oosterzee 06:35
+Train No: 2803
+De Grendel 08:37
+Oosterzee 08:45
+Train No: 2805
+De Grendel 10:47
+Oosterzee 10:55
+Train No: 2807
+De Grendel 12:57
+Oosterzee 13:05
+
+Train No: 2801
+De Grendel 06:27
+Bellville 06:40
+Train No: 2803
+De Grendel 08:37
+Bellville 08:50
+Train No: 2805
+De Grendel 10:47
+Bellville 11:00
+Train No: 2807
+De Grendel 12:57
+Bellville 13:10
+
+Train No: 2800
+Avondale 06:58
+Cape Town 07:45
+Train No: 2632
+Avondale 07:18
+Cape Town 07:50
+Train No: 2802
+Avondale 09:08
+Cape Town 09:55
+Train No: 2804
+Avondale 11:18
+Cape Town 12:05
+Train No: 2806
+Avondale 13:28
+Cape Town 14:15
+
+Train No: 2800
+Avondale 06:58
+Esplanade 07:40
+Train No: 2632
+Avondale 07:18
+Esplanade 07:42
+Train No: 2802
+Avondale 09:08
+Esplanade 09:50
+Train No: 2804
+Avondale 11:18
+Esplanade 12:00
+Train No: 2806
+Avondale 13:28
+Esplanade 14:10
+
+Train No: 2800
+Avondale 06:58
+Ysterplaat 07:33
+Train No: 2632
+Avondale 07:18
+Ysterplaat 07:39
+Train No: 2802
+Avondale 09:08
+Ysterplaat 09:43
+Train No: 2804
+Avondale 11:18
+Ysterplaat 11:53
+Train No: 2806
+Avondale 13:28
+Ysterplaat 14:03
+
+
+Train No: 2800
+Avondale 06:58
+Century City 07:22
+Train No: 2632
+Avondale 07:18
+Century City 07:31
+Train No: 2802
+Avondale 09:08
+Century City 09:32
+Train No: 2804
+Avondale 11:18
+Century City 11:42
+Train No: 2806
+Avondale 13:28
+Century City 13:52
+
+Train No: 2800
+Avondale 06:58
+Monte Vista 07:10
+Train No: 2632
+Avondale 07:18
+Monte Vista 07:26
+Train No: 2802
+Avondale 09:08
+Monte Vista 09:20
+Train No: 2804
+Avondale 11:18
+Monte Vista 11:30
+Train No: 2806
+Avondale 13:28
+Monte Vista 13:40
+
+Train No: 2800
+Avondale 06:58
+De Grendel 07:03
+Train No: 2802
+Avondale 09:08
+De Grendel 09:13
+Train No: 2804
+Avondale 11:18
+De Grendel 11:23
+Train No: 2806
+Avondale 13:28
+De Grendel 13:33
+
+Train No: 2801
+Avondale 06:31
+Oosterzee 06:35
+Train No: 2803
+Avondale 08:41
+Oosterzee 08:45
+Train No: 2805
+Avondale 10:51
+Oosterzee 10:55
+Train No: 2807
+Avondale 13:01
+Oosterzee 13:05
+Train No: 2661
+Avondale 14:20
+Oosterzee 14:23
+
+Train No: 2801
+Avondale 06:31
+Bellville 06:40
+Train No: 2803
+Avondale 08:41
+Bellville 08:50
+Train No: 2805
+Avondale 10:51
+Bellville 11:00
+Train No: 2807
+Avondale 13:01
+Bellville 13:10
+Train No: 2661
+Avondale 14:20
+Bellville 14:26
+
+Train No: 2800
+Oosterzee 06:54
+Cape Town 07:45
+Train No: 2632
+Oosterzee 07:11
+Cape Town 07:50
+Train No: 2802
+Oosterzee 09:04
+Cape Town 09:55
+Train No: 2804
+Oosterzee 11:14
+Cape Town 12:05
+Train No: 2806
+Oosterzee 13:24
+Cape Town 14:15
+
+Train No: 2800
+Oosterzee 06:54
+Esplanade 07:40
+Train No: 2632
+Oosterzee 07:11
+Esplanade 07:42
+Train No: 2802
+Oosterzee 09:04
+Esplanade 09:50
+Train No: 2804
+Oosterzee 11:14
+Esplanade 12:00
+Train No: 2806
+Oosterzee 13:24
+Esplanade 14:10
+
+Train No: 2800
+Oosterzee 06:54
+Ysterplaat 07:33
+Train No: 2632
+Oosterzee 07:11
+Ysterplaat 07:39
+Train No: 2802
+Oosterzee 09:04
+Ysterplaat 09:43
+Train No: 2804
+Oosterzee 11:14
+Ysterplaat 11:53
+Train No: 2806
+Oosterzee 13:24
+Ysterplaat 14:03
+
+
+Train No: 2800
+Oosterzee 06:54
+Century City 07:22
+Train No: 2632
+Oosterzee 07:11
+Century City 07:31
+Train No: 2802
+Oosterzee 09:04
+Century City 09:32
+Train No: 2804
+Oosterzee 11:14
+Century City 11:42
+Train No: 2806
+Oosterzee 13:24
+Century City 13:52
+
+Train No: 2800
+Oosterzee 06:54
+Monte Vista 07:10
+Train No: 2632
+Oosterzee 07:11
+Monte Vista 07:26
+Train No: 2802
+Oosterzee 09:04
+Monte Vista 09:20
+Train No: 2804
+Oosterzee 11:14
+Monte Vista 11:30
+Train No: 2806
+Oosterzee 13:24
+Monte Vista 13:40
+
+Train No: 2800
+Oosterzee 06:54
+De Grendel 07:03
+Train No: 2802
+Oosterzee 09:04
+De Grendel 09:13
+Train No: 2804
+Oosterzee 11:14
+De Grendel 11:23
+Train No: 2806
+Oosterzee 13:24
+De Grendel 13:33
+
+Train No: 2800
+Oosterzee 06:54
+Avondale 06:58
+Train No: 2632
+Oosterzee 07:11
+Avondale 07:18
+Train No: 2802
+Oosterzee 09:04
+Avondale 09:08
+Train No: 2804
+Oosterzee 11:14
+Avondale 11:18
+Train No: 2806
+Oosterzee 13:24
+Avondale 13:28
+
+Train No: 2801
+Oosterzee 06:35
+Bellville 06:40
+Train No: 2803
+Oosterzee 08:45
+Bellville 08:50
+Train No: 2805
+Oosterzee 10:55
+Bellville 11:00
+Train No: 2807
+Oosterzee 13:05
+Bellville 13:10
+Train No: 2661
+Oosterzee 14:23
+Bellville 14:26
+
+Train No: 2800
+Bellville 06:50
+Cape Town 07:45
+Train No: 2632
+Bellville 07:07
+Cape Town 07:50
+Train No: 2802
+Bellville 09:00
+Cape Town 09:55
+Train No: 2804
+Bellville 11:10
+Cape Town 12:05
+Train No: 2806
+Bellville 13:20
+Cape Town 14:15
+
+Train No: 2800
+Bellville 06:50
+Esplanade 07:40
+Train No: 2632
+Bellville 07:07
+Esplanade 07:42
+Train No: 2802
+Bellville 09:00
+Esplanade 09:50
+Train No: 2804
+Bellville 11:10
+Esplanade 12:00
+Train No: 2806
+Bellville 13:20
+Esplanade 14:10
+
+Train No: 2800
+Bellville 06:50
+Ysterplaat 07:33
+Train No: 2632
+Bellville 07:07
+Ysterplaat 07:39
+Train No: 2802
+Bellville 09:00
+Ysterplaat 09:43
+Train No: 2804
+Bellville 11:10
+Ysterplaat 11:53
+Train No: 2806
+Bellville 13:20
+Ysterplaat 14:03
+
+
+Train No: 2800
+Bellville 06:50
+Century City 07:22
+Train No: 2632
+Bellville 07:07
+Century City 07:31
+Train No: 2802
+Bellville 09:00
+Century City 09:32
+Train No: 2804
+Bellville 11:10
+Century City 11:42
+Train No: 2806
+Bellville 13:20
+Century City 13:52
+
+Train No: 2800
+Bellville 06:50
+Monte Vista 07:10
+Train No: 2632
+Bellville 07:07
+Monte Vista 07:26
+Train No: 2802
+Bellville 09:00
+Monte Vista 09:20
+Train No: 2804
+Bellville 11:10
+Monte Vista 11:30
+Train No: 2806
+Bellville 13:20
+Monte Vista 13:40
+
+Train No: 2800
+Bellville 06:50
+De Grendel 07:03
+Train No: 2802
+Bellville 09:00
+De Grendel 09:13
+Train No: 2804
+Bellville 11:10
+De Grendel 11:23
+Train No: 2806
+Bellville 13:20
+De Grendel 13:33
+
+Train No: 2800
+Bellville 06:50
+Avondale 06:58
+Train No: 2632
+Bellville 07:07
+Avondale 07:18
+Train No: 2802
+Bellville 09:00
+Avondale 09:08
+Train No: 2804
+Bellville 11:10
+Avondale 11:18
+Train No: 2806
+Bellville 13:20
+Avondale 13:28
+
+Train No: 2800
+Bellville 06:50
+Oosterzee 06:54
+Train No: 2632
+Bellville 07:07
+Oosterzee 07:11
+Train No: 2802
+Bellville 09:00
+Oosterzee 09:04
+Train No: 2804
+Bellville 11:10
+Oosterzee 11:14
+Train No: 2806
+Bellville 13:20
+Oosterzee 13:24
+

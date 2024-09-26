@@ -1,0 +1,309 @@
+
+Train No: 201
+Fish Hoek 06:30
+Glencairn 06:44
+Train No: 203
+Fish Hoek 07:30
+Glencairn 07:44
+Train No: 205
+Fish Hoek 08:30
+Glencairn 08:44
+Train No: 207
+Fish Hoek 09:35
+Glencairn 09:49
+Train No: 209
+Fish Hoek 14:15
+Glencairn 14:29
+Train No: 211
+Fish Hoek 15:35
+Glencairn 15:49
+Train No: 213
+Fish Hoek 16:35
+Glencairn 16:49
+Train No: 215
+Fish Hoek 17:35
+Glencairn 17:49
+Train No: 217
+Fish Hoek 18:35
+Glencairn 18:49
+
+Train No: 201
+Fish Hoek 06:30
+Simonstown 06:50
+Train No: 203
+Fish Hoek 07:30
+Simonstown 07:50
+Train No: 205
+Fish Hoek 08:30
+Simonstown 08:50
+Train No: 207
+Fish Hoek 09:35
+Simonstown 09:55
+Train No: 209
+Fish Hoek 14:15
+Simonstown 14:35
+Train No: 211
+Fish Hoek 15:35
+Simonstown 15:55
+Train No: 213
+Fish Hoek 16:35
+Simonstown 16:55
+Train No: 215
+Fish Hoek 17:35
+Simonstown 17:55
+Train No: 217
+Fish Hoek 18:35
+Simonstown 18:55
+
+Train No: 200
+Sunny Cove 05:40
+Fish Hoek 05:45
+Train No: 202
+Sunny Cove 07:15
+Fish Hoek 07:20
+Train No: 204
+Sunny Cove 08:15
+Fish Hoek 08:20
+Train No: 206
+Sunny Cove 09:20
+Fish Hoek 09:25
+Train No: 208
+Sunny Cove 14:00
+Fish Hoek 14:05
+Train No: 210
+Sunny Cove 15:05
+Fish Hoek 15:10
+Train No: 212
+Sunny Cove 16:20
+Fish Hoek 16:25
+Train No: 214
+Sunny Cove 17:20
+Fish Hoek 17:25
+Train No: 216
+Sunny Cove 18:20
+Fish Hoek 18:25
+
+Train No: 201
+Sunny Cove 06:35
+Glencairn 06:44
+Train No: 203
+Sunny Cove 07:35
+Glencairn 07:44
+Train No: 205
+Sunny Cove 08:35
+Glencairn 08:44
+Train No: 207
+Sunny Cove 09:40
+Glencairn 09:49
+Train No: 209
+Sunny Cove 14:20
+Glencairn 14:29
+Train No: 211
+Sunny Cove 15:40
+Glencairn 15:49
+Train No: 213
+Sunny Cove 16:40
+Glencairn 16:49
+Train No: 215
+Sunny Cove 17:40
+Glencairn 17:49
+Train No: 217
+Sunny Cove 18:40
+Glencairn 18:49
+
+Train No: 201
+Sunny Cove 06:35
+Simonstown 06:50
+Train No: 203
+Sunny Cove 07:35
+Simonstown 07:50
+Train No: 205
+Sunny Cove 08:35
+Simonstown 08:50
+Train No: 207
+Sunny Cove 09:40
+Simonstown 09:55
+Train No: 209
+Sunny Cove 14:20
+Simonstown 14:35
+Train No: 211
+Sunny Cove 15:40
+Simonstown 15:55
+Train No: 213
+Sunny Cove 16:40
+Simonstown 16:55
+Train No: 215
+Sunny Cove 17:40
+Simonstown 17:55
+Train No: 217
+Sunny Cove 18:40
+Simonstown 18:55
+
+Train No: 200
+Glencairn 05:31
+Fish Hoek 05:45
+Train No: 202
+Glencairn 07:06
+Fish Hoek 07:20
+Train No: 204
+Glencairn 08:06
+Fish Hoek 08:20
+Train No: 206
+Glencairn 09:11
+Fish Hoek 09:25
+Train No: 208
+Glencairn 13:51
+Fish Hoek 14:05
+Train No: 210
+Glencairn 14:56
+Fish Hoek 15:10
+Train No: 212
+Glencairn 16:11
+Fish Hoek 16:25
+Train No: 214
+Glencairn 17:11
+Fish Hoek 17:25
+Train No: 216
+Glencairn 18:11
+Fish Hoek 18:25
+
+Train No: 200
+Glencairn 05:31
+Sunny Cove 05:40
+Train No: 202
+Glencairn 07:06
+Sunny Cove 07:15
+Train No: 204
+Glencairn 08:06
+Sunny Cove 08:15
+Train No: 206
+Glencairn 09:11
+Sunny Cove 09:20
+Train No: 208
+Glencairn 13:51
+Sunny Cove 14:00
+Train No: 210
+Glencairn 14:56
+Sunny Cove 15:05
+Train No: 212
+Glencairn 16:11
+Sunny Cove 16:20
+Train No: 214
+Glencairn 17:11
+Sunny Cove 17:20
+Train No: 216
+Glencairn 18:11
+Sunny Cove 18:20
+
+Train No: 201
+Glencairn 06:44
+Simonstown 06:50
+Train No: 203
+Glencairn 07:44
+Simonstown 07:50
+Train No: 205
+Glencairn 08:44
+Simonstown 08:50
+Train No: 207
+Glencairn 09:49
+Simonstown 09:55
+Train No: 209
+Glencairn 14:29
+Simonstown 14:35
+Train No: 211
+Glencairn 15:49
+Simonstown 15:55
+Train No: 213
+Glencairn 16:49
+Simonstown 16:55
+Train No: 215
+Glencairn 17:49
+Simonstown 17:55
+Train No: 217
+Glencairn 18:49
+Simonstown 18:55
+
+Train No: 200
+Simonstown 05:25
+Fish Hoek 05:45
+Train No: 202
+Simonstown 07:00
+Fish Hoek 07:20
+Train No: 204
+Simonstown 08:00
+Fish Hoek 08:20
+Train No: 206
+Simonstown 09:05
+Fish Hoek 09:25
+Train No: 208
+Simonstown 13:45
+Fish Hoek 14:05
+Train No: 210
+Simonstown 14:50
+Fish Hoek 15:10
+Train No: 212
+Simonstown 16:05
+Fish Hoek 16:25
+Train No: 214
+Simonstown 17:05
+Fish Hoek 17:25
+Train No: 216
+Simonstown 18:05
+Fish Hoek 18:25
+
+Train No: 200
+Simonstown 05:25
+Sunny Cove 05:40
+Train No: 202
+Simonstown 07:00
+Sunny Cove 07:15
+Train No: 204
+Simonstown 08:00
+Sunny Cove 08:15
+Train No: 206
+Simonstown 09:05
+Sunny Cove 09:20
+Train No: 208
+Simonstown 13:45
+Sunny Cove 14:00
+Train No: 210
+Simonstown 14:50
+Sunny Cove 15:05
+Train No: 212
+Simonstown 16:05
+Sunny Cove 16:20
+Train No: 214
+Simonstown 17:05
+Sunny Cove 17:20
+Train No: 216
+Simonstown 18:05
+Sunny Cove 18:20
+
+Train No: 200
+Simonstown 05:25
+Glencairn 05:31
+Train No: 202
+Simonstown 07:00
+Glencairn 07:06
+Train No: 204
+Simonstown 08:00
+Glencairn 08:06
+Train No: 206
+Simonstown 09:05
+Glencairn 09:11
+Train No: 208
+Simonstown 13:45
+Glencairn 13:51
+Train No: 210
+Simonstown 14:50
+Glencairn 14:56
+Train No: 212
+Simonstown 16:05
+Glencairn 16:11
+Train No: 214
+Simonstown 17:05
+Glencairn 17:11
+Train No: 216
+Simonstown 18:05
+Glencairn 18:11
+

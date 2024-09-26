@@ -1,0 +1,11664 @@
+
+Train No: 501
+Cape Town 05:15
+Salt River 05:30
+Train No: 503
+Cape Town 05:35
+Salt River 05:50
+Train No: 505
+Cape Town 06:20
+Salt River 06:35
+Train No: 507
+Cape Town 07:00
+Salt River 07:15
+Train No: 509
+Cape Town 07:35
+Salt River 07:50
+Train No: 511
+Cape Town 08:00
+Salt River 08:15
+Train No: 513
+Cape Town 08:50
+Salt River 09:05
+Train No: 515
+Cape Town 10:20
+Salt River 10:35
+Train No: 517
+Cape Town 11:20
+Salt River 11:35
+Train No: 519
+Cape Town 13:50
+Salt River 14:05
+Train No: 521
+Cape Town 14:40
+Salt River 14:55
+Train No: 523
+Cape Town 15:10
+Salt River 15:25
+Train No: 525
+Cape Town 16:15
+Salt River 16:30
+Train No: 527
+Cape Town 16:50
+Salt River 17:05
+Train No: 529
+Cape Town 17:35
+Salt River 17:50
+Train No: 531
+Cape Town 18:00
+Salt River 18:15
+Train No: 533
+Cape Town 18:33
+Salt River 18:48
+
+Train No: 501
+Cape Town 05:15
+Koeberg Rd 05:36
+Train No: 503
+Cape Town 05:35
+Koeberg Rd 05:56
+Train No: 505
+Cape Town 06:20
+Koeberg Rd 06:41
+Train No: 507
+Cape Town 07:00
+Koeberg Rd 07:21
+Train No: 509
+Cape Town 07:35
+Koeberg Rd 07:56
+Train No: 511
+Cape Town 08:00
+Koeberg Rd 08:21
+Train No: 513
+Cape Town 08:50
+Koeberg Rd 09:11
+Train No: 515
+Cape Town 10:20
+Koeberg Rd 10:41
+Train No: 517
+Cape Town 11:20
+Koeberg Rd 11:41
+Train No: 519
+Cape Town 13:50
+Koeberg Rd 14:11
+Train No: 521
+Cape Town 14:40
+Koeberg Rd 15:01
+Train No: 523
+Cape Town 15:10
+Koeberg Rd 15:31
+Train No: 525
+Cape Town 16:15
+Koeberg Rd 16:36
+Train No: 527
+Cape Town 16:50
+Koeberg Rd 17:11
+Train No: 529
+Cape Town 17:35
+Koeberg Rd 17:56
+Train No: 531
+Cape Town 18:00
+Koeberg Rd 18:21
+Train No: 533
+Cape Town 18:33
+Koeberg Rd 18:54
+
+Train No: 501
+Cape Town 05:15
+Maitland 05:40
+Train No: 503
+Cape Town 05:35
+Maitland 06:00
+Train No: 505
+Cape Town 06:20
+Maitland 06:45
+Train No: 507
+Cape Town 07:00
+Maitland 07:25
+Train No: 509
+Cape Town 07:35
+Maitland 08:00
+Train No: 511
+Cape Town 08:00
+Maitland 08:25
+Train No: 513
+Cape Town 08:50
+Maitland 09:15
+Train No: 515
+Cape Town 10:20
+Maitland 10:45
+Train No: 517
+Cape Town 11:20
+Maitland 11:45
+Train No: 519
+Cape Town 13:50
+Maitland 14:15
+Train No: 521
+Cape Town 14:40
+Maitland 15:05
+Train No: 523
+Cape Town 15:10
+Maitland 15:35
+Train No: 525
+Cape Town 16:15
+Maitland 16:40
+Train No: 527
+Cape Town 16:50
+Maitland 17:15
+Train No: 529
+Cape Town 17:35
+Maitland 18:00
+Train No: 531
+Cape Town 18:00
+Maitland 18:25
+Train No: 533
+Cape Town 18:33
+Maitland 18:58
+
+Train No: 501
+Cape Town 05:15
+Ndabeni 05:43
+Train No: 503
+Cape Town 05:35
+Ndabeni 06:03
+Train No: 505
+Cape Town 06:20
+Ndabeni 06:48
+Train No: 507
+Cape Town 07:00
+Ndabeni 07:28
+Train No: 509
+Cape Town 07:35
+Ndabeni 08:03
+Train No: 511
+Cape Town 08:00
+Ndabeni 08:28
+Train No: 513
+Cape Town 08:50
+Ndabeni 09:18
+Train No: 515
+Cape Town 10:20
+Ndabeni 10:48
+Train No: 517
+Cape Town 11:20
+Ndabeni 11:48
+Train No: 519
+Cape Town 13:50
+Ndabeni 14:18
+Train No: 521
+Cape Town 14:40
+Ndabeni 15:08
+Train No: 523
+Cape Town 15:10
+Ndabeni 15:38
+Train No: 525
+Cape Town 16:15
+Ndabeni 16:43
+Train No: 527
+Cape Town 16:50
+Ndabeni 17:18
+Train No: 529
+Cape Town 17:35
+Ndabeni 18:03
+Train No: 531
+Cape Town 18:00
+Ndabeni 18:28
+Train No: 533
+Cape Town 18:33
+Ndabeni 19:01
+
+Train No: 501
+Cape Town 05:15
+Pinelands 05:47
+Train No: 503
+Cape Town 05:35
+Pinelands 06:07
+Train No: 505
+Cape Town 06:20
+Pinelands 06:52
+Train No: 507
+Cape Town 07:00
+Pinelands 07:32
+Train No: 509
+Cape Town 07:35
+Pinelands 08:07
+Train No: 511
+Cape Town 08:00
+Pinelands 08:32
+Train No: 513
+Cape Town 08:50
+Pinelands 09:22
+Train No: 515
+Cape Town 10:20
+Pinelands 10:52
+Train No: 517
+Cape Town 11:20
+Pinelands 11:52
+Train No: 519
+Cape Town 13:50
+Pinelands 14:22
+Train No: 521
+Cape Town 14:40
+Pinelands 15:12
+Train No: 523
+Cape Town 15:10
+Pinelands 15:42
+Train No: 525
+Cape Town 16:15
+Pinelands 16:47
+Train No: 527
+Cape Town 16:50
+Pinelands 17:22
+Train No: 529
+Cape Town 17:35
+Pinelands 18:07
+Train No: 531
+Cape Town 18:00
+Pinelands 18:32
+Train No: 533
+Cape Town 18:33
+Pinelands 19:05
+
+Train No: 501
+Cape Town 05:15
+Hazendal 05:51
+Train No: 503
+Cape Town 05:35
+Hazendal 06:11
+Train No: 505
+Cape Town 06:20
+Hazendal 06:56
+Train No: 507
+Cape Town 07:00
+Hazendal 07:36
+Train No: 509
+Cape Town 07:35
+Hazendal 08:11
+Train No: 511
+Cape Town 08:00
+Hazendal 08:36
+Train No: 513
+Cape Town 08:50
+Hazendal 09:26
+Train No: 515
+Cape Town 10:20
+Hazendal 10:56
+Train No: 517
+Cape Town 11:20
+Hazendal 11:56
+Train No: 519
+Cape Town 13:50
+Hazendal 14:26
+Train No: 521
+Cape Town 14:40
+Hazendal 15:16
+Train No: 523
+Cape Town 15:10
+Hazendal 15:46
+Train No: 525
+Cape Town 16:15
+Hazendal 16:51
+Train No: 527
+Cape Town 16:50
+Hazendal 17:26
+Train No: 529
+Cape Town 17:35
+Hazendal 18:11
+Train No: 531
+Cape Town 18:00
+Hazendal 18:36
+Train No: 533
+Cape Town 18:33
+Hazendal 19:09
+
+Train No: 501
+Cape Town 05:15
+Athlone 05:54
+Train No: 503
+Cape Town 05:35
+Athlone 06:14
+Train No: 505
+Cape Town 06:20
+Athlone 06:59
+Train No: 507
+Cape Town 07:00
+Athlone 07:39
+Train No: 509
+Cape Town 07:35
+Athlone 08:14
+Train No: 511
+Cape Town 08:00
+Athlone 08:39
+Train No: 513
+Cape Town 08:50
+Athlone 09:29
+Train No: 515
+Cape Town 10:20
+Athlone 10:59
+Train No: 517
+Cape Town 11:20
+Athlone 11:59
+Train No: 519
+Cape Town 13:50
+Athlone 14:29
+Train No: 521
+Cape Town 14:40
+Athlone 15:19
+Train No: 523
+Cape Town 15:10
+Athlone 15:49
+Train No: 525
+Cape Town 16:15
+Athlone 16:54
+Train No: 527
+Cape Town 16:50
+Athlone 17:29
+Train No: 529
+Cape Town 17:35
+Athlone 18:14
+Train No: 531
+Cape Town 18:00
+Athlone 18:39
+Train No: 533
+Cape Town 18:33
+Athlone 19:12
+
+Train No: 501
+Cape Town 05:15
+Crawford 05:56
+Train No: 503
+Cape Town 05:35
+Crawford 06:16
+Train No: 505
+Cape Town 06:20
+Crawford 07:01
+Train No: 507
+Cape Town 07:00
+Crawford 07:41
+Train No: 509
+Cape Town 07:35
+Crawford 08:16
+Train No: 511
+Cape Town 08:00
+Crawford 08:41
+Train No: 513
+Cape Town 08:50
+Crawford 09:31
+Train No: 515
+Cape Town 10:20
+Crawford 11:01
+Train No: 517
+Cape Town 11:20
+Crawford 12:01
+Train No: 519
+Cape Town 13:50
+Crawford 14:31
+Train No: 521
+Cape Town 14:40
+Crawford 15:21
+Train No: 523
+Cape Town 15:10
+Crawford 15:51
+Train No: 525
+Cape Town 16:15
+Crawford 16:56
+Train No: 527
+Cape Town 16:50
+Crawford 17:31
+Train No: 529
+Cape Town 17:35
+Crawford 18:16
+Train No: 531
+Cape Town 18:00
+Crawford 18:41
+Train No: 533
+Cape Town 18:33
+Crawford 19:14
+
+Train No: 501
+Cape Town 05:15
+Lansdowne 05:59
+Train No: 503
+Cape Town 05:35
+Lansdowne 06:19
+Train No: 505
+Cape Town 06:20
+Lansdowne 07:04
+Train No: 507
+Cape Town 07:00
+Lansdowne 07:44
+Train No: 509
+Cape Town 07:35
+Lansdowne 08:19
+Train No: 511
+Cape Town 08:00
+Lansdowne 08:44
+Train No: 513
+Cape Town 08:50
+Lansdowne 09:34
+Train No: 515
+Cape Town 10:20
+Lansdowne 11:04
+Train No: 517
+Cape Town 11:20
+Lansdowne 12:04
+Train No: 519
+Cape Town 13:50
+Lansdowne 14:34
+Train No: 521
+Cape Town 14:40
+Lansdowne 15:24
+Train No: 523
+Cape Town 15:10
+Lansdowne 15:54
+Train No: 525
+Cape Town 16:15
+Lansdowne 16:59
+Train No: 527
+Cape Town 16:50
+Lansdowne 17:34
+Train No: 529
+Cape Town 17:35
+Lansdowne 18:19
+Train No: 531
+Cape Town 18:00
+Lansdowne 18:44
+Train No: 533
+Cape Town 18:33
+Lansdowne 19:17
+
+Train No: 501
+Cape Town 05:15
+Wetton 06:02
+Train No: 503
+Cape Town 05:35
+Wetton 06:22
+Train No: 505
+Cape Town 06:20
+Wetton 07:07
+Train No: 507
+Cape Town 07:00
+Wetton 07:47
+Train No: 509
+Cape Town 07:35
+Wetton 08:22
+Train No: 511
+Cape Town 08:00
+Wetton 08:47
+Train No: 513
+Cape Town 08:50
+Wetton 09:37
+Train No: 515
+Cape Town 10:20
+Wetton 11:07
+Train No: 517
+Cape Town 11:20
+Wetton 12:07
+Train No: 519
+Cape Town 13:50
+Wetton 14:37
+Train No: 521
+Cape Town 14:40
+Wetton 15:27
+Train No: 523
+Cape Town 15:10
+Wetton 15:57
+Train No: 525
+Cape Town 16:15
+Wetton 17:02
+Train No: 527
+Cape Town 16:50
+Wetton 17:37
+Train No: 529
+Cape Town 17:35
+Wetton 18:22
+Train No: 531
+Cape Town 18:00
+Wetton 18:47
+Train No: 533
+Cape Town 18:33
+Wetton 19:20
+
+Train No: 501
+Cape Town 05:15
+Ottery 06:05
+Train No: 503
+Cape Town 05:35
+Ottery 06:25
+Train No: 505
+Cape Town 06:20
+Ottery 07:10
+Train No: 507
+Cape Town 07:00
+Ottery 07:50
+Train No: 509
+Cape Town 07:35
+Ottery 08:25
+Train No: 511
+Cape Town 08:00
+Ottery 08:50
+Train No: 513
+Cape Town 08:50
+Ottery 09:40
+Train No: 515
+Cape Town 10:20
+Ottery 11:10
+Train No: 517
+Cape Town 11:20
+Ottery 12:10
+Train No: 519
+Cape Town 13:50
+Ottery 14:40
+Train No: 521
+Cape Town 14:40
+Ottery 15:30
+Train No: 523
+Cape Town 15:10
+Ottery 16:00
+Train No: 525
+Cape Town 16:15
+Ottery 17:05
+Train No: 527
+Cape Town 16:50
+Ottery 17:40
+Train No: 529
+Cape Town 17:35
+Ottery 18:25
+Train No: 531
+Cape Town 18:00
+Ottery 18:50
+Train No: 533
+Cape Town 18:33
+Ottery 19:23
+
+Train No: 501
+Cape Town 05:15
+Southfield 06:10
+Train No: 503
+Cape Town 05:35
+Southfield 06:30
+Train No: 505
+Cape Town 06:20
+Southfield 07:15
+Train No: 507
+Cape Town 07:00
+Southfield 07:55
+Train No: 509
+Cape Town 07:35
+Southfield 08:30
+Train No: 511
+Cape Town 08:00
+Southfield 08:55
+Train No: 513
+Cape Town 08:50
+Southfield 09:45
+Train No: 515
+Cape Town 10:20
+Southfield 11:15
+Train No: 517
+Cape Town 11:20
+Southfield 12:15
+Train No: 519
+Cape Town 13:50
+Southfield 14:45
+Train No: 521
+Cape Town 14:40
+Southfield 15:35
+Train No: 523
+Cape Town 15:10
+Southfield 16:05
+Train No: 525
+Cape Town 16:15
+Southfield 17:10
+Train No: 527
+Cape Town 16:50
+Southfield 17:45
+Train No: 529
+Cape Town 17:35
+Southfield 18:30
+Train No: 531
+Cape Town 18:00
+Southfield 18:55
+Train No: 533
+Cape Town 18:33
+Southfield 19:28
+
+Train No: 501
+Cape Town 05:15
+Heathfield 06:13
+Train No: 503
+Cape Town 05:35
+Heathfield 06:33
+Train No: 505
+Cape Town 06:20
+Heathfield 07:18
+Train No: 507
+Cape Town 07:00
+Heathfield 07:58
+Train No: 509
+Cape Town 07:35
+Heathfield 08:33
+Train No: 511
+Cape Town 08:00
+Heathfield 08:58
+Train No: 513
+Cape Town 08:50
+Heathfield 09:48
+Train No: 515
+Cape Town 10:20
+Heathfield 11:18
+Train No: 517
+Cape Town 11:20
+Heathfield 12:18
+Train No: 519
+Cape Town 13:50
+Heathfield 14:48
+Train No: 521
+Cape Town 14:40
+Heathfield 15:38
+Train No: 523
+Cape Town 15:10
+Heathfield 16:08
+Train No: 525
+Cape Town 16:15
+Heathfield 17:13
+Train No: 527
+Cape Town 16:50
+Heathfield 17:48
+Train No: 529
+Cape Town 17:35
+Heathfield 18:33
+Train No: 531
+Cape Town 18:00
+Heathfield 18:58
+Train No: 533
+Cape Town 18:33
+Heathfield 19:31
+
+Train No: 501
+Cape Town 05:15
+Retreat 06:15
+Train No: 503
+Cape Town 05:35
+Retreat 06:35
+Train No: 505
+Cape Town 06:20
+Retreat 07:20
+Train No: 507
+Cape Town 07:00
+Retreat 08:00
+Train No: 509
+Cape Town 07:35
+Retreat 08:35
+Train No: 511
+Cape Town 08:00
+Retreat 09:00
+Train No: 513
+Cape Town 08:50
+Retreat 09:50
+Train No: 515
+Cape Town 10:20
+Retreat 11:20
+Train No: 517
+Cape Town 11:20
+Retreat 12:20
+Train No: 519
+Cape Town 13:50
+Retreat 14:50
+Train No: 521
+Cape Town 14:40
+Retreat 15:40
+Train No: 523
+Cape Town 15:10
+Retreat 16:10
+Train No: 525
+Cape Town 16:15
+Retreat 17:15
+Train No: 527
+Cape Town 16:50
+Retreat 17:50
+Train No: 529
+Cape Town 17:35
+Retreat 18:35
+Train No: 531
+Cape Town 18:00
+Retreat 19:00
+Train No: 533
+Cape Town 18:33
+Retreat 19:33
+
+Train No: 500
+Woodstock 06:03
+Cape Town 06:10
+Train No: 502
+Woodstock 06:43
+Cape Town 06:50
+Train No: 504
+Woodstock 07:18
+Cape Town 07:25
+Train No: 506
+Woodstock 07:38
+Cape Town 07:45
+Train No: 508
+Woodstock 08:23
+Cape Town 08:30
+Train No: 510
+Woodstock 09:03
+Cape Town 09:10
+Train No: 512
+Woodstock 09:53
+Cape Town 10:00
+Train No: 514
+Woodstock 10:13
+Cape Town 10:20
+Train No: 516
+Woodstock 10:53
+Cape Town 11:00
+Train No: 518
+Woodstock 12:35
+Cape Town 12:42
+Train No: 520
+Woodstock 13:35
+Cape Town 13:42
+Train No: 522
+Woodstock 15:58
+Cape Town 16:05
+Train No: 524
+Woodstock 17:03
+Cape Town 17:10
+Train No: 526
+Woodstock 17:18
+Cape Town 17:25
+Train No: 528
+Woodstock 18:18
+Cape Town 18:25
+Train No: 530
+Woodstock 18:53
+Cape Town 19:00
+Train No: 532
+Woodstock 19:38
+Cape Town 19:45
+
+Train No: 501
+Woodstock 05:22
+Salt River 05:30
+Train No: 503
+Woodstock 05:42
+Salt River 05:50
+Train No: 505
+Woodstock 06:27
+Salt River 06:35
+Train No: 507
+Woodstock 07:07
+Salt River 07:15
+Train No: 509
+Woodstock 07:42
+Salt River 07:50
+Train No: 511
+Woodstock 08:07
+Salt River 08:15
+Train No: 513
+Woodstock 08:57
+Salt River 09:05
+Train No: 515
+Woodstock 10:27
+Salt River 10:35
+Train No: 517
+Woodstock 11:27
+Salt River 11:35
+Train No: 519
+Woodstock 13:57
+Salt River 14:05
+Train No: 521
+Woodstock 14:47
+Salt River 14:55
+Train No: 523
+Woodstock 15:17
+Salt River 15:25
+Train No: 525
+Woodstock 16:22
+Salt River 16:30
+Train No: 527
+Woodstock 16:57
+Salt River 17:05
+Train No: 529
+Woodstock 17:42
+Salt River 17:50
+Train No: 531
+Woodstock 18:07
+Salt River 18:15
+Train No: 533
+Woodstock 18:40
+Salt River 18:48
+
+Train No: 501
+Woodstock 05:22
+Koeberg Rd 05:36
+Train No: 503
+Woodstock 05:42
+Koeberg Rd 05:56
+Train No: 505
+Woodstock 06:27
+Koeberg Rd 06:41
+Train No: 507
+Woodstock 07:07
+Koeberg Rd 07:21
+Train No: 509
+Woodstock 07:42
+Koeberg Rd 07:56
+Train No: 511
+Woodstock 08:07
+Koeberg Rd 08:21
+Train No: 513
+Woodstock 08:57
+Koeberg Rd 09:11
+Train No: 515
+Woodstock 10:27
+Koeberg Rd 10:41
+Train No: 517
+Woodstock 11:27
+Koeberg Rd 11:41
+Train No: 519
+Woodstock 13:57
+Koeberg Rd 14:11
+Train No: 521
+Woodstock 14:47
+Koeberg Rd 15:01
+Train No: 523
+Woodstock 15:17
+Koeberg Rd 15:31
+Train No: 525
+Woodstock 16:22
+Koeberg Rd 16:36
+Train No: 527
+Woodstock 16:57
+Koeberg Rd 17:11
+Train No: 529
+Woodstock 17:42
+Koeberg Rd 17:56
+Train No: 531
+Woodstock 18:07
+Koeberg Rd 18:21
+Train No: 533
+Woodstock 18:40
+Koeberg Rd 18:54
+
+Train No: 501
+Woodstock 05:22
+Maitland 05:40
+Train No: 503
+Woodstock 05:42
+Maitland 06:00
+Train No: 505
+Woodstock 06:27
+Maitland 06:45
+Train No: 507
+Woodstock 07:07
+Maitland 07:25
+Train No: 509
+Woodstock 07:42
+Maitland 08:00
+Train No: 511
+Woodstock 08:07
+Maitland 08:25
+Train No: 513
+Woodstock 08:57
+Maitland 09:15
+Train No: 515
+Woodstock 10:27
+Maitland 10:45
+Train No: 517
+Woodstock 11:27
+Maitland 11:45
+Train No: 519
+Woodstock 13:57
+Maitland 14:15
+Train No: 521
+Woodstock 14:47
+Maitland 15:05
+Train No: 523
+Woodstock 15:17
+Maitland 15:35
+Train No: 525
+Woodstock 16:22
+Maitland 16:40
+Train No: 527
+Woodstock 16:57
+Maitland 17:15
+Train No: 529
+Woodstock 17:42
+Maitland 18:00
+Train No: 531
+Woodstock 18:07
+Maitland 18:25
+Train No: 533
+Woodstock 18:40
+Maitland 18:58
+
+Train No: 501
+Woodstock 05:22
+Ndabeni 05:43
+Train No: 503
+Woodstock 05:42
+Ndabeni 06:03
+Train No: 505
+Woodstock 06:27
+Ndabeni 06:48
+Train No: 507
+Woodstock 07:07
+Ndabeni 07:28
+Train No: 509
+Woodstock 07:42
+Ndabeni 08:03
+Train No: 511
+Woodstock 08:07
+Ndabeni 08:28
+Train No: 513
+Woodstock 08:57
+Ndabeni 09:18
+Train No: 515
+Woodstock 10:27
+Ndabeni 10:48
+Train No: 517
+Woodstock 11:27
+Ndabeni 11:48
+Train No: 519
+Woodstock 13:57
+Ndabeni 14:18
+Train No: 521
+Woodstock 14:47
+Ndabeni 15:08
+Train No: 523
+Woodstock 15:17
+Ndabeni 15:38
+Train No: 525
+Woodstock 16:22
+Ndabeni 16:43
+Train No: 527
+Woodstock 16:57
+Ndabeni 17:18
+Train No: 529
+Woodstock 17:42
+Ndabeni 18:03
+Train No: 531
+Woodstock 18:07
+Ndabeni 18:28
+Train No: 533
+Woodstock 18:40
+Ndabeni 19:01
+
+Train No: 501
+Woodstock 05:22
+Pinelands 05:47
+Train No: 503
+Woodstock 05:42
+Pinelands 06:07
+Train No: 505
+Woodstock 06:27
+Pinelands 06:52
+Train No: 507
+Woodstock 07:07
+Pinelands 07:32
+Train No: 509
+Woodstock 07:42
+Pinelands 08:07
+Train No: 511
+Woodstock 08:07
+Pinelands 08:32
+Train No: 513
+Woodstock 08:57
+Pinelands 09:22
+Train No: 515
+Woodstock 10:27
+Pinelands 10:52
+Train No: 517
+Woodstock 11:27
+Pinelands 11:52
+Train No: 519
+Woodstock 13:57
+Pinelands 14:22
+Train No: 521
+Woodstock 14:47
+Pinelands 15:12
+Train No: 523
+Woodstock 15:17
+Pinelands 15:42
+Train No: 525
+Woodstock 16:22
+Pinelands 16:47
+Train No: 527
+Woodstock 16:57
+Pinelands 17:22
+Train No: 529
+Woodstock 17:42
+Pinelands 18:07
+Train No: 531
+Woodstock 18:07
+Pinelands 18:32
+Train No: 533
+Woodstock 18:40
+Pinelands 19:05
+
+Train No: 501
+Woodstock 05:22
+Hazendal 05:51
+Train No: 503
+Woodstock 05:42
+Hazendal 06:11
+Train No: 505
+Woodstock 06:27
+Hazendal 06:56
+Train No: 507
+Woodstock 07:07
+Hazendal 07:36
+Train No: 509
+Woodstock 07:42
+Hazendal 08:11
+Train No: 511
+Woodstock 08:07
+Hazendal 08:36
+Train No: 513
+Woodstock 08:57
+Hazendal 09:26
+Train No: 515
+Woodstock 10:27
+Hazendal 10:56
+Train No: 517
+Woodstock 11:27
+Hazendal 11:56
+Train No: 519
+Woodstock 13:57
+Hazendal 14:26
+Train No: 521
+Woodstock 14:47
+Hazendal 15:16
+Train No: 523
+Woodstock 15:17
+Hazendal 15:46
+Train No: 525
+Woodstock 16:22
+Hazendal 16:51
+Train No: 527
+Woodstock 16:57
+Hazendal 17:26
+Train No: 529
+Woodstock 17:42
+Hazendal 18:11
+Train No: 531
+Woodstock 18:07
+Hazendal 18:36
+Train No: 533
+Woodstock 18:40
+Hazendal 19:09
+
+Train No: 501
+Woodstock 05:22
+Athlone 05:54
+Train No: 503
+Woodstock 05:42
+Athlone 06:14
+Train No: 505
+Woodstock 06:27
+Athlone 06:59
+Train No: 507
+Woodstock 07:07
+Athlone 07:39
+Train No: 509
+Woodstock 07:42
+Athlone 08:14
+Train No: 511
+Woodstock 08:07
+Athlone 08:39
+Train No: 513
+Woodstock 08:57
+Athlone 09:29
+Train No: 515
+Woodstock 10:27
+Athlone 10:59
+Train No: 517
+Woodstock 11:27
+Athlone 11:59
+Train No: 519
+Woodstock 13:57
+Athlone 14:29
+Train No: 521
+Woodstock 14:47
+Athlone 15:19
+Train No: 523
+Woodstock 15:17
+Athlone 15:49
+Train No: 525
+Woodstock 16:22
+Athlone 16:54
+Train No: 527
+Woodstock 16:57
+Athlone 17:29
+Train No: 529
+Woodstock 17:42
+Athlone 18:14
+Train No: 531
+Woodstock 18:07
+Athlone 18:39
+Train No: 533
+Woodstock 18:40
+Athlone 19:12
+
+Train No: 501
+Woodstock 05:22
+Crawford 05:56
+Train No: 503
+Woodstock 05:42
+Crawford 06:16
+Train No: 505
+Woodstock 06:27
+Crawford 07:01
+Train No: 507
+Woodstock 07:07
+Crawford 07:41
+Train No: 509
+Woodstock 07:42
+Crawford 08:16
+Train No: 511
+Woodstock 08:07
+Crawford 08:41
+Train No: 513
+Woodstock 08:57
+Crawford 09:31
+Train No: 515
+Woodstock 10:27
+Crawford 11:01
+Train No: 517
+Woodstock 11:27
+Crawford 12:01
+Train No: 519
+Woodstock 13:57
+Crawford 14:31
+Train No: 521
+Woodstock 14:47
+Crawford 15:21
+Train No: 523
+Woodstock 15:17
+Crawford 15:51
+Train No: 525
+Woodstock 16:22
+Crawford 16:56
+Train No: 527
+Woodstock 16:57
+Crawford 17:31
+Train No: 529
+Woodstock 17:42
+Crawford 18:16
+Train No: 531
+Woodstock 18:07
+Crawford 18:41
+Train No: 533
+Woodstock 18:40
+Crawford 19:14
+
+Train No: 501
+Woodstock 05:22
+Lansdowne 05:59
+Train No: 503
+Woodstock 05:42
+Lansdowne 06:19
+Train No: 505
+Woodstock 06:27
+Lansdowne 07:04
+Train No: 507
+Woodstock 07:07
+Lansdowne 07:44
+Train No: 509
+Woodstock 07:42
+Lansdowne 08:19
+Train No: 511
+Woodstock 08:07
+Lansdowne 08:44
+Train No: 513
+Woodstock 08:57
+Lansdowne 09:34
+Train No: 515
+Woodstock 10:27
+Lansdowne 11:04
+Train No: 517
+Woodstock 11:27
+Lansdowne 12:04
+Train No: 519
+Woodstock 13:57
+Lansdowne 14:34
+Train No: 521
+Woodstock 14:47
+Lansdowne 15:24
+Train No: 523
+Woodstock 15:17
+Lansdowne 15:54
+Train No: 525
+Woodstock 16:22
+Lansdowne 16:59
+Train No: 527
+Woodstock 16:57
+Lansdowne 17:34
+Train No: 529
+Woodstock 17:42
+Lansdowne 18:19
+Train No: 531
+Woodstock 18:07
+Lansdowne 18:44
+Train No: 533
+Woodstock 18:40
+Lansdowne 19:17
+
+Train No: 501
+Woodstock 05:22
+Wetton 06:02
+Train No: 503
+Woodstock 05:42
+Wetton 06:22
+Train No: 505
+Woodstock 06:27
+Wetton 07:07
+Train No: 507
+Woodstock 07:07
+Wetton 07:47
+Train No: 509
+Woodstock 07:42
+Wetton 08:22
+Train No: 511
+Woodstock 08:07
+Wetton 08:47
+Train No: 513
+Woodstock 08:57
+Wetton 09:37
+Train No: 515
+Woodstock 10:27
+Wetton 11:07
+Train No: 517
+Woodstock 11:27
+Wetton 12:07
+Train No: 519
+Woodstock 13:57
+Wetton 14:37
+Train No: 521
+Woodstock 14:47
+Wetton 15:27
+Train No: 523
+Woodstock 15:17
+Wetton 15:57
+Train No: 525
+Woodstock 16:22
+Wetton 17:02
+Train No: 527
+Woodstock 16:57
+Wetton 17:37
+Train No: 529
+Woodstock 17:42
+Wetton 18:22
+Train No: 531
+Woodstock 18:07
+Wetton 18:47
+Train No: 533
+Woodstock 18:40
+Wetton 19:20
+
+Train No: 501
+Woodstock 05:22
+Ottery 06:05
+Train No: 503
+Woodstock 05:42
+Ottery 06:25
+Train No: 505
+Woodstock 06:27
+Ottery 07:10
+Train No: 507
+Woodstock 07:07
+Ottery 07:50
+Train No: 509
+Woodstock 07:42
+Ottery 08:25
+Train No: 511
+Woodstock 08:07
+Ottery 08:50
+Train No: 513
+Woodstock 08:57
+Ottery 09:40
+Train No: 515
+Woodstock 10:27
+Ottery 11:10
+Train No: 517
+Woodstock 11:27
+Ottery 12:10
+Train No: 519
+Woodstock 13:57
+Ottery 14:40
+Train No: 521
+Woodstock 14:47
+Ottery 15:30
+Train No: 523
+Woodstock 15:17
+Ottery 16:00
+Train No: 525
+Woodstock 16:22
+Ottery 17:05
+Train No: 527
+Woodstock 16:57
+Ottery 17:40
+Train No: 529
+Woodstock 17:42
+Ottery 18:25
+Train No: 531
+Woodstock 18:07
+Ottery 18:50
+Train No: 533
+Woodstock 18:40
+Ottery 19:23
+
+Train No: 501
+Woodstock 05:22
+Southfield 06:10
+Train No: 503
+Woodstock 05:42
+Southfield 06:30
+Train No: 505
+Woodstock 06:27
+Southfield 07:15
+Train No: 507
+Woodstock 07:07
+Southfield 07:55
+Train No: 509
+Woodstock 07:42
+Southfield 08:30
+Train No: 511
+Woodstock 08:07
+Southfield 08:55
+Train No: 513
+Woodstock 08:57
+Southfield 09:45
+Train No: 515
+Woodstock 10:27
+Southfield 11:15
+Train No: 517
+Woodstock 11:27
+Southfield 12:15
+Train No: 519
+Woodstock 13:57
+Southfield 14:45
+Train No: 521
+Woodstock 14:47
+Southfield 15:35
+Train No: 523
+Woodstock 15:17
+Southfield 16:05
+Train No: 525
+Woodstock 16:22
+Southfield 17:10
+Train No: 527
+Woodstock 16:57
+Southfield 17:45
+Train No: 529
+Woodstock 17:42
+Southfield 18:30
+Train No: 531
+Woodstock 18:07
+Southfield 18:55
+Train No: 533
+Woodstock 18:40
+Southfield 19:28
+
+Train No: 501
+Woodstock 05:22
+Heathfield 06:13
+Train No: 503
+Woodstock 05:42
+Heathfield 06:33
+Train No: 505
+Woodstock 06:27
+Heathfield 07:18
+Train No: 507
+Woodstock 07:07
+Heathfield 07:58
+Train No: 509
+Woodstock 07:42
+Heathfield 08:33
+Train No: 511
+Woodstock 08:07
+Heathfield 08:58
+Train No: 513
+Woodstock 08:57
+Heathfield 09:48
+Train No: 515
+Woodstock 10:27
+Heathfield 11:18
+Train No: 517
+Woodstock 11:27
+Heathfield 12:18
+Train No: 519
+Woodstock 13:57
+Heathfield 14:48
+Train No: 521
+Woodstock 14:47
+Heathfield 15:38
+Train No: 523
+Woodstock 15:17
+Heathfield 16:08
+Train No: 525
+Woodstock 16:22
+Heathfield 17:13
+Train No: 527
+Woodstock 16:57
+Heathfield 17:48
+Train No: 529
+Woodstock 17:42
+Heathfield 18:33
+Train No: 531
+Woodstock 18:07
+Heathfield 18:58
+Train No: 533
+Woodstock 18:40
+Heathfield 19:31
+
+Train No: 501
+Woodstock 05:22
+Retreat 06:15
+Train No: 503
+Woodstock 05:42
+Retreat 06:35
+Train No: 505
+Woodstock 06:27
+Retreat 07:20
+Train No: 507
+Woodstock 07:07
+Retreat 08:00
+Train No: 509
+Woodstock 07:42
+Retreat 08:35
+Train No: 511
+Woodstock 08:07
+Retreat 09:00
+Train No: 513
+Woodstock 08:57
+Retreat 09:50
+Train No: 515
+Woodstock 10:27
+Retreat 11:20
+Train No: 517
+Woodstock 11:27
+Retreat 12:20
+Train No: 519
+Woodstock 13:57
+Retreat 14:50
+Train No: 521
+Woodstock 14:47
+Retreat 15:40
+Train No: 523
+Woodstock 15:17
+Retreat 16:10
+Train No: 525
+Woodstock 16:22
+Retreat 17:15
+Train No: 527
+Woodstock 16:57
+Retreat 17:50
+Train No: 529
+Woodstock 17:42
+Retreat 18:35
+Train No: 531
+Woodstock 18:07
+Retreat 19:00
+Train No: 533
+Woodstock 18:40
+Retreat 19:33
+
+Train No: 500
+Salt River 05:55
+Cape Town 06:10
+Train No: 502
+Salt River 06:35
+Cape Town 06:50
+Train No: 504
+Salt River 07:10
+Cape Town 07:25
+Train No: 506
+Salt River 07:30
+Cape Town 07:45
+Train No: 508
+Salt River 08:15
+Cape Town 08:30
+Train No: 510
+Salt River 08:55
+Cape Town 09:10
+Train No: 512
+Salt River 09:45
+Cape Town 10:00
+Train No: 514
+Salt River 10:05
+Cape Town 10:20
+Train No: 516
+Salt River 10:45
+Cape Town 11:00
+Train No: 518
+Salt River 12:27
+Cape Town 12:42
+Train No: 520
+Salt River 13:27
+Cape Town 13:42
+Train No: 522
+Salt River 15:50
+Cape Town 16:05
+Train No: 524
+Salt River 16:55
+Cape Town 17:10
+Train No: 526
+Salt River 17:10
+Cape Town 17:25
+Train No: 528
+Salt River 18:10
+Cape Town 18:25
+Train No: 530
+Salt River 18:45
+Cape Town 19:00
+Train No: 532
+Salt River 19:30
+Cape Town 19:45
+
+Train No: 500
+Salt River 05:55
+Woodstock 06:03
+Train No: 502
+Salt River 06:35
+Woodstock 06:43
+Train No: 504
+Salt River 07:10
+Woodstock 07:18
+Train No: 506
+Salt River 07:30
+Woodstock 07:38
+Train No: 508
+Salt River 08:15
+Woodstock 08:23
+Train No: 510
+Salt River 08:55
+Woodstock 09:03
+Train No: 512
+Salt River 09:45
+Woodstock 09:53
+Train No: 514
+Salt River 10:05
+Woodstock 10:13
+Train No: 516
+Salt River 10:45
+Woodstock 10:53
+Train No: 518
+Salt River 12:27
+Woodstock 12:35
+Train No: 520
+Salt River 13:27
+Woodstock 13:35
+Train No: 522
+Salt River 15:50
+Woodstock 15:58
+Train No: 524
+Salt River 16:55
+Woodstock 17:03
+Train No: 526
+Salt River 17:10
+Woodstock 17:18
+Train No: 528
+Salt River 18:10
+Woodstock 18:18
+Train No: 530
+Salt River 18:45
+Woodstock 18:53
+Train No: 532
+Salt River 19:30
+Woodstock 19:38
+
+Train No: 501
+Salt River 05:30
+Koeberg Rd 05:36
+Train No: 503
+Salt River 05:50
+Koeberg Rd 05:56
+Train No: 505
+Salt River 06:35
+Koeberg Rd 06:41
+Train No: 507
+Salt River 07:15
+Koeberg Rd 07:21
+Train No: 509
+Salt River 07:50
+Koeberg Rd 07:56
+Train No: 511
+Salt River 08:15
+Koeberg Rd 08:21
+Train No: 513
+Salt River 09:05
+Koeberg Rd 09:11
+Train No: 515
+Salt River 10:35
+Koeberg Rd 10:41
+Train No: 517
+Salt River 11:35
+Koeberg Rd 11:41
+Train No: 519
+Salt River 14:05
+Koeberg Rd 14:11
+Train No: 521
+Salt River 14:55
+Koeberg Rd 15:01
+Train No: 523
+Salt River 15:25
+Koeberg Rd 15:31
+Train No: 525
+Salt River 16:30
+Koeberg Rd 16:36
+Train No: 527
+Salt River 17:05
+Koeberg Rd 17:11
+Train No: 529
+Salt River 17:50
+Koeberg Rd 17:56
+Train No: 531
+Salt River 18:15
+Koeberg Rd 18:21
+Train No: 533
+Salt River 18:48
+Koeberg Rd 18:54
+
+Train No: 501
+Salt River 05:30
+Maitland 05:40
+Train No: 503
+Salt River 05:50
+Maitland 06:00
+Train No: 505
+Salt River 06:35
+Maitland 06:45
+Train No: 507
+Salt River 07:15
+Maitland 07:25
+Train No: 509
+Salt River 07:50
+Maitland 08:00
+Train No: 511
+Salt River 08:15
+Maitland 08:25
+Train No: 513
+Salt River 09:05
+Maitland 09:15
+Train No: 515
+Salt River 10:35
+Maitland 10:45
+Train No: 517
+Salt River 11:35
+Maitland 11:45
+Train No: 519
+Salt River 14:05
+Maitland 14:15
+Train No: 521
+Salt River 14:55
+Maitland 15:05
+Train No: 523
+Salt River 15:25
+Maitland 15:35
+Train No: 525
+Salt River 16:30
+Maitland 16:40
+Train No: 527
+Salt River 17:05
+Maitland 17:15
+Train No: 529
+Salt River 17:50
+Maitland 18:00
+Train No: 531
+Salt River 18:15
+Maitland 18:25
+Train No: 533
+Salt River 18:48
+Maitland 18:58
+
+Train No: 501
+Salt River 05:30
+Ndabeni 05:43
+Train No: 503
+Salt River 05:50
+Ndabeni 06:03
+Train No: 505
+Salt River 06:35
+Ndabeni 06:48
+Train No: 507
+Salt River 07:15
+Ndabeni 07:28
+Train No: 509
+Salt River 07:50
+Ndabeni 08:03
+Train No: 511
+Salt River 08:15
+Ndabeni 08:28
+Train No: 513
+Salt River 09:05
+Ndabeni 09:18
+Train No: 515
+Salt River 10:35
+Ndabeni 10:48
+Train No: 517
+Salt River 11:35
+Ndabeni 11:48
+Train No: 519
+Salt River 14:05
+Ndabeni 14:18
+Train No: 521
+Salt River 14:55
+Ndabeni 15:08
+Train No: 523
+Salt River 15:25
+Ndabeni 15:38
+Train No: 525
+Salt River 16:30
+Ndabeni 16:43
+Train No: 527
+Salt River 17:05
+Ndabeni 17:18
+Train No: 529
+Salt River 17:50
+Ndabeni 18:03
+Train No: 531
+Salt River 18:15
+Ndabeni 18:28
+Train No: 533
+Salt River 18:48
+Ndabeni 19:01
+
+Train No: 501
+Salt River 05:30
+Pinelands 05:47
+Train No: 503
+Salt River 05:50
+Pinelands 06:07
+Train No: 505
+Salt River 06:35
+Pinelands 06:52
+Train No: 507
+Salt River 07:15
+Pinelands 07:32
+Train No: 509
+Salt River 07:50
+Pinelands 08:07
+Train No: 511
+Salt River 08:15
+Pinelands 08:32
+Train No: 513
+Salt River 09:05
+Pinelands 09:22
+Train No: 515
+Salt River 10:35
+Pinelands 10:52
+Train No: 517
+Salt River 11:35
+Pinelands 11:52
+Train No: 519
+Salt River 14:05
+Pinelands 14:22
+Train No: 521
+Salt River 14:55
+Pinelands 15:12
+Train No: 523
+Salt River 15:25
+Pinelands 15:42
+Train No: 525
+Salt River 16:30
+Pinelands 16:47
+Train No: 527
+Salt River 17:05
+Pinelands 17:22
+Train No: 529
+Salt River 17:50
+Pinelands 18:07
+Train No: 531
+Salt River 18:15
+Pinelands 18:32
+Train No: 533
+Salt River 18:48
+Pinelands 19:05
+
+Train No: 501
+Salt River 05:30
+Hazendal 05:51
+Train No: 503
+Salt River 05:50
+Hazendal 06:11
+Train No: 505
+Salt River 06:35
+Hazendal 06:56
+Train No: 507
+Salt River 07:15
+Hazendal 07:36
+Train No: 509
+Salt River 07:50
+Hazendal 08:11
+Train No: 511
+Salt River 08:15
+Hazendal 08:36
+Train No: 513
+Salt River 09:05
+Hazendal 09:26
+Train No: 515
+Salt River 10:35
+Hazendal 10:56
+Train No: 517
+Salt River 11:35
+Hazendal 11:56
+Train No: 519
+Salt River 14:05
+Hazendal 14:26
+Train No: 521
+Salt River 14:55
+Hazendal 15:16
+Train No: 523
+Salt River 15:25
+Hazendal 15:46
+Train No: 525
+Salt River 16:30
+Hazendal 16:51
+Train No: 527
+Salt River 17:05
+Hazendal 17:26
+Train No: 529
+Salt River 17:50
+Hazendal 18:11
+Train No: 531
+Salt River 18:15
+Hazendal 18:36
+Train No: 533
+Salt River 18:48
+Hazendal 19:09
+
+Train No: 501
+Salt River 05:30
+Athlone 05:54
+Train No: 503
+Salt River 05:50
+Athlone 06:14
+Train No: 505
+Salt River 06:35
+Athlone 06:59
+Train No: 507
+Salt River 07:15
+Athlone 07:39
+Train No: 509
+Salt River 07:50
+Athlone 08:14
+Train No: 511
+Salt River 08:15
+Athlone 08:39
+Train No: 513
+Salt River 09:05
+Athlone 09:29
+Train No: 515
+Salt River 10:35
+Athlone 10:59
+Train No: 517
+Salt River 11:35
+Athlone 11:59
+Train No: 519
+Salt River 14:05
+Athlone 14:29
+Train No: 521
+Salt River 14:55
+Athlone 15:19
+Train No: 523
+Salt River 15:25
+Athlone 15:49
+Train No: 525
+Salt River 16:30
+Athlone 16:54
+Train No: 527
+Salt River 17:05
+Athlone 17:29
+Train No: 529
+Salt River 17:50
+Athlone 18:14
+Train No: 531
+Salt River 18:15
+Athlone 18:39
+Train No: 533
+Salt River 18:48
+Athlone 19:12
+
+Train No: 501
+Salt River 05:30
+Crawford 05:56
+Train No: 503
+Salt River 05:50
+Crawford 06:16
+Train No: 505
+Salt River 06:35
+Crawford 07:01
+Train No: 507
+Salt River 07:15
+Crawford 07:41
+Train No: 509
+Salt River 07:50
+Crawford 08:16
+Train No: 511
+Salt River 08:15
+Crawford 08:41
+Train No: 513
+Salt River 09:05
+Crawford 09:31
+Train No: 515
+Salt River 10:35
+Crawford 11:01
+Train No: 517
+Salt River 11:35
+Crawford 12:01
+Train No: 519
+Salt River 14:05
+Crawford 14:31
+Train No: 521
+Salt River 14:55
+Crawford 15:21
+Train No: 523
+Salt River 15:25
+Crawford 15:51
+Train No: 525
+Salt River 16:30
+Crawford 16:56
+Train No: 527
+Salt River 17:05
+Crawford 17:31
+Train No: 529
+Salt River 17:50
+Crawford 18:16
+Train No: 531
+Salt River 18:15
+Crawford 18:41
+Train No: 533
+Salt River 18:48
+Crawford 19:14
+
+Train No: 501
+Salt River 05:30
+Lansdowne 05:59
+Train No: 503
+Salt River 05:50
+Lansdowne 06:19
+Train No: 505
+Salt River 06:35
+Lansdowne 07:04
+Train No: 507
+Salt River 07:15
+Lansdowne 07:44
+Train No: 509
+Salt River 07:50
+Lansdowne 08:19
+Train No: 511
+Salt River 08:15
+Lansdowne 08:44
+Train No: 513
+Salt River 09:05
+Lansdowne 09:34
+Train No: 515
+Salt River 10:35
+Lansdowne 11:04
+Train No: 517
+Salt River 11:35
+Lansdowne 12:04
+Train No: 519
+Salt River 14:05
+Lansdowne 14:34
+Train No: 521
+Salt River 14:55
+Lansdowne 15:24
+Train No: 523
+Salt River 15:25
+Lansdowne 15:54
+Train No: 525
+Salt River 16:30
+Lansdowne 16:59
+Train No: 527
+Salt River 17:05
+Lansdowne 17:34
+Train No: 529
+Salt River 17:50
+Lansdowne 18:19
+Train No: 531
+Salt River 18:15
+Lansdowne 18:44
+Train No: 533
+Salt River 18:48
+Lansdowne 19:17
+
+Train No: 501
+Salt River 05:30
+Wetton 06:02
+Train No: 503
+Salt River 05:50
+Wetton 06:22
+Train No: 505
+Salt River 06:35
+Wetton 07:07
+Train No: 507
+Salt River 07:15
+Wetton 07:47
+Train No: 509
+Salt River 07:50
+Wetton 08:22
+Train No: 511
+Salt River 08:15
+Wetton 08:47
+Train No: 513
+Salt River 09:05
+Wetton 09:37
+Train No: 515
+Salt River 10:35
+Wetton 11:07
+Train No: 517
+Salt River 11:35
+Wetton 12:07
+Train No: 519
+Salt River 14:05
+Wetton 14:37
+Train No: 521
+Salt River 14:55
+Wetton 15:27
+Train No: 523
+Salt River 15:25
+Wetton 15:57
+Train No: 525
+Salt River 16:30
+Wetton 17:02
+Train No: 527
+Salt River 17:05
+Wetton 17:37
+Train No: 529
+Salt River 17:50
+Wetton 18:22
+Train No: 531
+Salt River 18:15
+Wetton 18:47
+Train No: 533
+Salt River 18:48
+Wetton 19:20
+
+Train No: 501
+Salt River 05:30
+Ottery 06:05
+Train No: 503
+Salt River 05:50
+Ottery 06:25
+Train No: 505
+Salt River 06:35
+Ottery 07:10
+Train No: 507
+Salt River 07:15
+Ottery 07:50
+Train No: 509
+Salt River 07:50
+Ottery 08:25
+Train No: 511
+Salt River 08:15
+Ottery 08:50
+Train No: 513
+Salt River 09:05
+Ottery 09:40
+Train No: 515
+Salt River 10:35
+Ottery 11:10
+Train No: 517
+Salt River 11:35
+Ottery 12:10
+Train No: 519
+Salt River 14:05
+Ottery 14:40
+Train No: 521
+Salt River 14:55
+Ottery 15:30
+Train No: 523
+Salt River 15:25
+Ottery 16:00
+Train No: 525
+Salt River 16:30
+Ottery 17:05
+Train No: 527
+Salt River 17:05
+Ottery 17:40
+Train No: 529
+Salt River 17:50
+Ottery 18:25
+Train No: 531
+Salt River 18:15
+Ottery 18:50
+Train No: 533
+Salt River 18:48
+Ottery 19:23
+
+Train No: 501
+Salt River 05:30
+Southfield 06:10
+Train No: 503
+Salt River 05:50
+Southfield 06:30
+Train No: 505
+Salt River 06:35
+Southfield 07:15
+Train No: 507
+Salt River 07:15
+Southfield 07:55
+Train No: 509
+Salt River 07:50
+Southfield 08:30
+Train No: 511
+Salt River 08:15
+Southfield 08:55
+Train No: 513
+Salt River 09:05
+Southfield 09:45
+Train No: 515
+Salt River 10:35
+Southfield 11:15
+Train No: 517
+Salt River 11:35
+Southfield 12:15
+Train No: 519
+Salt River 14:05
+Southfield 14:45
+Train No: 521
+Salt River 14:55
+Southfield 15:35
+Train No: 523
+Salt River 15:25
+Southfield 16:05
+Train No: 525
+Salt River 16:30
+Southfield 17:10
+Train No: 527
+Salt River 17:05
+Southfield 17:45
+Train No: 529
+Salt River 17:50
+Southfield 18:30
+Train No: 531
+Salt River 18:15
+Southfield 18:55
+Train No: 533
+Salt River 18:48
+Southfield 19:28
+
+Train No: 501
+Salt River 05:30
+Heathfield 06:13
+Train No: 503
+Salt River 05:50
+Heathfield 06:33
+Train No: 505
+Salt River 06:35
+Heathfield 07:18
+Train No: 507
+Salt River 07:15
+Heathfield 07:58
+Train No: 509
+Salt River 07:50
+Heathfield 08:33
+Train No: 511
+Salt River 08:15
+Heathfield 08:58
+Train No: 513
+Salt River 09:05
+Heathfield 09:48
+Train No: 515
+Salt River 10:35
+Heathfield 11:18
+Train No: 517
+Salt River 11:35
+Heathfield 12:18
+Train No: 519
+Salt River 14:05
+Heathfield 14:48
+Train No: 521
+Salt River 14:55
+Heathfield 15:38
+Train No: 523
+Salt River 15:25
+Heathfield 16:08
+Train No: 525
+Salt River 16:30
+Heathfield 17:13
+Train No: 527
+Salt River 17:05
+Heathfield 17:48
+Train No: 529
+Salt River 17:50
+Heathfield 18:33
+Train No: 531
+Salt River 18:15
+Heathfield 18:58
+Train No: 533
+Salt River 18:48
+Heathfield 19:31
+
+Train No: 501
+Salt River 05:30
+Retreat 06:15
+Train No: 503
+Salt River 05:50
+Retreat 06:35
+Train No: 505
+Salt River 06:35
+Retreat 07:20
+Train No: 507
+Salt River 07:15
+Retreat 08:00
+Train No: 509
+Salt River 07:50
+Retreat 08:35
+Train No: 511
+Salt River 08:15
+Retreat 09:00
+Train No: 513
+Salt River 09:05
+Retreat 09:50
+Train No: 515
+Salt River 10:35
+Retreat 11:20
+Train No: 517
+Salt River 11:35
+Retreat 12:20
+Train No: 519
+Salt River 14:05
+Retreat 14:50
+Train No: 521
+Salt River 14:55
+Retreat 15:40
+Train No: 523
+Salt River 15:25
+Retreat 16:10
+Train No: 525
+Salt River 16:30
+Retreat 17:15
+Train No: 527
+Salt River 17:05
+Retreat 17:50
+Train No: 529
+Salt River 17:50
+Retreat 18:35
+Train No: 531
+Salt River 18:15
+Retreat 19:00
+Train No: 533
+Salt River 18:48
+Retreat 19:33
+
+
+
+
+Train No: 501
+Koeberg Rd 05:36
+Maitland 05:40
+Train No: 503
+Koeberg Rd 05:56
+Maitland 06:00
+Train No: 505
+Koeberg Rd 06:41
+Maitland 06:45
+Train No: 507
+Koeberg Rd 07:21
+Maitland 07:25
+Train No: 509
+Koeberg Rd 07:56
+Maitland 08:00
+Train No: 511
+Koeberg Rd 08:21
+Maitland 08:25
+Train No: 513
+Koeberg Rd 09:11
+Maitland 09:15
+Train No: 515
+Koeberg Rd 10:41
+Maitland 10:45
+Train No: 517
+Koeberg Rd 11:41
+Maitland 11:45
+Train No: 519
+Koeberg Rd 14:11
+Maitland 14:15
+Train No: 521
+Koeberg Rd 15:01
+Maitland 15:05
+Train No: 523
+Koeberg Rd 15:31
+Maitland 15:35
+Train No: 525
+Koeberg Rd 16:36
+Maitland 16:40
+Train No: 527
+Koeberg Rd 17:11
+Maitland 17:15
+Train No: 529
+Koeberg Rd 17:56
+Maitland 18:00
+Train No: 531
+Koeberg Rd 18:21
+Maitland 18:25
+Train No: 533
+Koeberg Rd 18:54
+Maitland 18:58
+
+Train No: 501
+Koeberg Rd 05:36
+Ndabeni 05:43
+Train No: 503
+Koeberg Rd 05:56
+Ndabeni 06:03
+Train No: 505
+Koeberg Rd 06:41
+Ndabeni 06:48
+Train No: 507
+Koeberg Rd 07:21
+Ndabeni 07:28
+Train No: 509
+Koeberg Rd 07:56
+Ndabeni 08:03
+Train No: 511
+Koeberg Rd 08:21
+Ndabeni 08:28
+Train No: 513
+Koeberg Rd 09:11
+Ndabeni 09:18
+Train No: 515
+Koeberg Rd 10:41
+Ndabeni 10:48
+Train No: 517
+Koeberg Rd 11:41
+Ndabeni 11:48
+Train No: 519
+Koeberg Rd 14:11
+Ndabeni 14:18
+Train No: 521
+Koeberg Rd 15:01
+Ndabeni 15:08
+Train No: 523
+Koeberg Rd 15:31
+Ndabeni 15:38
+Train No: 525
+Koeberg Rd 16:36
+Ndabeni 16:43
+Train No: 527
+Koeberg Rd 17:11
+Ndabeni 17:18
+Train No: 529
+Koeberg Rd 17:56
+Ndabeni 18:03
+Train No: 531
+Koeberg Rd 18:21
+Ndabeni 18:28
+Train No: 533
+Koeberg Rd 18:54
+Ndabeni 19:01
+
+Train No: 501
+Koeberg Rd 05:36
+Pinelands 05:47
+Train No: 503
+Koeberg Rd 05:56
+Pinelands 06:07
+Train No: 505
+Koeberg Rd 06:41
+Pinelands 06:52
+Train No: 507
+Koeberg Rd 07:21
+Pinelands 07:32
+Train No: 509
+Koeberg Rd 07:56
+Pinelands 08:07
+Train No: 511
+Koeberg Rd 08:21
+Pinelands 08:32
+Train No: 513
+Koeberg Rd 09:11
+Pinelands 09:22
+Train No: 515
+Koeberg Rd 10:41
+Pinelands 10:52
+Train No: 517
+Koeberg Rd 11:41
+Pinelands 11:52
+Train No: 519
+Koeberg Rd 14:11
+Pinelands 14:22
+Train No: 521
+Koeberg Rd 15:01
+Pinelands 15:12
+Train No: 523
+Koeberg Rd 15:31
+Pinelands 15:42
+Train No: 525
+Koeberg Rd 16:36
+Pinelands 16:47
+Train No: 527
+Koeberg Rd 17:11
+Pinelands 17:22
+Train No: 529
+Koeberg Rd 17:56
+Pinelands 18:07
+Train No: 531
+Koeberg Rd 18:21
+Pinelands 18:32
+Train No: 533
+Koeberg Rd 18:54
+Pinelands 19:05
+
+Train No: 501
+Koeberg Rd 05:36
+Hazendal 05:51
+Train No: 503
+Koeberg Rd 05:56
+Hazendal 06:11
+Train No: 505
+Koeberg Rd 06:41
+Hazendal 06:56
+Train No: 507
+Koeberg Rd 07:21
+Hazendal 07:36
+Train No: 509
+Koeberg Rd 07:56
+Hazendal 08:11
+Train No: 511
+Koeberg Rd 08:21
+Hazendal 08:36
+Train No: 513
+Koeberg Rd 09:11
+Hazendal 09:26
+Train No: 515
+Koeberg Rd 10:41
+Hazendal 10:56
+Train No: 517
+Koeberg Rd 11:41
+Hazendal 11:56
+Train No: 519
+Koeberg Rd 14:11
+Hazendal 14:26
+Train No: 521
+Koeberg Rd 15:01
+Hazendal 15:16
+Train No: 523
+Koeberg Rd 15:31
+Hazendal 15:46
+Train No: 525
+Koeberg Rd 16:36
+Hazendal 16:51
+Train No: 527
+Koeberg Rd 17:11
+Hazendal 17:26
+Train No: 529
+Koeberg Rd 17:56
+Hazendal 18:11
+Train No: 531
+Koeberg Rd 18:21
+Hazendal 18:36
+Train No: 533
+Koeberg Rd 18:54
+Hazendal 19:09
+
+Train No: 501
+Koeberg Rd 05:36
+Athlone 05:54
+Train No: 503
+Koeberg Rd 05:56
+Athlone 06:14
+Train No: 505
+Koeberg Rd 06:41
+Athlone 06:59
+Train No: 507
+Koeberg Rd 07:21
+Athlone 07:39
+Train No: 509
+Koeberg Rd 07:56
+Athlone 08:14
+Train No: 511
+Koeberg Rd 08:21
+Athlone 08:39
+Train No: 513
+Koeberg Rd 09:11
+Athlone 09:29
+Train No: 515
+Koeberg Rd 10:41
+Athlone 10:59
+Train No: 517
+Koeberg Rd 11:41
+Athlone 11:59
+Train No: 519
+Koeberg Rd 14:11
+Athlone 14:29
+Train No: 521
+Koeberg Rd 15:01
+Athlone 15:19
+Train No: 523
+Koeberg Rd 15:31
+Athlone 15:49
+Train No: 525
+Koeberg Rd 16:36
+Athlone 16:54
+Train No: 527
+Koeberg Rd 17:11
+Athlone 17:29
+Train No: 529
+Koeberg Rd 17:56
+Athlone 18:14
+Train No: 531
+Koeberg Rd 18:21
+Athlone 18:39
+Train No: 533
+Koeberg Rd 18:54
+Athlone 19:12
+
+Train No: 501
+Koeberg Rd 05:36
+Crawford 05:56
+Train No: 503
+Koeberg Rd 05:56
+Crawford 06:16
+Train No: 505
+Koeberg Rd 06:41
+Crawford 07:01
+Train No: 507
+Koeberg Rd 07:21
+Crawford 07:41
+Train No: 509
+Koeberg Rd 07:56
+Crawford 08:16
+Train No: 511
+Koeberg Rd 08:21
+Crawford 08:41
+Train No: 513
+Koeberg Rd 09:11
+Crawford 09:31
+Train No: 515
+Koeberg Rd 10:41
+Crawford 11:01
+Train No: 517
+Koeberg Rd 11:41
+Crawford 12:01
+Train No: 519
+Koeberg Rd 14:11
+Crawford 14:31
+Train No: 521
+Koeberg Rd 15:01
+Crawford 15:21
+Train No: 523
+Koeberg Rd 15:31
+Crawford 15:51
+Train No: 525
+Koeberg Rd 16:36
+Crawford 16:56
+Train No: 527
+Koeberg Rd 17:11
+Crawford 17:31
+Train No: 529
+Koeberg Rd 17:56
+Crawford 18:16
+Train No: 531
+Koeberg Rd 18:21
+Crawford 18:41
+Train No: 533
+Koeberg Rd 18:54
+Crawford 19:14
+
+Train No: 501
+Koeberg Rd 05:36
+Lansdowne 05:59
+Train No: 503
+Koeberg Rd 05:56
+Lansdowne 06:19
+Train No: 505
+Koeberg Rd 06:41
+Lansdowne 07:04
+Train No: 507
+Koeberg Rd 07:21
+Lansdowne 07:44
+Train No: 509
+Koeberg Rd 07:56
+Lansdowne 08:19
+Train No: 511
+Koeberg Rd 08:21
+Lansdowne 08:44
+Train No: 513
+Koeberg Rd 09:11
+Lansdowne 09:34
+Train No: 515
+Koeberg Rd 10:41
+Lansdowne 11:04
+Train No: 517
+Koeberg Rd 11:41
+Lansdowne 12:04
+Train No: 519
+Koeberg Rd 14:11
+Lansdowne 14:34
+Train No: 521
+Koeberg Rd 15:01
+Lansdowne 15:24
+Train No: 523
+Koeberg Rd 15:31
+Lansdowne 15:54
+Train No: 525
+Koeberg Rd 16:36
+Lansdowne 16:59
+Train No: 527
+Koeberg Rd 17:11
+Lansdowne 17:34
+Train No: 529
+Koeberg Rd 17:56
+Lansdowne 18:19
+Train No: 531
+Koeberg Rd 18:21
+Lansdowne 18:44
+Train No: 533
+Koeberg Rd 18:54
+Lansdowne 19:17
+
+Train No: 501
+Koeberg Rd 05:36
+Wetton 06:02
+Train No: 503
+Koeberg Rd 05:56
+Wetton 06:22
+Train No: 505
+Koeberg Rd 06:41
+Wetton 07:07
+Train No: 507
+Koeberg Rd 07:21
+Wetton 07:47
+Train No: 509
+Koeberg Rd 07:56
+Wetton 08:22
+Train No: 511
+Koeberg Rd 08:21
+Wetton 08:47
+Train No: 513
+Koeberg Rd 09:11
+Wetton 09:37
+Train No: 515
+Koeberg Rd 10:41
+Wetton 11:07
+Train No: 517
+Koeberg Rd 11:41
+Wetton 12:07
+Train No: 519
+Koeberg Rd 14:11
+Wetton 14:37
+Train No: 521
+Koeberg Rd 15:01
+Wetton 15:27
+Train No: 523
+Koeberg Rd 15:31
+Wetton 15:57
+Train No: 525
+Koeberg Rd 16:36
+Wetton 17:02
+Train No: 527
+Koeberg Rd 17:11
+Wetton 17:37
+Train No: 529
+Koeberg Rd 17:56
+Wetton 18:22
+Train No: 531
+Koeberg Rd 18:21
+Wetton 18:47
+Train No: 533
+Koeberg Rd 18:54
+Wetton 19:20
+
+Train No: 501
+Koeberg Rd 05:36
+Ottery 06:05
+Train No: 503
+Koeberg Rd 05:56
+Ottery 06:25
+Train No: 505
+Koeberg Rd 06:41
+Ottery 07:10
+Train No: 507
+Koeberg Rd 07:21
+Ottery 07:50
+Train No: 509
+Koeberg Rd 07:56
+Ottery 08:25
+Train No: 511
+Koeberg Rd 08:21
+Ottery 08:50
+Train No: 513
+Koeberg Rd 09:11
+Ottery 09:40
+Train No: 515
+Koeberg Rd 10:41
+Ottery 11:10
+Train No: 517
+Koeberg Rd 11:41
+Ottery 12:10
+Train No: 519
+Koeberg Rd 14:11
+Ottery 14:40
+Train No: 521
+Koeberg Rd 15:01
+Ottery 15:30
+Train No: 523
+Koeberg Rd 15:31
+Ottery 16:00
+Train No: 525
+Koeberg Rd 16:36
+Ottery 17:05
+Train No: 527
+Koeberg Rd 17:11
+Ottery 17:40
+Train No: 529
+Koeberg Rd 17:56
+Ottery 18:25
+Train No: 531
+Koeberg Rd 18:21
+Ottery 18:50
+Train No: 533
+Koeberg Rd 18:54
+Ottery 19:23
+
+Train No: 501
+Koeberg Rd 05:36
+Southfield 06:10
+Train No: 503
+Koeberg Rd 05:56
+Southfield 06:30
+Train No: 505
+Koeberg Rd 06:41
+Southfield 07:15
+Train No: 507
+Koeberg Rd 07:21
+Southfield 07:55
+Train No: 509
+Koeberg Rd 07:56
+Southfield 08:30
+Train No: 511
+Koeberg Rd 08:21
+Southfield 08:55
+Train No: 513
+Koeberg Rd 09:11
+Southfield 09:45
+Train No: 515
+Koeberg Rd 10:41
+Southfield 11:15
+Train No: 517
+Koeberg Rd 11:41
+Southfield 12:15
+Train No: 519
+Koeberg Rd 14:11
+Southfield 14:45
+Train No: 521
+Koeberg Rd 15:01
+Southfield 15:35
+Train No: 523
+Koeberg Rd 15:31
+Southfield 16:05
+Train No: 525
+Koeberg Rd 16:36
+Southfield 17:10
+Train No: 527
+Koeberg Rd 17:11
+Southfield 17:45
+Train No: 529
+Koeberg Rd 17:56
+Southfield 18:30
+Train No: 531
+Koeberg Rd 18:21
+Southfield 18:55
+Train No: 533
+Koeberg Rd 18:54
+Southfield 19:28
+
+Train No: 501
+Koeberg Rd 05:36
+Heathfield 06:13
+Train No: 503
+Koeberg Rd 05:56
+Heathfield 06:33
+Train No: 505
+Koeberg Rd 06:41
+Heathfield 07:18
+Train No: 507
+Koeberg Rd 07:21
+Heathfield 07:58
+Train No: 509
+Koeberg Rd 07:56
+Heathfield 08:33
+Train No: 511
+Koeberg Rd 08:21
+Heathfield 08:58
+Train No: 513
+Koeberg Rd 09:11
+Heathfield 09:48
+Train No: 515
+Koeberg Rd 10:41
+Heathfield 11:18
+Train No: 517
+Koeberg Rd 11:41
+Heathfield 12:18
+Train No: 519
+Koeberg Rd 14:11
+Heathfield 14:48
+Train No: 521
+Koeberg Rd 15:01
+Heathfield 15:38
+Train No: 523
+Koeberg Rd 15:31
+Heathfield 16:08
+Train No: 525
+Koeberg Rd 16:36
+Heathfield 17:13
+Train No: 527
+Koeberg Rd 17:11
+Heathfield 17:48
+Train No: 529
+Koeberg Rd 17:56
+Heathfield 18:33
+Train No: 531
+Koeberg Rd 18:21
+Heathfield 18:58
+Train No: 533
+Koeberg Rd 18:54
+Heathfield 19:31
+
+Train No: 501
+Koeberg Rd 05:36
+Retreat 06:15
+Train No: 503
+Koeberg Rd 05:56
+Retreat 06:35
+Train No: 505
+Koeberg Rd 06:41
+Retreat 07:20
+Train No: 507
+Koeberg Rd 07:21
+Retreat 08:00
+Train No: 509
+Koeberg Rd 07:56
+Retreat 08:35
+Train No: 511
+Koeberg Rd 08:21
+Retreat 09:00
+Train No: 513
+Koeberg Rd 09:11
+Retreat 09:50
+Train No: 515
+Koeberg Rd 10:41
+Retreat 11:20
+Train No: 517
+Koeberg Rd 11:41
+Retreat 12:20
+Train No: 519
+Koeberg Rd 14:11
+Retreat 14:50
+Train No: 521
+Koeberg Rd 15:01
+Retreat 15:40
+Train No: 523
+Koeberg Rd 15:31
+Retreat 16:10
+Train No: 525
+Koeberg Rd 16:36
+Retreat 17:15
+Train No: 527
+Koeberg Rd 17:11
+Retreat 17:50
+Train No: 529
+Koeberg Rd 17:56
+Retreat 18:35
+Train No: 531
+Koeberg Rd 18:21
+Retreat 19:00
+Train No: 533
+Koeberg Rd 18:54
+Retreat 19:33
+
+Train No: 500
+Maitland 05:46
+Cape Town 06:10
+Train No: 502
+Maitland 06:26
+Cape Town 06:50
+Train No: 504
+Maitland 07:01
+Cape Town 07:25
+Train No: 506
+Maitland 07:21
+Cape Town 07:45
+Train No: 508
+Maitland 08:06
+Cape Town 08:30
+Train No: 510
+Maitland 08:46
+Cape Town 09:10
+Train No: 512
+Maitland 09:36
+Cape Town 10:00
+Train No: 514
+Maitland 09:56
+Cape Town 10:20
+Train No: 516
+Maitland 10:36
+Cape Town 11:00
+Train No: 518
+Maitland 12:18
+Cape Town 12:42
+Train No: 520
+Maitland 13:18
+Cape Town 13:42
+Train No: 522
+Maitland 15:41
+Cape Town 16:05
+Train No: 524
+Maitland 16:46
+Cape Town 17:10
+Train No: 526
+Maitland 17:01
+Cape Town 17:25
+Train No: 528
+Maitland 18:01
+Cape Town 18:25
+Train No: 530
+Maitland 18:36
+Cape Town 19:00
+Train No: 532
+Maitland 19:21
+Cape Town 19:45
+
+Train No: 500
+Maitland 05:46
+Woodstock 06:03
+Train No: 502
+Maitland 06:26
+Woodstock 06:43
+Train No: 504
+Maitland 07:01
+Woodstock 07:18
+Train No: 506
+Maitland 07:21
+Woodstock 07:38
+Train No: 508
+Maitland 08:06
+Woodstock 08:23
+Train No: 510
+Maitland 08:46
+Woodstock 09:03
+Train No: 512
+Maitland 09:36
+Woodstock 09:53
+Train No: 514
+Maitland 09:56
+Woodstock 10:13
+Train No: 516
+Maitland 10:36
+Woodstock 10:53
+Train No: 518
+Maitland 12:18
+Woodstock 12:35
+Train No: 520
+Maitland 13:18
+Woodstock 13:35
+Train No: 522
+Maitland 15:41
+Woodstock 15:58
+Train No: 524
+Maitland 16:46
+Woodstock 17:03
+Train No: 526
+Maitland 17:01
+Woodstock 17:18
+Train No: 528
+Maitland 18:01
+Woodstock 18:18
+Train No: 530
+Maitland 18:36
+Woodstock 18:53
+Train No: 532
+Maitland 19:21
+Woodstock 19:38
+
+Train No: 500
+Maitland 05:46
+Salt River 05:55
+Train No: 502
+Maitland 06:26
+Salt River 06:35
+Train No: 504
+Maitland 07:01
+Salt River 07:10
+Train No: 506
+Maitland 07:21
+Salt River 07:30
+Train No: 508
+Maitland 08:06
+Salt River 08:15
+Train No: 510
+Maitland 08:46
+Salt River 08:55
+Train No: 512
+Maitland 09:36
+Salt River 09:45
+Train No: 514
+Maitland 09:56
+Salt River 10:05
+Train No: 516
+Maitland 10:36
+Salt River 10:45
+Train No: 518
+Maitland 12:18
+Salt River 12:27
+Train No: 520
+Maitland 13:18
+Salt River 13:27
+Train No: 522
+Maitland 15:41
+Salt River 15:50
+Train No: 524
+Maitland 16:46
+Salt River 16:55
+Train No: 526
+Maitland 17:01
+Salt River 17:10
+Train No: 528
+Maitland 18:01
+Salt River 18:10
+Train No: 530
+Maitland 18:36
+Salt River 18:45
+Train No: 532
+Maitland 19:21
+Salt River 19:30
+
+
+Train No: 501
+Maitland 05:40
+Ndabeni 05:43
+Train No: 503
+Maitland 06:00
+Ndabeni 06:03
+Train No: 505
+Maitland 06:45
+Ndabeni 06:48
+Train No: 507
+Maitland 07:25
+Ndabeni 07:28
+Train No: 509
+Maitland 08:00
+Ndabeni 08:03
+Train No: 511
+Maitland 08:25
+Ndabeni 08:28
+Train No: 513
+Maitland 09:15
+Ndabeni 09:18
+Train No: 515
+Maitland 10:45
+Ndabeni 10:48
+Train No: 517
+Maitland 11:45
+Ndabeni 11:48
+Train No: 519
+Maitland 14:15
+Ndabeni 14:18
+Train No: 521
+Maitland 15:05
+Ndabeni 15:08
+Train No: 523
+Maitland 15:35
+Ndabeni 15:38
+Train No: 525
+Maitland 16:40
+Ndabeni 16:43
+Train No: 527
+Maitland 17:15
+Ndabeni 17:18
+Train No: 529
+Maitland 18:00
+Ndabeni 18:03
+Train No: 531
+Maitland 18:25
+Ndabeni 18:28
+Train No: 533
+Maitland 18:58
+Ndabeni 19:01
+
+Train No: 501
+Maitland 05:40
+Pinelands 05:47
+Train No: 503
+Maitland 06:00
+Pinelands 06:07
+Train No: 505
+Maitland 06:45
+Pinelands 06:52
+Train No: 507
+Maitland 07:25
+Pinelands 07:32
+Train No: 509
+Maitland 08:00
+Pinelands 08:07
+Train No: 511
+Maitland 08:25
+Pinelands 08:32
+Train No: 513
+Maitland 09:15
+Pinelands 09:22
+Train No: 515
+Maitland 10:45
+Pinelands 10:52
+Train No: 517
+Maitland 11:45
+Pinelands 11:52
+Train No: 519
+Maitland 14:15
+Pinelands 14:22
+Train No: 521
+Maitland 15:05
+Pinelands 15:12
+Train No: 523
+Maitland 15:35
+Pinelands 15:42
+Train No: 525
+Maitland 16:40
+Pinelands 16:47
+Train No: 527
+Maitland 17:15
+Pinelands 17:22
+Train No: 529
+Maitland 18:00
+Pinelands 18:07
+Train No: 531
+Maitland 18:25
+Pinelands 18:32
+Train No: 533
+Maitland 18:58
+Pinelands 19:05
+
+Train No: 501
+Maitland 05:40
+Hazendal 05:51
+Train No: 503
+Maitland 06:00
+Hazendal 06:11
+Train No: 505
+Maitland 06:45
+Hazendal 06:56
+Train No: 507
+Maitland 07:25
+Hazendal 07:36
+Train No: 509
+Maitland 08:00
+Hazendal 08:11
+Train No: 511
+Maitland 08:25
+Hazendal 08:36
+Train No: 513
+Maitland 09:15
+Hazendal 09:26
+Train No: 515
+Maitland 10:45
+Hazendal 10:56
+Train No: 517
+Maitland 11:45
+Hazendal 11:56
+Train No: 519
+Maitland 14:15
+Hazendal 14:26
+Train No: 521
+Maitland 15:05
+Hazendal 15:16
+Train No: 523
+Maitland 15:35
+Hazendal 15:46
+Train No: 525
+Maitland 16:40
+Hazendal 16:51
+Train No: 527
+Maitland 17:15
+Hazendal 17:26
+Train No: 529
+Maitland 18:00
+Hazendal 18:11
+Train No: 531
+Maitland 18:25
+Hazendal 18:36
+Train No: 533
+Maitland 18:58
+Hazendal 19:09
+
+Train No: 501
+Maitland 05:40
+Athlone 05:54
+Train No: 503
+Maitland 06:00
+Athlone 06:14
+Train No: 505
+Maitland 06:45
+Athlone 06:59
+Train No: 507
+Maitland 07:25
+Athlone 07:39
+Train No: 509
+Maitland 08:00
+Athlone 08:14
+Train No: 511
+Maitland 08:25
+Athlone 08:39
+Train No: 513
+Maitland 09:15
+Athlone 09:29
+Train No: 515
+Maitland 10:45
+Athlone 10:59
+Train No: 517
+Maitland 11:45
+Athlone 11:59
+Train No: 519
+Maitland 14:15
+Athlone 14:29
+Train No: 521
+Maitland 15:05
+Athlone 15:19
+Train No: 523
+Maitland 15:35
+Athlone 15:49
+Train No: 525
+Maitland 16:40
+Athlone 16:54
+Train No: 527
+Maitland 17:15
+Athlone 17:29
+Train No: 529
+Maitland 18:00
+Athlone 18:14
+Train No: 531
+Maitland 18:25
+Athlone 18:39
+Train No: 533
+Maitland 18:58
+Athlone 19:12
+
+Train No: 501
+Maitland 05:40
+Crawford 05:56
+Train No: 503
+Maitland 06:00
+Crawford 06:16
+Train No: 505
+Maitland 06:45
+Crawford 07:01
+Train No: 507
+Maitland 07:25
+Crawford 07:41
+Train No: 509
+Maitland 08:00
+Crawford 08:16
+Train No: 511
+Maitland 08:25
+Crawford 08:41
+Train No: 513
+Maitland 09:15
+Crawford 09:31
+Train No: 515
+Maitland 10:45
+Crawford 11:01
+Train No: 517
+Maitland 11:45
+Crawford 12:01
+Train No: 519
+Maitland 14:15
+Crawford 14:31
+Train No: 521
+Maitland 15:05
+Crawford 15:21
+Train No: 523
+Maitland 15:35
+Crawford 15:51
+Train No: 525
+Maitland 16:40
+Crawford 16:56
+Train No: 527
+Maitland 17:15
+Crawford 17:31
+Train No: 529
+Maitland 18:00
+Crawford 18:16
+Train No: 531
+Maitland 18:25
+Crawford 18:41
+Train No: 533
+Maitland 18:58
+Crawford 19:14
+
+Train No: 501
+Maitland 05:40
+Lansdowne 05:59
+Train No: 503
+Maitland 06:00
+Lansdowne 06:19
+Train No: 505
+Maitland 06:45
+Lansdowne 07:04
+Train No: 507
+Maitland 07:25
+Lansdowne 07:44
+Train No: 509
+Maitland 08:00
+Lansdowne 08:19
+Train No: 511
+Maitland 08:25
+Lansdowne 08:44
+Train No: 513
+Maitland 09:15
+Lansdowne 09:34
+Train No: 515
+Maitland 10:45
+Lansdowne 11:04
+Train No: 517
+Maitland 11:45
+Lansdowne 12:04
+Train No: 519
+Maitland 14:15
+Lansdowne 14:34
+Train No: 521
+Maitland 15:05
+Lansdowne 15:24
+Train No: 523
+Maitland 15:35
+Lansdowne 15:54
+Train No: 525
+Maitland 16:40
+Lansdowne 16:59
+Train No: 527
+Maitland 17:15
+Lansdowne 17:34
+Train No: 529
+Maitland 18:00
+Lansdowne 18:19
+Train No: 531
+Maitland 18:25
+Lansdowne 18:44
+Train No: 533
+Maitland 18:58
+Lansdowne 19:17
+
+Train No: 501
+Maitland 05:40
+Wetton 06:02
+Train No: 503
+Maitland 06:00
+Wetton 06:22
+Train No: 505
+Maitland 06:45
+Wetton 07:07
+Train No: 507
+Maitland 07:25
+Wetton 07:47
+Train No: 509
+Maitland 08:00
+Wetton 08:22
+Train No: 511
+Maitland 08:25
+Wetton 08:47
+Train No: 513
+Maitland 09:15
+Wetton 09:37
+Train No: 515
+Maitland 10:45
+Wetton 11:07
+Train No: 517
+Maitland 11:45
+Wetton 12:07
+Train No: 519
+Maitland 14:15
+Wetton 14:37
+Train No: 521
+Maitland 15:05
+Wetton 15:27
+Train No: 523
+Maitland 15:35
+Wetton 15:57
+Train No: 525
+Maitland 16:40
+Wetton 17:02
+Train No: 527
+Maitland 17:15
+Wetton 17:37
+Train No: 529
+Maitland 18:00
+Wetton 18:22
+Train No: 531
+Maitland 18:25
+Wetton 18:47
+Train No: 533
+Maitland 18:58
+Wetton 19:20
+
+Train No: 501
+Maitland 05:40
+Ottery 06:05
+Train No: 503
+Maitland 06:00
+Ottery 06:25
+Train No: 505
+Maitland 06:45
+Ottery 07:10
+Train No: 507
+Maitland 07:25
+Ottery 07:50
+Train No: 509
+Maitland 08:00
+Ottery 08:25
+Train No: 511
+Maitland 08:25
+Ottery 08:50
+Train No: 513
+Maitland 09:15
+Ottery 09:40
+Train No: 515
+Maitland 10:45
+Ottery 11:10
+Train No: 517
+Maitland 11:45
+Ottery 12:10
+Train No: 519
+Maitland 14:15
+Ottery 14:40
+Train No: 521
+Maitland 15:05
+Ottery 15:30
+Train No: 523
+Maitland 15:35
+Ottery 16:00
+Train No: 525
+Maitland 16:40
+Ottery 17:05
+Train No: 527
+Maitland 17:15
+Ottery 17:40
+Train No: 529
+Maitland 18:00
+Ottery 18:25
+Train No: 531
+Maitland 18:25
+Ottery 18:50
+Train No: 533
+Maitland 18:58
+Ottery 19:23
+
+Train No: 501
+Maitland 05:40
+Southfield 06:10
+Train No: 503
+Maitland 06:00
+Southfield 06:30
+Train No: 505
+Maitland 06:45
+Southfield 07:15
+Train No: 507
+Maitland 07:25
+Southfield 07:55
+Train No: 509
+Maitland 08:00
+Southfield 08:30
+Train No: 511
+Maitland 08:25
+Southfield 08:55
+Train No: 513
+Maitland 09:15
+Southfield 09:45
+Train No: 515
+Maitland 10:45
+Southfield 11:15
+Train No: 517
+Maitland 11:45
+Southfield 12:15
+Train No: 519
+Maitland 14:15
+Southfield 14:45
+Train No: 521
+Maitland 15:05
+Southfield 15:35
+Train No: 523
+Maitland 15:35
+Southfield 16:05
+Train No: 525
+Maitland 16:40
+Southfield 17:10
+Train No: 527
+Maitland 17:15
+Southfield 17:45
+Train No: 529
+Maitland 18:00
+Southfield 18:30
+Train No: 531
+Maitland 18:25
+Southfield 18:55
+Train No: 533
+Maitland 18:58
+Southfield 19:28
+
+Train No: 501
+Maitland 05:40
+Heathfield 06:13
+Train No: 503
+Maitland 06:00
+Heathfield 06:33
+Train No: 505
+Maitland 06:45
+Heathfield 07:18
+Train No: 507
+Maitland 07:25
+Heathfield 07:58
+Train No: 509
+Maitland 08:00
+Heathfield 08:33
+Train No: 511
+Maitland 08:25
+Heathfield 08:58
+Train No: 513
+Maitland 09:15
+Heathfield 09:48
+Train No: 515
+Maitland 10:45
+Heathfield 11:18
+Train No: 517
+Maitland 11:45
+Heathfield 12:18
+Train No: 519
+Maitland 14:15
+Heathfield 14:48
+Train No: 521
+Maitland 15:05
+Heathfield 15:38
+Train No: 523
+Maitland 15:35
+Heathfield 16:08
+Train No: 525
+Maitland 16:40
+Heathfield 17:13
+Train No: 527
+Maitland 17:15
+Heathfield 17:48
+Train No: 529
+Maitland 18:00
+Heathfield 18:33
+Train No: 531
+Maitland 18:25
+Heathfield 18:58
+Train No: 533
+Maitland 18:58
+Heathfield 19:31
+
+Train No: 501
+Maitland 05:40
+Retreat 06:15
+Train No: 503
+Maitland 06:00
+Retreat 06:35
+Train No: 505
+Maitland 06:45
+Retreat 07:20
+Train No: 507
+Maitland 07:25
+Retreat 08:00
+Train No: 509
+Maitland 08:00
+Retreat 08:35
+Train No: 511
+Maitland 08:25
+Retreat 09:00
+Train No: 513
+Maitland 09:15
+Retreat 09:50
+Train No: 515
+Maitland 10:45
+Retreat 11:20
+Train No: 517
+Maitland 11:45
+Retreat 12:20
+Train No: 519
+Maitland 14:15
+Retreat 14:50
+Train No: 521
+Maitland 15:05
+Retreat 15:40
+Train No: 523
+Maitland 15:35
+Retreat 16:10
+Train No: 525
+Maitland 16:40
+Retreat 17:15
+Train No: 527
+Maitland 17:15
+Retreat 17:50
+Train No: 529
+Maitland 18:00
+Retreat 18:35
+Train No: 531
+Maitland 18:25
+Retreat 19:00
+Train No: 533
+Maitland 18:58
+Retreat 19:33
+
+Train No: 500
+Ndabeni 05:42
+Cape Town 06:10
+Train No: 502
+Ndabeni 06:22
+Cape Town 06:50
+Train No: 504
+Ndabeni 06:57
+Cape Town 07:25
+Train No: 506
+Ndabeni 07:17
+Cape Town 07:45
+Train No: 508
+Ndabeni 08:02
+Cape Town 08:30
+Train No: 510
+Ndabeni 08:42
+Cape Town 09:10
+Train No: 512
+Ndabeni 09:32
+Cape Town 10:00
+Train No: 514
+Ndabeni 09:52
+Cape Town 10:20
+Train No: 516
+Ndabeni 10:32
+Cape Town 11:00
+Train No: 518
+Ndabeni 12:14
+Cape Town 12:42
+Train No: 520
+Ndabeni 13:14
+Cape Town 13:42
+Train No: 522
+Ndabeni 15:37
+Cape Town 16:05
+Train No: 524
+Ndabeni 16:42
+Cape Town 17:10
+Train No: 526
+Ndabeni 16:57
+Cape Town 17:25
+Train No: 528
+Ndabeni 17:57
+Cape Town 18:25
+Train No: 530
+Ndabeni 18:32
+Cape Town 19:00
+Train No: 532
+Ndabeni 19:17
+Cape Town 19:45
+
+Train No: 500
+Ndabeni 05:42
+Woodstock 06:03
+Train No: 502
+Ndabeni 06:22
+Woodstock 06:43
+Train No: 504
+Ndabeni 06:57
+Woodstock 07:18
+Train No: 506
+Ndabeni 07:17
+Woodstock 07:38
+Train No: 508
+Ndabeni 08:02
+Woodstock 08:23
+Train No: 510
+Ndabeni 08:42
+Woodstock 09:03
+Train No: 512
+Ndabeni 09:32
+Woodstock 09:53
+Train No: 514
+Ndabeni 09:52
+Woodstock 10:13
+Train No: 516
+Ndabeni 10:32
+Woodstock 10:53
+Train No: 518
+Ndabeni 12:14
+Woodstock 12:35
+Train No: 520
+Ndabeni 13:14
+Woodstock 13:35
+Train No: 522
+Ndabeni 15:37
+Woodstock 15:58
+Train No: 524
+Ndabeni 16:42
+Woodstock 17:03
+Train No: 526
+Ndabeni 16:57
+Woodstock 17:18
+Train No: 528
+Ndabeni 17:57
+Woodstock 18:18
+Train No: 530
+Ndabeni 18:32
+Woodstock 18:53
+Train No: 532
+Ndabeni 19:17
+Woodstock 19:38
+
+Train No: 500
+Ndabeni 05:42
+Salt River 05:55
+Train No: 502
+Ndabeni 06:22
+Salt River 06:35
+Train No: 504
+Ndabeni 06:57
+Salt River 07:10
+Train No: 506
+Ndabeni 07:17
+Salt River 07:30
+Train No: 508
+Ndabeni 08:02
+Salt River 08:15
+Train No: 510
+Ndabeni 08:42
+Salt River 08:55
+Train No: 512
+Ndabeni 09:32
+Salt River 09:45
+Train No: 514
+Ndabeni 09:52
+Salt River 10:05
+Train No: 516
+Ndabeni 10:32
+Salt River 10:45
+Train No: 518
+Ndabeni 12:14
+Salt River 12:27
+Train No: 520
+Ndabeni 13:14
+Salt River 13:27
+Train No: 522
+Ndabeni 15:37
+Salt River 15:50
+Train No: 524
+Ndabeni 16:42
+Salt River 16:55
+Train No: 526
+Ndabeni 16:57
+Salt River 17:10
+Train No: 528
+Ndabeni 17:57
+Salt River 18:10
+Train No: 530
+Ndabeni 18:32
+Salt River 18:45
+Train No: 532
+Ndabeni 19:17
+Salt River 19:30
+
+
+Train No: 500
+Ndabeni 05:42
+Maitland 05:46
+Train No: 502
+Ndabeni 06:22
+Maitland 06:26
+Train No: 504
+Ndabeni 06:57
+Maitland 07:01
+Train No: 506
+Ndabeni 07:17
+Maitland 07:21
+Train No: 508
+Ndabeni 08:02
+Maitland 08:06
+Train No: 510
+Ndabeni 08:42
+Maitland 08:46
+Train No: 512
+Ndabeni 09:32
+Maitland 09:36
+Train No: 514
+Ndabeni 09:52
+Maitland 09:56
+Train No: 516
+Ndabeni 10:32
+Maitland 10:36
+Train No: 518
+Ndabeni 12:14
+Maitland 12:18
+Train No: 520
+Ndabeni 13:14
+Maitland 13:18
+Train No: 522
+Ndabeni 15:37
+Maitland 15:41
+Train No: 524
+Ndabeni 16:42
+Maitland 16:46
+Train No: 526
+Ndabeni 16:57
+Maitland 17:01
+Train No: 528
+Ndabeni 17:57
+Maitland 18:01
+Train No: 530
+Ndabeni 18:32
+Maitland 18:36
+Train No: 532
+Ndabeni 19:17
+Maitland 19:21
+
+Train No: 501
+Ndabeni 05:43
+Pinelands 05:47
+Train No: 503
+Ndabeni 06:03
+Pinelands 06:07
+Train No: 505
+Ndabeni 06:48
+Pinelands 06:52
+Train No: 507
+Ndabeni 07:28
+Pinelands 07:32
+Train No: 509
+Ndabeni 08:03
+Pinelands 08:07
+Train No: 511
+Ndabeni 08:28
+Pinelands 08:32
+Train No: 513
+Ndabeni 09:18
+Pinelands 09:22
+Train No: 515
+Ndabeni 10:48
+Pinelands 10:52
+Train No: 517
+Ndabeni 11:48
+Pinelands 11:52
+Train No: 519
+Ndabeni 14:18
+Pinelands 14:22
+Train No: 521
+Ndabeni 15:08
+Pinelands 15:12
+Train No: 523
+Ndabeni 15:38
+Pinelands 15:42
+Train No: 525
+Ndabeni 16:43
+Pinelands 16:47
+Train No: 527
+Ndabeni 17:18
+Pinelands 17:22
+Train No: 529
+Ndabeni 18:03
+Pinelands 18:07
+Train No: 531
+Ndabeni 18:28
+Pinelands 18:32
+Train No: 533
+Ndabeni 19:01
+Pinelands 19:05
+
+Train No: 501
+Ndabeni 05:43
+Hazendal 05:51
+Train No: 503
+Ndabeni 06:03
+Hazendal 06:11
+Train No: 505
+Ndabeni 06:48
+Hazendal 06:56
+Train No: 507
+Ndabeni 07:28
+Hazendal 07:36
+Train No: 509
+Ndabeni 08:03
+Hazendal 08:11
+Train No: 511
+Ndabeni 08:28
+Hazendal 08:36
+Train No: 513
+Ndabeni 09:18
+Hazendal 09:26
+Train No: 515
+Ndabeni 10:48
+Hazendal 10:56
+Train No: 517
+Ndabeni 11:48
+Hazendal 11:56
+Train No: 519
+Ndabeni 14:18
+Hazendal 14:26
+Train No: 521
+Ndabeni 15:08
+Hazendal 15:16
+Train No: 523
+Ndabeni 15:38
+Hazendal 15:46
+Train No: 525
+Ndabeni 16:43
+Hazendal 16:51
+Train No: 527
+Ndabeni 17:18
+Hazendal 17:26
+Train No: 529
+Ndabeni 18:03
+Hazendal 18:11
+Train No: 531
+Ndabeni 18:28
+Hazendal 18:36
+Train No: 533
+Ndabeni 19:01
+Hazendal 19:09
+
+Train No: 501
+Ndabeni 05:43
+Athlone 05:54
+Train No: 503
+Ndabeni 06:03
+Athlone 06:14
+Train No: 505
+Ndabeni 06:48
+Athlone 06:59
+Train No: 507
+Ndabeni 07:28
+Athlone 07:39
+Train No: 509
+Ndabeni 08:03
+Athlone 08:14
+Train No: 511
+Ndabeni 08:28
+Athlone 08:39
+Train No: 513
+Ndabeni 09:18
+Athlone 09:29
+Train No: 515
+Ndabeni 10:48
+Athlone 10:59
+Train No: 517
+Ndabeni 11:48
+Athlone 11:59
+Train No: 519
+Ndabeni 14:18
+Athlone 14:29
+Train No: 521
+Ndabeni 15:08
+Athlone 15:19
+Train No: 523
+Ndabeni 15:38
+Athlone 15:49
+Train No: 525
+Ndabeni 16:43
+Athlone 16:54
+Train No: 527
+Ndabeni 17:18
+Athlone 17:29
+Train No: 529
+Ndabeni 18:03
+Athlone 18:14
+Train No: 531
+Ndabeni 18:28
+Athlone 18:39
+Train No: 533
+Ndabeni 19:01
+Athlone 19:12
+
+Train No: 501
+Ndabeni 05:43
+Crawford 05:56
+Train No: 503
+Ndabeni 06:03
+Crawford 06:16
+Train No: 505
+Ndabeni 06:48
+Crawford 07:01
+Train No: 507
+Ndabeni 07:28
+Crawford 07:41
+Train No: 509
+Ndabeni 08:03
+Crawford 08:16
+Train No: 511
+Ndabeni 08:28
+Crawford 08:41
+Train No: 513
+Ndabeni 09:18
+Crawford 09:31
+Train No: 515
+Ndabeni 10:48
+Crawford 11:01
+Train No: 517
+Ndabeni 11:48
+Crawford 12:01
+Train No: 519
+Ndabeni 14:18
+Crawford 14:31
+Train No: 521
+Ndabeni 15:08
+Crawford 15:21
+Train No: 523
+Ndabeni 15:38
+Crawford 15:51
+Train No: 525
+Ndabeni 16:43
+Crawford 16:56
+Train No: 527
+Ndabeni 17:18
+Crawford 17:31
+Train No: 529
+Ndabeni 18:03
+Crawford 18:16
+Train No: 531
+Ndabeni 18:28
+Crawford 18:41
+Train No: 533
+Ndabeni 19:01
+Crawford 19:14
+
+Train No: 501
+Ndabeni 05:43
+Lansdowne 05:59
+Train No: 503
+Ndabeni 06:03
+Lansdowne 06:19
+Train No: 505
+Ndabeni 06:48
+Lansdowne 07:04
+Train No: 507
+Ndabeni 07:28
+Lansdowne 07:44
+Train No: 509
+Ndabeni 08:03
+Lansdowne 08:19
+Train No: 511
+Ndabeni 08:28
+Lansdowne 08:44
+Train No: 513
+Ndabeni 09:18
+Lansdowne 09:34
+Train No: 515
+Ndabeni 10:48
+Lansdowne 11:04
+Train No: 517
+Ndabeni 11:48
+Lansdowne 12:04
+Train No: 519
+Ndabeni 14:18
+Lansdowne 14:34
+Train No: 521
+Ndabeni 15:08
+Lansdowne 15:24
+Train No: 523
+Ndabeni 15:38
+Lansdowne 15:54
+Train No: 525
+Ndabeni 16:43
+Lansdowne 16:59
+Train No: 527
+Ndabeni 17:18
+Lansdowne 17:34
+Train No: 529
+Ndabeni 18:03
+Lansdowne 18:19
+Train No: 531
+Ndabeni 18:28
+Lansdowne 18:44
+Train No: 533
+Ndabeni 19:01
+Lansdowne 19:17
+
+Train No: 501
+Ndabeni 05:43
+Wetton 06:02
+Train No: 503
+Ndabeni 06:03
+Wetton 06:22
+Train No: 505
+Ndabeni 06:48
+Wetton 07:07
+Train No: 507
+Ndabeni 07:28
+Wetton 07:47
+Train No: 509
+Ndabeni 08:03
+Wetton 08:22
+Train No: 511
+Ndabeni 08:28
+Wetton 08:47
+Train No: 513
+Ndabeni 09:18
+Wetton 09:37
+Train No: 515
+Ndabeni 10:48
+Wetton 11:07
+Train No: 517
+Ndabeni 11:48
+Wetton 12:07
+Train No: 519
+Ndabeni 14:18
+Wetton 14:37
+Train No: 521
+Ndabeni 15:08
+Wetton 15:27
+Train No: 523
+Ndabeni 15:38
+Wetton 15:57
+Train No: 525
+Ndabeni 16:43
+Wetton 17:02
+Train No: 527
+Ndabeni 17:18
+Wetton 17:37
+Train No: 529
+Ndabeni 18:03
+Wetton 18:22
+Train No: 531
+Ndabeni 18:28
+Wetton 18:47
+Train No: 533
+Ndabeni 19:01
+Wetton 19:20
+
+Train No: 501
+Ndabeni 05:43
+Ottery 06:05
+Train No: 503
+Ndabeni 06:03
+Ottery 06:25
+Train No: 505
+Ndabeni 06:48
+Ottery 07:10
+Train No: 507
+Ndabeni 07:28
+Ottery 07:50
+Train No: 509
+Ndabeni 08:03
+Ottery 08:25
+Train No: 511
+Ndabeni 08:28
+Ottery 08:50
+Train No: 513
+Ndabeni 09:18
+Ottery 09:40
+Train No: 515
+Ndabeni 10:48
+Ottery 11:10
+Train No: 517
+Ndabeni 11:48
+Ottery 12:10
+Train No: 519
+Ndabeni 14:18
+Ottery 14:40
+Train No: 521
+Ndabeni 15:08
+Ottery 15:30
+Train No: 523
+Ndabeni 15:38
+Ottery 16:00
+Train No: 525
+Ndabeni 16:43
+Ottery 17:05
+Train No: 527
+Ndabeni 17:18
+Ottery 17:40
+Train No: 529
+Ndabeni 18:03
+Ottery 18:25
+Train No: 531
+Ndabeni 18:28
+Ottery 18:50
+Train No: 533
+Ndabeni 19:01
+Ottery 19:23
+
+Train No: 501
+Ndabeni 05:43
+Southfield 06:10
+Train No: 503
+Ndabeni 06:03
+Southfield 06:30
+Train No: 505
+Ndabeni 06:48
+Southfield 07:15
+Train No: 507
+Ndabeni 07:28
+Southfield 07:55
+Train No: 509
+Ndabeni 08:03
+Southfield 08:30
+Train No: 511
+Ndabeni 08:28
+Southfield 08:55
+Train No: 513
+Ndabeni 09:18
+Southfield 09:45
+Train No: 515
+Ndabeni 10:48
+Southfield 11:15
+Train No: 517
+Ndabeni 11:48
+Southfield 12:15
+Train No: 519
+Ndabeni 14:18
+Southfield 14:45
+Train No: 521
+Ndabeni 15:08
+Southfield 15:35
+Train No: 523
+Ndabeni 15:38
+Southfield 16:05
+Train No: 525
+Ndabeni 16:43
+Southfield 17:10
+Train No: 527
+Ndabeni 17:18
+Southfield 17:45
+Train No: 529
+Ndabeni 18:03
+Southfield 18:30
+Train No: 531
+Ndabeni 18:28
+Southfield 18:55
+Train No: 533
+Ndabeni 19:01
+Southfield 19:28
+
+Train No: 501
+Ndabeni 05:43
+Heathfield 06:13
+Train No: 503
+Ndabeni 06:03
+Heathfield 06:33
+Train No: 505
+Ndabeni 06:48
+Heathfield 07:18
+Train No: 507
+Ndabeni 07:28
+Heathfield 07:58
+Train No: 509
+Ndabeni 08:03
+Heathfield 08:33
+Train No: 511
+Ndabeni 08:28
+Heathfield 08:58
+Train No: 513
+Ndabeni 09:18
+Heathfield 09:48
+Train No: 515
+Ndabeni 10:48
+Heathfield 11:18
+Train No: 517
+Ndabeni 11:48
+Heathfield 12:18
+Train No: 519
+Ndabeni 14:18
+Heathfield 14:48
+Train No: 521
+Ndabeni 15:08
+Heathfield 15:38
+Train No: 523
+Ndabeni 15:38
+Heathfield 16:08
+Train No: 525
+Ndabeni 16:43
+Heathfield 17:13
+Train No: 527
+Ndabeni 17:18
+Heathfield 17:48
+Train No: 529
+Ndabeni 18:03
+Heathfield 18:33
+Train No: 531
+Ndabeni 18:28
+Heathfield 18:58
+Train No: 533
+Ndabeni 19:01
+Heathfield 19:31
+
+Train No: 501
+Ndabeni 05:43
+Retreat 06:15
+Train No: 503
+Ndabeni 06:03
+Retreat 06:35
+Train No: 505
+Ndabeni 06:48
+Retreat 07:20
+Train No: 507
+Ndabeni 07:28
+Retreat 08:00
+Train No: 509
+Ndabeni 08:03
+Retreat 08:35
+Train No: 511
+Ndabeni 08:28
+Retreat 09:00
+Train No: 513
+Ndabeni 09:18
+Retreat 09:50
+Train No: 515
+Ndabeni 10:48
+Retreat 11:20
+Train No: 517
+Ndabeni 11:48
+Retreat 12:20
+Train No: 519
+Ndabeni 14:18
+Retreat 14:50
+Train No: 521
+Ndabeni 15:08
+Retreat 15:40
+Train No: 523
+Ndabeni 15:38
+Retreat 16:10
+Train No: 525
+Ndabeni 16:43
+Retreat 17:15
+Train No: 527
+Ndabeni 17:18
+Retreat 17:50
+Train No: 529
+Ndabeni 18:03
+Retreat 18:35
+Train No: 531
+Ndabeni 18:28
+Retreat 19:00
+Train No: 533
+Ndabeni 19:01
+Retreat 19:33
+
+Train No: 500
+Pinelands 05:39
+Cape Town 06:10
+Train No: 502
+Pinelands 06:19
+Cape Town 06:50
+Train No: 504
+Pinelands 06:54
+Cape Town 07:25
+Train No: 506
+Pinelands 07:14
+Cape Town 07:45
+Train No: 508
+Pinelands 07:59
+Cape Town 08:30
+Train No: 510
+Pinelands 08:39
+Cape Town 09:10
+Train No: 512
+Pinelands 09:29
+Cape Town 10:00
+Train No: 514
+Pinelands 09:49
+Cape Town 10:20
+Train No: 516
+Pinelands 10:29
+Cape Town 11:00
+Train No: 518
+Pinelands 12:11
+Cape Town 12:42
+Train No: 520
+Pinelands 13:11
+Cape Town 13:42
+Train No: 522
+Pinelands 15:34
+Cape Town 16:05
+Train No: 524
+Pinelands 16:39
+Cape Town 17:10
+Train No: 526
+Pinelands 16:54
+Cape Town 17:25
+Train No: 528
+Pinelands 17:54
+Cape Town 18:25
+Train No: 530
+Pinelands 18:29
+Cape Town 19:00
+Train No: 532
+Pinelands 19:14
+Cape Town 19:45
+
+Train No: 500
+Pinelands 05:39
+Woodstock 06:03
+Train No: 502
+Pinelands 06:19
+Woodstock 06:43
+Train No: 504
+Pinelands 06:54
+Woodstock 07:18
+Train No: 506
+Pinelands 07:14
+Woodstock 07:38
+Train No: 508
+Pinelands 07:59
+Woodstock 08:23
+Train No: 510
+Pinelands 08:39
+Woodstock 09:03
+Train No: 512
+Pinelands 09:29
+Woodstock 09:53
+Train No: 514
+Pinelands 09:49
+Woodstock 10:13
+Train No: 516
+Pinelands 10:29
+Woodstock 10:53
+Train No: 518
+Pinelands 12:11
+Woodstock 12:35
+Train No: 520
+Pinelands 13:11
+Woodstock 13:35
+Train No: 522
+Pinelands 15:34
+Woodstock 15:58
+Train No: 524
+Pinelands 16:39
+Woodstock 17:03
+Train No: 526
+Pinelands 16:54
+Woodstock 17:18
+Train No: 528
+Pinelands 17:54
+Woodstock 18:18
+Train No: 530
+Pinelands 18:29
+Woodstock 18:53
+Train No: 532
+Pinelands 19:14
+Woodstock 19:38
+
+Train No: 500
+Pinelands 05:39
+Salt River 05:55
+Train No: 502
+Pinelands 06:19
+Salt River 06:35
+Train No: 504
+Pinelands 06:54
+Salt River 07:10
+Train No: 506
+Pinelands 07:14
+Salt River 07:30
+Train No: 508
+Pinelands 07:59
+Salt River 08:15
+Train No: 510
+Pinelands 08:39
+Salt River 08:55
+Train No: 512
+Pinelands 09:29
+Salt River 09:45
+Train No: 514
+Pinelands 09:49
+Salt River 10:05
+Train No: 516
+Pinelands 10:29
+Salt River 10:45
+Train No: 518
+Pinelands 12:11
+Salt River 12:27
+Train No: 520
+Pinelands 13:11
+Salt River 13:27
+Train No: 522
+Pinelands 15:34
+Salt River 15:50
+Train No: 524
+Pinelands 16:39
+Salt River 16:55
+Train No: 526
+Pinelands 16:54
+Salt River 17:10
+Train No: 528
+Pinelands 17:54
+Salt River 18:10
+Train No: 530
+Pinelands 18:29
+Salt River 18:45
+Train No: 532
+Pinelands 19:14
+Salt River 19:30
+
+
+Train No: 500
+Pinelands 05:39
+Maitland 05:46
+Train No: 502
+Pinelands 06:19
+Maitland 06:26
+Train No: 504
+Pinelands 06:54
+Maitland 07:01
+Train No: 506
+Pinelands 07:14
+Maitland 07:21
+Train No: 508
+Pinelands 07:59
+Maitland 08:06
+Train No: 510
+Pinelands 08:39
+Maitland 08:46
+Train No: 512
+Pinelands 09:29
+Maitland 09:36
+Train No: 514
+Pinelands 09:49
+Maitland 09:56
+Train No: 516
+Pinelands 10:29
+Maitland 10:36
+Train No: 518
+Pinelands 12:11
+Maitland 12:18
+Train No: 520
+Pinelands 13:11
+Maitland 13:18
+Train No: 522
+Pinelands 15:34
+Maitland 15:41
+Train No: 524
+Pinelands 16:39
+Maitland 16:46
+Train No: 526
+Pinelands 16:54
+Maitland 17:01
+Train No: 528
+Pinelands 17:54
+Maitland 18:01
+Train No: 530
+Pinelands 18:29
+Maitland 18:36
+Train No: 532
+Pinelands 19:14
+Maitland 19:21
+
+Train No: 500
+Pinelands 05:39
+Ndabeni 05:42
+Train No: 502
+Pinelands 06:19
+Ndabeni 06:22
+Train No: 504
+Pinelands 06:54
+Ndabeni 06:57
+Train No: 506
+Pinelands 07:14
+Ndabeni 07:17
+Train No: 508
+Pinelands 07:59
+Ndabeni 08:02
+Train No: 510
+Pinelands 08:39
+Ndabeni 08:42
+Train No: 512
+Pinelands 09:29
+Ndabeni 09:32
+Train No: 514
+Pinelands 09:49
+Ndabeni 09:52
+Train No: 516
+Pinelands 10:29
+Ndabeni 10:32
+Train No: 518
+Pinelands 12:11
+Ndabeni 12:14
+Train No: 520
+Pinelands 13:11
+Ndabeni 13:14
+Train No: 522
+Pinelands 15:34
+Ndabeni 15:37
+Train No: 524
+Pinelands 16:39
+Ndabeni 16:42
+Train No: 526
+Pinelands 16:54
+Ndabeni 16:57
+Train No: 528
+Pinelands 17:54
+Ndabeni 17:57
+Train No: 530
+Pinelands 18:29
+Ndabeni 18:32
+Train No: 532
+Pinelands 19:14
+Ndabeni 19:17
+
+Train No: 501
+Pinelands 05:47
+Hazendal 05:51
+Train No: 503
+Pinelands 06:07
+Hazendal 06:11
+Train No: 505
+Pinelands 06:52
+Hazendal 06:56
+Train No: 507
+Pinelands 07:32
+Hazendal 07:36
+Train No: 509
+Pinelands 08:07
+Hazendal 08:11
+Train No: 511
+Pinelands 08:32
+Hazendal 08:36
+Train No: 513
+Pinelands 09:22
+Hazendal 09:26
+Train No: 515
+Pinelands 10:52
+Hazendal 10:56
+Train No: 517
+Pinelands 11:52
+Hazendal 11:56
+Train No: 519
+Pinelands 14:22
+Hazendal 14:26
+Train No: 521
+Pinelands 15:12
+Hazendal 15:16
+Train No: 523
+Pinelands 15:42
+Hazendal 15:46
+Train No: 525
+Pinelands 16:47
+Hazendal 16:51
+Train No: 527
+Pinelands 17:22
+Hazendal 17:26
+Train No: 529
+Pinelands 18:07
+Hazendal 18:11
+Train No: 531
+Pinelands 18:32
+Hazendal 18:36
+Train No: 533
+Pinelands 19:05
+Hazendal 19:09
+
+Train No: 501
+Pinelands 05:47
+Athlone 05:54
+Train No: 503
+Pinelands 06:07
+Athlone 06:14
+Train No: 505
+Pinelands 06:52
+Athlone 06:59
+Train No: 507
+Pinelands 07:32
+Athlone 07:39
+Train No: 509
+Pinelands 08:07
+Athlone 08:14
+Train No: 511
+Pinelands 08:32
+Athlone 08:39
+Train No: 513
+Pinelands 09:22
+Athlone 09:29
+Train No: 515
+Pinelands 10:52
+Athlone 10:59
+Train No: 517
+Pinelands 11:52
+Athlone 11:59
+Train No: 519
+Pinelands 14:22
+Athlone 14:29
+Train No: 521
+Pinelands 15:12
+Athlone 15:19
+Train No: 523
+Pinelands 15:42
+Athlone 15:49
+Train No: 525
+Pinelands 16:47
+Athlone 16:54
+Train No: 527
+Pinelands 17:22
+Athlone 17:29
+Train No: 529
+Pinelands 18:07
+Athlone 18:14
+Train No: 531
+Pinelands 18:32
+Athlone 18:39
+Train No: 533
+Pinelands 19:05
+Athlone 19:12
+
+Train No: 501
+Pinelands 05:47
+Crawford 05:56
+Train No: 503
+Pinelands 06:07
+Crawford 06:16
+Train No: 505
+Pinelands 06:52
+Crawford 07:01
+Train No: 507
+Pinelands 07:32
+Crawford 07:41
+Train No: 509
+Pinelands 08:07
+Crawford 08:16
+Train No: 511
+Pinelands 08:32
+Crawford 08:41
+Train No: 513
+Pinelands 09:22
+Crawford 09:31
+Train No: 515
+Pinelands 10:52
+Crawford 11:01
+Train No: 517
+Pinelands 11:52
+Crawford 12:01
+Train No: 519
+Pinelands 14:22
+Crawford 14:31
+Train No: 521
+Pinelands 15:12
+Crawford 15:21
+Train No: 523
+Pinelands 15:42
+Crawford 15:51
+Train No: 525
+Pinelands 16:47
+Crawford 16:56
+Train No: 527
+Pinelands 17:22
+Crawford 17:31
+Train No: 529
+Pinelands 18:07
+Crawford 18:16
+Train No: 531
+Pinelands 18:32
+Crawford 18:41
+Train No: 533
+Pinelands 19:05
+Crawford 19:14
+
+Train No: 501
+Pinelands 05:47
+Lansdowne 05:59
+Train No: 503
+Pinelands 06:07
+Lansdowne 06:19
+Train No: 505
+Pinelands 06:52
+Lansdowne 07:04
+Train No: 507
+Pinelands 07:32
+Lansdowne 07:44
+Train No: 509
+Pinelands 08:07
+Lansdowne 08:19
+Train No: 511
+Pinelands 08:32
+Lansdowne 08:44
+Train No: 513
+Pinelands 09:22
+Lansdowne 09:34
+Train No: 515
+Pinelands 10:52
+Lansdowne 11:04
+Train No: 517
+Pinelands 11:52
+Lansdowne 12:04
+Train No: 519
+Pinelands 14:22
+Lansdowne 14:34
+Train No: 521
+Pinelands 15:12
+Lansdowne 15:24
+Train No: 523
+Pinelands 15:42
+Lansdowne 15:54
+Train No: 525
+Pinelands 16:47
+Lansdowne 16:59
+Train No: 527
+Pinelands 17:22
+Lansdowne 17:34
+Train No: 529
+Pinelands 18:07
+Lansdowne 18:19
+Train No: 531
+Pinelands 18:32
+Lansdowne 18:44
+Train No: 533
+Pinelands 19:05
+Lansdowne 19:17
+
+Train No: 501
+Pinelands 05:47
+Wetton 06:02
+Train No: 503
+Pinelands 06:07
+Wetton 06:22
+Train No: 505
+Pinelands 06:52
+Wetton 07:07
+Train No: 507
+Pinelands 07:32
+Wetton 07:47
+Train No: 509
+Pinelands 08:07
+Wetton 08:22
+Train No: 511
+Pinelands 08:32
+Wetton 08:47
+Train No: 513
+Pinelands 09:22
+Wetton 09:37
+Train No: 515
+Pinelands 10:52
+Wetton 11:07
+Train No: 517
+Pinelands 11:52
+Wetton 12:07
+Train No: 519
+Pinelands 14:22
+Wetton 14:37
+Train No: 521
+Pinelands 15:12
+Wetton 15:27
+Train No: 523
+Pinelands 15:42
+Wetton 15:57
+Train No: 525
+Pinelands 16:47
+Wetton 17:02
+Train No: 527
+Pinelands 17:22
+Wetton 17:37
+Train No: 529
+Pinelands 18:07
+Wetton 18:22
+Train No: 531
+Pinelands 18:32
+Wetton 18:47
+Train No: 533
+Pinelands 19:05
+Wetton 19:20
+
+Train No: 501
+Pinelands 05:47
+Ottery 06:05
+Train No: 503
+Pinelands 06:07
+Ottery 06:25
+Train No: 505
+Pinelands 06:52
+Ottery 07:10
+Train No: 507
+Pinelands 07:32
+Ottery 07:50
+Train No: 509
+Pinelands 08:07
+Ottery 08:25
+Train No: 511
+Pinelands 08:32
+Ottery 08:50
+Train No: 513
+Pinelands 09:22
+Ottery 09:40
+Train No: 515
+Pinelands 10:52
+Ottery 11:10
+Train No: 517
+Pinelands 11:52
+Ottery 12:10
+Train No: 519
+Pinelands 14:22
+Ottery 14:40
+Train No: 521
+Pinelands 15:12
+Ottery 15:30
+Train No: 523
+Pinelands 15:42
+Ottery 16:00
+Train No: 525
+Pinelands 16:47
+Ottery 17:05
+Train No: 527
+Pinelands 17:22
+Ottery 17:40
+Train No: 529
+Pinelands 18:07
+Ottery 18:25
+Train No: 531
+Pinelands 18:32
+Ottery 18:50
+Train No: 533
+Pinelands 19:05
+Ottery 19:23
+
+Train No: 501
+Pinelands 05:47
+Southfield 06:10
+Train No: 503
+Pinelands 06:07
+Southfield 06:30
+Train No: 505
+Pinelands 06:52
+Southfield 07:15
+Train No: 507
+Pinelands 07:32
+Southfield 07:55
+Train No: 509
+Pinelands 08:07
+Southfield 08:30
+Train No: 511
+Pinelands 08:32
+Southfield 08:55
+Train No: 513
+Pinelands 09:22
+Southfield 09:45
+Train No: 515
+Pinelands 10:52
+Southfield 11:15
+Train No: 517
+Pinelands 11:52
+Southfield 12:15
+Train No: 519
+Pinelands 14:22
+Southfield 14:45
+Train No: 521
+Pinelands 15:12
+Southfield 15:35
+Train No: 523
+Pinelands 15:42
+Southfield 16:05
+Train No: 525
+Pinelands 16:47
+Southfield 17:10
+Train No: 527
+Pinelands 17:22
+Southfield 17:45
+Train No: 529
+Pinelands 18:07
+Southfield 18:30
+Train No: 531
+Pinelands 18:32
+Southfield 18:55
+Train No: 533
+Pinelands 19:05
+Southfield 19:28
+
+Train No: 501
+Pinelands 05:47
+Heathfield 06:13
+Train No: 503
+Pinelands 06:07
+Heathfield 06:33
+Train No: 505
+Pinelands 06:52
+Heathfield 07:18
+Train No: 507
+Pinelands 07:32
+Heathfield 07:58
+Train No: 509
+Pinelands 08:07
+Heathfield 08:33
+Train No: 511
+Pinelands 08:32
+Heathfield 08:58
+Train No: 513
+Pinelands 09:22
+Heathfield 09:48
+Train No: 515
+Pinelands 10:52
+Heathfield 11:18
+Train No: 517
+Pinelands 11:52
+Heathfield 12:18
+Train No: 519
+Pinelands 14:22
+Heathfield 14:48
+Train No: 521
+Pinelands 15:12
+Heathfield 15:38
+Train No: 523
+Pinelands 15:42
+Heathfield 16:08
+Train No: 525
+Pinelands 16:47
+Heathfield 17:13
+Train No: 527
+Pinelands 17:22
+Heathfield 17:48
+Train No: 529
+Pinelands 18:07
+Heathfield 18:33
+Train No: 531
+Pinelands 18:32
+Heathfield 18:58
+Train No: 533
+Pinelands 19:05
+Heathfield 19:31
+
+Train No: 501
+Pinelands 05:47
+Retreat 06:15
+Train No: 503
+Pinelands 06:07
+Retreat 06:35
+Train No: 505
+Pinelands 06:52
+Retreat 07:20
+Train No: 507
+Pinelands 07:32
+Retreat 08:00
+Train No: 509
+Pinelands 08:07
+Retreat 08:35
+Train No: 511
+Pinelands 08:32
+Retreat 09:00
+Train No: 513
+Pinelands 09:22
+Retreat 09:50
+Train No: 515
+Pinelands 10:52
+Retreat 11:20
+Train No: 517
+Pinelands 11:52
+Retreat 12:20
+Train No: 519
+Pinelands 14:22
+Retreat 14:50
+Train No: 521
+Pinelands 15:12
+Retreat 15:40
+Train No: 523
+Pinelands 15:42
+Retreat 16:10
+Train No: 525
+Pinelands 16:47
+Retreat 17:15
+Train No: 527
+Pinelands 17:22
+Retreat 17:50
+Train No: 529
+Pinelands 18:07
+Retreat 18:35
+Train No: 531
+Pinelands 18:32
+Retreat 19:00
+Train No: 533
+Pinelands 19:05
+Retreat 19:33
+
+Train No: 500
+Hazendal 05:35
+Cape Town 06:10
+Train No: 502
+Hazendal 06:15
+Cape Town 06:50
+Train No: 504
+Hazendal 06:50
+Cape Town 07:25
+Train No: 506
+Hazendal 07:10
+Cape Town 07:45
+Train No: 508
+Hazendal 07:55
+Cape Town 08:30
+Train No: 510
+Hazendal 08:35
+Cape Town 09:10
+Train No: 512
+Hazendal 09:25
+Cape Town 10:00
+Train No: 514
+Hazendal 09:45
+Cape Town 10:20
+Train No: 516
+Hazendal 10:25
+Cape Town 11:00
+Train No: 518
+Hazendal 12:07
+Cape Town 12:42
+Train No: 520
+Hazendal 13:07
+Cape Town 13:42
+Train No: 522
+Hazendal 15:30
+Cape Town 16:05
+Train No: 524
+Hazendal 16:35
+Cape Town 17:10
+Train No: 526
+Hazendal 16:50
+Cape Town 17:25
+Train No: 528
+Hazendal 17:50
+Cape Town 18:25
+Train No: 530
+Hazendal 18:25
+Cape Town 19:00
+Train No: 532
+Hazendal 19:10
+Cape Town 19:45
+
+Train No: 500
+Hazendal 05:35
+Woodstock 06:03
+Train No: 502
+Hazendal 06:15
+Woodstock 06:43
+Train No: 504
+Hazendal 06:50
+Woodstock 07:18
+Train No: 506
+Hazendal 07:10
+Woodstock 07:38
+Train No: 508
+Hazendal 07:55
+Woodstock 08:23
+Train No: 510
+Hazendal 08:35
+Woodstock 09:03
+Train No: 512
+Hazendal 09:25
+Woodstock 09:53
+Train No: 514
+Hazendal 09:45
+Woodstock 10:13
+Train No: 516
+Hazendal 10:25
+Woodstock 10:53
+Train No: 518
+Hazendal 12:07
+Woodstock 12:35
+Train No: 520
+Hazendal 13:07
+Woodstock 13:35
+Train No: 522
+Hazendal 15:30
+Woodstock 15:58
+Train No: 524
+Hazendal 16:35
+Woodstock 17:03
+Train No: 526
+Hazendal 16:50
+Woodstock 17:18
+Train No: 528
+Hazendal 17:50
+Woodstock 18:18
+Train No: 530
+Hazendal 18:25
+Woodstock 18:53
+Train No: 532
+Hazendal 19:10
+Woodstock 19:38
+
+Train No: 500
+Hazendal 05:35
+Salt River 05:55
+Train No: 502
+Hazendal 06:15
+Salt River 06:35
+Train No: 504
+Hazendal 06:50
+Salt River 07:10
+Train No: 506
+Hazendal 07:10
+Salt River 07:30
+Train No: 508
+Hazendal 07:55
+Salt River 08:15
+Train No: 510
+Hazendal 08:35
+Salt River 08:55
+Train No: 512
+Hazendal 09:25
+Salt River 09:45
+Train No: 514
+Hazendal 09:45
+Salt River 10:05
+Train No: 516
+Hazendal 10:25
+Salt River 10:45
+Train No: 518
+Hazendal 12:07
+Salt River 12:27
+Train No: 520
+Hazendal 13:07
+Salt River 13:27
+Train No: 522
+Hazendal 15:30
+Salt River 15:50
+Train No: 524
+Hazendal 16:35
+Salt River 16:55
+Train No: 526
+Hazendal 16:50
+Salt River 17:10
+Train No: 528
+Hazendal 17:50
+Salt River 18:10
+Train No: 530
+Hazendal 18:25
+Salt River 18:45
+Train No: 532
+Hazendal 19:10
+Salt River 19:30
+
+
+Train No: 500
+Hazendal 05:35
+Maitland 05:46
+Train No: 502
+Hazendal 06:15
+Maitland 06:26
+Train No: 504
+Hazendal 06:50
+Maitland 07:01
+Train No: 506
+Hazendal 07:10
+Maitland 07:21
+Train No: 508
+Hazendal 07:55
+Maitland 08:06
+Train No: 510
+Hazendal 08:35
+Maitland 08:46
+Train No: 512
+Hazendal 09:25
+Maitland 09:36
+Train No: 514
+Hazendal 09:45
+Maitland 09:56
+Train No: 516
+Hazendal 10:25
+Maitland 10:36
+Train No: 518
+Hazendal 12:07
+Maitland 12:18
+Train No: 520
+Hazendal 13:07
+Maitland 13:18
+Train No: 522
+Hazendal 15:30
+Maitland 15:41
+Train No: 524
+Hazendal 16:35
+Maitland 16:46
+Train No: 526
+Hazendal 16:50
+Maitland 17:01
+Train No: 528
+Hazendal 17:50
+Maitland 18:01
+Train No: 530
+Hazendal 18:25
+Maitland 18:36
+Train No: 532
+Hazendal 19:10
+Maitland 19:21
+
+Train No: 500
+Hazendal 05:35
+Ndabeni 05:42
+Train No: 502
+Hazendal 06:15
+Ndabeni 06:22
+Train No: 504
+Hazendal 06:50
+Ndabeni 06:57
+Train No: 506
+Hazendal 07:10
+Ndabeni 07:17
+Train No: 508
+Hazendal 07:55
+Ndabeni 08:02
+Train No: 510
+Hazendal 08:35
+Ndabeni 08:42
+Train No: 512
+Hazendal 09:25
+Ndabeni 09:32
+Train No: 514
+Hazendal 09:45
+Ndabeni 09:52
+Train No: 516
+Hazendal 10:25
+Ndabeni 10:32
+Train No: 518
+Hazendal 12:07
+Ndabeni 12:14
+Train No: 520
+Hazendal 13:07
+Ndabeni 13:14
+Train No: 522
+Hazendal 15:30
+Ndabeni 15:37
+Train No: 524
+Hazendal 16:35
+Ndabeni 16:42
+Train No: 526
+Hazendal 16:50
+Ndabeni 16:57
+Train No: 528
+Hazendal 17:50
+Ndabeni 17:57
+Train No: 530
+Hazendal 18:25
+Ndabeni 18:32
+Train No: 532
+Hazendal 19:10
+Ndabeni 19:17
+
+Train No: 500
+Hazendal 05:35
+Pinelands 05:39
+Train No: 502
+Hazendal 06:15
+Pinelands 06:19
+Train No: 504
+Hazendal 06:50
+Pinelands 06:54
+Train No: 506
+Hazendal 07:10
+Pinelands 07:14
+Train No: 508
+Hazendal 07:55
+Pinelands 07:59
+Train No: 510
+Hazendal 08:35
+Pinelands 08:39
+Train No: 512
+Hazendal 09:25
+Pinelands 09:29
+Train No: 514
+Hazendal 09:45
+Pinelands 09:49
+Train No: 516
+Hazendal 10:25
+Pinelands 10:29
+Train No: 518
+Hazendal 12:07
+Pinelands 12:11
+Train No: 520
+Hazendal 13:07
+Pinelands 13:11
+Train No: 522
+Hazendal 15:30
+Pinelands 15:34
+Train No: 524
+Hazendal 16:35
+Pinelands 16:39
+Train No: 526
+Hazendal 16:50
+Pinelands 16:54
+Train No: 528
+Hazendal 17:50
+Pinelands 17:54
+Train No: 530
+Hazendal 18:25
+Pinelands 18:29
+Train No: 532
+Hazendal 19:10
+Pinelands 19:14
+
+Train No: 501
+Hazendal 05:51
+Athlone 05:54
+Train No: 503
+Hazendal 06:11
+Athlone 06:14
+Train No: 505
+Hazendal 06:56
+Athlone 06:59
+Train No: 507
+Hazendal 07:36
+Athlone 07:39
+Train No: 509
+Hazendal 08:11
+Athlone 08:14
+Train No: 511
+Hazendal 08:36
+Athlone 08:39
+Train No: 513
+Hazendal 09:26
+Athlone 09:29
+Train No: 515
+Hazendal 10:56
+Athlone 10:59
+Train No: 517
+Hazendal 11:56
+Athlone 11:59
+Train No: 519
+Hazendal 14:26
+Athlone 14:29
+Train No: 521
+Hazendal 15:16
+Athlone 15:19
+Train No: 523
+Hazendal 15:46
+Athlone 15:49
+Train No: 525
+Hazendal 16:51
+Athlone 16:54
+Train No: 527
+Hazendal 17:26
+Athlone 17:29
+Train No: 529
+Hazendal 18:11
+Athlone 18:14
+Train No: 531
+Hazendal 18:36
+Athlone 18:39
+Train No: 533
+Hazendal 19:09
+Athlone 19:12
+
+Train No: 501
+Hazendal 05:51
+Crawford 05:56
+Train No: 503
+Hazendal 06:11
+Crawford 06:16
+Train No: 505
+Hazendal 06:56
+Crawford 07:01
+Train No: 507
+Hazendal 07:36
+Crawford 07:41
+Train No: 509
+Hazendal 08:11
+Crawford 08:16
+Train No: 511
+Hazendal 08:36
+Crawford 08:41
+Train No: 513
+Hazendal 09:26
+Crawford 09:31
+Train No: 515
+Hazendal 10:56
+Crawford 11:01
+Train No: 517
+Hazendal 11:56
+Crawford 12:01
+Train No: 519
+Hazendal 14:26
+Crawford 14:31
+Train No: 521
+Hazendal 15:16
+Crawford 15:21
+Train No: 523
+Hazendal 15:46
+Crawford 15:51
+Train No: 525
+Hazendal 16:51
+Crawford 16:56
+Train No: 527
+Hazendal 17:26
+Crawford 17:31
+Train No: 529
+Hazendal 18:11
+Crawford 18:16
+Train No: 531
+Hazendal 18:36
+Crawford 18:41
+Train No: 533
+Hazendal 19:09
+Crawford 19:14
+
+Train No: 501
+Hazendal 05:51
+Lansdowne 05:59
+Train No: 503
+Hazendal 06:11
+Lansdowne 06:19
+Train No: 505
+Hazendal 06:56
+Lansdowne 07:04
+Train No: 507
+Hazendal 07:36
+Lansdowne 07:44
+Train No: 509
+Hazendal 08:11
+Lansdowne 08:19
+Train No: 511
+Hazendal 08:36
+Lansdowne 08:44
+Train No: 513
+Hazendal 09:26
+Lansdowne 09:34
+Train No: 515
+Hazendal 10:56
+Lansdowne 11:04
+Train No: 517
+Hazendal 11:56
+Lansdowne 12:04
+Train No: 519
+Hazendal 14:26
+Lansdowne 14:34
+Train No: 521
+Hazendal 15:16
+Lansdowne 15:24
+Train No: 523
+Hazendal 15:46
+Lansdowne 15:54
+Train No: 525
+Hazendal 16:51
+Lansdowne 16:59
+Train No: 527
+Hazendal 17:26
+Lansdowne 17:34
+Train No: 529
+Hazendal 18:11
+Lansdowne 18:19
+Train No: 531
+Hazendal 18:36
+Lansdowne 18:44
+Train No: 533
+Hazendal 19:09
+Lansdowne 19:17
+
+Train No: 501
+Hazendal 05:51
+Wetton 06:02
+Train No: 503
+Hazendal 06:11
+Wetton 06:22
+Train No: 505
+Hazendal 06:56
+Wetton 07:07
+Train No: 507
+Hazendal 07:36
+Wetton 07:47
+Train No: 509
+Hazendal 08:11
+Wetton 08:22
+Train No: 511
+Hazendal 08:36
+Wetton 08:47
+Train No: 513
+Hazendal 09:26
+Wetton 09:37
+Train No: 515
+Hazendal 10:56
+Wetton 11:07
+Train No: 517
+Hazendal 11:56
+Wetton 12:07
+Train No: 519
+Hazendal 14:26
+Wetton 14:37
+Train No: 521
+Hazendal 15:16
+Wetton 15:27
+Train No: 523
+Hazendal 15:46
+Wetton 15:57
+Train No: 525
+Hazendal 16:51
+Wetton 17:02
+Train No: 527
+Hazendal 17:26
+Wetton 17:37
+Train No: 529
+Hazendal 18:11
+Wetton 18:22
+Train No: 531
+Hazendal 18:36
+Wetton 18:47
+Train No: 533
+Hazendal 19:09
+Wetton 19:20
+
+Train No: 501
+Hazendal 05:51
+Ottery 06:05
+Train No: 503
+Hazendal 06:11
+Ottery 06:25
+Train No: 505
+Hazendal 06:56
+Ottery 07:10
+Train No: 507
+Hazendal 07:36
+Ottery 07:50
+Train No: 509
+Hazendal 08:11
+Ottery 08:25
+Train No: 511
+Hazendal 08:36
+Ottery 08:50
+Train No: 513
+Hazendal 09:26
+Ottery 09:40
+Train No: 515
+Hazendal 10:56
+Ottery 11:10
+Train No: 517
+Hazendal 11:56
+Ottery 12:10
+Train No: 519
+Hazendal 14:26
+Ottery 14:40
+Train No: 521
+Hazendal 15:16
+Ottery 15:30
+Train No: 523
+Hazendal 15:46
+Ottery 16:00
+Train No: 525
+Hazendal 16:51
+Ottery 17:05
+Train No: 527
+Hazendal 17:26
+Ottery 17:40
+Train No: 529
+Hazendal 18:11
+Ottery 18:25
+Train No: 531
+Hazendal 18:36
+Ottery 18:50
+Train No: 533
+Hazendal 19:09
+Ottery 19:23
+
+Train No: 501
+Hazendal 05:51
+Southfield 06:10
+Train No: 503
+Hazendal 06:11
+Southfield 06:30
+Train No: 505
+Hazendal 06:56
+Southfield 07:15
+Train No: 507
+Hazendal 07:36
+Southfield 07:55
+Train No: 509
+Hazendal 08:11
+Southfield 08:30
+Train No: 511
+Hazendal 08:36
+Southfield 08:55
+Train No: 513
+Hazendal 09:26
+Southfield 09:45
+Train No: 515
+Hazendal 10:56
+Southfield 11:15
+Train No: 517
+Hazendal 11:56
+Southfield 12:15
+Train No: 519
+Hazendal 14:26
+Southfield 14:45
+Train No: 521
+Hazendal 15:16
+Southfield 15:35
+Train No: 523
+Hazendal 15:46
+Southfield 16:05
+Train No: 525
+Hazendal 16:51
+Southfield 17:10
+Train No: 527
+Hazendal 17:26
+Southfield 17:45
+Train No: 529
+Hazendal 18:11
+Southfield 18:30
+Train No: 531
+Hazendal 18:36
+Southfield 18:55
+Train No: 533
+Hazendal 19:09
+Southfield 19:28
+
+Train No: 501
+Hazendal 05:51
+Heathfield 06:13
+Train No: 503
+Hazendal 06:11
+Heathfield 06:33
+Train No: 505
+Hazendal 06:56
+Heathfield 07:18
+Train No: 507
+Hazendal 07:36
+Heathfield 07:58
+Train No: 509
+Hazendal 08:11
+Heathfield 08:33
+Train No: 511
+Hazendal 08:36
+Heathfield 08:58
+Train No: 513
+Hazendal 09:26
+Heathfield 09:48
+Train No: 515
+Hazendal 10:56
+Heathfield 11:18
+Train No: 517
+Hazendal 11:56
+Heathfield 12:18
+Train No: 519
+Hazendal 14:26
+Heathfield 14:48
+Train No: 521
+Hazendal 15:16
+Heathfield 15:38
+Train No: 523
+Hazendal 15:46
+Heathfield 16:08
+Train No: 525
+Hazendal 16:51
+Heathfield 17:13
+Train No: 527
+Hazendal 17:26
+Heathfield 17:48
+Train No: 529
+Hazendal 18:11
+Heathfield 18:33
+Train No: 531
+Hazendal 18:36
+Heathfield 18:58
+Train No: 533
+Hazendal 19:09
+Heathfield 19:31
+
+Train No: 501
+Hazendal 05:51
+Retreat 06:15
+Train No: 503
+Hazendal 06:11
+Retreat 06:35
+Train No: 505
+Hazendal 06:56
+Retreat 07:20
+Train No: 507
+Hazendal 07:36
+Retreat 08:00
+Train No: 509
+Hazendal 08:11
+Retreat 08:35
+Train No: 511
+Hazendal 08:36
+Retreat 09:00
+Train No: 513
+Hazendal 09:26
+Retreat 09:50
+Train No: 515
+Hazendal 10:56
+Retreat 11:20
+Train No: 517
+Hazendal 11:56
+Retreat 12:20
+Train No: 519
+Hazendal 14:26
+Retreat 14:50
+Train No: 521
+Hazendal 15:16
+Retreat 15:40
+Train No: 523
+Hazendal 15:46
+Retreat 16:10
+Train No: 525
+Hazendal 16:51
+Retreat 17:15
+Train No: 527
+Hazendal 17:26
+Retreat 17:50
+Train No: 529
+Hazendal 18:11
+Retreat 18:35
+Train No: 531
+Hazendal 18:36
+Retreat 19:00
+Train No: 533
+Hazendal 19:09
+Retreat 19:33
+
+Train No: 500
+Athlone 05:31
+Cape Town 06:10
+Train No: 502
+Athlone 06:11
+Cape Town 06:50
+Train No: 504
+Athlone 06:46
+Cape Town 07:25
+Train No: 506
+Athlone 07:06
+Cape Town 07:45
+Train No: 508
+Athlone 07:51
+Cape Town 08:30
+Train No: 510
+Athlone 08:31
+Cape Town 09:10
+Train No: 512
+Athlone 09:21
+Cape Town 10:00
+Train No: 514
+Athlone 09:41
+Cape Town 10:20
+Train No: 516
+Athlone 10:21
+Cape Town 11:00
+Train No: 518
+Athlone 12:03
+Cape Town 12:42
+Train No: 520
+Athlone 13:03
+Cape Town 13:42
+Train No: 522
+Athlone 15:26
+Cape Town 16:05
+Train No: 524
+Athlone 16:31
+Cape Town 17:10
+Train No: 526
+Athlone 16:46
+Cape Town 17:25
+Train No: 528
+Athlone 17:46
+Cape Town 18:25
+Train No: 530
+Athlone 18:21
+Cape Town 19:00
+Train No: 532
+Athlone 19:06
+Cape Town 19:45
+
+Train No: 500
+Athlone 05:31
+Woodstock 06:03
+Train No: 502
+Athlone 06:11
+Woodstock 06:43
+Train No: 504
+Athlone 06:46
+Woodstock 07:18
+Train No: 506
+Athlone 07:06
+Woodstock 07:38
+Train No: 508
+Athlone 07:51
+Woodstock 08:23
+Train No: 510
+Athlone 08:31
+Woodstock 09:03
+Train No: 512
+Athlone 09:21
+Woodstock 09:53
+Train No: 514
+Athlone 09:41
+Woodstock 10:13
+Train No: 516
+Athlone 10:21
+Woodstock 10:53
+Train No: 518
+Athlone 12:03
+Woodstock 12:35
+Train No: 520
+Athlone 13:03
+Woodstock 13:35
+Train No: 522
+Athlone 15:26
+Woodstock 15:58
+Train No: 524
+Athlone 16:31
+Woodstock 17:03
+Train No: 526
+Athlone 16:46
+Woodstock 17:18
+Train No: 528
+Athlone 17:46
+Woodstock 18:18
+Train No: 530
+Athlone 18:21
+Woodstock 18:53
+Train No: 532
+Athlone 19:06
+Woodstock 19:38
+
+Train No: 500
+Athlone 05:31
+Salt River 05:55
+Train No: 502
+Athlone 06:11
+Salt River 06:35
+Train No: 504
+Athlone 06:46
+Salt River 07:10
+Train No: 506
+Athlone 07:06
+Salt River 07:30
+Train No: 508
+Athlone 07:51
+Salt River 08:15
+Train No: 510
+Athlone 08:31
+Salt River 08:55
+Train No: 512
+Athlone 09:21
+Salt River 09:45
+Train No: 514
+Athlone 09:41
+Salt River 10:05
+Train No: 516
+Athlone 10:21
+Salt River 10:45
+Train No: 518
+Athlone 12:03
+Salt River 12:27
+Train No: 520
+Athlone 13:03
+Salt River 13:27
+Train No: 522
+Athlone 15:26
+Salt River 15:50
+Train No: 524
+Athlone 16:31
+Salt River 16:55
+Train No: 526
+Athlone 16:46
+Salt River 17:10
+Train No: 528
+Athlone 17:46
+Salt River 18:10
+Train No: 530
+Athlone 18:21
+Salt River 18:45
+Train No: 532
+Athlone 19:06
+Salt River 19:30
+
+
+Train No: 500
+Athlone 05:31
+Maitland 05:46
+Train No: 502
+Athlone 06:11
+Maitland 06:26
+Train No: 504
+Athlone 06:46
+Maitland 07:01
+Train No: 506
+Athlone 07:06
+Maitland 07:21
+Train No: 508
+Athlone 07:51
+Maitland 08:06
+Train No: 510
+Athlone 08:31
+Maitland 08:46
+Train No: 512
+Athlone 09:21
+Maitland 09:36
+Train No: 514
+Athlone 09:41
+Maitland 09:56
+Train No: 516
+Athlone 10:21
+Maitland 10:36
+Train No: 518
+Athlone 12:03
+Maitland 12:18
+Train No: 520
+Athlone 13:03
+Maitland 13:18
+Train No: 522
+Athlone 15:26
+Maitland 15:41
+Train No: 524
+Athlone 16:31
+Maitland 16:46
+Train No: 526
+Athlone 16:46
+Maitland 17:01
+Train No: 528
+Athlone 17:46
+Maitland 18:01
+Train No: 530
+Athlone 18:21
+Maitland 18:36
+Train No: 532
+Athlone 19:06
+Maitland 19:21
+
+Train No: 500
+Athlone 05:31
+Ndabeni 05:42
+Train No: 502
+Athlone 06:11
+Ndabeni 06:22
+Train No: 504
+Athlone 06:46
+Ndabeni 06:57
+Train No: 506
+Athlone 07:06
+Ndabeni 07:17
+Train No: 508
+Athlone 07:51
+Ndabeni 08:02
+Train No: 510
+Athlone 08:31
+Ndabeni 08:42
+Train No: 512
+Athlone 09:21
+Ndabeni 09:32
+Train No: 514
+Athlone 09:41
+Ndabeni 09:52
+Train No: 516
+Athlone 10:21
+Ndabeni 10:32
+Train No: 518
+Athlone 12:03
+Ndabeni 12:14
+Train No: 520
+Athlone 13:03
+Ndabeni 13:14
+Train No: 522
+Athlone 15:26
+Ndabeni 15:37
+Train No: 524
+Athlone 16:31
+Ndabeni 16:42
+Train No: 526
+Athlone 16:46
+Ndabeni 16:57
+Train No: 528
+Athlone 17:46
+Ndabeni 17:57
+Train No: 530
+Athlone 18:21
+Ndabeni 18:32
+Train No: 532
+Athlone 19:06
+Ndabeni 19:17
+
+Train No: 500
+Athlone 05:31
+Pinelands 05:39
+Train No: 502
+Athlone 06:11
+Pinelands 06:19
+Train No: 504
+Athlone 06:46
+Pinelands 06:54
+Train No: 506
+Athlone 07:06
+Pinelands 07:14
+Train No: 508
+Athlone 07:51
+Pinelands 07:59
+Train No: 510
+Athlone 08:31
+Pinelands 08:39
+Train No: 512
+Athlone 09:21
+Pinelands 09:29
+Train No: 514
+Athlone 09:41
+Pinelands 09:49
+Train No: 516
+Athlone 10:21
+Pinelands 10:29
+Train No: 518
+Athlone 12:03
+Pinelands 12:11
+Train No: 520
+Athlone 13:03
+Pinelands 13:11
+Train No: 522
+Athlone 15:26
+Pinelands 15:34
+Train No: 524
+Athlone 16:31
+Pinelands 16:39
+Train No: 526
+Athlone 16:46
+Pinelands 16:54
+Train No: 528
+Athlone 17:46
+Pinelands 17:54
+Train No: 530
+Athlone 18:21
+Pinelands 18:29
+Train No: 532
+Athlone 19:06
+Pinelands 19:14
+
+Train No: 500
+Athlone 05:31
+Hazendal 05:35
+Train No: 502
+Athlone 06:11
+Hazendal 06:15
+Train No: 504
+Athlone 06:46
+Hazendal 06:50
+Train No: 506
+Athlone 07:06
+Hazendal 07:10
+Train No: 508
+Athlone 07:51
+Hazendal 07:55
+Train No: 510
+Athlone 08:31
+Hazendal 08:35
+Train No: 512
+Athlone 09:21
+Hazendal 09:25
+Train No: 514
+Athlone 09:41
+Hazendal 09:45
+Train No: 516
+Athlone 10:21
+Hazendal 10:25
+Train No: 518
+Athlone 12:03
+Hazendal 12:07
+Train No: 520
+Athlone 13:03
+Hazendal 13:07
+Train No: 522
+Athlone 15:26
+Hazendal 15:30
+Train No: 524
+Athlone 16:31
+Hazendal 16:35
+Train No: 526
+Athlone 16:46
+Hazendal 16:50
+Train No: 528
+Athlone 17:46
+Hazendal 17:50
+Train No: 530
+Athlone 18:21
+Hazendal 18:25
+Train No: 532
+Athlone 19:06
+Hazendal 19:10
+
+Train No: 501
+Athlone 05:54
+Crawford 05:56
+Train No: 503
+Athlone 06:14
+Crawford 06:16
+Train No: 505
+Athlone 06:59
+Crawford 07:01
+Train No: 507
+Athlone 07:39
+Crawford 07:41
+Train No: 509
+Athlone 08:14
+Crawford 08:16
+Train No: 511
+Athlone 08:39
+Crawford 08:41
+Train No: 513
+Athlone 09:29
+Crawford 09:31
+Train No: 515
+Athlone 10:59
+Crawford 11:01
+Train No: 517
+Athlone 11:59
+Crawford 12:01
+Train No: 519
+Athlone 14:29
+Crawford 14:31
+Train No: 521
+Athlone 15:19
+Crawford 15:21
+Train No: 523
+Athlone 15:49
+Crawford 15:51
+Train No: 525
+Athlone 16:54
+Crawford 16:56
+Train No: 527
+Athlone 17:29
+Crawford 17:31
+Train No: 529
+Athlone 18:14
+Crawford 18:16
+Train No: 531
+Athlone 18:39
+Crawford 18:41
+Train No: 533
+Athlone 19:12
+Crawford 19:14
+
+Train No: 501
+Athlone 05:54
+Lansdowne 05:59
+Train No: 503
+Athlone 06:14
+Lansdowne 06:19
+Train No: 505
+Athlone 06:59
+Lansdowne 07:04
+Train No: 507
+Athlone 07:39
+Lansdowne 07:44
+Train No: 509
+Athlone 08:14
+Lansdowne 08:19
+Train No: 511
+Athlone 08:39
+Lansdowne 08:44
+Train No: 513
+Athlone 09:29
+Lansdowne 09:34
+Train No: 515
+Athlone 10:59
+Lansdowne 11:04
+Train No: 517
+Athlone 11:59
+Lansdowne 12:04
+Train No: 519
+Athlone 14:29
+Lansdowne 14:34
+Train No: 521
+Athlone 15:19
+Lansdowne 15:24
+Train No: 523
+Athlone 15:49
+Lansdowne 15:54
+Train No: 525
+Athlone 16:54
+Lansdowne 16:59
+Train No: 527
+Athlone 17:29
+Lansdowne 17:34
+Train No: 529
+Athlone 18:14
+Lansdowne 18:19
+Train No: 531
+Athlone 18:39
+Lansdowne 18:44
+Train No: 533
+Athlone 19:12
+Lansdowne 19:17
+
+Train No: 501
+Athlone 05:54
+Wetton 06:02
+Train No: 503
+Athlone 06:14
+Wetton 06:22
+Train No: 505
+Athlone 06:59
+Wetton 07:07
+Train No: 507
+Athlone 07:39
+Wetton 07:47
+Train No: 509
+Athlone 08:14
+Wetton 08:22
+Train No: 511
+Athlone 08:39
+Wetton 08:47
+Train No: 513
+Athlone 09:29
+Wetton 09:37
+Train No: 515
+Athlone 10:59
+Wetton 11:07
+Train No: 517
+Athlone 11:59
+Wetton 12:07
+Train No: 519
+Athlone 14:29
+Wetton 14:37
+Train No: 521
+Athlone 15:19
+Wetton 15:27
+Train No: 523
+Athlone 15:49
+Wetton 15:57
+Train No: 525
+Athlone 16:54
+Wetton 17:02
+Train No: 527
+Athlone 17:29
+Wetton 17:37
+Train No: 529
+Athlone 18:14
+Wetton 18:22
+Train No: 531
+Athlone 18:39
+Wetton 18:47
+Train No: 533
+Athlone 19:12
+Wetton 19:20
+
+Train No: 501
+Athlone 05:54
+Ottery 06:05
+Train No: 503
+Athlone 06:14
+Ottery 06:25
+Train No: 505
+Athlone 06:59
+Ottery 07:10
+Train No: 507
+Athlone 07:39
+Ottery 07:50
+Train No: 509
+Athlone 08:14
+Ottery 08:25
+Train No: 511
+Athlone 08:39
+Ottery 08:50
+Train No: 513
+Athlone 09:29
+Ottery 09:40
+Train No: 515
+Athlone 10:59
+Ottery 11:10
+Train No: 517
+Athlone 11:59
+Ottery 12:10
+Train No: 519
+Athlone 14:29
+Ottery 14:40
+Train No: 521
+Athlone 15:19
+Ottery 15:30
+Train No: 523
+Athlone 15:49
+Ottery 16:00
+Train No: 525
+Athlone 16:54
+Ottery 17:05
+Train No: 527
+Athlone 17:29
+Ottery 17:40
+Train No: 529
+Athlone 18:14
+Ottery 18:25
+Train No: 531
+Athlone 18:39
+Ottery 18:50
+Train No: 533
+Athlone 19:12
+Ottery 19:23
+
+Train No: 501
+Athlone 05:54
+Southfield 06:10
+Train No: 503
+Athlone 06:14
+Southfield 06:30
+Train No: 505
+Athlone 06:59
+Southfield 07:15
+Train No: 507
+Athlone 07:39
+Southfield 07:55
+Train No: 509
+Athlone 08:14
+Southfield 08:30
+Train No: 511
+Athlone 08:39
+Southfield 08:55
+Train No: 513
+Athlone 09:29
+Southfield 09:45
+Train No: 515
+Athlone 10:59
+Southfield 11:15
+Train No: 517
+Athlone 11:59
+Southfield 12:15
+Train No: 519
+Athlone 14:29
+Southfield 14:45
+Train No: 521
+Athlone 15:19
+Southfield 15:35
+Train No: 523
+Athlone 15:49
+Southfield 16:05
+Train No: 525
+Athlone 16:54
+Southfield 17:10
+Train No: 527
+Athlone 17:29
+Southfield 17:45
+Train No: 529
+Athlone 18:14
+Southfield 18:30
+Train No: 531
+Athlone 18:39
+Southfield 18:55
+Train No: 533
+Athlone 19:12
+Southfield 19:28
+
+Train No: 501
+Athlone 05:54
+Heathfield 06:13
+Train No: 503
+Athlone 06:14
+Heathfield 06:33
+Train No: 505
+Athlone 06:59
+Heathfield 07:18
+Train No: 507
+Athlone 07:39
+Heathfield 07:58
+Train No: 509
+Athlone 08:14
+Heathfield 08:33
+Train No: 511
+Athlone 08:39
+Heathfield 08:58
+Train No: 513
+Athlone 09:29
+Heathfield 09:48
+Train No: 515
+Athlone 10:59
+Heathfield 11:18
+Train No: 517
+Athlone 11:59
+Heathfield 12:18
+Train No: 519
+Athlone 14:29
+Heathfield 14:48
+Train No: 521
+Athlone 15:19
+Heathfield 15:38
+Train No: 523
+Athlone 15:49
+Heathfield 16:08
+Train No: 525
+Athlone 16:54
+Heathfield 17:13
+Train No: 527
+Athlone 17:29
+Heathfield 17:48
+Train No: 529
+Athlone 18:14
+Heathfield 18:33
+Train No: 531
+Athlone 18:39
+Heathfield 18:58
+Train No: 533
+Athlone 19:12
+Heathfield 19:31
+
+Train No: 501
+Athlone 05:54
+Retreat 06:15
+Train No: 503
+Athlone 06:14
+Retreat 06:35
+Train No: 505
+Athlone 06:59
+Retreat 07:20
+Train No: 507
+Athlone 07:39
+Retreat 08:00
+Train No: 509
+Athlone 08:14
+Retreat 08:35
+Train No: 511
+Athlone 08:39
+Retreat 09:00
+Train No: 513
+Athlone 09:29
+Retreat 09:50
+Train No: 515
+Athlone 10:59
+Retreat 11:20
+Train No: 517
+Athlone 11:59
+Retreat 12:20
+Train No: 519
+Athlone 14:29
+Retreat 14:50
+Train No: 521
+Athlone 15:19
+Retreat 15:40
+Train No: 523
+Athlone 15:49
+Retreat 16:10
+Train No: 525
+Athlone 16:54
+Retreat 17:15
+Train No: 527
+Athlone 17:29
+Retreat 17:50
+Train No: 529
+Athlone 18:14
+Retreat 18:35
+Train No: 531
+Athlone 18:39
+Retreat 19:00
+Train No: 533
+Athlone 19:12
+Retreat 19:33
+
+Train No: 500
+Crawford 05:28
+Cape Town 06:10
+Train No: 502
+Crawford 06:08
+Cape Town 06:50
+Train No: 504
+Crawford 06:43
+Cape Town 07:25
+Train No: 506
+Crawford 07:03
+Cape Town 07:45
+Train No: 508
+Crawford 07:48
+Cape Town 08:30
+Train No: 510
+Crawford 08:28
+Cape Town 09:10
+Train No: 512
+Crawford 09:18
+Cape Town 10:00
+Train No: 514
+Crawford 09:38
+Cape Town 10:20
+Train No: 516
+Crawford 10:18
+Cape Town 11:00
+Train No: 518
+Crawford 12:00
+Cape Town 12:42
+Train No: 520
+Crawford 13:00
+Cape Town 13:42
+Train No: 522
+Crawford 15:23
+Cape Town 16:05
+Train No: 524
+Crawford 16:28
+Cape Town 17:10
+Train No: 526
+Crawford 16:43
+Cape Town 17:25
+Train No: 528
+Crawford 17:43
+Cape Town 18:25
+Train No: 530
+Crawford 18:18
+Cape Town 19:00
+Train No: 532
+Crawford 19:03
+Cape Town 19:45
+
+Train No: 500
+Crawford 05:28
+Woodstock 06:03
+Train No: 502
+Crawford 06:08
+Woodstock 06:43
+Train No: 504
+Crawford 06:43
+Woodstock 07:18
+Train No: 506
+Crawford 07:03
+Woodstock 07:38
+Train No: 508
+Crawford 07:48
+Woodstock 08:23
+Train No: 510
+Crawford 08:28
+Woodstock 09:03
+Train No: 512
+Crawford 09:18
+Woodstock 09:53
+Train No: 514
+Crawford 09:38
+Woodstock 10:13
+Train No: 516
+Crawford 10:18
+Woodstock 10:53
+Train No: 518
+Crawford 12:00
+Woodstock 12:35
+Train No: 520
+Crawford 13:00
+Woodstock 13:35
+Train No: 522
+Crawford 15:23
+Woodstock 15:58
+Train No: 524
+Crawford 16:28
+Woodstock 17:03
+Train No: 526
+Crawford 16:43
+Woodstock 17:18
+Train No: 528
+Crawford 17:43
+Woodstock 18:18
+Train No: 530
+Crawford 18:18
+Woodstock 18:53
+Train No: 532
+Crawford 19:03
+Woodstock 19:38
+
+Train No: 500
+Crawford 05:28
+Salt River 05:55
+Train No: 502
+Crawford 06:08
+Salt River 06:35
+Train No: 504
+Crawford 06:43
+Salt River 07:10
+Train No: 506
+Crawford 07:03
+Salt River 07:30
+Train No: 508
+Crawford 07:48
+Salt River 08:15
+Train No: 510
+Crawford 08:28
+Salt River 08:55
+Train No: 512
+Crawford 09:18
+Salt River 09:45
+Train No: 514
+Crawford 09:38
+Salt River 10:05
+Train No: 516
+Crawford 10:18
+Salt River 10:45
+Train No: 518
+Crawford 12:00
+Salt River 12:27
+Train No: 520
+Crawford 13:00
+Salt River 13:27
+Train No: 522
+Crawford 15:23
+Salt River 15:50
+Train No: 524
+Crawford 16:28
+Salt River 16:55
+Train No: 526
+Crawford 16:43
+Salt River 17:10
+Train No: 528
+Crawford 17:43
+Salt River 18:10
+Train No: 530
+Crawford 18:18
+Salt River 18:45
+Train No: 532
+Crawford 19:03
+Salt River 19:30
+
+
+Train No: 500
+Crawford 05:28
+Maitland 05:46
+Train No: 502
+Crawford 06:08
+Maitland 06:26
+Train No: 504
+Crawford 06:43
+Maitland 07:01
+Train No: 506
+Crawford 07:03
+Maitland 07:21
+Train No: 508
+Crawford 07:48
+Maitland 08:06
+Train No: 510
+Crawford 08:28
+Maitland 08:46
+Train No: 512
+Crawford 09:18
+Maitland 09:36
+Train No: 514
+Crawford 09:38
+Maitland 09:56
+Train No: 516
+Crawford 10:18
+Maitland 10:36
+Train No: 518
+Crawford 12:00
+Maitland 12:18
+Train No: 520
+Crawford 13:00
+Maitland 13:18
+Train No: 522
+Crawford 15:23
+Maitland 15:41
+Train No: 524
+Crawford 16:28
+Maitland 16:46
+Train No: 526
+Crawford 16:43
+Maitland 17:01
+Train No: 528
+Crawford 17:43
+Maitland 18:01
+Train No: 530
+Crawford 18:18
+Maitland 18:36
+Train No: 532
+Crawford 19:03
+Maitland 19:21
+
+Train No: 500
+Crawford 05:28
+Ndabeni 05:42
+Train No: 502
+Crawford 06:08
+Ndabeni 06:22
+Train No: 504
+Crawford 06:43
+Ndabeni 06:57
+Train No: 506
+Crawford 07:03
+Ndabeni 07:17
+Train No: 508
+Crawford 07:48
+Ndabeni 08:02
+Train No: 510
+Crawford 08:28
+Ndabeni 08:42
+Train No: 512
+Crawford 09:18
+Ndabeni 09:32
+Train No: 514
+Crawford 09:38
+Ndabeni 09:52
+Train No: 516
+Crawford 10:18
+Ndabeni 10:32
+Train No: 518
+Crawford 12:00
+Ndabeni 12:14
+Train No: 520
+Crawford 13:00
+Ndabeni 13:14
+Train No: 522
+Crawford 15:23
+Ndabeni 15:37
+Train No: 524
+Crawford 16:28
+Ndabeni 16:42
+Train No: 526
+Crawford 16:43
+Ndabeni 16:57
+Train No: 528
+Crawford 17:43
+Ndabeni 17:57
+Train No: 530
+Crawford 18:18
+Ndabeni 18:32
+Train No: 532
+Crawford 19:03
+Ndabeni 19:17
+
+Train No: 500
+Crawford 05:28
+Pinelands 05:39
+Train No: 502
+Crawford 06:08
+Pinelands 06:19
+Train No: 504
+Crawford 06:43
+Pinelands 06:54
+Train No: 506
+Crawford 07:03
+Pinelands 07:14
+Train No: 508
+Crawford 07:48
+Pinelands 07:59
+Train No: 510
+Crawford 08:28
+Pinelands 08:39
+Train No: 512
+Crawford 09:18
+Pinelands 09:29
+Train No: 514
+Crawford 09:38
+Pinelands 09:49
+Train No: 516
+Crawford 10:18
+Pinelands 10:29
+Train No: 518
+Crawford 12:00
+Pinelands 12:11
+Train No: 520
+Crawford 13:00
+Pinelands 13:11
+Train No: 522
+Crawford 15:23
+Pinelands 15:34
+Train No: 524
+Crawford 16:28
+Pinelands 16:39
+Train No: 526
+Crawford 16:43
+Pinelands 16:54
+Train No: 528
+Crawford 17:43
+Pinelands 17:54
+Train No: 530
+Crawford 18:18
+Pinelands 18:29
+Train No: 532
+Crawford 19:03
+Pinelands 19:14
+
+Train No: 500
+Crawford 05:28
+Hazendal 05:35
+Train No: 502
+Crawford 06:08
+Hazendal 06:15
+Train No: 504
+Crawford 06:43
+Hazendal 06:50
+Train No: 506
+Crawford 07:03
+Hazendal 07:10
+Train No: 508
+Crawford 07:48
+Hazendal 07:55
+Train No: 510
+Crawford 08:28
+Hazendal 08:35
+Train No: 512
+Crawford 09:18
+Hazendal 09:25
+Train No: 514
+Crawford 09:38
+Hazendal 09:45
+Train No: 516
+Crawford 10:18
+Hazendal 10:25
+Train No: 518
+Crawford 12:00
+Hazendal 12:07
+Train No: 520
+Crawford 13:00
+Hazendal 13:07
+Train No: 522
+Crawford 15:23
+Hazendal 15:30
+Train No: 524
+Crawford 16:28
+Hazendal 16:35
+Train No: 526
+Crawford 16:43
+Hazendal 16:50
+Train No: 528
+Crawford 17:43
+Hazendal 17:50
+Train No: 530
+Crawford 18:18
+Hazendal 18:25
+Train No: 532
+Crawford 19:03
+Hazendal 19:10
+
+Train No: 500
+Crawford 05:28
+Athlone 05:31
+Train No: 502
+Crawford 06:08
+Athlone 06:11
+Train No: 504
+Crawford 06:43
+Athlone 06:46
+Train No: 506
+Crawford 07:03
+Athlone 07:06
+Train No: 508
+Crawford 07:48
+Athlone 07:51
+Train No: 510
+Crawford 08:28
+Athlone 08:31
+Train No: 512
+Crawford 09:18
+Athlone 09:21
+Train No: 514
+Crawford 09:38
+Athlone 09:41
+Train No: 516
+Crawford 10:18
+Athlone 10:21
+Train No: 518
+Crawford 12:00
+Athlone 12:03
+Train No: 520
+Crawford 13:00
+Athlone 13:03
+Train No: 522
+Crawford 15:23
+Athlone 15:26
+Train No: 524
+Crawford 16:28
+Athlone 16:31
+Train No: 526
+Crawford 16:43
+Athlone 16:46
+Train No: 528
+Crawford 17:43
+Athlone 17:46
+Train No: 530
+Crawford 18:18
+Athlone 18:21
+Train No: 532
+Crawford 19:03
+Athlone 19:06
+
+Train No: 501
+Crawford 05:56
+Lansdowne 05:59
+Train No: 503
+Crawford 06:16
+Lansdowne 06:19
+Train No: 505
+Crawford 07:01
+Lansdowne 07:04
+Train No: 507
+Crawford 07:41
+Lansdowne 07:44
+Train No: 509
+Crawford 08:16
+Lansdowne 08:19
+Train No: 511
+Crawford 08:41
+Lansdowne 08:44
+Train No: 513
+Crawford 09:31
+Lansdowne 09:34
+Train No: 515
+Crawford 11:01
+Lansdowne 11:04
+Train No: 517
+Crawford 12:01
+Lansdowne 12:04
+Train No: 519
+Crawford 14:31
+Lansdowne 14:34
+Train No: 521
+Crawford 15:21
+Lansdowne 15:24
+Train No: 523
+Crawford 15:51
+Lansdowne 15:54
+Train No: 525
+Crawford 16:56
+Lansdowne 16:59
+Train No: 527
+Crawford 17:31
+Lansdowne 17:34
+Train No: 529
+Crawford 18:16
+Lansdowne 18:19
+Train No: 531
+Crawford 18:41
+Lansdowne 18:44
+Train No: 533
+Crawford 19:14
+Lansdowne 19:17
+
+Train No: 501
+Crawford 05:56
+Wetton 06:02
+Train No: 503
+Crawford 06:16
+Wetton 06:22
+Train No: 505
+Crawford 07:01
+Wetton 07:07
+Train No: 507
+Crawford 07:41
+Wetton 07:47
+Train No: 509
+Crawford 08:16
+Wetton 08:22
+Train No: 511
+Crawford 08:41
+Wetton 08:47
+Train No: 513
+Crawford 09:31
+Wetton 09:37
+Train No: 515
+Crawford 11:01
+Wetton 11:07
+Train No: 517
+Crawford 12:01
+Wetton 12:07
+Train No: 519
+Crawford 14:31
+Wetton 14:37
+Train No: 521
+Crawford 15:21
+Wetton 15:27
+Train No: 523
+Crawford 15:51
+Wetton 15:57
+Train No: 525
+Crawford 16:56
+Wetton 17:02
+Train No: 527
+Crawford 17:31
+Wetton 17:37
+Train No: 529
+Crawford 18:16
+Wetton 18:22
+Train No: 531
+Crawford 18:41
+Wetton 18:47
+Train No: 533
+Crawford 19:14
+Wetton 19:20
+
+Train No: 501
+Crawford 05:56
+Ottery 06:05
+Train No: 503
+Crawford 06:16
+Ottery 06:25
+Train No: 505
+Crawford 07:01
+Ottery 07:10
+Train No: 507
+Crawford 07:41
+Ottery 07:50
+Train No: 509
+Crawford 08:16
+Ottery 08:25
+Train No: 511
+Crawford 08:41
+Ottery 08:50
+Train No: 513
+Crawford 09:31
+Ottery 09:40
+Train No: 515
+Crawford 11:01
+Ottery 11:10
+Train No: 517
+Crawford 12:01
+Ottery 12:10
+Train No: 519
+Crawford 14:31
+Ottery 14:40
+Train No: 521
+Crawford 15:21
+Ottery 15:30
+Train No: 523
+Crawford 15:51
+Ottery 16:00
+Train No: 525
+Crawford 16:56
+Ottery 17:05
+Train No: 527
+Crawford 17:31
+Ottery 17:40
+Train No: 529
+Crawford 18:16
+Ottery 18:25
+Train No: 531
+Crawford 18:41
+Ottery 18:50
+Train No: 533
+Crawford 19:14
+Ottery 19:23
+
+Train No: 501
+Crawford 05:56
+Southfield 06:10
+Train No: 503
+Crawford 06:16
+Southfield 06:30
+Train No: 505
+Crawford 07:01
+Southfield 07:15
+Train No: 507
+Crawford 07:41
+Southfield 07:55
+Train No: 509
+Crawford 08:16
+Southfield 08:30
+Train No: 511
+Crawford 08:41
+Southfield 08:55
+Train No: 513
+Crawford 09:31
+Southfield 09:45
+Train No: 515
+Crawford 11:01
+Southfield 11:15
+Train No: 517
+Crawford 12:01
+Southfield 12:15
+Train No: 519
+Crawford 14:31
+Southfield 14:45
+Train No: 521
+Crawford 15:21
+Southfield 15:35
+Train No: 523
+Crawford 15:51
+Southfield 16:05
+Train No: 525
+Crawford 16:56
+Southfield 17:10
+Train No: 527
+Crawford 17:31
+Southfield 17:45
+Train No: 529
+Crawford 18:16
+Southfield 18:30
+Train No: 531
+Crawford 18:41
+Southfield 18:55
+Train No: 533
+Crawford 19:14
+Southfield 19:28
+
+Train No: 501
+Crawford 05:56
+Heathfield 06:13
+Train No: 503
+Crawford 06:16
+Heathfield 06:33
+Train No: 505
+Crawford 07:01
+Heathfield 07:18
+Train No: 507
+Crawford 07:41
+Heathfield 07:58
+Train No: 509
+Crawford 08:16
+Heathfield 08:33
+Train No: 511
+Crawford 08:41
+Heathfield 08:58
+Train No: 513
+Crawford 09:31
+Heathfield 09:48
+Train No: 515
+Crawford 11:01
+Heathfield 11:18
+Train No: 517
+Crawford 12:01
+Heathfield 12:18
+Train No: 519
+Crawford 14:31
+Heathfield 14:48
+Train No: 521
+Crawford 15:21
+Heathfield 15:38
+Train No: 523
+Crawford 15:51
+Heathfield 16:08
+Train No: 525
+Crawford 16:56
+Heathfield 17:13
+Train No: 527
+Crawford 17:31
+Heathfield 17:48
+Train No: 529
+Crawford 18:16
+Heathfield 18:33
+Train No: 531
+Crawford 18:41
+Heathfield 18:58
+Train No: 533
+Crawford 19:14
+Heathfield 19:31
+
+Train No: 501
+Crawford 05:56
+Retreat 06:15
+Train No: 503
+Crawford 06:16
+Retreat 06:35
+Train No: 505
+Crawford 07:01
+Retreat 07:20
+Train No: 507
+Crawford 07:41
+Retreat 08:00
+Train No: 509
+Crawford 08:16
+Retreat 08:35
+Train No: 511
+Crawford 08:41
+Retreat 09:00
+Train No: 513
+Crawford 09:31
+Retreat 09:50
+Train No: 515
+Crawford 11:01
+Retreat 11:20
+Train No: 517
+Crawford 12:01
+Retreat 12:20
+Train No: 519
+Crawford 14:31
+Retreat 14:50
+Train No: 521
+Crawford 15:21
+Retreat 15:40
+Train No: 523
+Crawford 15:51
+Retreat 16:10
+Train No: 525
+Crawford 16:56
+Retreat 17:15
+Train No: 527
+Crawford 17:31
+Retreat 17:50
+Train No: 529
+Crawford 18:16
+Retreat 18:35
+Train No: 531
+Crawford 18:41
+Retreat 19:00
+Train No: 533
+Crawford 19:14
+Retreat 19:33
+
+Train No: 500
+Lansdowne 05:26
+Cape Town 06:10
+Train No: 502
+Lansdowne 06:06
+Cape Town 06:50
+Train No: 504
+Lansdowne 06:41
+Cape Town 07:25
+Train No: 506
+Lansdowne 07:01
+Cape Town 07:45
+Train No: 508
+Lansdowne 07:46
+Cape Town 08:30
+Train No: 510
+Lansdowne 08:26
+Cape Town 09:10
+Train No: 512
+Lansdowne 09:16
+Cape Town 10:00
+Train No: 514
+Lansdowne 09:36
+Cape Town 10:20
+Train No: 516
+Lansdowne 10:16
+Cape Town 11:00
+Train No: 518
+Lansdowne 11:58
+Cape Town 12:42
+Train No: 520
+Lansdowne 12:58
+Cape Town 13:42
+Train No: 522
+Lansdowne 15:21
+Cape Town 16:05
+Train No: 524
+Lansdowne 16:26
+Cape Town 17:10
+Train No: 526
+Lansdowne 16:41
+Cape Town 17:25
+Train No: 528
+Lansdowne 17:41
+Cape Town 18:25
+Train No: 530
+Lansdowne 18:16
+Cape Town 19:00
+Train No: 532
+Lansdowne 19:01
+Cape Town 19:45
+
+Train No: 500
+Lansdowne 05:26
+Woodstock 06:03
+Train No: 502
+Lansdowne 06:06
+Woodstock 06:43
+Train No: 504
+Lansdowne 06:41
+Woodstock 07:18
+Train No: 506
+Lansdowne 07:01
+Woodstock 07:38
+Train No: 508
+Lansdowne 07:46
+Woodstock 08:23
+Train No: 510
+Lansdowne 08:26
+Woodstock 09:03
+Train No: 512
+Lansdowne 09:16
+Woodstock 09:53
+Train No: 514
+Lansdowne 09:36
+Woodstock 10:13
+Train No: 516
+Lansdowne 10:16
+Woodstock 10:53
+Train No: 518
+Lansdowne 11:58
+Woodstock 12:35
+Train No: 520
+Lansdowne 12:58
+Woodstock 13:35
+Train No: 522
+Lansdowne 15:21
+Woodstock 15:58
+Train No: 524
+Lansdowne 16:26
+Woodstock 17:03
+Train No: 526
+Lansdowne 16:41
+Woodstock 17:18
+Train No: 528
+Lansdowne 17:41
+Woodstock 18:18
+Train No: 530
+Lansdowne 18:16
+Woodstock 18:53
+Train No: 532
+Lansdowne 19:01
+Woodstock 19:38
+
+Train No: 500
+Lansdowne 05:26
+Salt River 05:55
+Train No: 502
+Lansdowne 06:06
+Salt River 06:35
+Train No: 504
+Lansdowne 06:41
+Salt River 07:10
+Train No: 506
+Lansdowne 07:01
+Salt River 07:30
+Train No: 508
+Lansdowne 07:46
+Salt River 08:15
+Train No: 510
+Lansdowne 08:26
+Salt River 08:55
+Train No: 512
+Lansdowne 09:16
+Salt River 09:45
+Train No: 514
+Lansdowne 09:36
+Salt River 10:05
+Train No: 516
+Lansdowne 10:16
+Salt River 10:45
+Train No: 518
+Lansdowne 11:58
+Salt River 12:27
+Train No: 520
+Lansdowne 12:58
+Salt River 13:27
+Train No: 522
+Lansdowne 15:21
+Salt River 15:50
+Train No: 524
+Lansdowne 16:26
+Salt River 16:55
+Train No: 526
+Lansdowne 16:41
+Salt River 17:10
+Train No: 528
+Lansdowne 17:41
+Salt River 18:10
+Train No: 530
+Lansdowne 18:16
+Salt River 18:45
+Train No: 532
+Lansdowne 19:01
+Salt River 19:30
+
+
+Train No: 500
+Lansdowne 05:26
+Maitland 05:46
+Train No: 502
+Lansdowne 06:06
+Maitland 06:26
+Train No: 504
+Lansdowne 06:41
+Maitland 07:01
+Train No: 506
+Lansdowne 07:01
+Maitland 07:21
+Train No: 508
+Lansdowne 07:46
+Maitland 08:06
+Train No: 510
+Lansdowne 08:26
+Maitland 08:46
+Train No: 512
+Lansdowne 09:16
+Maitland 09:36
+Train No: 514
+Lansdowne 09:36
+Maitland 09:56
+Train No: 516
+Lansdowne 10:16
+Maitland 10:36
+Train No: 518
+Lansdowne 11:58
+Maitland 12:18
+Train No: 520
+Lansdowne 12:58
+Maitland 13:18
+Train No: 522
+Lansdowne 15:21
+Maitland 15:41
+Train No: 524
+Lansdowne 16:26
+Maitland 16:46
+Train No: 526
+Lansdowne 16:41
+Maitland 17:01
+Train No: 528
+Lansdowne 17:41
+Maitland 18:01
+Train No: 530
+Lansdowne 18:16
+Maitland 18:36
+Train No: 532
+Lansdowne 19:01
+Maitland 19:21
+
+Train No: 500
+Lansdowne 05:26
+Ndabeni 05:42
+Train No: 502
+Lansdowne 06:06
+Ndabeni 06:22
+Train No: 504
+Lansdowne 06:41
+Ndabeni 06:57
+Train No: 506
+Lansdowne 07:01
+Ndabeni 07:17
+Train No: 508
+Lansdowne 07:46
+Ndabeni 08:02
+Train No: 510
+Lansdowne 08:26
+Ndabeni 08:42
+Train No: 512
+Lansdowne 09:16
+Ndabeni 09:32
+Train No: 514
+Lansdowne 09:36
+Ndabeni 09:52
+Train No: 516
+Lansdowne 10:16
+Ndabeni 10:32
+Train No: 518
+Lansdowne 11:58
+Ndabeni 12:14
+Train No: 520
+Lansdowne 12:58
+Ndabeni 13:14
+Train No: 522
+Lansdowne 15:21
+Ndabeni 15:37
+Train No: 524
+Lansdowne 16:26
+Ndabeni 16:42
+Train No: 526
+Lansdowne 16:41
+Ndabeni 16:57
+Train No: 528
+Lansdowne 17:41
+Ndabeni 17:57
+Train No: 530
+Lansdowne 18:16
+Ndabeni 18:32
+Train No: 532
+Lansdowne 19:01
+Ndabeni 19:17
+
+Train No: 500
+Lansdowne 05:26
+Pinelands 05:39
+Train No: 502
+Lansdowne 06:06
+Pinelands 06:19
+Train No: 504
+Lansdowne 06:41
+Pinelands 06:54
+Train No: 506
+Lansdowne 07:01
+Pinelands 07:14
+Train No: 508
+Lansdowne 07:46
+Pinelands 07:59
+Train No: 510
+Lansdowne 08:26
+Pinelands 08:39
+Train No: 512
+Lansdowne 09:16
+Pinelands 09:29
+Train No: 514
+Lansdowne 09:36
+Pinelands 09:49
+Train No: 516
+Lansdowne 10:16
+Pinelands 10:29
+Train No: 518
+Lansdowne 11:58
+Pinelands 12:11
+Train No: 520
+Lansdowne 12:58
+Pinelands 13:11
+Train No: 522
+Lansdowne 15:21
+Pinelands 15:34
+Train No: 524
+Lansdowne 16:26
+Pinelands 16:39
+Train No: 526
+Lansdowne 16:41
+Pinelands 16:54
+Train No: 528
+Lansdowne 17:41
+Pinelands 17:54
+Train No: 530
+Lansdowne 18:16
+Pinelands 18:29
+Train No: 532
+Lansdowne 19:01
+Pinelands 19:14
+
+Train No: 500
+Lansdowne 05:26
+Hazendal 05:35
+Train No: 502
+Lansdowne 06:06
+Hazendal 06:15
+Train No: 504
+Lansdowne 06:41
+Hazendal 06:50
+Train No: 506
+Lansdowne 07:01
+Hazendal 07:10
+Train No: 508
+Lansdowne 07:46
+Hazendal 07:55
+Train No: 510
+Lansdowne 08:26
+Hazendal 08:35
+Train No: 512
+Lansdowne 09:16
+Hazendal 09:25
+Train No: 514
+Lansdowne 09:36
+Hazendal 09:45
+Train No: 516
+Lansdowne 10:16
+Hazendal 10:25
+Train No: 518
+Lansdowne 11:58
+Hazendal 12:07
+Train No: 520
+Lansdowne 12:58
+Hazendal 13:07
+Train No: 522
+Lansdowne 15:21
+Hazendal 15:30
+Train No: 524
+Lansdowne 16:26
+Hazendal 16:35
+Train No: 526
+Lansdowne 16:41
+Hazendal 16:50
+Train No: 528
+Lansdowne 17:41
+Hazendal 17:50
+Train No: 530
+Lansdowne 18:16
+Hazendal 18:25
+Train No: 532
+Lansdowne 19:01
+Hazendal 19:10
+
+Train No: 500
+Lansdowne 05:26
+Athlone 05:31
+Train No: 502
+Lansdowne 06:06
+Athlone 06:11
+Train No: 504
+Lansdowne 06:41
+Athlone 06:46
+Train No: 506
+Lansdowne 07:01
+Athlone 07:06
+Train No: 508
+Lansdowne 07:46
+Athlone 07:51
+Train No: 510
+Lansdowne 08:26
+Athlone 08:31
+Train No: 512
+Lansdowne 09:16
+Athlone 09:21
+Train No: 514
+Lansdowne 09:36
+Athlone 09:41
+Train No: 516
+Lansdowne 10:16
+Athlone 10:21
+Train No: 518
+Lansdowne 11:58
+Athlone 12:03
+Train No: 520
+Lansdowne 12:58
+Athlone 13:03
+Train No: 522
+Lansdowne 15:21
+Athlone 15:26
+Train No: 524
+Lansdowne 16:26
+Athlone 16:31
+Train No: 526
+Lansdowne 16:41
+Athlone 16:46
+Train No: 528
+Lansdowne 17:41
+Athlone 17:46
+Train No: 530
+Lansdowne 18:16
+Athlone 18:21
+Train No: 532
+Lansdowne 19:01
+Athlone 19:06
+
+Train No: 500
+Lansdowne 05:26
+Crawford 05:28
+Train No: 502
+Lansdowne 06:06
+Crawford 06:08
+Train No: 504
+Lansdowne 06:41
+Crawford 06:43
+Train No: 506
+Lansdowne 07:01
+Crawford 07:03
+Train No: 508
+Lansdowne 07:46
+Crawford 07:48
+Train No: 510
+Lansdowne 08:26
+Crawford 08:28
+Train No: 512
+Lansdowne 09:16
+Crawford 09:18
+Train No: 514
+Lansdowne 09:36
+Crawford 09:38
+Train No: 516
+Lansdowne 10:16
+Crawford 10:18
+Train No: 518
+Lansdowne 11:58
+Crawford 12:00
+Train No: 520
+Lansdowne 12:58
+Crawford 13:00
+Train No: 522
+Lansdowne 15:21
+Crawford 15:23
+Train No: 524
+Lansdowne 16:26
+Crawford 16:28
+Train No: 526
+Lansdowne 16:41
+Crawford 16:43
+Train No: 528
+Lansdowne 17:41
+Crawford 17:43
+Train No: 530
+Lansdowne 18:16
+Crawford 18:18
+Train No: 532
+Lansdowne 19:01
+Crawford 19:03
+
+Train No: 501
+Lansdowne 05:59
+Wetton 06:02
+Train No: 503
+Lansdowne 06:19
+Wetton 06:22
+Train No: 505
+Lansdowne 07:04
+Wetton 07:07
+Train No: 507
+Lansdowne 07:44
+Wetton 07:47
+Train No: 509
+Lansdowne 08:19
+Wetton 08:22
+Train No: 511
+Lansdowne 08:44
+Wetton 08:47
+Train No: 513
+Lansdowne 09:34
+Wetton 09:37
+Train No: 515
+Lansdowne 11:04
+Wetton 11:07
+Train No: 517
+Lansdowne 12:04
+Wetton 12:07
+Train No: 519
+Lansdowne 14:34
+Wetton 14:37
+Train No: 521
+Lansdowne 15:24
+Wetton 15:27
+Train No: 523
+Lansdowne 15:54
+Wetton 15:57
+Train No: 525
+Lansdowne 16:59
+Wetton 17:02
+Train No: 527
+Lansdowne 17:34
+Wetton 17:37
+Train No: 529
+Lansdowne 18:19
+Wetton 18:22
+Train No: 531
+Lansdowne 18:44
+Wetton 18:47
+Train No: 533
+Lansdowne 19:17
+Wetton 19:20
+
+Train No: 501
+Lansdowne 05:59
+Ottery 06:05
+Train No: 503
+Lansdowne 06:19
+Ottery 06:25
+Train No: 505
+Lansdowne 07:04
+Ottery 07:10
+Train No: 507
+Lansdowne 07:44
+Ottery 07:50
+Train No: 509
+Lansdowne 08:19
+Ottery 08:25
+Train No: 511
+Lansdowne 08:44
+Ottery 08:50
+Train No: 513
+Lansdowne 09:34
+Ottery 09:40
+Train No: 515
+Lansdowne 11:04
+Ottery 11:10
+Train No: 517
+Lansdowne 12:04
+Ottery 12:10
+Train No: 519
+Lansdowne 14:34
+Ottery 14:40
+Train No: 521
+Lansdowne 15:24
+Ottery 15:30
+Train No: 523
+Lansdowne 15:54
+Ottery 16:00
+Train No: 525
+Lansdowne 16:59
+Ottery 17:05
+Train No: 527
+Lansdowne 17:34
+Ottery 17:40
+Train No: 529
+Lansdowne 18:19
+Ottery 18:25
+Train No: 531
+Lansdowne 18:44
+Ottery 18:50
+Train No: 533
+Lansdowne 19:17
+Ottery 19:23
+
+Train No: 501
+Lansdowne 05:59
+Southfield 06:10
+Train No: 503
+Lansdowne 06:19
+Southfield 06:30
+Train No: 505
+Lansdowne 07:04
+Southfield 07:15
+Train No: 507
+Lansdowne 07:44
+Southfield 07:55
+Train No: 509
+Lansdowne 08:19
+Southfield 08:30
+Train No: 511
+Lansdowne 08:44
+Southfield 08:55
+Train No: 513
+Lansdowne 09:34
+Southfield 09:45
+Train No: 515
+Lansdowne 11:04
+Southfield 11:15
+Train No: 517
+Lansdowne 12:04
+Southfield 12:15
+Train No: 519
+Lansdowne 14:34
+Southfield 14:45
+Train No: 521
+Lansdowne 15:24
+Southfield 15:35
+Train No: 523
+Lansdowne 15:54
+Southfield 16:05
+Train No: 525
+Lansdowne 16:59
+Southfield 17:10
+Train No: 527
+Lansdowne 17:34
+Southfield 17:45
+Train No: 529
+Lansdowne 18:19
+Southfield 18:30
+Train No: 531
+Lansdowne 18:44
+Southfield 18:55
+Train No: 533
+Lansdowne 19:17
+Southfield 19:28
+
+Train No: 501
+Lansdowne 05:59
+Heathfield 06:13
+Train No: 503
+Lansdowne 06:19
+Heathfield 06:33
+Train No: 505
+Lansdowne 07:04
+Heathfield 07:18
+Train No: 507
+Lansdowne 07:44
+Heathfield 07:58
+Train No: 509
+Lansdowne 08:19
+Heathfield 08:33
+Train No: 511
+Lansdowne 08:44
+Heathfield 08:58
+Train No: 513
+Lansdowne 09:34
+Heathfield 09:48
+Train No: 515
+Lansdowne 11:04
+Heathfield 11:18
+Train No: 517
+Lansdowne 12:04
+Heathfield 12:18
+Train No: 519
+Lansdowne 14:34
+Heathfield 14:48
+Train No: 521
+Lansdowne 15:24
+Heathfield 15:38
+Train No: 523
+Lansdowne 15:54
+Heathfield 16:08
+Train No: 525
+Lansdowne 16:59
+Heathfield 17:13
+Train No: 527
+Lansdowne 17:34
+Heathfield 17:48
+Train No: 529
+Lansdowne 18:19
+Heathfield 18:33
+Train No: 531
+Lansdowne 18:44
+Heathfield 18:58
+Train No: 533
+Lansdowne 19:17
+Heathfield 19:31
+
+Train No: 501
+Lansdowne 05:59
+Retreat 06:15
+Train No: 503
+Lansdowne 06:19
+Retreat 06:35
+Train No: 505
+Lansdowne 07:04
+Retreat 07:20
+Train No: 507
+Lansdowne 07:44
+Retreat 08:00
+Train No: 509
+Lansdowne 08:19
+Retreat 08:35
+Train No: 511
+Lansdowne 08:44
+Retreat 09:00
+Train No: 513
+Lansdowne 09:34
+Retreat 09:50
+Train No: 515
+Lansdowne 11:04
+Retreat 11:20
+Train No: 517
+Lansdowne 12:04
+Retreat 12:20
+Train No: 519
+Lansdowne 14:34
+Retreat 14:50
+Train No: 521
+Lansdowne 15:24
+Retreat 15:40
+Train No: 523
+Lansdowne 15:54
+Retreat 16:10
+Train No: 525
+Lansdowne 16:59
+Retreat 17:15
+Train No: 527
+Lansdowne 17:34
+Retreat 17:50
+Train No: 529
+Lansdowne 18:19
+Retreat 18:35
+Train No: 531
+Lansdowne 18:44
+Retreat 19:00
+Train No: 533
+Lansdowne 19:17
+Retreat 19:33
+
+Train No: 500
+Wetton 05:23
+Cape Town 06:10
+Train No: 502
+Wetton 06:03
+Cape Town 06:50
+Train No: 504
+Wetton 06:38
+Cape Town 07:25
+Train No: 506
+Wetton 06:58
+Cape Town 07:45
+Train No: 508
+Wetton 07:43
+Cape Town 08:30
+Train No: 510
+Wetton 08:23
+Cape Town 09:10
+Train No: 512
+Wetton 09:13
+Cape Town 10:00
+Train No: 514
+Wetton 09:33
+Cape Town 10:20
+Train No: 516
+Wetton 10:13
+Cape Town 11:00
+Train No: 518
+Wetton 11:55
+Cape Town 12:42
+Train No: 520
+Wetton 12:55
+Cape Town 13:42
+Train No: 522
+Wetton 15:18
+Cape Town 16:05
+Train No: 524
+Wetton 16:23
+Cape Town 17:10
+Train No: 526
+Wetton 16:38
+Cape Town 17:25
+Train No: 528
+Wetton 17:38
+Cape Town 18:25
+Train No: 530
+Wetton 18:13
+Cape Town 19:00
+Train No: 532
+Wetton 18:58
+Cape Town 19:45
+
+Train No: 500
+Wetton 05:23
+Woodstock 06:03
+Train No: 502
+Wetton 06:03
+Woodstock 06:43
+Train No: 504
+Wetton 06:38
+Woodstock 07:18
+Train No: 506
+Wetton 06:58
+Woodstock 07:38
+Train No: 508
+Wetton 07:43
+Woodstock 08:23
+Train No: 510
+Wetton 08:23
+Woodstock 09:03
+Train No: 512
+Wetton 09:13
+Woodstock 09:53
+Train No: 514
+Wetton 09:33
+Woodstock 10:13
+Train No: 516
+Wetton 10:13
+Woodstock 10:53
+Train No: 518
+Wetton 11:55
+Woodstock 12:35
+Train No: 520
+Wetton 12:55
+Woodstock 13:35
+Train No: 522
+Wetton 15:18
+Woodstock 15:58
+Train No: 524
+Wetton 16:23
+Woodstock 17:03
+Train No: 526
+Wetton 16:38
+Woodstock 17:18
+Train No: 528
+Wetton 17:38
+Woodstock 18:18
+Train No: 530
+Wetton 18:13
+Woodstock 18:53
+Train No: 532
+Wetton 18:58
+Woodstock 19:38
+
+Train No: 500
+Wetton 05:23
+Salt River 05:55
+Train No: 502
+Wetton 06:03
+Salt River 06:35
+Train No: 504
+Wetton 06:38
+Salt River 07:10
+Train No: 506
+Wetton 06:58
+Salt River 07:30
+Train No: 508
+Wetton 07:43
+Salt River 08:15
+Train No: 510
+Wetton 08:23
+Salt River 08:55
+Train No: 512
+Wetton 09:13
+Salt River 09:45
+Train No: 514
+Wetton 09:33
+Salt River 10:05
+Train No: 516
+Wetton 10:13
+Salt River 10:45
+Train No: 518
+Wetton 11:55
+Salt River 12:27
+Train No: 520
+Wetton 12:55
+Salt River 13:27
+Train No: 522
+Wetton 15:18
+Salt River 15:50
+Train No: 524
+Wetton 16:23
+Salt River 16:55
+Train No: 526
+Wetton 16:38
+Salt River 17:10
+Train No: 528
+Wetton 17:38
+Salt River 18:10
+Train No: 530
+Wetton 18:13
+Salt River 18:45
+Train No: 532
+Wetton 18:58
+Salt River 19:30
+
+
+Train No: 500
+Wetton 05:23
+Maitland 05:46
+Train No: 502
+Wetton 06:03
+Maitland 06:26
+Train No: 504
+Wetton 06:38
+Maitland 07:01
+Train No: 506
+Wetton 06:58
+Maitland 07:21
+Train No: 508
+Wetton 07:43
+Maitland 08:06
+Train No: 510
+Wetton 08:23
+Maitland 08:46
+Train No: 512
+Wetton 09:13
+Maitland 09:36
+Train No: 514
+Wetton 09:33
+Maitland 09:56
+Train No: 516
+Wetton 10:13
+Maitland 10:36
+Train No: 518
+Wetton 11:55
+Maitland 12:18
+Train No: 520
+Wetton 12:55
+Maitland 13:18
+Train No: 522
+Wetton 15:18
+Maitland 15:41
+Train No: 524
+Wetton 16:23
+Maitland 16:46
+Train No: 526
+Wetton 16:38
+Maitland 17:01
+Train No: 528
+Wetton 17:38
+Maitland 18:01
+Train No: 530
+Wetton 18:13
+Maitland 18:36
+Train No: 532
+Wetton 18:58
+Maitland 19:21
+
+Train No: 500
+Wetton 05:23
+Ndabeni 05:42
+Train No: 502
+Wetton 06:03
+Ndabeni 06:22
+Train No: 504
+Wetton 06:38
+Ndabeni 06:57
+Train No: 506
+Wetton 06:58
+Ndabeni 07:17
+Train No: 508
+Wetton 07:43
+Ndabeni 08:02
+Train No: 510
+Wetton 08:23
+Ndabeni 08:42
+Train No: 512
+Wetton 09:13
+Ndabeni 09:32
+Train No: 514
+Wetton 09:33
+Ndabeni 09:52
+Train No: 516
+Wetton 10:13
+Ndabeni 10:32
+Train No: 518
+Wetton 11:55
+Ndabeni 12:14
+Train No: 520
+Wetton 12:55
+Ndabeni 13:14
+Train No: 522
+Wetton 15:18
+Ndabeni 15:37
+Train No: 524
+Wetton 16:23
+Ndabeni 16:42
+Train No: 526
+Wetton 16:38
+Ndabeni 16:57
+Train No: 528
+Wetton 17:38
+Ndabeni 17:57
+Train No: 530
+Wetton 18:13
+Ndabeni 18:32
+Train No: 532
+Wetton 18:58
+Ndabeni 19:17
+
+Train No: 500
+Wetton 05:23
+Pinelands 05:39
+Train No: 502
+Wetton 06:03
+Pinelands 06:19
+Train No: 504
+Wetton 06:38
+Pinelands 06:54
+Train No: 506
+Wetton 06:58
+Pinelands 07:14
+Train No: 508
+Wetton 07:43
+Pinelands 07:59
+Train No: 510
+Wetton 08:23
+Pinelands 08:39
+Train No: 512
+Wetton 09:13
+Pinelands 09:29
+Train No: 514
+Wetton 09:33
+Pinelands 09:49
+Train No: 516
+Wetton 10:13
+Pinelands 10:29
+Train No: 518
+Wetton 11:55
+Pinelands 12:11
+Train No: 520
+Wetton 12:55
+Pinelands 13:11
+Train No: 522
+Wetton 15:18
+Pinelands 15:34
+Train No: 524
+Wetton 16:23
+Pinelands 16:39
+Train No: 526
+Wetton 16:38
+Pinelands 16:54
+Train No: 528
+Wetton 17:38
+Pinelands 17:54
+Train No: 530
+Wetton 18:13
+Pinelands 18:29
+Train No: 532
+Wetton 18:58
+Pinelands 19:14
+
+Train No: 500
+Wetton 05:23
+Hazendal 05:35
+Train No: 502
+Wetton 06:03
+Hazendal 06:15
+Train No: 504
+Wetton 06:38
+Hazendal 06:50
+Train No: 506
+Wetton 06:58
+Hazendal 07:10
+Train No: 508
+Wetton 07:43
+Hazendal 07:55
+Train No: 510
+Wetton 08:23
+Hazendal 08:35
+Train No: 512
+Wetton 09:13
+Hazendal 09:25
+Train No: 514
+Wetton 09:33
+Hazendal 09:45
+Train No: 516
+Wetton 10:13
+Hazendal 10:25
+Train No: 518
+Wetton 11:55
+Hazendal 12:07
+Train No: 520
+Wetton 12:55
+Hazendal 13:07
+Train No: 522
+Wetton 15:18
+Hazendal 15:30
+Train No: 524
+Wetton 16:23
+Hazendal 16:35
+Train No: 526
+Wetton 16:38
+Hazendal 16:50
+Train No: 528
+Wetton 17:38
+Hazendal 17:50
+Train No: 530
+Wetton 18:13
+Hazendal 18:25
+Train No: 532
+Wetton 18:58
+Hazendal 19:10
+
+Train No: 500
+Wetton 05:23
+Athlone 05:31
+Train No: 502
+Wetton 06:03
+Athlone 06:11
+Train No: 504
+Wetton 06:38
+Athlone 06:46
+Train No: 506
+Wetton 06:58
+Athlone 07:06
+Train No: 508
+Wetton 07:43
+Athlone 07:51
+Train No: 510
+Wetton 08:23
+Athlone 08:31
+Train No: 512
+Wetton 09:13
+Athlone 09:21
+Train No: 514
+Wetton 09:33
+Athlone 09:41
+Train No: 516
+Wetton 10:13
+Athlone 10:21
+Train No: 518
+Wetton 11:55
+Athlone 12:03
+Train No: 520
+Wetton 12:55
+Athlone 13:03
+Train No: 522
+Wetton 15:18
+Athlone 15:26
+Train No: 524
+Wetton 16:23
+Athlone 16:31
+Train No: 526
+Wetton 16:38
+Athlone 16:46
+Train No: 528
+Wetton 17:38
+Athlone 17:46
+Train No: 530
+Wetton 18:13
+Athlone 18:21
+Train No: 532
+Wetton 18:58
+Athlone 19:06
+
+Train No: 500
+Wetton 05:23
+Crawford 05:28
+Train No: 502
+Wetton 06:03
+Crawford 06:08
+Train No: 504
+Wetton 06:38
+Crawford 06:43
+Train No: 506
+Wetton 06:58
+Crawford 07:03
+Train No: 508
+Wetton 07:43
+Crawford 07:48
+Train No: 510
+Wetton 08:23
+Crawford 08:28
+Train No: 512
+Wetton 09:13
+Crawford 09:18
+Train No: 514
+Wetton 09:33
+Crawford 09:38
+Train No: 516
+Wetton 10:13
+Crawford 10:18
+Train No: 518
+Wetton 11:55
+Crawford 12:00
+Train No: 520
+Wetton 12:55
+Crawford 13:00
+Train No: 522
+Wetton 15:18
+Crawford 15:23
+Train No: 524
+Wetton 16:23
+Crawford 16:28
+Train No: 526
+Wetton 16:38
+Crawford 16:43
+Train No: 528
+Wetton 17:38
+Crawford 17:43
+Train No: 530
+Wetton 18:13
+Crawford 18:18
+Train No: 532
+Wetton 18:58
+Crawford 19:03
+
+Train No: 500
+Wetton 05:23
+Lansdowne 05:26
+Train No: 502
+Wetton 06:03
+Lansdowne 06:06
+Train No: 504
+Wetton 06:38
+Lansdowne 06:41
+Train No: 506
+Wetton 06:58
+Lansdowne 07:01
+Train No: 508
+Wetton 07:43
+Lansdowne 07:46
+Train No: 510
+Wetton 08:23
+Lansdowne 08:26
+Train No: 512
+Wetton 09:13
+Lansdowne 09:16
+Train No: 514
+Wetton 09:33
+Lansdowne 09:36
+Train No: 516
+Wetton 10:13
+Lansdowne 10:16
+Train No: 518
+Wetton 11:55
+Lansdowne 11:58
+Train No: 520
+Wetton 12:55
+Lansdowne 12:58
+Train No: 522
+Wetton 15:18
+Lansdowne 15:21
+Train No: 524
+Wetton 16:23
+Lansdowne 16:26
+Train No: 526
+Wetton 16:38
+Lansdowne 16:41
+Train No: 528
+Wetton 17:38
+Lansdowne 17:41
+Train No: 530
+Wetton 18:13
+Lansdowne 18:16
+Train No: 532
+Wetton 18:58
+Lansdowne 19:01
+
+Train No: 501
+Wetton 06:02
+Ottery 06:05
+Train No: 503
+Wetton 06:22
+Ottery 06:25
+Train No: 505
+Wetton 07:07
+Ottery 07:10
+Train No: 507
+Wetton 07:47
+Ottery 07:50
+Train No: 509
+Wetton 08:22
+Ottery 08:25
+Train No: 511
+Wetton 08:47
+Ottery 08:50
+Train No: 513
+Wetton 09:37
+Ottery 09:40
+Train No: 515
+Wetton 11:07
+Ottery 11:10
+Train No: 517
+Wetton 12:07
+Ottery 12:10
+Train No: 519
+Wetton 14:37
+Ottery 14:40
+Train No: 521
+Wetton 15:27
+Ottery 15:30
+Train No: 523
+Wetton 15:57
+Ottery 16:00
+Train No: 525
+Wetton 17:02
+Ottery 17:05
+Train No: 527
+Wetton 17:37
+Ottery 17:40
+Train No: 529
+Wetton 18:22
+Ottery 18:25
+Train No: 531
+Wetton 18:47
+Ottery 18:50
+Train No: 533
+Wetton 19:20
+Ottery 19:23
+
+Train No: 501
+Wetton 06:02
+Southfield 06:10
+Train No: 503
+Wetton 06:22
+Southfield 06:30
+Train No: 505
+Wetton 07:07
+Southfield 07:15
+Train No: 507
+Wetton 07:47
+Southfield 07:55
+Train No: 509
+Wetton 08:22
+Southfield 08:30
+Train No: 511
+Wetton 08:47
+Southfield 08:55
+Train No: 513
+Wetton 09:37
+Southfield 09:45
+Train No: 515
+Wetton 11:07
+Southfield 11:15
+Train No: 517
+Wetton 12:07
+Southfield 12:15
+Train No: 519
+Wetton 14:37
+Southfield 14:45
+Train No: 521
+Wetton 15:27
+Southfield 15:35
+Train No: 523
+Wetton 15:57
+Southfield 16:05
+Train No: 525
+Wetton 17:02
+Southfield 17:10
+Train No: 527
+Wetton 17:37
+Southfield 17:45
+Train No: 529
+Wetton 18:22
+Southfield 18:30
+Train No: 531
+Wetton 18:47
+Southfield 18:55
+Train No: 533
+Wetton 19:20
+Southfield 19:28
+
+Train No: 501
+Wetton 06:02
+Heathfield 06:13
+Train No: 503
+Wetton 06:22
+Heathfield 06:33
+Train No: 505
+Wetton 07:07
+Heathfield 07:18
+Train No: 507
+Wetton 07:47
+Heathfield 07:58
+Train No: 509
+Wetton 08:22
+Heathfield 08:33
+Train No: 511
+Wetton 08:47
+Heathfield 08:58
+Train No: 513
+Wetton 09:37
+Heathfield 09:48
+Train No: 515
+Wetton 11:07
+Heathfield 11:18
+Train No: 517
+Wetton 12:07
+Heathfield 12:18
+Train No: 519
+Wetton 14:37
+Heathfield 14:48
+Train No: 521
+Wetton 15:27
+Heathfield 15:38
+Train No: 523
+Wetton 15:57
+Heathfield 16:08
+Train No: 525
+Wetton 17:02
+Heathfield 17:13
+Train No: 527
+Wetton 17:37
+Heathfield 17:48
+Train No: 529
+Wetton 18:22
+Heathfield 18:33
+Train No: 531
+Wetton 18:47
+Heathfield 18:58
+Train No: 533
+Wetton 19:20
+Heathfield 19:31
+
+Train No: 501
+Wetton 06:02
+Retreat 06:15
+Train No: 503
+Wetton 06:22
+Retreat 06:35
+Train No: 505
+Wetton 07:07
+Retreat 07:20
+Train No: 507
+Wetton 07:47
+Retreat 08:00
+Train No: 509
+Wetton 08:22
+Retreat 08:35
+Train No: 511
+Wetton 08:47
+Retreat 09:00
+Train No: 513
+Wetton 09:37
+Retreat 09:50
+Train No: 515
+Wetton 11:07
+Retreat 11:20
+Train No: 517
+Wetton 12:07
+Retreat 12:20
+Train No: 519
+Wetton 14:37
+Retreat 14:50
+Train No: 521
+Wetton 15:27
+Retreat 15:40
+Train No: 523
+Wetton 15:57
+Retreat 16:10
+Train No: 525
+Wetton 17:02
+Retreat 17:15
+Train No: 527
+Wetton 17:37
+Retreat 17:50
+Train No: 529
+Wetton 18:22
+Retreat 18:35
+Train No: 531
+Wetton 18:47
+Retreat 19:00
+Train No: 533
+Wetton 19:20
+Retreat 19:33
+
+Train No: 500
+Ottery 05:20
+Cape Town 06:10
+Train No: 502
+Ottery 06:00
+Cape Town 06:50
+Train No: 504
+Ottery 06:35
+Cape Town 07:25
+Train No: 506
+Ottery 06:55
+Cape Town 07:45
+Train No: 508
+Ottery 07:40
+Cape Town 08:30
+Train No: 510
+Ottery 08:20
+Cape Town 09:10
+Train No: 512
+Ottery 09:10
+Cape Town 10:00
+Train No: 514
+Ottery 09:30
+Cape Town 10:20
+Train No: 516
+Ottery 10:10
+Cape Town 11:00
+Train No: 518
+Ottery 11:52
+Cape Town 12:42
+Train No: 520
+Ottery 12:52
+Cape Town 13:42
+Train No: 522
+Ottery 15:15
+Cape Town 16:05
+Train No: 524
+Ottery 16:20
+Cape Town 17:10
+Train No: 526
+Ottery 16:35
+Cape Town 17:25
+Train No: 528
+Ottery 17:35
+Cape Town 18:25
+Train No: 530
+Ottery 18:10
+Cape Town 19:00
+Train No: 532
+Ottery 18:55
+Cape Town 19:45
+
+Train No: 500
+Ottery 05:20
+Woodstock 06:03
+Train No: 502
+Ottery 06:00
+Woodstock 06:43
+Train No: 504
+Ottery 06:35
+Woodstock 07:18
+Train No: 506
+Ottery 06:55
+Woodstock 07:38
+Train No: 508
+Ottery 07:40
+Woodstock 08:23
+Train No: 510
+Ottery 08:20
+Woodstock 09:03
+Train No: 512
+Ottery 09:10
+Woodstock 09:53
+Train No: 514
+Ottery 09:30
+Woodstock 10:13
+Train No: 516
+Ottery 10:10
+Woodstock 10:53
+Train No: 518
+Ottery 11:52
+Woodstock 12:35
+Train No: 520
+Ottery 12:52
+Woodstock 13:35
+Train No: 522
+Ottery 15:15
+Woodstock 15:58
+Train No: 524
+Ottery 16:20
+Woodstock 17:03
+Train No: 526
+Ottery 16:35
+Woodstock 17:18
+Train No: 528
+Ottery 17:35
+Woodstock 18:18
+Train No: 530
+Ottery 18:10
+Woodstock 18:53
+Train No: 532
+Ottery 18:55
+Woodstock 19:38
+
+Train No: 500
+Ottery 05:20
+Salt River 05:55
+Train No: 502
+Ottery 06:00
+Salt River 06:35
+Train No: 504
+Ottery 06:35
+Salt River 07:10
+Train No: 506
+Ottery 06:55
+Salt River 07:30
+Train No: 508
+Ottery 07:40
+Salt River 08:15
+Train No: 510
+Ottery 08:20
+Salt River 08:55
+Train No: 512
+Ottery 09:10
+Salt River 09:45
+Train No: 514
+Ottery 09:30
+Salt River 10:05
+Train No: 516
+Ottery 10:10
+Salt River 10:45
+Train No: 518
+Ottery 11:52
+Salt River 12:27
+Train No: 520
+Ottery 12:52
+Salt River 13:27
+Train No: 522
+Ottery 15:15
+Salt River 15:50
+Train No: 524
+Ottery 16:20
+Salt River 16:55
+Train No: 526
+Ottery 16:35
+Salt River 17:10
+Train No: 528
+Ottery 17:35
+Salt River 18:10
+Train No: 530
+Ottery 18:10
+Salt River 18:45
+Train No: 532
+Ottery 18:55
+Salt River 19:30
+
+
+Train No: 500
+Ottery 05:20
+Maitland 05:46
+Train No: 502
+Ottery 06:00
+Maitland 06:26
+Train No: 504
+Ottery 06:35
+Maitland 07:01
+Train No: 506
+Ottery 06:55
+Maitland 07:21
+Train No: 508
+Ottery 07:40
+Maitland 08:06
+Train No: 510
+Ottery 08:20
+Maitland 08:46
+Train No: 512
+Ottery 09:10
+Maitland 09:36
+Train No: 514
+Ottery 09:30
+Maitland 09:56
+Train No: 516
+Ottery 10:10
+Maitland 10:36
+Train No: 518
+Ottery 11:52
+Maitland 12:18
+Train No: 520
+Ottery 12:52
+Maitland 13:18
+Train No: 522
+Ottery 15:15
+Maitland 15:41
+Train No: 524
+Ottery 16:20
+Maitland 16:46
+Train No: 526
+Ottery 16:35
+Maitland 17:01
+Train No: 528
+Ottery 17:35
+Maitland 18:01
+Train No: 530
+Ottery 18:10
+Maitland 18:36
+Train No: 532
+Ottery 18:55
+Maitland 19:21
+
+Train No: 500
+Ottery 05:20
+Ndabeni 05:42
+Train No: 502
+Ottery 06:00
+Ndabeni 06:22
+Train No: 504
+Ottery 06:35
+Ndabeni 06:57
+Train No: 506
+Ottery 06:55
+Ndabeni 07:17
+Train No: 508
+Ottery 07:40
+Ndabeni 08:02
+Train No: 510
+Ottery 08:20
+Ndabeni 08:42
+Train No: 512
+Ottery 09:10
+Ndabeni 09:32
+Train No: 514
+Ottery 09:30
+Ndabeni 09:52
+Train No: 516
+Ottery 10:10
+Ndabeni 10:32
+Train No: 518
+Ottery 11:52
+Ndabeni 12:14
+Train No: 520
+Ottery 12:52
+Ndabeni 13:14
+Train No: 522
+Ottery 15:15
+Ndabeni 15:37
+Train No: 524
+Ottery 16:20
+Ndabeni 16:42
+Train No: 526
+Ottery 16:35
+Ndabeni 16:57
+Train No: 528
+Ottery 17:35
+Ndabeni 17:57
+Train No: 530
+Ottery 18:10
+Ndabeni 18:32
+Train No: 532
+Ottery 18:55
+Ndabeni 19:17
+
+Train No: 500
+Ottery 05:20
+Pinelands 05:39
+Train No: 502
+Ottery 06:00
+Pinelands 06:19
+Train No: 504
+Ottery 06:35
+Pinelands 06:54
+Train No: 506
+Ottery 06:55
+Pinelands 07:14
+Train No: 508
+Ottery 07:40
+Pinelands 07:59
+Train No: 510
+Ottery 08:20
+Pinelands 08:39
+Train No: 512
+Ottery 09:10
+Pinelands 09:29
+Train No: 514
+Ottery 09:30
+Pinelands 09:49
+Train No: 516
+Ottery 10:10
+Pinelands 10:29
+Train No: 518
+Ottery 11:52
+Pinelands 12:11
+Train No: 520
+Ottery 12:52
+Pinelands 13:11
+Train No: 522
+Ottery 15:15
+Pinelands 15:34
+Train No: 524
+Ottery 16:20
+Pinelands 16:39
+Train No: 526
+Ottery 16:35
+Pinelands 16:54
+Train No: 528
+Ottery 17:35
+Pinelands 17:54
+Train No: 530
+Ottery 18:10
+Pinelands 18:29
+Train No: 532
+Ottery 18:55
+Pinelands 19:14
+
+Train No: 500
+Ottery 05:20
+Hazendal 05:35
+Train No: 502
+Ottery 06:00
+Hazendal 06:15
+Train No: 504
+Ottery 06:35
+Hazendal 06:50
+Train No: 506
+Ottery 06:55
+Hazendal 07:10
+Train No: 508
+Ottery 07:40
+Hazendal 07:55
+Train No: 510
+Ottery 08:20
+Hazendal 08:35
+Train No: 512
+Ottery 09:10
+Hazendal 09:25
+Train No: 514
+Ottery 09:30
+Hazendal 09:45
+Train No: 516
+Ottery 10:10
+Hazendal 10:25
+Train No: 518
+Ottery 11:52
+Hazendal 12:07
+Train No: 520
+Ottery 12:52
+Hazendal 13:07
+Train No: 522
+Ottery 15:15
+Hazendal 15:30
+Train No: 524
+Ottery 16:20
+Hazendal 16:35
+Train No: 526
+Ottery 16:35
+Hazendal 16:50
+Train No: 528
+Ottery 17:35
+Hazendal 17:50
+Train No: 530
+Ottery 18:10
+Hazendal 18:25
+Train No: 532
+Ottery 18:55
+Hazendal 19:10
+
+Train No: 500
+Ottery 05:20
+Athlone 05:31
+Train No: 502
+Ottery 06:00
+Athlone 06:11
+Train No: 504
+Ottery 06:35
+Athlone 06:46
+Train No: 506
+Ottery 06:55
+Athlone 07:06
+Train No: 508
+Ottery 07:40
+Athlone 07:51
+Train No: 510
+Ottery 08:20
+Athlone 08:31
+Train No: 512
+Ottery 09:10
+Athlone 09:21
+Train No: 514
+Ottery 09:30
+Athlone 09:41
+Train No: 516
+Ottery 10:10
+Athlone 10:21
+Train No: 518
+Ottery 11:52
+Athlone 12:03
+Train No: 520
+Ottery 12:52
+Athlone 13:03
+Train No: 522
+Ottery 15:15
+Athlone 15:26
+Train No: 524
+Ottery 16:20
+Athlone 16:31
+Train No: 526
+Ottery 16:35
+Athlone 16:46
+Train No: 528
+Ottery 17:35
+Athlone 17:46
+Train No: 530
+Ottery 18:10
+Athlone 18:21
+Train No: 532
+Ottery 18:55
+Athlone 19:06
+
+Train No: 500
+Ottery 05:20
+Crawford 05:28
+Train No: 502
+Ottery 06:00
+Crawford 06:08
+Train No: 504
+Ottery 06:35
+Crawford 06:43
+Train No: 506
+Ottery 06:55
+Crawford 07:03
+Train No: 508
+Ottery 07:40
+Crawford 07:48
+Train No: 510
+Ottery 08:20
+Crawford 08:28
+Train No: 512
+Ottery 09:10
+Crawford 09:18
+Train No: 514
+Ottery 09:30
+Crawford 09:38
+Train No: 516
+Ottery 10:10
+Crawford 10:18
+Train No: 518
+Ottery 11:52
+Crawford 12:00
+Train No: 520
+Ottery 12:52
+Crawford 13:00
+Train No: 522
+Ottery 15:15
+Crawford 15:23
+Train No: 524
+Ottery 16:20
+Crawford 16:28
+Train No: 526
+Ottery 16:35
+Crawford 16:43
+Train No: 528
+Ottery 17:35
+Crawford 17:43
+Train No: 530
+Ottery 18:10
+Crawford 18:18
+Train No: 532
+Ottery 18:55
+Crawford 19:03
+
+Train No: 500
+Ottery 05:20
+Lansdowne 05:26
+Train No: 502
+Ottery 06:00
+Lansdowne 06:06
+Train No: 504
+Ottery 06:35
+Lansdowne 06:41
+Train No: 506
+Ottery 06:55
+Lansdowne 07:01
+Train No: 508
+Ottery 07:40
+Lansdowne 07:46
+Train No: 510
+Ottery 08:20
+Lansdowne 08:26
+Train No: 512
+Ottery 09:10
+Lansdowne 09:16
+Train No: 514
+Ottery 09:30
+Lansdowne 09:36
+Train No: 516
+Ottery 10:10
+Lansdowne 10:16
+Train No: 518
+Ottery 11:52
+Lansdowne 11:58
+Train No: 520
+Ottery 12:52
+Lansdowne 12:58
+Train No: 522
+Ottery 15:15
+Lansdowne 15:21
+Train No: 524
+Ottery 16:20
+Lansdowne 16:26
+Train No: 526
+Ottery 16:35
+Lansdowne 16:41
+Train No: 528
+Ottery 17:35
+Lansdowne 17:41
+Train No: 530
+Ottery 18:10
+Lansdowne 18:16
+Train No: 532
+Ottery 18:55
+Lansdowne 19:01
+
+Train No: 500
+Ottery 05:20
+Wetton 05:23
+Train No: 502
+Ottery 06:00
+Wetton 06:03
+Train No: 504
+Ottery 06:35
+Wetton 06:38
+Train No: 506
+Ottery 06:55
+Wetton 06:58
+Train No: 508
+Ottery 07:40
+Wetton 07:43
+Train No: 510
+Ottery 08:20
+Wetton 08:23
+Train No: 512
+Ottery 09:10
+Wetton 09:13
+Train No: 514
+Ottery 09:30
+Wetton 09:33
+Train No: 516
+Ottery 10:10
+Wetton 10:13
+Train No: 518
+Ottery 11:52
+Wetton 11:55
+Train No: 520
+Ottery 12:52
+Wetton 12:55
+Train No: 522
+Ottery 15:15
+Wetton 15:18
+Train No: 524
+Ottery 16:20
+Wetton 16:23
+Train No: 526
+Ottery 16:35
+Wetton 16:38
+Train No: 528
+Ottery 17:35
+Wetton 17:38
+Train No: 530
+Ottery 18:10
+Wetton 18:13
+Train No: 532
+Ottery 18:55
+Wetton 18:58
+
+Train No: 501
+Ottery 06:05
+Southfield 06:10
+Train No: 503
+Ottery 06:25
+Southfield 06:30
+Train No: 505
+Ottery 07:10
+Southfield 07:15
+Train No: 507
+Ottery 07:50
+Southfield 07:55
+Train No: 509
+Ottery 08:25
+Southfield 08:30
+Train No: 511
+Ottery 08:50
+Southfield 08:55
+Train No: 513
+Ottery 09:40
+Southfield 09:45
+Train No: 515
+Ottery 11:10
+Southfield 11:15
+Train No: 517
+Ottery 12:10
+Southfield 12:15
+Train No: 519
+Ottery 14:40
+Southfield 14:45
+Train No: 521
+Ottery 15:30
+Southfield 15:35
+Train No: 523
+Ottery 16:00
+Southfield 16:05
+Train No: 525
+Ottery 17:05
+Southfield 17:10
+Train No: 527
+Ottery 17:40
+Southfield 17:45
+Train No: 529
+Ottery 18:25
+Southfield 18:30
+Train No: 531
+Ottery 18:50
+Southfield 18:55
+Train No: 533
+Ottery 19:23
+Southfield 19:28
+
+Train No: 501
+Ottery 06:05
+Heathfield 06:13
+Train No: 503
+Ottery 06:25
+Heathfield 06:33
+Train No: 505
+Ottery 07:10
+Heathfield 07:18
+Train No: 507
+Ottery 07:50
+Heathfield 07:58
+Train No: 509
+Ottery 08:25
+Heathfield 08:33
+Train No: 511
+Ottery 08:50
+Heathfield 08:58
+Train No: 513
+Ottery 09:40
+Heathfield 09:48
+Train No: 515
+Ottery 11:10
+Heathfield 11:18
+Train No: 517
+Ottery 12:10
+Heathfield 12:18
+Train No: 519
+Ottery 14:40
+Heathfield 14:48
+Train No: 521
+Ottery 15:30
+Heathfield 15:38
+Train No: 523
+Ottery 16:00
+Heathfield 16:08
+Train No: 525
+Ottery 17:05
+Heathfield 17:13
+Train No: 527
+Ottery 17:40
+Heathfield 17:48
+Train No: 529
+Ottery 18:25
+Heathfield 18:33
+Train No: 531
+Ottery 18:50
+Heathfield 18:58
+Train No: 533
+Ottery 19:23
+Heathfield 19:31
+
+Train No: 501
+Ottery 06:05
+Retreat 06:15
+Train No: 503
+Ottery 06:25
+Retreat 06:35
+Train No: 505
+Ottery 07:10
+Retreat 07:20
+Train No: 507
+Ottery 07:50
+Retreat 08:00
+Train No: 509
+Ottery 08:25
+Retreat 08:35
+Train No: 511
+Ottery 08:50
+Retreat 09:00
+Train No: 513
+Ottery 09:40
+Retreat 09:50
+Train No: 515
+Ottery 11:10
+Retreat 11:20
+Train No: 517
+Ottery 12:10
+Retreat 12:20
+Train No: 519
+Ottery 14:40
+Retreat 14:50
+Train No: 521
+Ottery 15:30
+Retreat 15:40
+Train No: 523
+Ottery 16:00
+Retreat 16:10
+Train No: 525
+Ottery 17:05
+Retreat 17:15
+Train No: 527
+Ottery 17:40
+Retreat 17:50
+Train No: 529
+Ottery 18:25
+Retreat 18:35
+Train No: 531
+Ottery 18:50
+Retreat 19:00
+Train No: 533
+Ottery 19:23
+Retreat 19:33
+
+Train No: 500
+Southfield 05:17
+Cape Town 06:10
+Train No: 502
+Southfield 05:57
+Cape Town 06:50
+Train No: 504
+Southfield 06:32
+Cape Town 07:25
+Train No: 506
+Southfield 06:52
+Cape Town 07:45
+Train No: 508
+Southfield 07:37
+Cape Town 08:30
+Train No: 510
+Southfield 08:17
+Cape Town 09:10
+Train No: 512
+Southfield 09:07
+Cape Town 10:00
+Train No: 514
+Southfield 09:27
+Cape Town 10:20
+Train No: 516
+Southfield 10:07
+Cape Town 11:00
+Train No: 518
+Southfield 11:49
+Cape Town 12:42
+Train No: 520
+Southfield 12:49
+Cape Town 13:42
+Train No: 522
+Southfield 15:12
+Cape Town 16:05
+Train No: 524
+Southfield 16:17
+Cape Town 17:10
+Train No: 526
+Southfield 16:32
+Cape Town 17:25
+Train No: 528
+Southfield 17:32
+Cape Town 18:25
+Train No: 530
+Southfield 18:07
+Cape Town 19:00
+Train No: 532
+Southfield 18:52
+Cape Town 19:45
+
+Train No: 500
+Southfield 05:17
+Woodstock 06:03
+Train No: 502
+Southfield 05:57
+Woodstock 06:43
+Train No: 504
+Southfield 06:32
+Woodstock 07:18
+Train No: 506
+Southfield 06:52
+Woodstock 07:38
+Train No: 508
+Southfield 07:37
+Woodstock 08:23
+Train No: 510
+Southfield 08:17
+Woodstock 09:03
+Train No: 512
+Southfield 09:07
+Woodstock 09:53
+Train No: 514
+Southfield 09:27
+Woodstock 10:13
+Train No: 516
+Southfield 10:07
+Woodstock 10:53
+Train No: 518
+Southfield 11:49
+Woodstock 12:35
+Train No: 520
+Southfield 12:49
+Woodstock 13:35
+Train No: 522
+Southfield 15:12
+Woodstock 15:58
+Train No: 524
+Southfield 16:17
+Woodstock 17:03
+Train No: 526
+Southfield 16:32
+Woodstock 17:18
+Train No: 528
+Southfield 17:32
+Woodstock 18:18
+Train No: 530
+Southfield 18:07
+Woodstock 18:53
+Train No: 532
+Southfield 18:52
+Woodstock 19:38
+
+Train No: 500
+Southfield 05:17
+Salt River 05:55
+Train No: 502
+Southfield 05:57
+Salt River 06:35
+Train No: 504
+Southfield 06:32
+Salt River 07:10
+Train No: 506
+Southfield 06:52
+Salt River 07:30
+Train No: 508
+Southfield 07:37
+Salt River 08:15
+Train No: 510
+Southfield 08:17
+Salt River 08:55
+Train No: 512
+Southfield 09:07
+Salt River 09:45
+Train No: 514
+Southfield 09:27
+Salt River 10:05
+Train No: 516
+Southfield 10:07
+Salt River 10:45
+Train No: 518
+Southfield 11:49
+Salt River 12:27
+Train No: 520
+Southfield 12:49
+Salt River 13:27
+Train No: 522
+Southfield 15:12
+Salt River 15:50
+Train No: 524
+Southfield 16:17
+Salt River 16:55
+Train No: 526
+Southfield 16:32
+Salt River 17:10
+Train No: 528
+Southfield 17:32
+Salt River 18:10
+Train No: 530
+Southfield 18:07
+Salt River 18:45
+Train No: 532
+Southfield 18:52
+Salt River 19:30
+
+
+Train No: 500
+Southfield 05:17
+Maitland 05:46
+Train No: 502
+Southfield 05:57
+Maitland 06:26
+Train No: 504
+Southfield 06:32
+Maitland 07:01
+Train No: 506
+Southfield 06:52
+Maitland 07:21
+Train No: 508
+Southfield 07:37
+Maitland 08:06
+Train No: 510
+Southfield 08:17
+Maitland 08:46
+Train No: 512
+Southfield 09:07
+Maitland 09:36
+Train No: 514
+Southfield 09:27
+Maitland 09:56
+Train No: 516
+Southfield 10:07
+Maitland 10:36
+Train No: 518
+Southfield 11:49
+Maitland 12:18
+Train No: 520
+Southfield 12:49
+Maitland 13:18
+Train No: 522
+Southfield 15:12
+Maitland 15:41
+Train No: 524
+Southfield 16:17
+Maitland 16:46
+Train No: 526
+Southfield 16:32
+Maitland 17:01
+Train No: 528
+Southfield 17:32
+Maitland 18:01
+Train No: 530
+Southfield 18:07
+Maitland 18:36
+Train No: 532
+Southfield 18:52
+Maitland 19:21
+
+Train No: 500
+Southfield 05:17
+Ndabeni 05:42
+Train No: 502
+Southfield 05:57
+Ndabeni 06:22
+Train No: 504
+Southfield 06:32
+Ndabeni 06:57
+Train No: 506
+Southfield 06:52
+Ndabeni 07:17
+Train No: 508
+Southfield 07:37
+Ndabeni 08:02
+Train No: 510
+Southfield 08:17
+Ndabeni 08:42
+Train No: 512
+Southfield 09:07
+Ndabeni 09:32
+Train No: 514
+Southfield 09:27
+Ndabeni 09:52
+Train No: 516
+Southfield 10:07
+Ndabeni 10:32
+Train No: 518
+Southfield 11:49
+Ndabeni 12:14
+Train No: 520
+Southfield 12:49
+Ndabeni 13:14
+Train No: 522
+Southfield 15:12
+Ndabeni 15:37
+Train No: 524
+Southfield 16:17
+Ndabeni 16:42
+Train No: 526
+Southfield 16:32
+Ndabeni 16:57
+Train No: 528
+Southfield 17:32
+Ndabeni 17:57
+Train No: 530
+Southfield 18:07
+Ndabeni 18:32
+Train No: 532
+Southfield 18:52
+Ndabeni 19:17
+
+Train No: 500
+Southfield 05:17
+Pinelands 05:39
+Train No: 502
+Southfield 05:57
+Pinelands 06:19
+Train No: 504
+Southfield 06:32
+Pinelands 06:54
+Train No: 506
+Southfield 06:52
+Pinelands 07:14
+Train No: 508
+Southfield 07:37
+Pinelands 07:59
+Train No: 510
+Southfield 08:17
+Pinelands 08:39
+Train No: 512
+Southfield 09:07
+Pinelands 09:29
+Train No: 514
+Southfield 09:27
+Pinelands 09:49
+Train No: 516
+Southfield 10:07
+Pinelands 10:29
+Train No: 518
+Southfield 11:49
+Pinelands 12:11
+Train No: 520
+Southfield 12:49
+Pinelands 13:11
+Train No: 522
+Southfield 15:12
+Pinelands 15:34
+Train No: 524
+Southfield 16:17
+Pinelands 16:39
+Train No: 526
+Southfield 16:32
+Pinelands 16:54
+Train No: 528
+Southfield 17:32
+Pinelands 17:54
+Train No: 530
+Southfield 18:07
+Pinelands 18:29
+Train No: 532
+Southfield 18:52
+Pinelands 19:14
+
+Train No: 500
+Southfield 05:17
+Hazendal 05:35
+Train No: 502
+Southfield 05:57
+Hazendal 06:15
+Train No: 504
+Southfield 06:32
+Hazendal 06:50
+Train No: 506
+Southfield 06:52
+Hazendal 07:10
+Train No: 508
+Southfield 07:37
+Hazendal 07:55
+Train No: 510
+Southfield 08:17
+Hazendal 08:35
+Train No: 512
+Southfield 09:07
+Hazendal 09:25
+Train No: 514
+Southfield 09:27
+Hazendal 09:45
+Train No: 516
+Southfield 10:07
+Hazendal 10:25
+Train No: 518
+Southfield 11:49
+Hazendal 12:07
+Train No: 520
+Southfield 12:49
+Hazendal 13:07
+Train No: 522
+Southfield 15:12
+Hazendal 15:30
+Train No: 524
+Southfield 16:17
+Hazendal 16:35
+Train No: 526
+Southfield 16:32
+Hazendal 16:50
+Train No: 528
+Southfield 17:32
+Hazendal 17:50
+Train No: 530
+Southfield 18:07
+Hazendal 18:25
+Train No: 532
+Southfield 18:52
+Hazendal 19:10
+
+Train No: 500
+Southfield 05:17
+Athlone 05:31
+Train No: 502
+Southfield 05:57
+Athlone 06:11
+Train No: 504
+Southfield 06:32
+Athlone 06:46
+Train No: 506
+Southfield 06:52
+Athlone 07:06
+Train No: 508
+Southfield 07:37
+Athlone 07:51
+Train No: 510
+Southfield 08:17
+Athlone 08:31
+Train No: 512
+Southfield 09:07
+Athlone 09:21
+Train No: 514
+Southfield 09:27
+Athlone 09:41
+Train No: 516
+Southfield 10:07
+Athlone 10:21
+Train No: 518
+Southfield 11:49
+Athlone 12:03
+Train No: 520
+Southfield 12:49
+Athlone 13:03
+Train No: 522
+Southfield 15:12
+Athlone 15:26
+Train No: 524
+Southfield 16:17
+Athlone 16:31
+Train No: 526
+Southfield 16:32
+Athlone 16:46
+Train No: 528
+Southfield 17:32
+Athlone 17:46
+Train No: 530
+Southfield 18:07
+Athlone 18:21
+Train No: 532
+Southfield 18:52
+Athlone 19:06
+
+Train No: 500
+Southfield 05:17
+Crawford 05:28
+Train No: 502
+Southfield 05:57
+Crawford 06:08
+Train No: 504
+Southfield 06:32
+Crawford 06:43
+Train No: 506
+Southfield 06:52
+Crawford 07:03
+Train No: 508
+Southfield 07:37
+Crawford 07:48
+Train No: 510
+Southfield 08:17
+Crawford 08:28
+Train No: 512
+Southfield 09:07
+Crawford 09:18
+Train No: 514
+Southfield 09:27
+Crawford 09:38
+Train No: 516
+Southfield 10:07
+Crawford 10:18
+Train No: 518
+Southfield 11:49
+Crawford 12:00
+Train No: 520
+Southfield 12:49
+Crawford 13:00
+Train No: 522
+Southfield 15:12
+Crawford 15:23
+Train No: 524
+Southfield 16:17
+Crawford 16:28
+Train No: 526
+Southfield 16:32
+Crawford 16:43
+Train No: 528
+Southfield 17:32
+Crawford 17:43
+Train No: 530
+Southfield 18:07
+Crawford 18:18
+Train No: 532
+Southfield 18:52
+Crawford 19:03
+
+Train No: 500
+Southfield 05:17
+Lansdowne 05:26
+Train No: 502
+Southfield 05:57
+Lansdowne 06:06
+Train No: 504
+Southfield 06:32
+Lansdowne 06:41
+Train No: 506
+Southfield 06:52
+Lansdowne 07:01
+Train No: 508
+Southfield 07:37
+Lansdowne 07:46
+Train No: 510
+Southfield 08:17
+Lansdowne 08:26
+Train No: 512
+Southfield 09:07
+Lansdowne 09:16
+Train No: 514
+Southfield 09:27
+Lansdowne 09:36
+Train No: 516
+Southfield 10:07
+Lansdowne 10:16
+Train No: 518
+Southfield 11:49
+Lansdowne 11:58
+Train No: 520
+Southfield 12:49
+Lansdowne 12:58
+Train No: 522
+Southfield 15:12
+Lansdowne 15:21
+Train No: 524
+Southfield 16:17
+Lansdowne 16:26
+Train No: 526
+Southfield 16:32
+Lansdowne 16:41
+Train No: 528
+Southfield 17:32
+Lansdowne 17:41
+Train No: 530
+Southfield 18:07
+Lansdowne 18:16
+Train No: 532
+Southfield 18:52
+Lansdowne 19:01
+
+Train No: 500
+Southfield 05:17
+Wetton 05:23
+Train No: 502
+Southfield 05:57
+Wetton 06:03
+Train No: 504
+Southfield 06:32
+Wetton 06:38
+Train No: 506
+Southfield 06:52
+Wetton 06:58
+Train No: 508
+Southfield 07:37
+Wetton 07:43
+Train No: 510
+Southfield 08:17
+Wetton 08:23
+Train No: 512
+Southfield 09:07
+Wetton 09:13
+Train No: 514
+Southfield 09:27
+Wetton 09:33
+Train No: 516
+Southfield 10:07
+Wetton 10:13
+Train No: 518
+Southfield 11:49
+Wetton 11:55
+Train No: 520
+Southfield 12:49
+Wetton 12:55
+Train No: 522
+Southfield 15:12
+Wetton 15:18
+Train No: 524
+Southfield 16:17
+Wetton 16:23
+Train No: 526
+Southfield 16:32
+Wetton 16:38
+Train No: 528
+Southfield 17:32
+Wetton 17:38
+Train No: 530
+Southfield 18:07
+Wetton 18:13
+Train No: 532
+Southfield 18:52
+Wetton 18:58
+
+Train No: 500
+Southfield 05:17
+Ottery 05:20
+Train No: 502
+Southfield 05:57
+Ottery 06:00
+Train No: 504
+Southfield 06:32
+Ottery 06:35
+Train No: 506
+Southfield 06:52
+Ottery 06:55
+Train No: 508
+Southfield 07:37
+Ottery 07:40
+Train No: 510
+Southfield 08:17
+Ottery 08:20
+Train No: 512
+Southfield 09:07
+Ottery 09:10
+Train No: 514
+Southfield 09:27
+Ottery 09:30
+Train No: 516
+Southfield 10:07
+Ottery 10:10
+Train No: 518
+Southfield 11:49
+Ottery 11:52
+Train No: 520
+Southfield 12:49
+Ottery 12:52
+Train No: 522
+Southfield 15:12
+Ottery 15:15
+Train No: 524
+Southfield 16:17
+Ottery 16:20
+Train No: 526
+Southfield 16:32
+Ottery 16:35
+Train No: 528
+Southfield 17:32
+Ottery 17:35
+Train No: 530
+Southfield 18:07
+Ottery 18:10
+Train No: 532
+Southfield 18:52
+Ottery 18:55
+
+Train No: 501
+Southfield 06:10
+Heathfield 06:13
+Train No: 503
+Southfield 06:30
+Heathfield 06:33
+Train No: 505
+Southfield 07:15
+Heathfield 07:18
+Train No: 507
+Southfield 07:55
+Heathfield 07:58
+Train No: 509
+Southfield 08:30
+Heathfield 08:33
+Train No: 511
+Southfield 08:55
+Heathfield 08:58
+Train No: 513
+Southfield 09:45
+Heathfield 09:48
+Train No: 515
+Southfield 11:15
+Heathfield 11:18
+Train No: 517
+Southfield 12:15
+Heathfield 12:18
+Train No: 519
+Southfield 14:45
+Heathfield 14:48
+Train No: 521
+Southfield 15:35
+Heathfield 15:38
+Train No: 523
+Southfield 16:05
+Heathfield 16:08
+Train No: 525
+Southfield 17:10
+Heathfield 17:13
+Train No: 527
+Southfield 17:45
+Heathfield 17:48
+Train No: 529
+Southfield 18:30
+Heathfield 18:33
+Train No: 531
+Southfield 18:55
+Heathfield 18:58
+Train No: 533
+Southfield 19:28
+Heathfield 19:31
+
+Train No: 501
+Southfield 06:10
+Retreat 06:15
+Train No: 503
+Southfield 06:30
+Retreat 06:35
+Train No: 505
+Southfield 07:15
+Retreat 07:20
+Train No: 507
+Southfield 07:55
+Retreat 08:00
+Train No: 509
+Southfield 08:30
+Retreat 08:35
+Train No: 511
+Southfield 08:55
+Retreat 09:00
+Train No: 513
+Southfield 09:45
+Retreat 09:50
+Train No: 515
+Southfield 11:15
+Retreat 11:20
+Train No: 517
+Southfield 12:15
+Retreat 12:20
+Train No: 519
+Southfield 14:45
+Retreat 14:50
+Train No: 521
+Southfield 15:35
+Retreat 15:40
+Train No: 523
+Southfield 16:05
+Retreat 16:10
+Train No: 525
+Southfield 17:10
+Retreat 17:15
+Train No: 527
+Southfield 17:45
+Retreat 17:50
+Train No: 529
+Southfield 18:30
+Retreat 18:35
+Train No: 531
+Southfield 18:55
+Retreat 19:00
+Train No: 533
+Southfield 19:28
+Retreat 19:33
+
+Train No: 500
+Heathfield 05:12
+Cape Town 06:10
+Train No: 502
+Heathfield 05:52
+Cape Town 06:50
+Train No: 504
+Heathfield 06:27
+Cape Town 07:25
+Train No: 506
+Heathfield 06:47
+Cape Town 07:45
+Train No: 508
+Heathfield 07:32
+Cape Town 08:30
+Train No: 510
+Heathfield 08:12
+Cape Town 09:10
+Train No: 512
+Heathfield 09:02
+Cape Town 10:00
+Train No: 514
+Heathfield 09:22
+Cape Town 10:20
+Train No: 516
+Heathfield 10:02
+Cape Town 11:00
+Train No: 518
+Heathfield 11:44
+Cape Town 12:42
+Train No: 520
+Heathfield 12:44
+Cape Town 13:42
+Train No: 522
+Heathfield 15:07
+Cape Town 16:05
+Train No: 524
+Heathfield 16:12
+Cape Town 17:10
+Train No: 526
+Heathfield 16:27
+Cape Town 17:25
+Train No: 528
+Heathfield 17:27
+Cape Town 18:25
+Train No: 530
+Heathfield 18:02
+Cape Town 19:00
+Train No: 532
+Heathfield 18:47
+Cape Town 19:45
+
+Train No: 500
+Heathfield 05:12
+Woodstock 06:03
+Train No: 502
+Heathfield 05:52
+Woodstock 06:43
+Train No: 504
+Heathfield 06:27
+Woodstock 07:18
+Train No: 506
+Heathfield 06:47
+Woodstock 07:38
+Train No: 508
+Heathfield 07:32
+Woodstock 08:23
+Train No: 510
+Heathfield 08:12
+Woodstock 09:03
+Train No: 512
+Heathfield 09:02
+Woodstock 09:53
+Train No: 514
+Heathfield 09:22
+Woodstock 10:13
+Train No: 516
+Heathfield 10:02
+Woodstock 10:53
+Train No: 518
+Heathfield 11:44
+Woodstock 12:35
+Train No: 520
+Heathfield 12:44
+Woodstock 13:35
+Train No: 522
+Heathfield 15:07
+Woodstock 15:58
+Train No: 524
+Heathfield 16:12
+Woodstock 17:03
+Train No: 526
+Heathfield 16:27
+Woodstock 17:18
+Train No: 528
+Heathfield 17:27
+Woodstock 18:18
+Train No: 530
+Heathfield 18:02
+Woodstock 18:53
+Train No: 532
+Heathfield 18:47
+Woodstock 19:38
+
+Train No: 500
+Heathfield 05:12
+Salt River 05:55
+Train No: 502
+Heathfield 05:52
+Salt River 06:35
+Train No: 504
+Heathfield 06:27
+Salt River 07:10
+Train No: 506
+Heathfield 06:47
+Salt River 07:30
+Train No: 508
+Heathfield 07:32
+Salt River 08:15
+Train No: 510
+Heathfield 08:12
+Salt River 08:55
+Train No: 512
+Heathfield 09:02
+Salt River 09:45
+Train No: 514
+Heathfield 09:22
+Salt River 10:05
+Train No: 516
+Heathfield 10:02
+Salt River 10:45
+Train No: 518
+Heathfield 11:44
+Salt River 12:27
+Train No: 520
+Heathfield 12:44
+Salt River 13:27
+Train No: 522
+Heathfield 15:07
+Salt River 15:50
+Train No: 524
+Heathfield 16:12
+Salt River 16:55
+Train No: 526
+Heathfield 16:27
+Salt River 17:10
+Train No: 528
+Heathfield 17:27
+Salt River 18:10
+Train No: 530
+Heathfield 18:02
+Salt River 18:45
+Train No: 532
+Heathfield 18:47
+Salt River 19:30
+
+
+Train No: 500
+Heathfield 05:12
+Maitland 05:46
+Train No: 502
+Heathfield 05:52
+Maitland 06:26
+Train No: 504
+Heathfield 06:27
+Maitland 07:01
+Train No: 506
+Heathfield 06:47
+Maitland 07:21
+Train No: 508
+Heathfield 07:32
+Maitland 08:06
+Train No: 510
+Heathfield 08:12
+Maitland 08:46
+Train No: 512
+Heathfield 09:02
+Maitland 09:36
+Train No: 514
+Heathfield 09:22
+Maitland 09:56
+Train No: 516
+Heathfield 10:02
+Maitland 10:36
+Train No: 518
+Heathfield 11:44
+Maitland 12:18
+Train No: 520
+Heathfield 12:44
+Maitland 13:18
+Train No: 522
+Heathfield 15:07
+Maitland 15:41
+Train No: 524
+Heathfield 16:12
+Maitland 16:46
+Train No: 526
+Heathfield 16:27
+Maitland 17:01
+Train No: 528
+Heathfield 17:27
+Maitland 18:01
+Train No: 530
+Heathfield 18:02
+Maitland 18:36
+Train No: 532
+Heathfield 18:47
+Maitland 19:21
+
+Train No: 500
+Heathfield 05:12
+Ndabeni 05:42
+Train No: 502
+Heathfield 05:52
+Ndabeni 06:22
+Train No: 504
+Heathfield 06:27
+Ndabeni 06:57
+Train No: 506
+Heathfield 06:47
+Ndabeni 07:17
+Train No: 508
+Heathfield 07:32
+Ndabeni 08:02
+Train No: 510
+Heathfield 08:12
+Ndabeni 08:42
+Train No: 512
+Heathfield 09:02
+Ndabeni 09:32
+Train No: 514
+Heathfield 09:22
+Ndabeni 09:52
+Train No: 516
+Heathfield 10:02
+Ndabeni 10:32
+Train No: 518
+Heathfield 11:44
+Ndabeni 12:14
+Train No: 520
+Heathfield 12:44
+Ndabeni 13:14
+Train No: 522
+Heathfield 15:07
+Ndabeni 15:37
+Train No: 524
+Heathfield 16:12
+Ndabeni 16:42
+Train No: 526
+Heathfield 16:27
+Ndabeni 16:57
+Train No: 528
+Heathfield 17:27
+Ndabeni 17:57
+Train No: 530
+Heathfield 18:02
+Ndabeni 18:32
+Train No: 532
+Heathfield 18:47
+Ndabeni 19:17
+
+Train No: 500
+Heathfield 05:12
+Pinelands 05:39
+Train No: 502
+Heathfield 05:52
+Pinelands 06:19
+Train No: 504
+Heathfield 06:27
+Pinelands 06:54
+Train No: 506
+Heathfield 06:47
+Pinelands 07:14
+Train No: 508
+Heathfield 07:32
+Pinelands 07:59
+Train No: 510
+Heathfield 08:12
+Pinelands 08:39
+Train No: 512
+Heathfield 09:02
+Pinelands 09:29
+Train No: 514
+Heathfield 09:22
+Pinelands 09:49
+Train No: 516
+Heathfield 10:02
+Pinelands 10:29
+Train No: 518
+Heathfield 11:44
+Pinelands 12:11
+Train No: 520
+Heathfield 12:44
+Pinelands 13:11
+Train No: 522
+Heathfield 15:07
+Pinelands 15:34
+Train No: 524
+Heathfield 16:12
+Pinelands 16:39
+Train No: 526
+Heathfield 16:27
+Pinelands 16:54
+Train No: 528
+Heathfield 17:27
+Pinelands 17:54
+Train No: 530
+Heathfield 18:02
+Pinelands 18:29
+Train No: 532
+Heathfield 18:47
+Pinelands 19:14
+
+Train No: 500
+Heathfield 05:12
+Hazendal 05:35
+Train No: 502
+Heathfield 05:52
+Hazendal 06:15
+Train No: 504
+Heathfield 06:27
+Hazendal 06:50
+Train No: 506
+Heathfield 06:47
+Hazendal 07:10
+Train No: 508
+Heathfield 07:32
+Hazendal 07:55
+Train No: 510
+Heathfield 08:12
+Hazendal 08:35
+Train No: 512
+Heathfield 09:02
+Hazendal 09:25
+Train No: 514
+Heathfield 09:22
+Hazendal 09:45
+Train No: 516
+Heathfield 10:02
+Hazendal 10:25
+Train No: 518
+Heathfield 11:44
+Hazendal 12:07
+Train No: 520
+Heathfield 12:44
+Hazendal 13:07
+Train No: 522
+Heathfield 15:07
+Hazendal 15:30
+Train No: 524
+Heathfield 16:12
+Hazendal 16:35
+Train No: 526
+Heathfield 16:27
+Hazendal 16:50
+Train No: 528
+Heathfield 17:27
+Hazendal 17:50
+Train No: 530
+Heathfield 18:02
+Hazendal 18:25
+Train No: 532
+Heathfield 18:47
+Hazendal 19:10
+
+Train No: 500
+Heathfield 05:12
+Athlone 05:31
+Train No: 502
+Heathfield 05:52
+Athlone 06:11
+Train No: 504
+Heathfield 06:27
+Athlone 06:46
+Train No: 506
+Heathfield 06:47
+Athlone 07:06
+Train No: 508
+Heathfield 07:32
+Athlone 07:51
+Train No: 510
+Heathfield 08:12
+Athlone 08:31
+Train No: 512
+Heathfield 09:02
+Athlone 09:21
+Train No: 514
+Heathfield 09:22
+Athlone 09:41
+Train No: 516
+Heathfield 10:02
+Athlone 10:21
+Train No: 518
+Heathfield 11:44
+Athlone 12:03
+Train No: 520
+Heathfield 12:44
+Athlone 13:03
+Train No: 522
+Heathfield 15:07
+Athlone 15:26
+Train No: 524
+Heathfield 16:12
+Athlone 16:31
+Train No: 526
+Heathfield 16:27
+Athlone 16:46
+Train No: 528
+Heathfield 17:27
+Athlone 17:46
+Train No: 530
+Heathfield 18:02
+Athlone 18:21
+Train No: 532
+Heathfield 18:47
+Athlone 19:06
+
+Train No: 500
+Heathfield 05:12
+Crawford 05:28
+Train No: 502
+Heathfield 05:52
+Crawford 06:08
+Train No: 504
+Heathfield 06:27
+Crawford 06:43
+Train No: 506
+Heathfield 06:47
+Crawford 07:03
+Train No: 508
+Heathfield 07:32
+Crawford 07:48
+Train No: 510
+Heathfield 08:12
+Crawford 08:28
+Train No: 512
+Heathfield 09:02
+Crawford 09:18
+Train No: 514
+Heathfield 09:22
+Crawford 09:38
+Train No: 516
+Heathfield 10:02
+Crawford 10:18
+Train No: 518
+Heathfield 11:44
+Crawford 12:00
+Train No: 520
+Heathfield 12:44
+Crawford 13:00
+Train No: 522
+Heathfield 15:07
+Crawford 15:23
+Train No: 524
+Heathfield 16:12
+Crawford 16:28
+Train No: 526
+Heathfield 16:27
+Crawford 16:43
+Train No: 528
+Heathfield 17:27
+Crawford 17:43
+Train No: 530
+Heathfield 18:02
+Crawford 18:18
+Train No: 532
+Heathfield 18:47
+Crawford 19:03
+
+Train No: 500
+Heathfield 05:12
+Lansdowne 05:26
+Train No: 502
+Heathfield 05:52
+Lansdowne 06:06
+Train No: 504
+Heathfield 06:27
+Lansdowne 06:41
+Train No: 506
+Heathfield 06:47
+Lansdowne 07:01
+Train No: 508
+Heathfield 07:32
+Lansdowne 07:46
+Train No: 510
+Heathfield 08:12
+Lansdowne 08:26
+Train No: 512
+Heathfield 09:02
+Lansdowne 09:16
+Train No: 514
+Heathfield 09:22
+Lansdowne 09:36
+Train No: 516
+Heathfield 10:02
+Lansdowne 10:16
+Train No: 518
+Heathfield 11:44
+Lansdowne 11:58
+Train No: 520
+Heathfield 12:44
+Lansdowne 12:58
+Train No: 522
+Heathfield 15:07
+Lansdowne 15:21
+Train No: 524
+Heathfield 16:12
+Lansdowne 16:26
+Train No: 526
+Heathfield 16:27
+Lansdowne 16:41
+Train No: 528
+Heathfield 17:27
+Lansdowne 17:41
+Train No: 530
+Heathfield 18:02
+Lansdowne 18:16
+Train No: 532
+Heathfield 18:47
+Lansdowne 19:01
+
+Train No: 500
+Heathfield 05:12
+Wetton 05:23
+Train No: 502
+Heathfield 05:52
+Wetton 06:03
+Train No: 504
+Heathfield 06:27
+Wetton 06:38
+Train No: 506
+Heathfield 06:47
+Wetton 06:58
+Train No: 508
+Heathfield 07:32
+Wetton 07:43
+Train No: 510
+Heathfield 08:12
+Wetton 08:23
+Train No: 512
+Heathfield 09:02
+Wetton 09:13
+Train No: 514
+Heathfield 09:22
+Wetton 09:33
+Train No: 516
+Heathfield 10:02
+Wetton 10:13
+Train No: 518
+Heathfield 11:44
+Wetton 11:55
+Train No: 520
+Heathfield 12:44
+Wetton 12:55
+Train No: 522
+Heathfield 15:07
+Wetton 15:18
+Train No: 524
+Heathfield 16:12
+Wetton 16:23
+Train No: 526
+Heathfield 16:27
+Wetton 16:38
+Train No: 528
+Heathfield 17:27
+Wetton 17:38
+Train No: 530
+Heathfield 18:02
+Wetton 18:13
+Train No: 532
+Heathfield 18:47
+Wetton 18:58
+
+Train No: 500
+Heathfield 05:12
+Ottery 05:20
+Train No: 502
+Heathfield 05:52
+Ottery 06:00
+Train No: 504
+Heathfield 06:27
+Ottery 06:35
+Train No: 506
+Heathfield 06:47
+Ottery 06:55
+Train No: 508
+Heathfield 07:32
+Ottery 07:40
+Train No: 510
+Heathfield 08:12
+Ottery 08:20
+Train No: 512
+Heathfield 09:02
+Ottery 09:10
+Train No: 514
+Heathfield 09:22
+Ottery 09:30
+Train No: 516
+Heathfield 10:02
+Ottery 10:10
+Train No: 518
+Heathfield 11:44
+Ottery 11:52
+Train No: 520
+Heathfield 12:44
+Ottery 12:52
+Train No: 522
+Heathfield 15:07
+Ottery 15:15
+Train No: 524
+Heathfield 16:12
+Ottery 16:20
+Train No: 526
+Heathfield 16:27
+Ottery 16:35
+Train No: 528
+Heathfield 17:27
+Ottery 17:35
+Train No: 530
+Heathfield 18:02
+Ottery 18:10
+Train No: 532
+Heathfield 18:47
+Ottery 18:55
+
+Train No: 500
+Heathfield 05:12
+Southfield 05:17
+Train No: 502
+Heathfield 05:52
+Southfield 05:57
+Train No: 504
+Heathfield 06:27
+Southfield 06:32
+Train No: 506
+Heathfield 06:47
+Southfield 06:52
+Train No: 508
+Heathfield 07:32
+Southfield 07:37
+Train No: 510
+Heathfield 08:12
+Southfield 08:17
+Train No: 512
+Heathfield 09:02
+Southfield 09:07
+Train No: 514
+Heathfield 09:22
+Southfield 09:27
+Train No: 516
+Heathfield 10:02
+Southfield 10:07
+Train No: 518
+Heathfield 11:44
+Southfield 11:49
+Train No: 520
+Heathfield 12:44
+Southfield 12:49
+Train No: 522
+Heathfield 15:07
+Southfield 15:12
+Train No: 524
+Heathfield 16:12
+Southfield 16:17
+Train No: 526
+Heathfield 16:27
+Southfield 16:32
+Train No: 528
+Heathfield 17:27
+Southfield 17:32
+Train No: 530
+Heathfield 18:02
+Southfield 18:07
+Train No: 532
+Heathfield 18:47
+Southfield 18:52
+
+Train No: 501
+Heathfield 06:13
+Retreat 06:15
+Train No: 503
+Heathfield 06:33
+Retreat 06:35
+Train No: 505
+Heathfield 07:18
+Retreat 07:20
+Train No: 507
+Heathfield 07:58
+Retreat 08:00
+Train No: 509
+Heathfield 08:33
+Retreat 08:35
+Train No: 511
+Heathfield 08:58
+Retreat 09:00
+Train No: 513
+Heathfield 09:48
+Retreat 09:50
+Train No: 515
+Heathfield 11:18
+Retreat 11:20
+Train No: 517
+Heathfield 12:18
+Retreat 12:20
+Train No: 519
+Heathfield 14:48
+Retreat 14:50
+Train No: 521
+Heathfield 15:38
+Retreat 15:40
+Train No: 523
+Heathfield 16:08
+Retreat 16:10
+Train No: 525
+Heathfield 17:13
+Retreat 17:15
+Train No: 527
+Heathfield 17:48
+Retreat 17:50
+Train No: 529
+Heathfield 18:33
+Retreat 18:35
+Train No: 531
+Heathfield 18:58
+Retreat 19:00
+Train No: 533
+Heathfield 19:31
+Retreat 19:33
+
+Train No: 500
+Retreat 05:10
+Cape Town 06:10
+Train No: 502
+Retreat 05:50
+Cape Town 06:50
+Train No: 504
+Retreat 06:25
+Cape Town 07:25
+Train No: 506
+Retreat 06:45
+Cape Town 07:45
+Train No: 508
+Retreat 07:30
+Cape Town 08:30
+Train No: 510
+Retreat 08:10
+Cape Town 09:10
+Train No: 512
+Retreat 09:00
+Cape Town 10:00
+Train No: 514
+Retreat 09:20
+Cape Town 10:20
+Train No: 516
+Retreat 10:00
+Cape Town 11:00
+Train No: 518
+Retreat 11:42
+Cape Town 12:42
+Train No: 520
+Retreat 12:42
+Cape Town 13:42
+Train No: 522
+Retreat 15:05
+Cape Town 16:05
+Train No: 524
+Retreat 16:10
+Cape Town 17:10
+Train No: 526
+Retreat 16:25
+Cape Town 17:25
+Train No: 528
+Retreat 17:25
+Cape Town 18:25
+Train No: 530
+Retreat 18:00
+Cape Town 19:00
+Train No: 532
+Retreat 18:45
+Cape Town 19:45
+
+Train No: 500
+Retreat 05:10
+Woodstock 06:03
+Train No: 502
+Retreat 05:50
+Woodstock 06:43
+Train No: 504
+Retreat 06:25
+Woodstock 07:18
+Train No: 506
+Retreat 06:45
+Woodstock 07:38
+Train No: 508
+Retreat 07:30
+Woodstock 08:23
+Train No: 510
+Retreat 08:10
+Woodstock 09:03
+Train No: 512
+Retreat 09:00
+Woodstock 09:53
+Train No: 514
+Retreat 09:20
+Woodstock 10:13
+Train No: 516
+Retreat 10:00
+Woodstock 10:53
+Train No: 518
+Retreat 11:42
+Woodstock 12:35
+Train No: 520
+Retreat 12:42
+Woodstock 13:35
+Train No: 522
+Retreat 15:05
+Woodstock 15:58
+Train No: 524
+Retreat 16:10
+Woodstock 17:03
+Train No: 526
+Retreat 16:25
+Woodstock 17:18
+Train No: 528
+Retreat 17:25
+Woodstock 18:18
+Train No: 530
+Retreat 18:00
+Woodstock 18:53
+Train No: 532
+Retreat 18:45
+Woodstock 19:38
+
+Train No: 500
+Retreat 05:10
+Salt River 05:55
+Train No: 502
+Retreat 05:50
+Salt River 06:35
+Train No: 504
+Retreat 06:25
+Salt River 07:10
+Train No: 506
+Retreat 06:45
+Salt River 07:30
+Train No: 508
+Retreat 07:30
+Salt River 08:15
+Train No: 510
+Retreat 08:10
+Salt River 08:55
+Train No: 512
+Retreat 09:00
+Salt River 09:45
+Train No: 514
+Retreat 09:20
+Salt River 10:05
+Train No: 516
+Retreat 10:00
+Salt River 10:45
+Train No: 518
+Retreat 11:42
+Salt River 12:27
+Train No: 520
+Retreat 12:42
+Salt River 13:27
+Train No: 522
+Retreat 15:05
+Salt River 15:50
+Train No: 524
+Retreat 16:10
+Salt River 16:55
+Train No: 526
+Retreat 16:25
+Salt River 17:10
+Train No: 528
+Retreat 17:25
+Salt River 18:10
+Train No: 530
+Retreat 18:00
+Salt River 18:45
+Train No: 532
+Retreat 18:45
+Salt River 19:30
+
+
+Train No: 500
+Retreat 05:10
+Maitland 05:46
+Train No: 502
+Retreat 05:50
+Maitland 06:26
+Train No: 504
+Retreat 06:25
+Maitland 07:01
+Train No: 506
+Retreat 06:45
+Maitland 07:21
+Train No: 508
+Retreat 07:30
+Maitland 08:06
+Train No: 510
+Retreat 08:10
+Maitland 08:46
+Train No: 512
+Retreat 09:00
+Maitland 09:36
+Train No: 514
+Retreat 09:20
+Maitland 09:56
+Train No: 516
+Retreat 10:00
+Maitland 10:36
+Train No: 518
+Retreat 11:42
+Maitland 12:18
+Train No: 520
+Retreat 12:42
+Maitland 13:18
+Train No: 522
+Retreat 15:05
+Maitland 15:41
+Train No: 524
+Retreat 16:10
+Maitland 16:46
+Train No: 526
+Retreat 16:25
+Maitland 17:01
+Train No: 528
+Retreat 17:25
+Maitland 18:01
+Train No: 530
+Retreat 18:00
+Maitland 18:36
+Train No: 532
+Retreat 18:45
+Maitland 19:21
+
+Train No: 500
+Retreat 05:10
+Ndabeni 05:42
+Train No: 502
+Retreat 05:50
+Ndabeni 06:22
+Train No: 504
+Retreat 06:25
+Ndabeni 06:57
+Train No: 506
+Retreat 06:45
+Ndabeni 07:17
+Train No: 508
+Retreat 07:30
+Ndabeni 08:02
+Train No: 510
+Retreat 08:10
+Ndabeni 08:42
+Train No: 512
+Retreat 09:00
+Ndabeni 09:32
+Train No: 514
+Retreat 09:20
+Ndabeni 09:52
+Train No: 516
+Retreat 10:00
+Ndabeni 10:32
+Train No: 518
+Retreat 11:42
+Ndabeni 12:14
+Train No: 520
+Retreat 12:42
+Ndabeni 13:14
+Train No: 522
+Retreat 15:05
+Ndabeni 15:37
+Train No: 524
+Retreat 16:10
+Ndabeni 16:42
+Train No: 526
+Retreat 16:25
+Ndabeni 16:57
+Train No: 528
+Retreat 17:25
+Ndabeni 17:57
+Train No: 530
+Retreat 18:00
+Ndabeni 18:32
+Train No: 532
+Retreat 18:45
+Ndabeni 19:17
+
+Train No: 500
+Retreat 05:10
+Pinelands 05:39
+Train No: 502
+Retreat 05:50
+Pinelands 06:19
+Train No: 504
+Retreat 06:25
+Pinelands 06:54
+Train No: 506
+Retreat 06:45
+Pinelands 07:14
+Train No: 508
+Retreat 07:30
+Pinelands 07:59
+Train No: 510
+Retreat 08:10
+Pinelands 08:39
+Train No: 512
+Retreat 09:00
+Pinelands 09:29
+Train No: 514
+Retreat 09:20
+Pinelands 09:49
+Train No: 516
+Retreat 10:00
+Pinelands 10:29
+Train No: 518
+Retreat 11:42
+Pinelands 12:11
+Train No: 520
+Retreat 12:42
+Pinelands 13:11
+Train No: 522
+Retreat 15:05
+Pinelands 15:34
+Train No: 524
+Retreat 16:10
+Pinelands 16:39
+Train No: 526
+Retreat 16:25
+Pinelands 16:54
+Train No: 528
+Retreat 17:25
+Pinelands 17:54
+Train No: 530
+Retreat 18:00
+Pinelands 18:29
+Train No: 532
+Retreat 18:45
+Pinelands 19:14
+
+Train No: 500
+Retreat 05:10
+Hazendal 05:35
+Train No: 502
+Retreat 05:50
+Hazendal 06:15
+Train No: 504
+Retreat 06:25
+Hazendal 06:50
+Train No: 506
+Retreat 06:45
+Hazendal 07:10
+Train No: 508
+Retreat 07:30
+Hazendal 07:55
+Train No: 510
+Retreat 08:10
+Hazendal 08:35
+Train No: 512
+Retreat 09:00
+Hazendal 09:25
+Train No: 514
+Retreat 09:20
+Hazendal 09:45
+Train No: 516
+Retreat 10:00
+Hazendal 10:25
+Train No: 518
+Retreat 11:42
+Hazendal 12:07
+Train No: 520
+Retreat 12:42
+Hazendal 13:07
+Train No: 522
+Retreat 15:05
+Hazendal 15:30
+Train No: 524
+Retreat 16:10
+Hazendal 16:35
+Train No: 526
+Retreat 16:25
+Hazendal 16:50
+Train No: 528
+Retreat 17:25
+Hazendal 17:50
+Train No: 530
+Retreat 18:00
+Hazendal 18:25
+Train No: 532
+Retreat 18:45
+Hazendal 19:10
+
+Train No: 500
+Retreat 05:10
+Athlone 05:31
+Train No: 502
+Retreat 05:50
+Athlone 06:11
+Train No: 504
+Retreat 06:25
+Athlone 06:46
+Train No: 506
+Retreat 06:45
+Athlone 07:06
+Train No: 508
+Retreat 07:30
+Athlone 07:51
+Train No: 510
+Retreat 08:10
+Athlone 08:31
+Train No: 512
+Retreat 09:00
+Athlone 09:21
+Train No: 514
+Retreat 09:20
+Athlone 09:41
+Train No: 516
+Retreat 10:00
+Athlone 10:21
+Train No: 518
+Retreat 11:42
+Athlone 12:03
+Train No: 520
+Retreat 12:42
+Athlone 13:03
+Train No: 522
+Retreat 15:05
+Athlone 15:26
+Train No: 524
+Retreat 16:10
+Athlone 16:31
+Train No: 526
+Retreat 16:25
+Athlone 16:46
+Train No: 528
+Retreat 17:25
+Athlone 17:46
+Train No: 530
+Retreat 18:00
+Athlone 18:21
+Train No: 532
+Retreat 18:45
+Athlone 19:06
+
+Train No: 500
+Retreat 05:10
+Crawford 05:28
+Train No: 502
+Retreat 05:50
+Crawford 06:08
+Train No: 504
+Retreat 06:25
+Crawford 06:43
+Train No: 506
+Retreat 06:45
+Crawford 07:03
+Train No: 508
+Retreat 07:30
+Crawford 07:48
+Train No: 510
+Retreat 08:10
+Crawford 08:28
+Train No: 512
+Retreat 09:00
+Crawford 09:18
+Train No: 514
+Retreat 09:20
+Crawford 09:38
+Train No: 516
+Retreat 10:00
+Crawford 10:18
+Train No: 518
+Retreat 11:42
+Crawford 12:00
+Train No: 520
+Retreat 12:42
+Crawford 13:00
+Train No: 522
+Retreat 15:05
+Crawford 15:23
+Train No: 524
+Retreat 16:10
+Crawford 16:28
+Train No: 526
+Retreat 16:25
+Crawford 16:43
+Train No: 528
+Retreat 17:25
+Crawford 17:43
+Train No: 530
+Retreat 18:00
+Crawford 18:18
+Train No: 532
+Retreat 18:45
+Crawford 19:03
+
+Train No: 500
+Retreat 05:10
+Lansdowne 05:26
+Train No: 502
+Retreat 05:50
+Lansdowne 06:06
+Train No: 504
+Retreat 06:25
+Lansdowne 06:41
+Train No: 506
+Retreat 06:45
+Lansdowne 07:01
+Train No: 508
+Retreat 07:30
+Lansdowne 07:46
+Train No: 510
+Retreat 08:10
+Lansdowne 08:26
+Train No: 512
+Retreat 09:00
+Lansdowne 09:16
+Train No: 514
+Retreat 09:20
+Lansdowne 09:36
+Train No: 516
+Retreat 10:00
+Lansdowne 10:16
+Train No: 518
+Retreat 11:42
+Lansdowne 11:58
+Train No: 520
+Retreat 12:42
+Lansdowne 12:58
+Train No: 522
+Retreat 15:05
+Lansdowne 15:21
+Train No: 524
+Retreat 16:10
+Lansdowne 16:26
+Train No: 526
+Retreat 16:25
+Lansdowne 16:41
+Train No: 528
+Retreat 17:25
+Lansdowne 17:41
+Train No: 530
+Retreat 18:00
+Lansdowne 18:16
+Train No: 532
+Retreat 18:45
+Lansdowne 19:01
+
+Train No: 500
+Retreat 05:10
+Wetton 05:23
+Train No: 502
+Retreat 05:50
+Wetton 06:03
+Train No: 504
+Retreat 06:25
+Wetton 06:38
+Train No: 506
+Retreat 06:45
+Wetton 06:58
+Train No: 508
+Retreat 07:30
+Wetton 07:43
+Train No: 510
+Retreat 08:10
+Wetton 08:23
+Train No: 512
+Retreat 09:00
+Wetton 09:13
+Train No: 514
+Retreat 09:20
+Wetton 09:33
+Train No: 516
+Retreat 10:00
+Wetton 10:13
+Train No: 518
+Retreat 11:42
+Wetton 11:55
+Train No: 520
+Retreat 12:42
+Wetton 12:55
+Train No: 522
+Retreat 15:05
+Wetton 15:18
+Train No: 524
+Retreat 16:10
+Wetton 16:23
+Train No: 526
+Retreat 16:25
+Wetton 16:38
+Train No: 528
+Retreat 17:25
+Wetton 17:38
+Train No: 530
+Retreat 18:00
+Wetton 18:13
+Train No: 532
+Retreat 18:45
+Wetton 18:58
+
+Train No: 500
+Retreat 05:10
+Ottery 05:20
+Train No: 502
+Retreat 05:50
+Ottery 06:00
+Train No: 504
+Retreat 06:25
+Ottery 06:35
+Train No: 506
+Retreat 06:45
+Ottery 06:55
+Train No: 508
+Retreat 07:30
+Ottery 07:40
+Train No: 510
+Retreat 08:10
+Ottery 08:20
+Train No: 512
+Retreat 09:00
+Ottery 09:10
+Train No: 514
+Retreat 09:20
+Ottery 09:30
+Train No: 516
+Retreat 10:00
+Ottery 10:10
+Train No: 518
+Retreat 11:42
+Ottery 11:52
+Train No: 520
+Retreat 12:42
+Ottery 12:52
+Train No: 522
+Retreat 15:05
+Ottery 15:15
+Train No: 524
+Retreat 16:10
+Ottery 16:20
+Train No: 526
+Retreat 16:25
+Ottery 16:35
+Train No: 528
+Retreat 17:25
+Ottery 17:35
+Train No: 530
+Retreat 18:00
+Ottery 18:10
+Train No: 532
+Retreat 18:45
+Ottery 18:55
+
+Train No: 500
+Retreat 05:10
+Southfield 05:17
+Train No: 502
+Retreat 05:50
+Southfield 05:57
+Train No: 504
+Retreat 06:25
+Southfield 06:32
+Train No: 506
+Retreat 06:45
+Southfield 06:52
+Train No: 508
+Retreat 07:30
+Southfield 07:37
+Train No: 510
+Retreat 08:10
+Southfield 08:17
+Train No: 512
+Retreat 09:00
+Southfield 09:07
+Train No: 514
+Retreat 09:20
+Southfield 09:27
+Train No: 516
+Retreat 10:00
+Southfield 10:07
+Train No: 518
+Retreat 11:42
+Southfield 11:49
+Train No: 520
+Retreat 12:42
+Southfield 12:49
+Train No: 522
+Retreat 15:05
+Southfield 15:12
+Train No: 524
+Retreat 16:10
+Southfield 16:17
+Train No: 526
+Retreat 16:25
+Southfield 16:32
+Train No: 528
+Retreat 17:25
+Southfield 17:32
+Train No: 530
+Retreat 18:00
+Southfield 18:07
+Train No: 532
+Retreat 18:45
+Southfield 18:52
+
+Train No: 500
+Retreat 05:10
+Heathfield 05:12
+Train No: 502
+Retreat 05:50
+Heathfield 05:52
+Train No: 504
+Retreat 06:25
+Heathfield 06:27
+Train No: 506
+Retreat 06:45
+Heathfield 06:47
+Train No: 508
+Retreat 07:30
+Heathfield 07:32
+Train No: 510
+Retreat 08:10
+Heathfield 08:12
+Train No: 512
+Retreat 09:00
+Heathfield 09:02
+Train No: 514
+Retreat 09:20
+Heathfield 09:22
+Train No: 516
+Retreat 10:00
+Heathfield 10:02
+Train No: 518
+Retreat 11:42
+Heathfield 11:44
+Train No: 520
+Retreat 12:42
+Heathfield 12:44
+Train No: 522
+Retreat 15:05
+Heathfield 15:07
+Train No: 524
+Retreat 16:10
+Heathfield 16:12
+Train No: 526
+Retreat 16:25
+Heathfield 16:27
+Train No: 528
+Retreat 17:25
+Heathfield 17:27
+Train No: 530
+Retreat 18:00
+Heathfield 18:02
+Train No: 532
+Retreat 18:45
+Heathfield 18:47
+

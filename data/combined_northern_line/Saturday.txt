@@ -1,0 +1,9579 @@
+Train No: 2501
+Cape Town 05:10
+Woodstock 05:13
+Train No: 2301
+Cape Town 06:05
+Woodstock 06:08
+Train No: 2503
+Cape Town 07:00
+Woodstock 07:03
+Train No: 2303
+Cape Town 08:10
+Woodstock 08:13
+Train No: 2505
+Cape Town 09:00
+Woodstock 09:03
+Train No: 2305
+Cape Town 10:20
+Woodstock 10:23
+Train No: 2507
+Cape Town 11:05
+Woodstock 11:08
+Train No: 2307
+Cape Town 12:10
+Woodstock 12:13
+
+Train No: 2501
+Cape Town 05:10
+Salt River 05:17
+Train No: 2301
+Cape Town 06:05
+Salt River 06:12
+Train No: 2503
+Cape Town 07:00
+Salt River 07:07
+Train No: 2303
+Cape Town 08:10
+Salt River 08:17
+Train No: 2505
+Cape Town 09:00
+Salt River 09:07
+Train No: 2305
+Cape Town 10:20
+Salt River 10:27
+Train No: 2507
+Cape Town 11:05
+Salt River 11:12
+Train No: 2307
+Cape Town 12:10
+Salt River 12:17
+
+Train No: 2501
+Cape Town 05:10
+Koeberg Road 05:20
+Train No: 2301
+Cape Town 06:05
+Koeberg Road 06:15
+Train No: 2503
+Cape Town 07:00
+Koeberg Road 07:10
+Train No: 2303
+Cape Town 08:10
+Koeberg Road 08:20
+Train No: 2505
+Cape Town 09:00
+Koeberg Road 09:10
+Train No: 2305
+Cape Town 10:20
+Koeberg Road 10:30
+Train No: 2507
+Cape Town 11:05
+Koeberg Road 11:15
+Train No: 2307
+Cape Town 12:10
+Koeberg Road 12:20
+
+Train No: 2501
+Cape Town 05:10
+Maitland 05:23
+Train No: 2301
+Cape Town 06:05
+Maitland 06:18
+Train No: 2503
+Cape Town 07:00
+Maitland 07:13
+Train No: 2303
+Cape Town 08:10
+Maitland 08:23
+Train No: 2505
+Cape Town 09:00
+Maitland 09:13
+Train No: 2305
+Cape Town 10:20
+Maitland 10:33
+Train No: 2507
+Cape Town 11:05
+Maitland 11:18
+Train No: 2307
+Cape Town 12:10
+Maitland 12:23
+
+Train No: 2501
+Cape Town 05:10
+Mutual 05:28
+Train No: 2301
+Cape Town 06:05
+Mutual 06:23
+Train No: 2503
+Cape Town 07:00
+Mutual 07:18
+Train No: 2303
+Cape Town 08:10
+Mutual 08:28
+Train No: 2505
+Cape Town 09:00
+Mutual 09:18
+Train No: 2305
+Cape Town 10:20
+Mutual 10:38
+Train No: 2507
+Cape Town 11:05
+Mutual 11:23
+Train No: 2307
+Cape Town 12:10
+Mutual 12:28
+
+Train No: 2501
+Cape Town 05:10
+Thornton 05:31
+Train No: 2301
+Cape Town 06:05
+Thornton 06:26
+Train No: 2503
+Cape Town 07:00
+Thornton 07:21
+Train No: 2303
+Cape Town 08:10
+Thornton 08:31
+Train No: 2505
+Cape Town 09:00
+Thornton 09:21
+Train No: 2305
+Cape Town 10:20
+Thornton 10:41
+Train No: 2507
+Cape Town 11:05
+Thornton 11:26
+Train No: 2307
+Cape Town 12:10
+Thornton 12:31
+
+Train No: 2501
+Cape Town 05:10
+Goodwood 05:36
+Train No: 2301
+Cape Town 06:05
+Goodwood 06:31
+Train No: 2503
+Cape Town 07:00
+Goodwood 07:26
+Train No: 2303
+Cape Town 08:10
+Goodwood 08:36
+Train No: 2505
+Cape Town 09:00
+Goodwood 09:26
+Train No: 2305
+Cape Town 10:20
+Goodwood 10:46
+Train No: 2507
+Cape Town 11:05
+Goodwood 11:31
+Train No: 2307
+Cape Town 12:10
+Goodwood 12:36
+
+Train No: 2501
+Cape Town 05:10
+Vasco 05:43
+Train No: 2301
+Cape Town 06:05
+Vasco 06:38
+Train No: 2503
+Cape Town 07:00
+Vasco 07:33
+Train No: 2303
+Cape Town 08:10
+Vasco 08:43
+Train No: 2505
+Cape Town 09:00
+Vasco 09:33
+Train No: 2305
+Cape Town 10:20
+Vasco 10:53
+Train No: 2507
+Cape Town 11:05
+Vasco 11:38
+Train No: 2307
+Cape Town 12:10
+Vasco 12:43
+
+Train No: 2501
+Cape Town 05:10
+Elsies River 05:46
+Train No: 2301
+Cape Town 06:05
+Elsies River 06:41
+Train No: 2503
+Cape Town 07:00
+Elsies River 07:36
+Train No: 2303
+Cape Town 08:10
+Elsies River 08:46
+Train No: 2505
+Cape Town 09:00
+Elsies River 09:36
+Train No: 2305
+Cape Town 10:20
+Elsies River 10:56
+Train No: 2507
+Cape Town 11:05
+Elsies River 11:41
+Train No: 2307
+Cape Town 12:10
+Elsies River 12:46
+
+Train No: 2501
+Cape Town 05:10
+Parow 05:50
+Train No: 2301
+Cape Town 06:05
+Parow 06:45
+Train No: 2503
+Cape Town 07:00
+Parow 07:40
+Train No: 2303
+Cape Town 08:10
+Parow 08:50
+Train No: 2505
+Cape Town 09:00
+Parow 09:40
+Train No: 2305
+Cape Town 10:20
+Parow 11:00
+Train No: 2507
+Cape Town 11:05
+Parow 11:45
+Train No: 2307
+Cape Town 12:10
+Parow 12:50
+
+Train No: 2501
+Cape Town 05:10
+Tygerberg 05:55
+Train No: 2301
+Cape Town 06:05
+Tygerberg 06:50
+Train No: 2503
+Cape Town 07:00
+Tygerberg 07:45
+Train No: 2303
+Cape Town 08:10
+Tygerberg 08:55
+Train No: 2505
+Cape Town 09:00
+Tygerberg 09:45
+Train No: 2305
+Cape Town 10:20
+Tygerberg 11:05
+Train No: 2507
+Cape Town 11:05
+Tygerberg 11:50
+Train No: 2307
+Cape Town 12:10
+Tygerberg 12:55
+
+Train No: 2501
+Cape Town 05:10
+Bellville 06:01
+Train No: 2801
+Cape Town 06:05
+Bellville 06:49
+Train No: 2301
+Cape Town 06:05
+Bellville 06:56
+Train No: 2503
+Cape Town 07:00
+Bellville 07:51
+Train No: 2303
+Cape Town 08:10
+Bellville 09:01
+Train No: 2803
+Cape Town 08:25
+Bellville 09:09
+Train No: 2505
+Cape Town 09:00
+Bellville 09:51
+Train No: 2805
+Cape Town 10:15
+Bellville 10:59
+Train No: 2305
+Cape Town 10:20
+Bellville 11:11
+Train No: 2507
+Cape Town 11:05
+Bellville 11:56
+Train No: 2807
+Cape Town 12:05
+Bellville 12:49
+Train No: 2307
+Cape Town 12:10
+Bellville 13:01
+Train No: 2661
+Cape Town 13:50
+Bellville 14:31
+
+Train No: 2301
+Cape Town 06:05
+Kuils River 07:07
+Train No: 2303
+Cape Town 08:10
+Kuils River 09:12
+Train No: 2305
+Cape Town 10:20
+Kuils River 11:22
+Train No: 2307
+Cape Town 12:10
+Kuils River 13:12
+
+Train No: 2301
+Cape Town 06:05
+Blackheath 07:17
+Train No: 2303
+Cape Town 08:10
+Blackheath 09:22
+Train No: 2305
+Cape Town 10:20
+Blackheath 11:32
+Train No: 2307
+Cape Town 12:10
+Blackheath 13:22
+
+Train No: 2301
+Cape Town 06:05
+Meltonrose 07:23
+Train No: 2303
+Cape Town 08:10
+Meltonrose 09:28
+Train No: 2305
+Cape Town 10:20
+Meltonrose 11:38
+Train No: 2307
+Cape Town 12:10
+Meltonrose 13:28
+
+Train No: 2301
+Cape Town 06:05
+Eerste River 07:31
+Train No: 2303
+Cape Town 08:10
+Eerste River 09:36
+Train No: 2305
+Cape Town 10:20
+Eerste River 11:46
+Train No: 2307
+Cape Town 12:10
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Cape Town 05:10
+Stikland 06:10
+Train No: 2503
+Cape Town 07:00
+Stikland 08:00
+Train No: 2505
+Cape Town 09:00
+Stikland 10:00
+Train No: 2507
+Cape Town 11:05
+Stikland 12:05
+Train No: 2661
+Cape Town 13:50
+Stikland 14:40
+
+Train No: 2501
+Cape Town 05:10
+Brackenfell 06:18
+Train No: 2503
+Cape Town 07:00
+Brackenfell 08:08
+Train No: 2505
+Cape Town 09:00
+Brackenfell 10:08
+Train No: 2507
+Cape Town 11:05
+Brackenfell 12:13
+Train No: 2661
+Cape Town 13:50
+Brackenfell 14:48
+
+Train No: 2501
+Cape Town 05:10
+Eikenfontein 06:23
+Train No: 2503
+Cape Town 07:00
+Eikenfontein 08:13
+Train No: 2505
+Cape Town 09:00
+Eikenfontein 10:13
+Train No: 2507
+Cape Town 11:05
+Eikenfontein 12:18
+Train No: 2661
+Cape Town 13:50
+Eikenfontein 14:53
+
+Train No: 2501
+Cape Town 05:10
+Kraaifontein 06:26
+Train No: 2503
+Cape Town 07:00
+Kraaifontein 08:16
+Train No: 2505
+Cape Town 09:00
+Kraaifontein 10:16
+Train No: 2507
+Cape Town 11:05
+Kraaifontein 12:21
+Train No: 2661
+Cape Town 13:50
+Kraaifontein 14:56
+
+
+
+
+
+
+
+
+Train No: 2500
+Woodstock 06:35
+Cape Town 06:40
+Train No: 2300
+Woodstock 07:32
+Cape Town 07:37
+Train No: 2502
+Woodstock 08:20
+Cape Town 08:25
+Train No: 2302
+Woodstock 09:32
+Cape Town 09:37
+Train No: 2504
+Woodstock 10:20
+Cape Town 10:25
+Train No: 2304
+Woodstock 11:30
+Cape Town 11:35
+Train No: 2506
+Woodstock 12:20
+Cape Town 12:25
+Train No: 2306
+Woodstock 13:30
+Cape Town 13:35
+
+Train No: 2501
+Woodstock 05:13
+Salt River 05:17
+Train No: 2301
+Woodstock 06:08
+Salt River 06:12
+Train No: 2503
+Woodstock 07:03
+Salt River 07:07
+Train No: 2303
+Woodstock 08:13
+Salt River 08:17
+Train No: 2505
+Woodstock 09:03
+Salt River 09:07
+Train No: 2305
+Woodstock 10:23
+Salt River 10:27
+Train No: 2507
+Woodstock 11:08
+Salt River 11:12
+Train No: 2307
+Woodstock 12:13
+Salt River 12:17
+
+Train No: 2501
+Woodstock 05:13
+Koeberg Road 05:20
+Train No: 2301
+Woodstock 06:08
+Koeberg Road 06:15
+Train No: 2503
+Woodstock 07:03
+Koeberg Road 07:10
+Train No: 2303
+Woodstock 08:13
+Koeberg Road 08:20
+Train No: 2505
+Woodstock 09:03
+Koeberg Road 09:10
+Train No: 2305
+Woodstock 10:23
+Koeberg Road 10:30
+Train No: 2507
+Woodstock 11:08
+Koeberg Road 11:15
+Train No: 2307
+Woodstock 12:13
+Koeberg Road 12:20
+
+Train No: 2501
+Woodstock 05:13
+Maitland 05:23
+Train No: 2301
+Woodstock 06:08
+Maitland 06:18
+Train No: 2503
+Woodstock 07:03
+Maitland 07:13
+Train No: 2303
+Woodstock 08:13
+Maitland 08:23
+Train No: 2505
+Woodstock 09:03
+Maitland 09:13
+Train No: 2305
+Woodstock 10:23
+Maitland 10:33
+Train No: 2507
+Woodstock 11:08
+Maitland 11:18
+Train No: 2307
+Woodstock 12:13
+Maitland 12:23
+
+Train No: 2501
+Woodstock 05:13
+Mutual 05:28
+Train No: 2301
+Woodstock 06:08
+Mutual 06:23
+Train No: 2503
+Woodstock 07:03
+Mutual 07:18
+Train No: 2303
+Woodstock 08:13
+Mutual 08:28
+Train No: 2505
+Woodstock 09:03
+Mutual 09:18
+Train No: 2305
+Woodstock 10:23
+Mutual 10:38
+Train No: 2507
+Woodstock 11:08
+Mutual 11:23
+Train No: 2307
+Woodstock 12:13
+Mutual 12:28
+
+Train No: 2501
+Woodstock 05:13
+Thornton 05:31
+Train No: 2301
+Woodstock 06:08
+Thornton 06:26
+Train No: 2503
+Woodstock 07:03
+Thornton 07:21
+Train No: 2303
+Woodstock 08:13
+Thornton 08:31
+Train No: 2505
+Woodstock 09:03
+Thornton 09:21
+Train No: 2305
+Woodstock 10:23
+Thornton 10:41
+Train No: 2507
+Woodstock 11:08
+Thornton 11:26
+Train No: 2307
+Woodstock 12:13
+Thornton 12:31
+
+Train No: 2501
+Woodstock 05:13
+Goodwood 05:36
+Train No: 2301
+Woodstock 06:08
+Goodwood 06:31
+Train No: 2503
+Woodstock 07:03
+Goodwood 07:26
+Train No: 2303
+Woodstock 08:13
+Goodwood 08:36
+Train No: 2505
+Woodstock 09:03
+Goodwood 09:26
+Train No: 2305
+Woodstock 10:23
+Goodwood 10:46
+Train No: 2507
+Woodstock 11:08
+Goodwood 11:31
+Train No: 2307
+Woodstock 12:13
+Goodwood 12:36
+
+Train No: 2501
+Woodstock 05:13
+Vasco 05:43
+Train No: 2301
+Woodstock 06:08
+Vasco 06:38
+Train No: 2503
+Woodstock 07:03
+Vasco 07:33
+Train No: 2303
+Woodstock 08:13
+Vasco 08:43
+Train No: 2505
+Woodstock 09:03
+Vasco 09:33
+Train No: 2305
+Woodstock 10:23
+Vasco 10:53
+Train No: 2507
+Woodstock 11:08
+Vasco 11:38
+Train No: 2307
+Woodstock 12:13
+Vasco 12:43
+
+Train No: 2501
+Woodstock 05:13
+Elsies River 05:46
+Train No: 2301
+Woodstock 06:08
+Elsies River 06:41
+Train No: 2503
+Woodstock 07:03
+Elsies River 07:36
+Train No: 2303
+Woodstock 08:13
+Elsies River 08:46
+Train No: 2505
+Woodstock 09:03
+Elsies River 09:36
+Train No: 2305
+Woodstock 10:23
+Elsies River 10:56
+Train No: 2507
+Woodstock 11:08
+Elsies River 11:41
+Train No: 2307
+Woodstock 12:13
+Elsies River 12:46
+
+Train No: 2501
+Woodstock 05:13
+Parow 05:50
+Train No: 2301
+Woodstock 06:08
+Parow 06:45
+Train No: 2503
+Woodstock 07:03
+Parow 07:40
+Train No: 2303
+Woodstock 08:13
+Parow 08:50
+Train No: 2505
+Woodstock 09:03
+Parow 09:40
+Train No: 2305
+Woodstock 10:23
+Parow 11:00
+Train No: 2507
+Woodstock 11:08
+Parow 11:45
+Train No: 2307
+Woodstock 12:13
+Parow 12:50
+
+Train No: 2501
+Woodstock 05:13
+Tygerberg 05:55
+Train No: 2301
+Woodstock 06:08
+Tygerberg 06:50
+Train No: 2503
+Woodstock 07:03
+Tygerberg 07:45
+Train No: 2303
+Woodstock 08:13
+Tygerberg 08:55
+Train No: 2505
+Woodstock 09:03
+Tygerberg 09:45
+Train No: 2305
+Woodstock 10:23
+Tygerberg 11:05
+Train No: 2507
+Woodstock 11:08
+Tygerberg 11:50
+Train No: 2307
+Woodstock 12:13
+Tygerberg 12:55
+
+Train No: 2501
+Woodstock 05:13
+Bellville 06:01
+Train No: 2301
+Woodstock 06:08
+Bellville 06:56
+Train No: 2503
+Woodstock 07:03
+Bellville 07:51
+Train No: 2303
+Woodstock 08:13
+Bellville 09:01
+Train No: 2505
+Woodstock 09:03
+Bellville 09:51
+Train No: 2305
+Woodstock 10:23
+Bellville 11:11
+Train No: 2507
+Woodstock 11:08
+Bellville 11:56
+Train No: 2307
+Woodstock 12:13
+Bellville 13:01
+
+Train No: 2301
+Woodstock 06:08
+Kuils River 07:07
+Train No: 2303
+Woodstock 08:13
+Kuils River 09:12
+Train No: 2305
+Woodstock 10:23
+Kuils River 11:22
+Train No: 2307
+Woodstock 12:13
+Kuils River 13:12
+
+Train No: 2301
+Woodstock 06:08
+Blackheath 07:17
+Train No: 2303
+Woodstock 08:13
+Blackheath 09:22
+Train No: 2305
+Woodstock 10:23
+Blackheath 11:32
+Train No: 2307
+Woodstock 12:13
+Blackheath 13:22
+
+Train No: 2301
+Woodstock 06:08
+Meltonrose 07:23
+Train No: 2303
+Woodstock 08:13
+Meltonrose 09:28
+Train No: 2305
+Woodstock 10:23
+Meltonrose 11:38
+Train No: 2307
+Woodstock 12:13
+Meltonrose 13:28
+
+Train No: 2301
+Woodstock 06:08
+Eerste River 07:31
+Train No: 2303
+Woodstock 08:13
+Eerste River 09:36
+Train No: 2305
+Woodstock 10:23
+Eerste River 11:46
+Train No: 2307
+Woodstock 12:13
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Woodstock 05:13
+Stikland 06:10
+Train No: 2503
+Woodstock 07:03
+Stikland 08:00
+Train No: 2505
+Woodstock 09:03
+Stikland 10:00
+Train No: 2507
+Woodstock 11:08
+Stikland 12:05
+
+Train No: 2501
+Woodstock 05:13
+Brackenfell 06:18
+Train No: 2503
+Woodstock 07:03
+Brackenfell 08:08
+Train No: 2505
+Woodstock 09:03
+Brackenfell 10:08
+Train No: 2507
+Woodstock 11:08
+Brackenfell 12:13
+
+Train No: 2501
+Woodstock 05:13
+Eikenfontein 06:23
+Train No: 2503
+Woodstock 07:03
+Eikenfontein 08:13
+Train No: 2505
+Woodstock 09:03
+Eikenfontein 10:13
+Train No: 2507
+Woodstock 11:08
+Eikenfontein 12:18
+
+Train No: 2501
+Woodstock 05:13
+Kraaifontein 06:26
+Train No: 2503
+Woodstock 07:03
+Kraaifontein 08:16
+Train No: 2505
+Woodstock 09:03
+Kraaifontein 10:16
+Train No: 2507
+Woodstock 11:08
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Salt River 06:31
+Cape Town 06:40
+Train No: 2300
+Salt River 07:28
+Cape Town 07:37
+Train No: 2502
+Salt River 08:16
+Cape Town 08:25
+Train No: 2302
+Salt River 09:28
+Cape Town 09:37
+Train No: 2504
+Salt River 10:16
+Cape Town 10:25
+Train No: 2304
+Salt River 11:26
+Cape Town 11:35
+Train No: 2506
+Salt River 12:16
+Cape Town 12:25
+Train No: 2306
+Salt River 13:26
+Cape Town 13:35
+
+Train No: 2500
+Salt River 06:31
+Woodstock 06:35
+Train No: 2300
+Salt River 07:28
+Woodstock 07:32
+Train No: 2502
+Salt River 08:16
+Woodstock 08:20
+Train No: 2302
+Salt River 09:28
+Woodstock 09:32
+Train No: 2504
+Salt River 10:16
+Woodstock 10:20
+Train No: 2304
+Salt River 11:26
+Woodstock 11:30
+Train No: 2506
+Salt River 12:16
+Woodstock 12:20
+Train No: 2306
+Salt River 13:26
+Woodstock 13:30
+
+Train No: 2501
+Salt River 05:17
+Koeberg Road 05:20
+Train No: 2301
+Salt River 06:12
+Koeberg Road 06:15
+Train No: 2503
+Salt River 07:07
+Koeberg Road 07:10
+Train No: 2303
+Salt River 08:17
+Koeberg Road 08:20
+Train No: 2505
+Salt River 09:07
+Koeberg Road 09:10
+Train No: 2305
+Salt River 10:27
+Koeberg Road 10:30
+Train No: 2507
+Salt River 11:12
+Koeberg Road 11:15
+Train No: 2307
+Salt River 12:17
+Koeberg Road 12:20
+
+Train No: 2501
+Salt River 05:17
+Maitland 05:23
+Train No: 2301
+Salt River 06:12
+Maitland 06:18
+Train No: 2503
+Salt River 07:07
+Maitland 07:13
+Train No: 2303
+Salt River 08:17
+Maitland 08:23
+Train No: 2505
+Salt River 09:07
+Maitland 09:13
+Train No: 2305
+Salt River 10:27
+Maitland 10:33
+Train No: 2507
+Salt River 11:12
+Maitland 11:18
+Train No: 2307
+Salt River 12:17
+Maitland 12:23
+
+Train No: 2501
+Salt River 05:17
+Mutual 05:28
+Train No: 2301
+Salt River 06:12
+Mutual 06:23
+Train No: 2503
+Salt River 07:07
+Mutual 07:18
+Train No: 2303
+Salt River 08:17
+Mutual 08:28
+Train No: 2505
+Salt River 09:07
+Mutual 09:18
+Train No: 2305
+Salt River 10:27
+Mutual 10:38
+Train No: 2507
+Salt River 11:12
+Mutual 11:23
+Train No: 2307
+Salt River 12:17
+Mutual 12:28
+
+Train No: 2501
+Salt River 05:17
+Thornton 05:31
+Train No: 2301
+Salt River 06:12
+Thornton 06:26
+Train No: 2503
+Salt River 07:07
+Thornton 07:21
+Train No: 2303
+Salt River 08:17
+Thornton 08:31
+Train No: 2505
+Salt River 09:07
+Thornton 09:21
+Train No: 2305
+Salt River 10:27
+Thornton 10:41
+Train No: 2507
+Salt River 11:12
+Thornton 11:26
+Train No: 2307
+Salt River 12:17
+Thornton 12:31
+
+Train No: 2501
+Salt River 05:17
+Goodwood 05:36
+Train No: 2301
+Salt River 06:12
+Goodwood 06:31
+Train No: 2503
+Salt River 07:07
+Goodwood 07:26
+Train No: 2303
+Salt River 08:17
+Goodwood 08:36
+Train No: 2505
+Salt River 09:07
+Goodwood 09:26
+Train No: 2305
+Salt River 10:27
+Goodwood 10:46
+Train No: 2507
+Salt River 11:12
+Goodwood 11:31
+Train No: 2307
+Salt River 12:17
+Goodwood 12:36
+
+Train No: 2501
+Salt River 05:17
+Vasco 05:43
+Train No: 2301
+Salt River 06:12
+Vasco 06:38
+Train No: 2503
+Salt River 07:07
+Vasco 07:33
+Train No: 2303
+Salt River 08:17
+Vasco 08:43
+Train No: 2505
+Salt River 09:07
+Vasco 09:33
+Train No: 2305
+Salt River 10:27
+Vasco 10:53
+Train No: 2507
+Salt River 11:12
+Vasco 11:38
+Train No: 2307
+Salt River 12:17
+Vasco 12:43
+
+Train No: 2501
+Salt River 05:17
+Elsies River 05:46
+Train No: 2301
+Salt River 06:12
+Elsies River 06:41
+Train No: 2503
+Salt River 07:07
+Elsies River 07:36
+Train No: 2303
+Salt River 08:17
+Elsies River 08:46
+Train No: 2505
+Salt River 09:07
+Elsies River 09:36
+Train No: 2305
+Salt River 10:27
+Elsies River 10:56
+Train No: 2507
+Salt River 11:12
+Elsies River 11:41
+Train No: 2307
+Salt River 12:17
+Elsies River 12:46
+
+Train No: 2501
+Salt River 05:17
+Parow 05:50
+Train No: 2301
+Salt River 06:12
+Parow 06:45
+Train No: 2503
+Salt River 07:07
+Parow 07:40
+Train No: 2303
+Salt River 08:17
+Parow 08:50
+Train No: 2505
+Salt River 09:07
+Parow 09:40
+Train No: 2305
+Salt River 10:27
+Parow 11:00
+Train No: 2507
+Salt River 11:12
+Parow 11:45
+Train No: 2307
+Salt River 12:17
+Parow 12:50
+
+Train No: 2501
+Salt River 05:17
+Tygerberg 05:55
+Train No: 2301
+Salt River 06:12
+Tygerberg 06:50
+Train No: 2503
+Salt River 07:07
+Tygerberg 07:45
+Train No: 2303
+Salt River 08:17
+Tygerberg 08:55
+Train No: 2505
+Salt River 09:07
+Tygerberg 09:45
+Train No: 2305
+Salt River 10:27
+Tygerberg 11:05
+Train No: 2507
+Salt River 11:12
+Tygerberg 11:50
+Train No: 2307
+Salt River 12:17
+Tygerberg 12:55
+
+Train No: 2501
+Salt River 05:17
+Bellville 06:01
+Train No: 2301
+Salt River 06:12
+Bellville 06:56
+Train No: 2503
+Salt River 07:07
+Bellville 07:51
+Train No: 2303
+Salt River 08:17
+Bellville 09:01
+Train No: 2505
+Salt River 09:07
+Bellville 09:51
+Train No: 2305
+Salt River 10:27
+Bellville 11:11
+Train No: 2507
+Salt River 11:12
+Bellville 11:56
+Train No: 2307
+Salt River 12:17
+Bellville 13:01
+
+Train No: 2301
+Salt River 06:12
+Kuils River 07:07
+Train No: 2303
+Salt River 08:17
+Kuils River 09:12
+Train No: 2305
+Salt River 10:27
+Kuils River 11:22
+Train No: 2307
+Salt River 12:17
+Kuils River 13:12
+
+Train No: 2301
+Salt River 06:12
+Blackheath 07:17
+Train No: 2303
+Salt River 08:17
+Blackheath 09:22
+Train No: 2305
+Salt River 10:27
+Blackheath 11:32
+Train No: 2307
+Salt River 12:17
+Blackheath 13:22
+
+Train No: 2301
+Salt River 06:12
+Meltonrose 07:23
+Train No: 2303
+Salt River 08:17
+Meltonrose 09:28
+Train No: 2305
+Salt River 10:27
+Meltonrose 11:38
+Train No: 2307
+Salt River 12:17
+Meltonrose 13:28
+
+Train No: 2301
+Salt River 06:12
+Eerste River 07:31
+Train No: 2303
+Salt River 08:17
+Eerste River 09:36
+Train No: 2305
+Salt River 10:27
+Eerste River 11:46
+Train No: 2307
+Salt River 12:17
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Salt River 05:17
+Stikland 06:10
+Train No: 2503
+Salt River 07:07
+Stikland 08:00
+Train No: 2505
+Salt River 09:07
+Stikland 10:00
+Train No: 2507
+Salt River 11:12
+Stikland 12:05
+
+Train No: 2501
+Salt River 05:17
+Brackenfell 06:18
+Train No: 2503
+Salt River 07:07
+Brackenfell 08:08
+Train No: 2505
+Salt River 09:07
+Brackenfell 10:08
+Train No: 2507
+Salt River 11:12
+Brackenfell 12:13
+
+Train No: 2501
+Salt River 05:17
+Eikenfontein 06:23
+Train No: 2503
+Salt River 07:07
+Eikenfontein 08:13
+Train No: 2505
+Salt River 09:07
+Eikenfontein 10:13
+Train No: 2507
+Salt River 11:12
+Eikenfontein 12:18
+
+Train No: 2501
+Salt River 05:17
+Kraaifontein 06:26
+Train No: 2503
+Salt River 07:07
+Kraaifontein 08:16
+Train No: 2505
+Salt River 09:07
+Kraaifontein 10:16
+Train No: 2507
+Salt River 11:12
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Koeberg Road 06:28
+Cape Town 06:40
+Train No: 2300
+Koeberg Road 07:25
+Cape Town 07:37
+Train No: 2502
+Koeberg Road 08:13
+Cape Town 08:25
+Train No: 2302
+Koeberg Road 09:25
+Cape Town 09:37
+Train No: 2504
+Koeberg Road 10:13
+Cape Town 10:25
+Train No: 2304
+Koeberg Road 11:23
+Cape Town 11:35
+Train No: 2506
+Koeberg Road 12:13
+Cape Town 12:25
+Train No: 2306
+Koeberg Road 13:23
+Cape Town 13:35
+
+Train No: 2500
+Koeberg Road 06:28
+Woodstock 06:35
+Train No: 2300
+Koeberg Road 07:25
+Woodstock 07:32
+Train No: 2502
+Koeberg Road 08:13
+Woodstock 08:20
+Train No: 2302
+Koeberg Road 09:25
+Woodstock 09:32
+Train No: 2504
+Koeberg Road 10:13
+Woodstock 10:20
+Train No: 2304
+Koeberg Road 11:23
+Woodstock 11:30
+Train No: 2506
+Koeberg Road 12:13
+Woodstock 12:20
+Train No: 2306
+Koeberg Road 13:23
+Woodstock 13:30
+
+Train No: 2500
+Koeberg Road 06:28
+Salt River 06:31
+Train No: 2300
+Koeberg Road 07:25
+Salt River 07:28
+Train No: 2502
+Koeberg Road 08:13
+Salt River 08:16
+Train No: 2302
+Koeberg Road 09:25
+Salt River 09:28
+Train No: 2504
+Koeberg Road 10:13
+Salt River 10:16
+Train No: 2304
+Koeberg Road 11:23
+Salt River 11:26
+Train No: 2506
+Koeberg Road 12:13
+Salt River 12:16
+Train No: 2306
+Koeberg Road 13:23
+Salt River 13:26
+
+Train No: 2501
+Koeberg Road 05:20
+Maitland 05:23
+Train No: 2301
+Koeberg Road 06:15
+Maitland 06:18
+Train No: 2503
+Koeberg Road 07:10
+Maitland 07:13
+Train No: 2303
+Koeberg Road 08:20
+Maitland 08:23
+Train No: 2505
+Koeberg Road 09:10
+Maitland 09:13
+Train No: 2305
+Koeberg Road 10:30
+Maitland 10:33
+Train No: 2507
+Koeberg Road 11:15
+Maitland 11:18
+Train No: 2307
+Koeberg Road 12:20
+Maitland 12:23
+
+Train No: 2501
+Koeberg Road 05:20
+Mutual 05:28
+Train No: 2301
+Koeberg Road 06:15
+Mutual 06:23
+Train No: 2503
+Koeberg Road 07:10
+Mutual 07:18
+Train No: 2303
+Koeberg Road 08:20
+Mutual 08:28
+Train No: 2505
+Koeberg Road 09:10
+Mutual 09:18
+Train No: 2305
+Koeberg Road 10:30
+Mutual 10:38
+Train No: 2507
+Koeberg Road 11:15
+Mutual 11:23
+Train No: 2307
+Koeberg Road 12:20
+Mutual 12:28
+
+Train No: 2501
+Koeberg Road 05:20
+Thornton 05:31
+Train No: 2301
+Koeberg Road 06:15
+Thornton 06:26
+Train No: 2503
+Koeberg Road 07:10
+Thornton 07:21
+Train No: 2303
+Koeberg Road 08:20
+Thornton 08:31
+Train No: 2505
+Koeberg Road 09:10
+Thornton 09:21
+Train No: 2305
+Koeberg Road 10:30
+Thornton 10:41
+Train No: 2507
+Koeberg Road 11:15
+Thornton 11:26
+Train No: 2307
+Koeberg Road 12:20
+Thornton 12:31
+
+Train No: 2501
+Koeberg Road 05:20
+Goodwood 05:36
+Train No: 2301
+Koeberg Road 06:15
+Goodwood 06:31
+Train No: 2503
+Koeberg Road 07:10
+Goodwood 07:26
+Train No: 2303
+Koeberg Road 08:20
+Goodwood 08:36
+Train No: 2505
+Koeberg Road 09:10
+Goodwood 09:26
+Train No: 2305
+Koeberg Road 10:30
+Goodwood 10:46
+Train No: 2507
+Koeberg Road 11:15
+Goodwood 11:31
+Train No: 2307
+Koeberg Road 12:20
+Goodwood 12:36
+
+Train No: 2501
+Koeberg Road 05:20
+Vasco 05:43
+Train No: 2301
+Koeberg Road 06:15
+Vasco 06:38
+Train No: 2503
+Koeberg Road 07:10
+Vasco 07:33
+Train No: 2303
+Koeberg Road 08:20
+Vasco 08:43
+Train No: 2505
+Koeberg Road 09:10
+Vasco 09:33
+Train No: 2305
+Koeberg Road 10:30
+Vasco 10:53
+Train No: 2507
+Koeberg Road 11:15
+Vasco 11:38
+Train No: 2307
+Koeberg Road 12:20
+Vasco 12:43
+
+Train No: 2501
+Koeberg Road 05:20
+Elsies River 05:46
+Train No: 2301
+Koeberg Road 06:15
+Elsies River 06:41
+Train No: 2503
+Koeberg Road 07:10
+Elsies River 07:36
+Train No: 2303
+Koeberg Road 08:20
+Elsies River 08:46
+Train No: 2505
+Koeberg Road 09:10
+Elsies River 09:36
+Train No: 2305
+Koeberg Road 10:30
+Elsies River 10:56
+Train No: 2507
+Koeberg Road 11:15
+Elsies River 11:41
+Train No: 2307
+Koeberg Road 12:20
+Elsies River 12:46
+
+Train No: 2501
+Koeberg Road 05:20
+Parow 05:50
+Train No: 2301
+Koeberg Road 06:15
+Parow 06:45
+Train No: 2503
+Koeberg Road 07:10
+Parow 07:40
+Train No: 2303
+Koeberg Road 08:20
+Parow 08:50
+Train No: 2505
+Koeberg Road 09:10
+Parow 09:40
+Train No: 2305
+Koeberg Road 10:30
+Parow 11:00
+Train No: 2507
+Koeberg Road 11:15
+Parow 11:45
+Train No: 2307
+Koeberg Road 12:20
+Parow 12:50
+
+Train No: 2501
+Koeberg Road 05:20
+Tygerberg 05:55
+Train No: 2301
+Koeberg Road 06:15
+Tygerberg 06:50
+Train No: 2503
+Koeberg Road 07:10
+Tygerberg 07:45
+Train No: 2303
+Koeberg Road 08:20
+Tygerberg 08:55
+Train No: 2505
+Koeberg Road 09:10
+Tygerberg 09:45
+Train No: 2305
+Koeberg Road 10:30
+Tygerberg 11:05
+Train No: 2507
+Koeberg Road 11:15
+Tygerberg 11:50
+Train No: 2307
+Koeberg Road 12:20
+Tygerberg 12:55
+
+Train No: 2501
+Koeberg Road 05:20
+Bellville 06:01
+Train No: 2301
+Koeberg Road 06:15
+Bellville 06:56
+Train No: 2503
+Koeberg Road 07:10
+Bellville 07:51
+Train No: 2303
+Koeberg Road 08:20
+Bellville 09:01
+Train No: 2505
+Koeberg Road 09:10
+Bellville 09:51
+Train No: 2305
+Koeberg Road 10:30
+Bellville 11:11
+Train No: 2507
+Koeberg Road 11:15
+Bellville 11:56
+Train No: 2307
+Koeberg Road 12:20
+Bellville 13:01
+
+Train No: 2301
+Koeberg Road 06:15
+Kuils River 07:07
+Train No: 2303
+Koeberg Road 08:20
+Kuils River 09:12
+Train No: 2305
+Koeberg Road 10:30
+Kuils River 11:22
+Train No: 2307
+Koeberg Road 12:20
+Kuils River 13:12
+
+Train No: 2301
+Koeberg Road 06:15
+Blackheath 07:17
+Train No: 2303
+Koeberg Road 08:20
+Blackheath 09:22
+Train No: 2305
+Koeberg Road 10:30
+Blackheath 11:32
+Train No: 2307
+Koeberg Road 12:20
+Blackheath 13:22
+
+Train No: 2301
+Koeberg Road 06:15
+Meltonrose 07:23
+Train No: 2303
+Koeberg Road 08:20
+Meltonrose 09:28
+Train No: 2305
+Koeberg Road 10:30
+Meltonrose 11:38
+Train No: 2307
+Koeberg Road 12:20
+Meltonrose 13:28
+
+Train No: 2301
+Koeberg Road 06:15
+Eerste River 07:31
+Train No: 2303
+Koeberg Road 08:20
+Eerste River 09:36
+Train No: 2305
+Koeberg Road 10:30
+Eerste River 11:46
+Train No: 2307
+Koeberg Road 12:20
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Koeberg Road 05:20
+Stikland 06:10
+Train No: 2503
+Koeberg Road 07:10
+Stikland 08:00
+Train No: 2505
+Koeberg Road 09:10
+Stikland 10:00
+Train No: 2507
+Koeberg Road 11:15
+Stikland 12:05
+
+Train No: 2501
+Koeberg Road 05:20
+Brackenfell 06:18
+Train No: 2503
+Koeberg Road 07:10
+Brackenfell 08:08
+Train No: 2505
+Koeberg Road 09:10
+Brackenfell 10:08
+Train No: 2507
+Koeberg Road 11:15
+Brackenfell 12:13
+
+Train No: 2501
+Koeberg Road 05:20
+Eikenfontein 06:23
+Train No: 2503
+Koeberg Road 07:10
+Eikenfontein 08:13
+Train No: 2505
+Koeberg Road 09:10
+Eikenfontein 10:13
+Train No: 2507
+Koeberg Road 11:15
+Eikenfontein 12:18
+
+Train No: 2501
+Koeberg Road 05:20
+Kraaifontein 06:26
+Train No: 2503
+Koeberg Road 07:10
+Kraaifontein 08:16
+Train No: 2505
+Koeberg Road 09:10
+Kraaifontein 10:16
+Train No: 2507
+Koeberg Road 11:15
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Maitland 06:25
+Cape Town 06:40
+Train No: 2300
+Maitland 07:22
+Cape Town 07:37
+Train No: 2502
+Maitland 08:10
+Cape Town 08:25
+Train No: 2302
+Maitland 09:22
+Cape Town 09:37
+Train No: 2504
+Maitland 10:10
+Cape Town 10:25
+Train No: 2304
+Maitland 11:20
+Cape Town 11:35
+Train No: 2506
+Maitland 12:10
+Cape Town 12:25
+Train No: 2306
+Maitland 13:20
+Cape Town 13:35
+
+Train No: 2500
+Maitland 06:25
+Woodstock 06:35
+Train No: 2300
+Maitland 07:22
+Woodstock 07:32
+Train No: 2502
+Maitland 08:10
+Woodstock 08:20
+Train No: 2302
+Maitland 09:22
+Woodstock 09:32
+Train No: 2504
+Maitland 10:10
+Woodstock 10:20
+Train No: 2304
+Maitland 11:20
+Woodstock 11:30
+Train No: 2506
+Maitland 12:10
+Woodstock 12:20
+Train No: 2306
+Maitland 13:20
+Woodstock 13:30
+
+Train No: 2500
+Maitland 06:25
+Salt River 06:31
+Train No: 2300
+Maitland 07:22
+Salt River 07:28
+Train No: 2502
+Maitland 08:10
+Salt River 08:16
+Train No: 2302
+Maitland 09:22
+Salt River 09:28
+Train No: 2504
+Maitland 10:10
+Salt River 10:16
+Train No: 2304
+Maitland 11:20
+Salt River 11:26
+Train No: 2506
+Maitland 12:10
+Salt River 12:16
+Train No: 2306
+Maitland 13:20
+Salt River 13:26
+
+Train No: 2500
+Maitland 06:25
+Koeberg Road 06:28
+Train No: 2300
+Maitland 07:22
+Koeberg Road 07:25
+Train No: 2502
+Maitland 08:10
+Koeberg Road 08:13
+Train No: 2302
+Maitland 09:22
+Koeberg Road 09:25
+Train No: 2504
+Maitland 10:10
+Koeberg Road 10:13
+Train No: 2304
+Maitland 11:20
+Koeberg Road 11:23
+Train No: 2506
+Maitland 12:10
+Koeberg Road 12:13
+Train No: 2306
+Maitland 13:20
+Koeberg Road 13:23
+
+Train No: 2501
+Maitland 05:23
+Mutual 05:28
+Train No: 2301
+Maitland 06:18
+Mutual 06:23
+Train No: 2503
+Maitland 07:13
+Mutual 07:18
+Train No: 2303
+Maitland 08:23
+Mutual 08:28
+Train No: 2505
+Maitland 09:13
+Mutual 09:18
+Train No: 2305
+Maitland 10:33
+Mutual 10:38
+Train No: 2507
+Maitland 11:18
+Mutual 11:23
+Train No: 2307
+Maitland 12:23
+Mutual 12:28
+
+Train No: 2501
+Maitland 05:23
+Thornton 05:31
+Train No: 2301
+Maitland 06:18
+Thornton 06:26
+Train No: 2503
+Maitland 07:13
+Thornton 07:21
+Train No: 2303
+Maitland 08:23
+Thornton 08:31
+Train No: 2505
+Maitland 09:13
+Thornton 09:21
+Train No: 2305
+Maitland 10:33
+Thornton 10:41
+Train No: 2507
+Maitland 11:18
+Thornton 11:26
+Train No: 2307
+Maitland 12:23
+Thornton 12:31
+
+Train No: 2501
+Maitland 05:23
+Goodwood 05:36
+Train No: 2301
+Maitland 06:18
+Goodwood 06:31
+Train No: 2503
+Maitland 07:13
+Goodwood 07:26
+Train No: 2303
+Maitland 08:23
+Goodwood 08:36
+Train No: 2505
+Maitland 09:13
+Goodwood 09:26
+Train No: 2305
+Maitland 10:33
+Goodwood 10:46
+Train No: 2507
+Maitland 11:18
+Goodwood 11:31
+Train No: 2307
+Maitland 12:23
+Goodwood 12:36
+
+Train No: 2501
+Maitland 05:23
+Vasco 05:43
+Train No: 2301
+Maitland 06:18
+Vasco 06:38
+Train No: 2503
+Maitland 07:13
+Vasco 07:33
+Train No: 2303
+Maitland 08:23
+Vasco 08:43
+Train No: 2505
+Maitland 09:13
+Vasco 09:33
+Train No: 2305
+Maitland 10:33
+Vasco 10:53
+Train No: 2507
+Maitland 11:18
+Vasco 11:38
+Train No: 2307
+Maitland 12:23
+Vasco 12:43
+
+Train No: 2501
+Maitland 05:23
+Elsies River 05:46
+Train No: 2301
+Maitland 06:18
+Elsies River 06:41
+Train No: 2503
+Maitland 07:13
+Elsies River 07:36
+Train No: 2303
+Maitland 08:23
+Elsies River 08:46
+Train No: 2505
+Maitland 09:13
+Elsies River 09:36
+Train No: 2305
+Maitland 10:33
+Elsies River 10:56
+Train No: 2507
+Maitland 11:18
+Elsies River 11:41
+Train No: 2307
+Maitland 12:23
+Elsies River 12:46
+
+Train No: 2501
+Maitland 05:23
+Parow 05:50
+Train No: 2301
+Maitland 06:18
+Parow 06:45
+Train No: 2503
+Maitland 07:13
+Parow 07:40
+Train No: 2303
+Maitland 08:23
+Parow 08:50
+Train No: 2505
+Maitland 09:13
+Parow 09:40
+Train No: 2305
+Maitland 10:33
+Parow 11:00
+Train No: 2507
+Maitland 11:18
+Parow 11:45
+Train No: 2307
+Maitland 12:23
+Parow 12:50
+
+Train No: 2501
+Maitland 05:23
+Tygerberg 05:55
+Train No: 2301
+Maitland 06:18
+Tygerberg 06:50
+Train No: 2503
+Maitland 07:13
+Tygerberg 07:45
+Train No: 2303
+Maitland 08:23
+Tygerberg 08:55
+Train No: 2505
+Maitland 09:13
+Tygerberg 09:45
+Train No: 2305
+Maitland 10:33
+Tygerberg 11:05
+Train No: 2507
+Maitland 11:18
+Tygerberg 11:50
+Train No: 2307
+Maitland 12:23
+Tygerberg 12:55
+
+Train No: 2501
+Maitland 05:23
+Bellville 06:01
+Train No: 2301
+Maitland 06:18
+Bellville 06:56
+Train No: 2503
+Maitland 07:13
+Bellville 07:51
+Train No: 2303
+Maitland 08:23
+Bellville 09:01
+Train No: 2505
+Maitland 09:13
+Bellville 09:51
+Train No: 2305
+Maitland 10:33
+Bellville 11:11
+Train No: 2507
+Maitland 11:18
+Bellville 11:56
+Train No: 2307
+Maitland 12:23
+Bellville 13:01
+
+Train No: 2301
+Maitland 06:18
+Kuils River 07:07
+Train No: 2303
+Maitland 08:23
+Kuils River 09:12
+Train No: 2305
+Maitland 10:33
+Kuils River 11:22
+Train No: 2307
+Maitland 12:23
+Kuils River 13:12
+
+Train No: 2301
+Maitland 06:18
+Blackheath 07:17
+Train No: 2303
+Maitland 08:23
+Blackheath 09:22
+Train No: 2305
+Maitland 10:33
+Blackheath 11:32
+Train No: 2307
+Maitland 12:23
+Blackheath 13:22
+
+Train No: 2301
+Maitland 06:18
+Meltonrose 07:23
+Train No: 2303
+Maitland 08:23
+Meltonrose 09:28
+Train No: 2305
+Maitland 10:33
+Meltonrose 11:38
+Train No: 2307
+Maitland 12:23
+Meltonrose 13:28
+
+Train No: 2301
+Maitland 06:18
+Eerste River 07:31
+Train No: 2303
+Maitland 08:23
+Eerste River 09:36
+Train No: 2305
+Maitland 10:33
+Eerste River 11:46
+Train No: 2307
+Maitland 12:23
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Maitland 05:23
+Stikland 06:10
+Train No: 2503
+Maitland 07:13
+Stikland 08:00
+Train No: 2505
+Maitland 09:13
+Stikland 10:00
+Train No: 2507
+Maitland 11:18
+Stikland 12:05
+
+Train No: 2501
+Maitland 05:23
+Brackenfell 06:18
+Train No: 2503
+Maitland 07:13
+Brackenfell 08:08
+Train No: 2505
+Maitland 09:13
+Brackenfell 10:08
+Train No: 2507
+Maitland 11:18
+Brackenfell 12:13
+
+Train No: 2501
+Maitland 05:23
+Eikenfontein 06:23
+Train No: 2503
+Maitland 07:13
+Eikenfontein 08:13
+Train No: 2505
+Maitland 09:13
+Eikenfontein 10:13
+Train No: 2507
+Maitland 11:18
+Eikenfontein 12:18
+
+Train No: 2501
+Maitland 05:23
+Kraaifontein 06:26
+Train No: 2503
+Maitland 07:13
+Kraaifontein 08:16
+Train No: 2505
+Maitland 09:13
+Kraaifontein 10:16
+Train No: 2507
+Maitland 11:18
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Mutual 06:22
+Cape Town 06:40
+Train No: 2300
+Mutual 07:19
+Cape Town 07:37
+Train No: 2502
+Mutual 08:07
+Cape Town 08:25
+Train No: 2302
+Mutual 09:19
+Cape Town 09:37
+Train No: 2504
+Mutual 10:07
+Cape Town 10:25
+Train No: 2304
+Mutual 11:17
+Cape Town 11:35
+Train No: 2506
+Mutual 12:07
+Cape Town 12:25
+Train No: 2306
+Mutual 13:17
+Cape Town 13:35
+
+Train No: 2500
+Mutual 06:22
+Woodstock 06:35
+Train No: 2300
+Mutual 07:19
+Woodstock 07:32
+Train No: 2502
+Mutual 08:07
+Woodstock 08:20
+Train No: 2302
+Mutual 09:19
+Woodstock 09:32
+Train No: 2504
+Mutual 10:07
+Woodstock 10:20
+Train No: 2304
+Mutual 11:17
+Woodstock 11:30
+Train No: 2506
+Mutual 12:07
+Woodstock 12:20
+Train No: 2306
+Mutual 13:17
+Woodstock 13:30
+
+Train No: 2500
+Mutual 06:22
+Salt River 06:31
+Train No: 2300
+Mutual 07:19
+Salt River 07:28
+Train No: 2502
+Mutual 08:07
+Salt River 08:16
+Train No: 2302
+Mutual 09:19
+Salt River 09:28
+Train No: 2504
+Mutual 10:07
+Salt River 10:16
+Train No: 2304
+Mutual 11:17
+Salt River 11:26
+Train No: 2506
+Mutual 12:07
+Salt River 12:16
+Train No: 2306
+Mutual 13:17
+Salt River 13:26
+
+Train No: 2500
+Mutual 06:22
+Koeberg Road 06:28
+Train No: 2300
+Mutual 07:19
+Koeberg Road 07:25
+Train No: 2502
+Mutual 08:07
+Koeberg Road 08:13
+Train No: 2302
+Mutual 09:19
+Koeberg Road 09:25
+Train No: 2504
+Mutual 10:07
+Koeberg Road 10:13
+Train No: 2304
+Mutual 11:17
+Koeberg Road 11:23
+Train No: 2506
+Mutual 12:07
+Koeberg Road 12:13
+Train No: 2306
+Mutual 13:17
+Koeberg Road 13:23
+
+Train No: 2500
+Mutual 06:22
+Maitland 06:25
+Train No: 2300
+Mutual 07:19
+Maitland 07:22
+Train No: 2502
+Mutual 08:07
+Maitland 08:10
+Train No: 2302
+Mutual 09:19
+Maitland 09:22
+Train No: 2504
+Mutual 10:07
+Maitland 10:10
+Train No: 2304
+Mutual 11:17
+Maitland 11:20
+Train No: 2506
+Mutual 12:07
+Maitland 12:10
+Train No: 2306
+Mutual 13:17
+Maitland 13:20
+
+Train No: 2501
+Mutual 05:28
+Thornton 05:31
+Train No: 2301
+Mutual 06:23
+Thornton 06:26
+Train No: 2503
+Mutual 07:18
+Thornton 07:21
+Train No: 2303
+Mutual 08:28
+Thornton 08:31
+Train No: 2505
+Mutual 09:18
+Thornton 09:21
+Train No: 2305
+Mutual 10:38
+Thornton 10:41
+Train No: 2507
+Mutual 11:23
+Thornton 11:26
+Train No: 2307
+Mutual 12:28
+Thornton 12:31
+
+Train No: 2501
+Mutual 05:28
+Goodwood 05:36
+Train No: 2301
+Mutual 06:23
+Goodwood 06:31
+Train No: 2503
+Mutual 07:18
+Goodwood 07:26
+Train No: 2303
+Mutual 08:28
+Goodwood 08:36
+Train No: 2505
+Mutual 09:18
+Goodwood 09:26
+Train No: 2305
+Mutual 10:38
+Goodwood 10:46
+Train No: 2507
+Mutual 11:23
+Goodwood 11:31
+Train No: 2307
+Mutual 12:28
+Goodwood 12:36
+
+Train No: 2501
+Mutual 05:28
+Vasco 05:43
+Train No: 2301
+Mutual 06:23
+Vasco 06:38
+Train No: 2503
+Mutual 07:18
+Vasco 07:33
+Train No: 2303
+Mutual 08:28
+Vasco 08:43
+Train No: 2505
+Mutual 09:18
+Vasco 09:33
+Train No: 2305
+Mutual 10:38
+Vasco 10:53
+Train No: 2507
+Mutual 11:23
+Vasco 11:38
+Train No: 2307
+Mutual 12:28
+Vasco 12:43
+
+Train No: 2501
+Mutual 05:28
+Elsies River 05:46
+Train No: 2301
+Mutual 06:23
+Elsies River 06:41
+Train No: 2503
+Mutual 07:18
+Elsies River 07:36
+Train No: 2303
+Mutual 08:28
+Elsies River 08:46
+Train No: 2505
+Mutual 09:18
+Elsies River 09:36
+Train No: 2305
+Mutual 10:38
+Elsies River 10:56
+Train No: 2507
+Mutual 11:23
+Elsies River 11:41
+Train No: 2307
+Mutual 12:28
+Elsies River 12:46
+
+Train No: 2501
+Mutual 05:28
+Parow 05:50
+Train No: 2301
+Mutual 06:23
+Parow 06:45
+Train No: 2503
+Mutual 07:18
+Parow 07:40
+Train No: 2303
+Mutual 08:28
+Parow 08:50
+Train No: 2505
+Mutual 09:18
+Parow 09:40
+Train No: 2305
+Mutual 10:38
+Parow 11:00
+Train No: 2507
+Mutual 11:23
+Parow 11:45
+Train No: 2307
+Mutual 12:28
+Parow 12:50
+
+Train No: 2501
+Mutual 05:28
+Tygerberg 05:55
+Train No: 2301
+Mutual 06:23
+Tygerberg 06:50
+Train No: 2503
+Mutual 07:18
+Tygerberg 07:45
+Train No: 2303
+Mutual 08:28
+Tygerberg 08:55
+Train No: 2505
+Mutual 09:18
+Tygerberg 09:45
+Train No: 2305
+Mutual 10:38
+Tygerberg 11:05
+Train No: 2507
+Mutual 11:23
+Tygerberg 11:50
+Train No: 2307
+Mutual 12:28
+Tygerberg 12:55
+
+Train No: 2501
+Mutual 05:28
+Bellville 06:01
+Train No: 2301
+Mutual 06:23
+Bellville 06:56
+Train No: 2503
+Mutual 07:18
+Bellville 07:51
+Train No: 2303
+Mutual 08:28
+Bellville 09:01
+Train No: 2505
+Mutual 09:18
+Bellville 09:51
+Train No: 2305
+Mutual 10:38
+Bellville 11:11
+Train No: 2507
+Mutual 11:23
+Bellville 11:56
+Train No: 2307
+Mutual 12:28
+Bellville 13:01
+
+Train No: 2301
+Mutual 06:23
+Kuils River 07:07
+Train No: 2303
+Mutual 08:28
+Kuils River 09:12
+Train No: 2305
+Mutual 10:38
+Kuils River 11:22
+Train No: 2307
+Mutual 12:28
+Kuils River 13:12
+
+Train No: 2301
+Mutual 06:23
+Blackheath 07:17
+Train No: 2303
+Mutual 08:28
+Blackheath 09:22
+Train No: 2305
+Mutual 10:38
+Blackheath 11:32
+Train No: 2307
+Mutual 12:28
+Blackheath 13:22
+
+Train No: 2301
+Mutual 06:23
+Meltonrose 07:23
+Train No: 2303
+Mutual 08:28
+Meltonrose 09:28
+Train No: 2305
+Mutual 10:38
+Meltonrose 11:38
+Train No: 2307
+Mutual 12:28
+Meltonrose 13:28
+
+Train No: 2301
+Mutual 06:23
+Eerste River 07:31
+Train No: 2303
+Mutual 08:28
+Eerste River 09:36
+Train No: 2305
+Mutual 10:38
+Eerste River 11:46
+Train No: 2307
+Mutual 12:28
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Mutual 05:28
+Stikland 06:10
+Train No: 2503
+Mutual 07:18
+Stikland 08:00
+Train No: 2505
+Mutual 09:18
+Stikland 10:00
+Train No: 2507
+Mutual 11:23
+Stikland 12:05
+
+Train No: 2501
+Mutual 05:28
+Brackenfell 06:18
+Train No: 2503
+Mutual 07:18
+Brackenfell 08:08
+Train No: 2505
+Mutual 09:18
+Brackenfell 10:08
+Train No: 2507
+Mutual 11:23
+Brackenfell 12:13
+
+Train No: 2501
+Mutual 05:28
+Eikenfontein 06:23
+Train No: 2503
+Mutual 07:18
+Eikenfontein 08:13
+Train No: 2505
+Mutual 09:18
+Eikenfontein 10:13
+Train No: 2507
+Mutual 11:23
+Eikenfontein 12:18
+
+Train No: 2501
+Mutual 05:28
+Kraaifontein 06:26
+Train No: 2503
+Mutual 07:18
+Kraaifontein 08:16
+Train No: 2505
+Mutual 09:18
+Kraaifontein 10:16
+Train No: 2507
+Mutual 11:23
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Thornton 06:15
+Cape Town 06:40
+Train No: 2300
+Thornton 07:12
+Cape Town 07:37
+Train No: 2502
+Thornton 08:00
+Cape Town 08:25
+Train No: 2302
+Thornton 09:12
+Cape Town 09:37
+Train No: 2504
+Thornton 10:00
+Cape Town 10:25
+Train No: 2304
+Thornton 11:10
+Cape Town 11:35
+Train No: 2506
+Thornton 12:00
+Cape Town 12:25
+Train No: 2306
+Thornton 13:10
+Cape Town 13:35
+
+Train No: 2500
+Thornton 06:15
+Woodstock 06:35
+Train No: 2300
+Thornton 07:12
+Woodstock 07:32
+Train No: 2502
+Thornton 08:00
+Woodstock 08:20
+Train No: 2302
+Thornton 09:12
+Woodstock 09:32
+Train No: 2504
+Thornton 10:00
+Woodstock 10:20
+Train No: 2304
+Thornton 11:10
+Woodstock 11:30
+Train No: 2506
+Thornton 12:00
+Woodstock 12:20
+Train No: 2306
+Thornton 13:10
+Woodstock 13:30
+
+Train No: 2500
+Thornton 06:15
+Salt River 06:31
+Train No: 2300
+Thornton 07:12
+Salt River 07:28
+Train No: 2502
+Thornton 08:00
+Salt River 08:16
+Train No: 2302
+Thornton 09:12
+Salt River 09:28
+Train No: 2504
+Thornton 10:00
+Salt River 10:16
+Train No: 2304
+Thornton 11:10
+Salt River 11:26
+Train No: 2506
+Thornton 12:00
+Salt River 12:16
+Train No: 2306
+Thornton 13:10
+Salt River 13:26
+
+Train No: 2500
+Thornton 06:15
+Koeberg Road 06:28
+Train No: 2300
+Thornton 07:12
+Koeberg Road 07:25
+Train No: 2502
+Thornton 08:00
+Koeberg Road 08:13
+Train No: 2302
+Thornton 09:12
+Koeberg Road 09:25
+Train No: 2504
+Thornton 10:00
+Koeberg Road 10:13
+Train No: 2304
+Thornton 11:10
+Koeberg Road 11:23
+Train No: 2506
+Thornton 12:00
+Koeberg Road 12:13
+Train No: 2306
+Thornton 13:10
+Koeberg Road 13:23
+
+Train No: 2500
+Thornton 06:15
+Maitland 06:25
+Train No: 2300
+Thornton 07:12
+Maitland 07:22
+Train No: 2502
+Thornton 08:00
+Maitland 08:10
+Train No: 2302
+Thornton 09:12
+Maitland 09:22
+Train No: 2504
+Thornton 10:00
+Maitland 10:10
+Train No: 2304
+Thornton 11:10
+Maitland 11:20
+Train No: 2506
+Thornton 12:00
+Maitland 12:10
+Train No: 2306
+Thornton 13:10
+Maitland 13:20
+
+Train No: 2500
+Thornton 06:15
+Mutual 06:22
+Train No: 2300
+Thornton 07:12
+Mutual 07:19
+Train No: 2502
+Thornton 08:00
+Mutual 08:07
+Train No: 2302
+Thornton 09:12
+Mutual 09:19
+Train No: 2504
+Thornton 10:00
+Mutual 10:07
+Train No: 2304
+Thornton 11:10
+Mutual 11:17
+Train No: 2506
+Thornton 12:00
+Mutual 12:07
+Train No: 2306
+Thornton 13:10
+Mutual 13:17
+
+Train No: 2501
+Thornton 05:31
+Goodwood 05:36
+Train No: 2301
+Thornton 06:26
+Goodwood 06:31
+Train No: 2503
+Thornton 07:21
+Goodwood 07:26
+Train No: 2303
+Thornton 08:31
+Goodwood 08:36
+Train No: 2505
+Thornton 09:21
+Goodwood 09:26
+Train No: 2305
+Thornton 10:41
+Goodwood 10:46
+Train No: 2507
+Thornton 11:26
+Goodwood 11:31
+Train No: 2307
+Thornton 12:31
+Goodwood 12:36
+
+Train No: 2501
+Thornton 05:31
+Vasco 05:43
+Train No: 2301
+Thornton 06:26
+Vasco 06:38
+Train No: 2503
+Thornton 07:21
+Vasco 07:33
+Train No: 2303
+Thornton 08:31
+Vasco 08:43
+Train No: 2505
+Thornton 09:21
+Vasco 09:33
+Train No: 2305
+Thornton 10:41
+Vasco 10:53
+Train No: 2507
+Thornton 11:26
+Vasco 11:38
+Train No: 2307
+Thornton 12:31
+Vasco 12:43
+
+Train No: 2501
+Thornton 05:31
+Elsies River 05:46
+Train No: 2301
+Thornton 06:26
+Elsies River 06:41
+Train No: 2503
+Thornton 07:21
+Elsies River 07:36
+Train No: 2303
+Thornton 08:31
+Elsies River 08:46
+Train No: 2505
+Thornton 09:21
+Elsies River 09:36
+Train No: 2305
+Thornton 10:41
+Elsies River 10:56
+Train No: 2507
+Thornton 11:26
+Elsies River 11:41
+Train No: 2307
+Thornton 12:31
+Elsies River 12:46
+
+Train No: 2501
+Thornton 05:31
+Parow 05:50
+Train No: 2301
+Thornton 06:26
+Parow 06:45
+Train No: 2503
+Thornton 07:21
+Parow 07:40
+Train No: 2303
+Thornton 08:31
+Parow 08:50
+Train No: 2505
+Thornton 09:21
+Parow 09:40
+Train No: 2305
+Thornton 10:41
+Parow 11:00
+Train No: 2507
+Thornton 11:26
+Parow 11:45
+Train No: 2307
+Thornton 12:31
+Parow 12:50
+
+Train No: 2501
+Thornton 05:31
+Tygerberg 05:55
+Train No: 2301
+Thornton 06:26
+Tygerberg 06:50
+Train No: 2503
+Thornton 07:21
+Tygerberg 07:45
+Train No: 2303
+Thornton 08:31
+Tygerberg 08:55
+Train No: 2505
+Thornton 09:21
+Tygerberg 09:45
+Train No: 2305
+Thornton 10:41
+Tygerberg 11:05
+Train No: 2507
+Thornton 11:26
+Tygerberg 11:50
+Train No: 2307
+Thornton 12:31
+Tygerberg 12:55
+
+Train No: 2501
+Thornton 05:31
+Bellville 06:01
+Train No: 2301
+Thornton 06:26
+Bellville 06:56
+Train No: 2503
+Thornton 07:21
+Bellville 07:51
+Train No: 2303
+Thornton 08:31
+Bellville 09:01
+Train No: 2505
+Thornton 09:21
+Bellville 09:51
+Train No: 2305
+Thornton 10:41
+Bellville 11:11
+Train No: 2507
+Thornton 11:26
+Bellville 11:56
+Train No: 2307
+Thornton 12:31
+Bellville 13:01
+
+Train No: 2301
+Thornton 06:26
+Kuils River 07:07
+Train No: 2303
+Thornton 08:31
+Kuils River 09:12
+Train No: 2305
+Thornton 10:41
+Kuils River 11:22
+Train No: 2307
+Thornton 12:31
+Kuils River 13:12
+
+Train No: 2301
+Thornton 06:26
+Blackheath 07:17
+Train No: 2303
+Thornton 08:31
+Blackheath 09:22
+Train No: 2305
+Thornton 10:41
+Blackheath 11:32
+Train No: 2307
+Thornton 12:31
+Blackheath 13:22
+
+Train No: 2301
+Thornton 06:26
+Meltonrose 07:23
+Train No: 2303
+Thornton 08:31
+Meltonrose 09:28
+Train No: 2305
+Thornton 10:41
+Meltonrose 11:38
+Train No: 2307
+Thornton 12:31
+Meltonrose 13:28
+
+Train No: 2301
+Thornton 06:26
+Eerste River 07:31
+Train No: 2303
+Thornton 08:31
+Eerste River 09:36
+Train No: 2305
+Thornton 10:41
+Eerste River 11:46
+Train No: 2307
+Thornton 12:31
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Thornton 05:31
+Stikland 06:10
+Train No: 2503
+Thornton 07:21
+Stikland 08:00
+Train No: 2505
+Thornton 09:21
+Stikland 10:00
+Train No: 2507
+Thornton 11:26
+Stikland 12:05
+
+Train No: 2501
+Thornton 05:31
+Brackenfell 06:18
+Train No: 2503
+Thornton 07:21
+Brackenfell 08:08
+Train No: 2505
+Thornton 09:21
+Brackenfell 10:08
+Train No: 2507
+Thornton 11:26
+Brackenfell 12:13
+
+Train No: 2501
+Thornton 05:31
+Eikenfontein 06:23
+Train No: 2503
+Thornton 07:21
+Eikenfontein 08:13
+Train No: 2505
+Thornton 09:21
+Eikenfontein 10:13
+Train No: 2507
+Thornton 11:26
+Eikenfontein 12:18
+
+Train No: 2501
+Thornton 05:31
+Kraaifontein 06:26
+Train No: 2503
+Thornton 07:21
+Kraaifontein 08:16
+Train No: 2505
+Thornton 09:21
+Kraaifontein 10:16
+Train No: 2507
+Thornton 11:26
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Goodwood 06:09
+Cape Town 06:40
+Train No: 2300
+Goodwood 07:06
+Cape Town 07:37
+Train No: 2502
+Goodwood 07:54
+Cape Town 08:25
+Train No: 2302
+Goodwood 09:06
+Cape Town 09:37
+Train No: 2504
+Goodwood 09:54
+Cape Town 10:25
+Train No: 2304
+Goodwood 11:04
+Cape Town 11:35
+Train No: 2506
+Goodwood 11:54
+Cape Town 12:25
+Train No: 2306
+Goodwood 13:04
+Cape Town 13:35
+
+Train No: 2500
+Goodwood 06:09
+Woodstock 06:35
+Train No: 2300
+Goodwood 07:06
+Woodstock 07:32
+Train No: 2502
+Goodwood 07:54
+Woodstock 08:20
+Train No: 2302
+Goodwood 09:06
+Woodstock 09:32
+Train No: 2504
+Goodwood 09:54
+Woodstock 10:20
+Train No: 2304
+Goodwood 11:04
+Woodstock 11:30
+Train No: 2506
+Goodwood 11:54
+Woodstock 12:20
+Train No: 2306
+Goodwood 13:04
+Woodstock 13:30
+
+Train No: 2500
+Goodwood 06:09
+Salt River 06:31
+Train No: 2300
+Goodwood 07:06
+Salt River 07:28
+Train No: 2502
+Goodwood 07:54
+Salt River 08:16
+Train No: 2302
+Goodwood 09:06
+Salt River 09:28
+Train No: 2504
+Goodwood 09:54
+Salt River 10:16
+Train No: 2304
+Goodwood 11:04
+Salt River 11:26
+Train No: 2506
+Goodwood 11:54
+Salt River 12:16
+Train No: 2306
+Goodwood 13:04
+Salt River 13:26
+
+Train No: 2500
+Goodwood 06:09
+Koeberg Road 06:28
+Train No: 2300
+Goodwood 07:06
+Koeberg Road 07:25
+Train No: 2502
+Goodwood 07:54
+Koeberg Road 08:13
+Train No: 2302
+Goodwood 09:06
+Koeberg Road 09:25
+Train No: 2504
+Goodwood 09:54
+Koeberg Road 10:13
+Train No: 2304
+Goodwood 11:04
+Koeberg Road 11:23
+Train No: 2506
+Goodwood 11:54
+Koeberg Road 12:13
+Train No: 2306
+Goodwood 13:04
+Koeberg Road 13:23
+
+Train No: 2500
+Goodwood 06:09
+Maitland 06:25
+Train No: 2300
+Goodwood 07:06
+Maitland 07:22
+Train No: 2502
+Goodwood 07:54
+Maitland 08:10
+Train No: 2302
+Goodwood 09:06
+Maitland 09:22
+Train No: 2504
+Goodwood 09:54
+Maitland 10:10
+Train No: 2304
+Goodwood 11:04
+Maitland 11:20
+Train No: 2506
+Goodwood 11:54
+Maitland 12:10
+Train No: 2306
+Goodwood 13:04
+Maitland 13:20
+
+Train No: 2500
+Goodwood 06:09
+Mutual 06:22
+Train No: 2300
+Goodwood 07:06
+Mutual 07:19
+Train No: 2502
+Goodwood 07:54
+Mutual 08:07
+Train No: 2302
+Goodwood 09:06
+Mutual 09:19
+Train No: 2504
+Goodwood 09:54
+Mutual 10:07
+Train No: 2304
+Goodwood 11:04
+Mutual 11:17
+Train No: 2506
+Goodwood 11:54
+Mutual 12:07
+Train No: 2306
+Goodwood 13:04
+Mutual 13:17
+
+Train No: 2500
+Goodwood 06:09
+Thornton 06:15
+Train No: 2300
+Goodwood 07:06
+Thornton 07:12
+Train No: 2502
+Goodwood 07:54
+Thornton 08:00
+Train No: 2302
+Goodwood 09:06
+Thornton 09:12
+Train No: 2504
+Goodwood 09:54
+Thornton 10:00
+Train No: 2304
+Goodwood 11:04
+Thornton 11:10
+Train No: 2506
+Goodwood 11:54
+Thornton 12:00
+Train No: 2306
+Goodwood 13:04
+Thornton 13:10
+
+Train No: 2501
+Goodwood 05:36
+Vasco 05:43
+Train No: 2301
+Goodwood 06:31
+Vasco 06:38
+Train No: 2503
+Goodwood 07:26
+Vasco 07:33
+Train No: 2303
+Goodwood 08:36
+Vasco 08:43
+Train No: 2505
+Goodwood 09:26
+Vasco 09:33
+Train No: 2305
+Goodwood 10:46
+Vasco 10:53
+Train No: 2507
+Goodwood 11:31
+Vasco 11:38
+Train No: 2307
+Goodwood 12:36
+Vasco 12:43
+
+Train No: 2501
+Goodwood 05:36
+Elsies River 05:46
+Train No: 2301
+Goodwood 06:31
+Elsies River 06:41
+Train No: 2503
+Goodwood 07:26
+Elsies River 07:36
+Train No: 2303
+Goodwood 08:36
+Elsies River 08:46
+Train No: 2505
+Goodwood 09:26
+Elsies River 09:36
+Train No: 2305
+Goodwood 10:46
+Elsies River 10:56
+Train No: 2507
+Goodwood 11:31
+Elsies River 11:41
+Train No: 2307
+Goodwood 12:36
+Elsies River 12:46
+
+Train No: 2501
+Goodwood 05:36
+Parow 05:50
+Train No: 2301
+Goodwood 06:31
+Parow 06:45
+Train No: 2503
+Goodwood 07:26
+Parow 07:40
+Train No: 2303
+Goodwood 08:36
+Parow 08:50
+Train No: 2505
+Goodwood 09:26
+Parow 09:40
+Train No: 2305
+Goodwood 10:46
+Parow 11:00
+Train No: 2507
+Goodwood 11:31
+Parow 11:45
+Train No: 2307
+Goodwood 12:36
+Parow 12:50
+
+Train No: 2501
+Goodwood 05:36
+Tygerberg 05:55
+Train No: 2301
+Goodwood 06:31
+Tygerberg 06:50
+Train No: 2503
+Goodwood 07:26
+Tygerberg 07:45
+Train No: 2303
+Goodwood 08:36
+Tygerberg 08:55
+Train No: 2505
+Goodwood 09:26
+Tygerberg 09:45
+Train No: 2305
+Goodwood 10:46
+Tygerberg 11:05
+Train No: 2507
+Goodwood 11:31
+Tygerberg 11:50
+Train No: 2307
+Goodwood 12:36
+Tygerberg 12:55
+
+Train No: 2501
+Goodwood 05:36
+Bellville 06:01
+Train No: 2301
+Goodwood 06:31
+Bellville 06:56
+Train No: 2503
+Goodwood 07:26
+Bellville 07:51
+Train No: 2303
+Goodwood 08:36
+Bellville 09:01
+Train No: 2505
+Goodwood 09:26
+Bellville 09:51
+Train No: 2305
+Goodwood 10:46
+Bellville 11:11
+Train No: 2507
+Goodwood 11:31
+Bellville 11:56
+Train No: 2307
+Goodwood 12:36
+Bellville 13:01
+
+Train No: 2301
+Goodwood 06:31
+Kuils River 07:07
+Train No: 2303
+Goodwood 08:36
+Kuils River 09:12
+Train No: 2305
+Goodwood 10:46
+Kuils River 11:22
+Train No: 2307
+Goodwood 12:36
+Kuils River 13:12
+
+Train No: 2301
+Goodwood 06:31
+Blackheath 07:17
+Train No: 2303
+Goodwood 08:36
+Blackheath 09:22
+Train No: 2305
+Goodwood 10:46
+Blackheath 11:32
+Train No: 2307
+Goodwood 12:36
+Blackheath 13:22
+
+Train No: 2301
+Goodwood 06:31
+Meltonrose 07:23
+Train No: 2303
+Goodwood 08:36
+Meltonrose 09:28
+Train No: 2305
+Goodwood 10:46
+Meltonrose 11:38
+Train No: 2307
+Goodwood 12:36
+Meltonrose 13:28
+
+Train No: 2301
+Goodwood 06:31
+Eerste River 07:31
+Train No: 2303
+Goodwood 08:36
+Eerste River 09:36
+Train No: 2305
+Goodwood 10:46
+Eerste River 11:46
+Train No: 2307
+Goodwood 12:36
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Goodwood 05:36
+Stikland 06:10
+Train No: 2503
+Goodwood 07:26
+Stikland 08:00
+Train No: 2505
+Goodwood 09:26
+Stikland 10:00
+Train No: 2507
+Goodwood 11:31
+Stikland 12:05
+
+Train No: 2501
+Goodwood 05:36
+Brackenfell 06:18
+Train No: 2503
+Goodwood 07:26
+Brackenfell 08:08
+Train No: 2505
+Goodwood 09:26
+Brackenfell 10:08
+Train No: 2507
+Goodwood 11:31
+Brackenfell 12:13
+
+Train No: 2501
+Goodwood 05:36
+Eikenfontein 06:23
+Train No: 2503
+Goodwood 07:26
+Eikenfontein 08:13
+Train No: 2505
+Goodwood 09:26
+Eikenfontein 10:13
+Train No: 2507
+Goodwood 11:31
+Eikenfontein 12:18
+
+Train No: 2501
+Goodwood 05:36
+Kraaifontein 06:26
+Train No: 2503
+Goodwood 07:26
+Kraaifontein 08:16
+Train No: 2505
+Goodwood 09:26
+Kraaifontein 10:16
+Train No: 2507
+Goodwood 11:31
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Vasco 06:07
+Cape Town 06:40
+Train No: 2300
+Vasco 07:04
+Cape Town 07:37
+Train No: 2502
+Vasco 07:52
+Cape Town 08:25
+Train No: 2302
+Vasco 09:04
+Cape Town 09:37
+Train No: 2504
+Vasco 09:52
+Cape Town 10:25
+Train No: 2304
+Vasco 11:02
+Cape Town 11:35
+Train No: 2506
+Vasco 11:52
+Cape Town 12:25
+Train No: 2306
+Vasco 13:02
+Cape Town 13:35
+
+Train No: 2500
+Vasco 06:07
+Woodstock 06:35
+Train No: 2300
+Vasco 07:04
+Woodstock 07:32
+Train No: 2502
+Vasco 07:52
+Woodstock 08:20
+Train No: 2302
+Vasco 09:04
+Woodstock 09:32
+Train No: 2504
+Vasco 09:52
+Woodstock 10:20
+Train No: 2304
+Vasco 11:02
+Woodstock 11:30
+Train No: 2506
+Vasco 11:52
+Woodstock 12:20
+Train No: 2306
+Vasco 13:02
+Woodstock 13:30
+
+Train No: 2500
+Vasco 06:07
+Salt River 06:31
+Train No: 2300
+Vasco 07:04
+Salt River 07:28
+Train No: 2502
+Vasco 07:52
+Salt River 08:16
+Train No: 2302
+Vasco 09:04
+Salt River 09:28
+Train No: 2504
+Vasco 09:52
+Salt River 10:16
+Train No: 2304
+Vasco 11:02
+Salt River 11:26
+Train No: 2506
+Vasco 11:52
+Salt River 12:16
+Train No: 2306
+Vasco 13:02
+Salt River 13:26
+
+Train No: 2500
+Vasco 06:07
+Koeberg Road 06:28
+Train No: 2300
+Vasco 07:04
+Koeberg Road 07:25
+Train No: 2502
+Vasco 07:52
+Koeberg Road 08:13
+Train No: 2302
+Vasco 09:04
+Koeberg Road 09:25
+Train No: 2504
+Vasco 09:52
+Koeberg Road 10:13
+Train No: 2304
+Vasco 11:02
+Koeberg Road 11:23
+Train No: 2506
+Vasco 11:52
+Koeberg Road 12:13
+Train No: 2306
+Vasco 13:02
+Koeberg Road 13:23
+
+Train No: 2500
+Vasco 06:07
+Maitland 06:25
+Train No: 2300
+Vasco 07:04
+Maitland 07:22
+Train No: 2502
+Vasco 07:52
+Maitland 08:10
+Train No: 2302
+Vasco 09:04
+Maitland 09:22
+Train No: 2504
+Vasco 09:52
+Maitland 10:10
+Train No: 2304
+Vasco 11:02
+Maitland 11:20
+Train No: 2506
+Vasco 11:52
+Maitland 12:10
+Train No: 2306
+Vasco 13:02
+Maitland 13:20
+
+Train No: 2500
+Vasco 06:07
+Mutual 06:22
+Train No: 2300
+Vasco 07:04
+Mutual 07:19
+Train No: 2502
+Vasco 07:52
+Mutual 08:07
+Train No: 2302
+Vasco 09:04
+Mutual 09:19
+Train No: 2504
+Vasco 09:52
+Mutual 10:07
+Train No: 2304
+Vasco 11:02
+Mutual 11:17
+Train No: 2506
+Vasco 11:52
+Mutual 12:07
+Train No: 2306
+Vasco 13:02
+Mutual 13:17
+
+Train No: 2500
+Vasco 06:07
+Thornton 06:15
+Train No: 2300
+Vasco 07:04
+Thornton 07:12
+Train No: 2502
+Vasco 07:52
+Thornton 08:00
+Train No: 2302
+Vasco 09:04
+Thornton 09:12
+Train No: 2504
+Vasco 09:52
+Thornton 10:00
+Train No: 2304
+Vasco 11:02
+Thornton 11:10
+Train No: 2506
+Vasco 11:52
+Thornton 12:00
+Train No: 2306
+Vasco 13:02
+Thornton 13:10
+
+Train No: 2500
+Vasco 06:07
+Goodwood 06:09
+Train No: 2300
+Vasco 07:04
+Goodwood 07:06
+Train No: 2502
+Vasco 07:52
+Goodwood 07:54
+Train No: 2302
+Vasco 09:04
+Goodwood 09:06
+Train No: 2504
+Vasco 09:52
+Goodwood 09:54
+Train No: 2304
+Vasco 11:02
+Goodwood 11:04
+Train No: 2506
+Vasco 11:52
+Goodwood 11:54
+Train No: 2306
+Vasco 13:02
+Goodwood 13:04
+
+Train No: 2501
+Vasco 05:43
+Elsies River 05:46
+Train No: 2301
+Vasco 06:38
+Elsies River 06:41
+Train No: 2503
+Vasco 07:33
+Elsies River 07:36
+Train No: 2303
+Vasco 08:43
+Elsies River 08:46
+Train No: 2505
+Vasco 09:33
+Elsies River 09:36
+Train No: 2305
+Vasco 10:53
+Elsies River 10:56
+Train No: 2507
+Vasco 11:38
+Elsies River 11:41
+Train No: 2307
+Vasco 12:43
+Elsies River 12:46
+
+Train No: 2501
+Vasco 05:43
+Parow 05:50
+Train No: 2301
+Vasco 06:38
+Parow 06:45
+Train No: 2503
+Vasco 07:33
+Parow 07:40
+Train No: 2303
+Vasco 08:43
+Parow 08:50
+Train No: 2505
+Vasco 09:33
+Parow 09:40
+Train No: 2305
+Vasco 10:53
+Parow 11:00
+Train No: 2507
+Vasco 11:38
+Parow 11:45
+Train No: 2307
+Vasco 12:43
+Parow 12:50
+
+Train No: 2501
+Vasco 05:43
+Tygerberg 05:55
+Train No: 2301
+Vasco 06:38
+Tygerberg 06:50
+Train No: 2503
+Vasco 07:33
+Tygerberg 07:45
+Train No: 2303
+Vasco 08:43
+Tygerberg 08:55
+Train No: 2505
+Vasco 09:33
+Tygerberg 09:45
+Train No: 2305
+Vasco 10:53
+Tygerberg 11:05
+Train No: 2507
+Vasco 11:38
+Tygerberg 11:50
+Train No: 2307
+Vasco 12:43
+Tygerberg 12:55
+
+Train No: 2501
+Vasco 05:43
+Bellville 06:01
+Train No: 2301
+Vasco 06:38
+Bellville 06:56
+Train No: 2503
+Vasco 07:33
+Bellville 07:51
+Train No: 2303
+Vasco 08:43
+Bellville 09:01
+Train No: 2505
+Vasco 09:33
+Bellville 09:51
+Train No: 2305
+Vasco 10:53
+Bellville 11:11
+Train No: 2507
+Vasco 11:38
+Bellville 11:56
+Train No: 2307
+Vasco 12:43
+Bellville 13:01
+
+Train No: 2301
+Vasco 06:38
+Kuils River 07:07
+Train No: 2303
+Vasco 08:43
+Kuils River 09:12
+Train No: 2305
+Vasco 10:53
+Kuils River 11:22
+Train No: 2307
+Vasco 12:43
+Kuils River 13:12
+
+Train No: 2301
+Vasco 06:38
+Blackheath 07:17
+Train No: 2303
+Vasco 08:43
+Blackheath 09:22
+Train No: 2305
+Vasco 10:53
+Blackheath 11:32
+Train No: 2307
+Vasco 12:43
+Blackheath 13:22
+
+Train No: 2301
+Vasco 06:38
+Meltonrose 07:23
+Train No: 2303
+Vasco 08:43
+Meltonrose 09:28
+Train No: 2305
+Vasco 10:53
+Meltonrose 11:38
+Train No: 2307
+Vasco 12:43
+Meltonrose 13:28
+
+Train No: 2301
+Vasco 06:38
+Eerste River 07:31
+Train No: 2303
+Vasco 08:43
+Eerste River 09:36
+Train No: 2305
+Vasco 10:53
+Eerste River 11:46
+Train No: 2307
+Vasco 12:43
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Vasco 05:43
+Stikland 06:10
+Train No: 2503
+Vasco 07:33
+Stikland 08:00
+Train No: 2505
+Vasco 09:33
+Stikland 10:00
+Train No: 2507
+Vasco 11:38
+Stikland 12:05
+
+Train No: 2501
+Vasco 05:43
+Brackenfell 06:18
+Train No: 2503
+Vasco 07:33
+Brackenfell 08:08
+Train No: 2505
+Vasco 09:33
+Brackenfell 10:08
+Train No: 2507
+Vasco 11:38
+Brackenfell 12:13
+
+Train No: 2501
+Vasco 05:43
+Eikenfontein 06:23
+Train No: 2503
+Vasco 07:33
+Eikenfontein 08:13
+Train No: 2505
+Vasco 09:33
+Eikenfontein 10:13
+Train No: 2507
+Vasco 11:38
+Eikenfontein 12:18
+
+Train No: 2501
+Vasco 05:43
+Kraaifontein 06:26
+Train No: 2503
+Vasco 07:33
+Kraaifontein 08:16
+Train No: 2505
+Vasco 09:33
+Kraaifontein 10:16
+Train No: 2507
+Vasco 11:38
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Elsies River 06:03
+Cape Town 06:40
+Train No: 2300
+Elsies River 07:00
+Cape Town 07:37
+Train No: 2502
+Elsies River 07:48
+Cape Town 08:25
+Train No: 2302
+Elsies River 09:00
+Cape Town 09:37
+Train No: 2504
+Elsies River 09:48
+Cape Town 10:25
+Train No: 2304
+Elsies River 10:58
+Cape Town 11:35
+Train No: 2506
+Elsies River 11:48
+Cape Town 12:25
+Train No: 2306
+Elsies River 12:58
+Cape Town 13:35
+
+Train No: 2500
+Elsies River 06:03
+Woodstock 06:35
+Train No: 2300
+Elsies River 07:00
+Woodstock 07:32
+Train No: 2502
+Elsies River 07:48
+Woodstock 08:20
+Train No: 2302
+Elsies River 09:00
+Woodstock 09:32
+Train No: 2504
+Elsies River 09:48
+Woodstock 10:20
+Train No: 2304
+Elsies River 10:58
+Woodstock 11:30
+Train No: 2506
+Elsies River 11:48
+Woodstock 12:20
+Train No: 2306
+Elsies River 12:58
+Woodstock 13:30
+
+Train No: 2500
+Elsies River 06:03
+Salt River 06:31
+Train No: 2300
+Elsies River 07:00
+Salt River 07:28
+Train No: 2502
+Elsies River 07:48
+Salt River 08:16
+Train No: 2302
+Elsies River 09:00
+Salt River 09:28
+Train No: 2504
+Elsies River 09:48
+Salt River 10:16
+Train No: 2304
+Elsies River 10:58
+Salt River 11:26
+Train No: 2506
+Elsies River 11:48
+Salt River 12:16
+Train No: 2306
+Elsies River 12:58
+Salt River 13:26
+
+Train No: 2500
+Elsies River 06:03
+Koeberg Road 06:28
+Train No: 2300
+Elsies River 07:00
+Koeberg Road 07:25
+Train No: 2502
+Elsies River 07:48
+Koeberg Road 08:13
+Train No: 2302
+Elsies River 09:00
+Koeberg Road 09:25
+Train No: 2504
+Elsies River 09:48
+Koeberg Road 10:13
+Train No: 2304
+Elsies River 10:58
+Koeberg Road 11:23
+Train No: 2506
+Elsies River 11:48
+Koeberg Road 12:13
+Train No: 2306
+Elsies River 12:58
+Koeberg Road 13:23
+
+Train No: 2500
+Elsies River 06:03
+Maitland 06:25
+Train No: 2300
+Elsies River 07:00
+Maitland 07:22
+Train No: 2502
+Elsies River 07:48
+Maitland 08:10
+Train No: 2302
+Elsies River 09:00
+Maitland 09:22
+Train No: 2504
+Elsies River 09:48
+Maitland 10:10
+Train No: 2304
+Elsies River 10:58
+Maitland 11:20
+Train No: 2506
+Elsies River 11:48
+Maitland 12:10
+Train No: 2306
+Elsies River 12:58
+Maitland 13:20
+
+Train No: 2500
+Elsies River 06:03
+Mutual 06:22
+Train No: 2300
+Elsies River 07:00
+Mutual 07:19
+Train No: 2502
+Elsies River 07:48
+Mutual 08:07
+Train No: 2302
+Elsies River 09:00
+Mutual 09:19
+Train No: 2504
+Elsies River 09:48
+Mutual 10:07
+Train No: 2304
+Elsies River 10:58
+Mutual 11:17
+Train No: 2506
+Elsies River 11:48
+Mutual 12:07
+Train No: 2306
+Elsies River 12:58
+Mutual 13:17
+
+Train No: 2500
+Elsies River 06:03
+Thornton 06:15
+Train No: 2300
+Elsies River 07:00
+Thornton 07:12
+Train No: 2502
+Elsies River 07:48
+Thornton 08:00
+Train No: 2302
+Elsies River 09:00
+Thornton 09:12
+Train No: 2504
+Elsies River 09:48
+Thornton 10:00
+Train No: 2304
+Elsies River 10:58
+Thornton 11:10
+Train No: 2506
+Elsies River 11:48
+Thornton 12:00
+Train No: 2306
+Elsies River 12:58
+Thornton 13:10
+
+Train No: 2500
+Elsies River 06:03
+Goodwood 06:09
+Train No: 2300
+Elsies River 07:00
+Goodwood 07:06
+Train No: 2502
+Elsies River 07:48
+Goodwood 07:54
+Train No: 2302
+Elsies River 09:00
+Goodwood 09:06
+Train No: 2504
+Elsies River 09:48
+Goodwood 09:54
+Train No: 2304
+Elsies River 10:58
+Goodwood 11:04
+Train No: 2506
+Elsies River 11:48
+Goodwood 11:54
+Train No: 2306
+Elsies River 12:58
+Goodwood 13:04
+
+Train No: 2500
+Elsies River 06:03
+Vasco 06:07
+Train No: 2300
+Elsies River 07:00
+Vasco 07:04
+Train No: 2502
+Elsies River 07:48
+Vasco 07:52
+Train No: 2302
+Elsies River 09:00
+Vasco 09:04
+Train No: 2504
+Elsies River 09:48
+Vasco 09:52
+Train No: 2304
+Elsies River 10:58
+Vasco 11:02
+Train No: 2506
+Elsies River 11:48
+Vasco 11:52
+Train No: 2306
+Elsies River 12:58
+Vasco 13:02
+
+Train No: 2501
+Elsies River 05:46
+Parow 05:50
+Train No: 2301
+Elsies River 06:41
+Parow 06:45
+Train No: 2503
+Elsies River 07:36
+Parow 07:40
+Train No: 2303
+Elsies River 08:46
+Parow 08:50
+Train No: 2505
+Elsies River 09:36
+Parow 09:40
+Train No: 2305
+Elsies River 10:56
+Parow 11:00
+Train No: 2507
+Elsies River 11:41
+Parow 11:45
+Train No: 2307
+Elsies River 12:46
+Parow 12:50
+
+Train No: 2501
+Elsies River 05:46
+Tygerberg 05:55
+Train No: 2301
+Elsies River 06:41
+Tygerberg 06:50
+Train No: 2503
+Elsies River 07:36
+Tygerberg 07:45
+Train No: 2303
+Elsies River 08:46
+Tygerberg 08:55
+Train No: 2505
+Elsies River 09:36
+Tygerberg 09:45
+Train No: 2305
+Elsies River 10:56
+Tygerberg 11:05
+Train No: 2507
+Elsies River 11:41
+Tygerberg 11:50
+Train No: 2307
+Elsies River 12:46
+Tygerberg 12:55
+
+Train No: 2501
+Elsies River 05:46
+Bellville 06:01
+Train No: 2301
+Elsies River 06:41
+Bellville 06:56
+Train No: 2503
+Elsies River 07:36
+Bellville 07:51
+Train No: 2303
+Elsies River 08:46
+Bellville 09:01
+Train No: 2505
+Elsies River 09:36
+Bellville 09:51
+Train No: 2305
+Elsies River 10:56
+Bellville 11:11
+Train No: 2507
+Elsies River 11:41
+Bellville 11:56
+Train No: 2307
+Elsies River 12:46
+Bellville 13:01
+
+Train No: 2301
+Elsies River 06:41
+Kuils River 07:07
+Train No: 2303
+Elsies River 08:46
+Kuils River 09:12
+Train No: 2305
+Elsies River 10:56
+Kuils River 11:22
+Train No: 2307
+Elsies River 12:46
+Kuils River 13:12
+
+Train No: 2301
+Elsies River 06:41
+Blackheath 07:17
+Train No: 2303
+Elsies River 08:46
+Blackheath 09:22
+Train No: 2305
+Elsies River 10:56
+Blackheath 11:32
+Train No: 2307
+Elsies River 12:46
+Blackheath 13:22
+
+Train No: 2301
+Elsies River 06:41
+Meltonrose 07:23
+Train No: 2303
+Elsies River 08:46
+Meltonrose 09:28
+Train No: 2305
+Elsies River 10:56
+Meltonrose 11:38
+Train No: 2307
+Elsies River 12:46
+Meltonrose 13:28
+
+Train No: 2301
+Elsies River 06:41
+Eerste River 07:31
+Train No: 2303
+Elsies River 08:46
+Eerste River 09:36
+Train No: 2305
+Elsies River 10:56
+Eerste River 11:46
+Train No: 2307
+Elsies River 12:46
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Elsies River 05:46
+Stikland 06:10
+Train No: 2503
+Elsies River 07:36
+Stikland 08:00
+Train No: 2505
+Elsies River 09:36
+Stikland 10:00
+Train No: 2507
+Elsies River 11:41
+Stikland 12:05
+
+Train No: 2501
+Elsies River 05:46
+Brackenfell 06:18
+Train No: 2503
+Elsies River 07:36
+Brackenfell 08:08
+Train No: 2505
+Elsies River 09:36
+Brackenfell 10:08
+Train No: 2507
+Elsies River 11:41
+Brackenfell 12:13
+
+Train No: 2501
+Elsies River 05:46
+Eikenfontein 06:23
+Train No: 2503
+Elsies River 07:36
+Eikenfontein 08:13
+Train No: 2505
+Elsies River 09:36
+Eikenfontein 10:13
+Train No: 2507
+Elsies River 11:41
+Eikenfontein 12:18
+
+Train No: 2501
+Elsies River 05:46
+Kraaifontein 06:26
+Train No: 2503
+Elsies River 07:36
+Kraaifontein 08:16
+Train No: 2505
+Elsies River 09:36
+Kraaifontein 10:16
+Train No: 2507
+Elsies River 11:41
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Parow 05:57
+Cape Town 06:40
+Train No: 2300
+Parow 06:54
+Cape Town 07:37
+Train No: 2502
+Parow 07:42
+Cape Town 08:25
+Train No: 2302
+Parow 08:54
+Cape Town 09:37
+Train No: 2504
+Parow 09:42
+Cape Town 10:25
+Train No: 2304
+Parow 10:52
+Cape Town 11:35
+Train No: 2506
+Parow 11:42
+Cape Town 12:25
+Train No: 2306
+Parow 12:52
+Cape Town 13:35
+
+Train No: 2500
+Parow 05:57
+Woodstock 06:35
+Train No: 2300
+Parow 06:54
+Woodstock 07:32
+Train No: 2502
+Parow 07:42
+Woodstock 08:20
+Train No: 2302
+Parow 08:54
+Woodstock 09:32
+Train No: 2504
+Parow 09:42
+Woodstock 10:20
+Train No: 2304
+Parow 10:52
+Woodstock 11:30
+Train No: 2506
+Parow 11:42
+Woodstock 12:20
+Train No: 2306
+Parow 12:52
+Woodstock 13:30
+
+Train No: 2500
+Parow 05:57
+Salt River 06:31
+Train No: 2300
+Parow 06:54
+Salt River 07:28
+Train No: 2502
+Parow 07:42
+Salt River 08:16
+Train No: 2302
+Parow 08:54
+Salt River 09:28
+Train No: 2504
+Parow 09:42
+Salt River 10:16
+Train No: 2304
+Parow 10:52
+Salt River 11:26
+Train No: 2506
+Parow 11:42
+Salt River 12:16
+Train No: 2306
+Parow 12:52
+Salt River 13:26
+
+Train No: 2500
+Parow 05:57
+Koeberg Road 06:28
+Train No: 2300
+Parow 06:54
+Koeberg Road 07:25
+Train No: 2502
+Parow 07:42
+Koeberg Road 08:13
+Train No: 2302
+Parow 08:54
+Koeberg Road 09:25
+Train No: 2504
+Parow 09:42
+Koeberg Road 10:13
+Train No: 2304
+Parow 10:52
+Koeberg Road 11:23
+Train No: 2506
+Parow 11:42
+Koeberg Road 12:13
+Train No: 2306
+Parow 12:52
+Koeberg Road 13:23
+
+Train No: 2500
+Parow 05:57
+Maitland 06:25
+Train No: 2300
+Parow 06:54
+Maitland 07:22
+Train No: 2502
+Parow 07:42
+Maitland 08:10
+Train No: 2302
+Parow 08:54
+Maitland 09:22
+Train No: 2504
+Parow 09:42
+Maitland 10:10
+Train No: 2304
+Parow 10:52
+Maitland 11:20
+Train No: 2506
+Parow 11:42
+Maitland 12:10
+Train No: 2306
+Parow 12:52
+Maitland 13:20
+
+Train No: 2500
+Parow 05:57
+Mutual 06:22
+Train No: 2300
+Parow 06:54
+Mutual 07:19
+Train No: 2502
+Parow 07:42
+Mutual 08:07
+Train No: 2302
+Parow 08:54
+Mutual 09:19
+Train No: 2504
+Parow 09:42
+Mutual 10:07
+Train No: 2304
+Parow 10:52
+Mutual 11:17
+Train No: 2506
+Parow 11:42
+Mutual 12:07
+Train No: 2306
+Parow 12:52
+Mutual 13:17
+
+Train No: 2500
+Parow 05:57
+Thornton 06:15
+Train No: 2300
+Parow 06:54
+Thornton 07:12
+Train No: 2502
+Parow 07:42
+Thornton 08:00
+Train No: 2302
+Parow 08:54
+Thornton 09:12
+Train No: 2504
+Parow 09:42
+Thornton 10:00
+Train No: 2304
+Parow 10:52
+Thornton 11:10
+Train No: 2506
+Parow 11:42
+Thornton 12:00
+Train No: 2306
+Parow 12:52
+Thornton 13:10
+
+Train No: 2500
+Parow 05:57
+Goodwood 06:09
+Train No: 2300
+Parow 06:54
+Goodwood 07:06
+Train No: 2502
+Parow 07:42
+Goodwood 07:54
+Train No: 2302
+Parow 08:54
+Goodwood 09:06
+Train No: 2504
+Parow 09:42
+Goodwood 09:54
+Train No: 2304
+Parow 10:52
+Goodwood 11:04
+Train No: 2506
+Parow 11:42
+Goodwood 11:54
+Train No: 2306
+Parow 12:52
+Goodwood 13:04
+
+Train No: 2500
+Parow 05:57
+Vasco 06:07
+Train No: 2300
+Parow 06:54
+Vasco 07:04
+Train No: 2502
+Parow 07:42
+Vasco 07:52
+Train No: 2302
+Parow 08:54
+Vasco 09:04
+Train No: 2504
+Parow 09:42
+Vasco 09:52
+Train No: 2304
+Parow 10:52
+Vasco 11:02
+Train No: 2506
+Parow 11:42
+Vasco 11:52
+Train No: 2306
+Parow 12:52
+Vasco 13:02
+
+Train No: 2500
+Parow 05:57
+Elsies River 06:03
+Train No: 2300
+Parow 06:54
+Elsies River 07:00
+Train No: 2502
+Parow 07:42
+Elsies River 07:48
+Train No: 2302
+Parow 08:54
+Elsies River 09:00
+Train No: 2504
+Parow 09:42
+Elsies River 09:48
+Train No: 2304
+Parow 10:52
+Elsies River 10:58
+Train No: 2506
+Parow 11:42
+Elsies River 11:48
+Train No: 2306
+Parow 12:52
+Elsies River 12:58
+
+Train No: 2501
+Parow 05:50
+Tygerberg 05:55
+Train No: 2301
+Parow 06:45
+Tygerberg 06:50
+Train No: 2503
+Parow 07:40
+Tygerberg 07:45
+Train No: 2303
+Parow 08:50
+Tygerberg 08:55
+Train No: 2505
+Parow 09:40
+Tygerberg 09:45
+Train No: 2305
+Parow 11:00
+Tygerberg 11:05
+Train No: 2507
+Parow 11:45
+Tygerberg 11:50
+Train No: 2307
+Parow 12:50
+Tygerberg 12:55
+
+Train No: 2501
+Parow 05:50
+Bellville 06:01
+Train No: 2301
+Parow 06:45
+Bellville 06:56
+Train No: 2503
+Parow 07:40
+Bellville 07:51
+Train No: 2303
+Parow 08:50
+Bellville 09:01
+Train No: 2505
+Parow 09:40
+Bellville 09:51
+Train No: 2305
+Parow 11:00
+Bellville 11:11
+Train No: 2507
+Parow 11:45
+Bellville 11:56
+Train No: 2307
+Parow 12:50
+Bellville 13:01
+
+Train No: 2301
+Parow 06:45
+Kuils River 07:07
+Train No: 2303
+Parow 08:50
+Kuils River 09:12
+Train No: 2305
+Parow 11:00
+Kuils River 11:22
+Train No: 2307
+Parow 12:50
+Kuils River 13:12
+
+Train No: 2301
+Parow 06:45
+Blackheath 07:17
+Train No: 2303
+Parow 08:50
+Blackheath 09:22
+Train No: 2305
+Parow 11:00
+Blackheath 11:32
+Train No: 2307
+Parow 12:50
+Blackheath 13:22
+
+Train No: 2301
+Parow 06:45
+Meltonrose 07:23
+Train No: 2303
+Parow 08:50
+Meltonrose 09:28
+Train No: 2305
+Parow 11:00
+Meltonrose 11:38
+Train No: 2307
+Parow 12:50
+Meltonrose 13:28
+
+Train No: 2301
+Parow 06:45
+Eerste River 07:31
+Train No: 2303
+Parow 08:50
+Eerste River 09:36
+Train No: 2305
+Parow 11:00
+Eerste River 11:46
+Train No: 2307
+Parow 12:50
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Parow 05:50
+Stikland 06:10
+Train No: 2503
+Parow 07:40
+Stikland 08:00
+Train No: 2505
+Parow 09:40
+Stikland 10:00
+Train No: 2507
+Parow 11:45
+Stikland 12:05
+
+Train No: 2501
+Parow 05:50
+Brackenfell 06:18
+Train No: 2503
+Parow 07:40
+Brackenfell 08:08
+Train No: 2505
+Parow 09:40
+Brackenfell 10:08
+Train No: 2507
+Parow 11:45
+Brackenfell 12:13
+
+Train No: 2501
+Parow 05:50
+Eikenfontein 06:23
+Train No: 2503
+Parow 07:40
+Eikenfontein 08:13
+Train No: 2505
+Parow 09:40
+Eikenfontein 10:13
+Train No: 2507
+Parow 11:45
+Eikenfontein 12:18
+
+Train No: 2501
+Parow 05:50
+Kraaifontein 06:26
+Train No: 2503
+Parow 07:40
+Kraaifontein 08:16
+Train No: 2505
+Parow 09:40
+Kraaifontein 10:16
+Train No: 2507
+Parow 11:45
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Tygerberg 05:56
+Cape Town 06:40
+Train No: 2300
+Tygerberg 06:53
+Cape Town 07:37
+Train No: 2502
+Tygerberg 07:41
+Cape Town 08:25
+Train No: 2302
+Tygerberg 08:53
+Cape Town 09:37
+Train No: 2504
+Tygerberg 09:41
+Cape Town 10:25
+Train No: 2304
+Tygerberg 10:51
+Cape Town 11:35
+Train No: 2506
+Tygerberg 11:41
+Cape Town 12:25
+Train No: 2306
+Tygerberg 12:51
+Cape Town 13:35
+
+Train No: 2500
+Tygerberg 05:56
+Woodstock 06:35
+Train No: 2300
+Tygerberg 06:53
+Woodstock 07:32
+Train No: 2502
+Tygerberg 07:41
+Woodstock 08:20
+Train No: 2302
+Tygerberg 08:53
+Woodstock 09:32
+Train No: 2504
+Tygerberg 09:41
+Woodstock 10:20
+Train No: 2304
+Tygerberg 10:51
+Woodstock 11:30
+Train No: 2506
+Tygerberg 11:41
+Woodstock 12:20
+Train No: 2306
+Tygerberg 12:51
+Woodstock 13:30
+
+Train No: 2500
+Tygerberg 05:56
+Salt River 06:31
+Train No: 2300
+Tygerberg 06:53
+Salt River 07:28
+Train No: 2502
+Tygerberg 07:41
+Salt River 08:16
+Train No: 2302
+Tygerberg 08:53
+Salt River 09:28
+Train No: 2504
+Tygerberg 09:41
+Salt River 10:16
+Train No: 2304
+Tygerberg 10:51
+Salt River 11:26
+Train No: 2506
+Tygerberg 11:41
+Salt River 12:16
+Train No: 2306
+Tygerberg 12:51
+Salt River 13:26
+
+Train No: 2500
+Tygerberg 05:56
+Koeberg Road 06:28
+Train No: 2300
+Tygerberg 06:53
+Koeberg Road 07:25
+Train No: 2502
+Tygerberg 07:41
+Koeberg Road 08:13
+Train No: 2302
+Tygerberg 08:53
+Koeberg Road 09:25
+Train No: 2504
+Tygerberg 09:41
+Koeberg Road 10:13
+Train No: 2304
+Tygerberg 10:51
+Koeberg Road 11:23
+Train No: 2506
+Tygerberg 11:41
+Koeberg Road 12:13
+Train No: 2306
+Tygerberg 12:51
+Koeberg Road 13:23
+
+Train No: 2500
+Tygerberg 05:56
+Maitland 06:25
+Train No: 2300
+Tygerberg 06:53
+Maitland 07:22
+Train No: 2502
+Tygerberg 07:41
+Maitland 08:10
+Train No: 2302
+Tygerberg 08:53
+Maitland 09:22
+Train No: 2504
+Tygerberg 09:41
+Maitland 10:10
+Train No: 2304
+Tygerberg 10:51
+Maitland 11:20
+Train No: 2506
+Tygerberg 11:41
+Maitland 12:10
+Train No: 2306
+Tygerberg 12:51
+Maitland 13:20
+
+Train No: 2500
+Tygerberg 05:56
+Mutual 06:22
+Train No: 2300
+Tygerberg 06:53
+Mutual 07:19
+Train No: 2502
+Tygerberg 07:41
+Mutual 08:07
+Train No: 2302
+Tygerberg 08:53
+Mutual 09:19
+Train No: 2504
+Tygerberg 09:41
+Mutual 10:07
+Train No: 2304
+Tygerberg 10:51
+Mutual 11:17
+Train No: 2506
+Tygerberg 11:41
+Mutual 12:07
+Train No: 2306
+Tygerberg 12:51
+Mutual 13:17
+
+Train No: 2500
+Tygerberg 05:56
+Thornton 06:15
+Train No: 2300
+Tygerberg 06:53
+Thornton 07:12
+Train No: 2502
+Tygerberg 07:41
+Thornton 08:00
+Train No: 2302
+Tygerberg 08:53
+Thornton 09:12
+Train No: 2504
+Tygerberg 09:41
+Thornton 10:00
+Train No: 2304
+Tygerberg 10:51
+Thornton 11:10
+Train No: 2506
+Tygerberg 11:41
+Thornton 12:00
+Train No: 2306
+Tygerberg 12:51
+Thornton 13:10
+
+Train No: 2500
+Tygerberg 05:56
+Goodwood 06:09
+Train No: 2300
+Tygerberg 06:53
+Goodwood 07:06
+Train No: 2502
+Tygerberg 07:41
+Goodwood 07:54
+Train No: 2302
+Tygerberg 08:53
+Goodwood 09:06
+Train No: 2504
+Tygerberg 09:41
+Goodwood 09:54
+Train No: 2304
+Tygerberg 10:51
+Goodwood 11:04
+Train No: 2506
+Tygerberg 11:41
+Goodwood 11:54
+Train No: 2306
+Tygerberg 12:51
+Goodwood 13:04
+
+Train No: 2500
+Tygerberg 05:56
+Vasco 06:07
+Train No: 2300
+Tygerberg 06:53
+Vasco 07:04
+Train No: 2502
+Tygerberg 07:41
+Vasco 07:52
+Train No: 2302
+Tygerberg 08:53
+Vasco 09:04
+Train No: 2504
+Tygerberg 09:41
+Vasco 09:52
+Train No: 2304
+Tygerberg 10:51
+Vasco 11:02
+Train No: 2506
+Tygerberg 11:41
+Vasco 11:52
+Train No: 2306
+Tygerberg 12:51
+Vasco 13:02
+
+Train No: 2500
+Tygerberg 05:56
+Elsies River 06:03
+Train No: 2300
+Tygerberg 06:53
+Elsies River 07:00
+Train No: 2502
+Tygerberg 07:41
+Elsies River 07:48
+Train No: 2302
+Tygerberg 08:53
+Elsies River 09:00
+Train No: 2504
+Tygerberg 09:41
+Elsies River 09:48
+Train No: 2304
+Tygerberg 10:51
+Elsies River 10:58
+Train No: 2506
+Tygerberg 11:41
+Elsies River 11:48
+Train No: 2306
+Tygerberg 12:51
+Elsies River 12:58
+
+Train No: 2500
+Tygerberg 05:56
+Parow 05:57
+Train No: 2300
+Tygerberg 06:53
+Parow 06:54
+Train No: 2502
+Tygerberg 07:41
+Parow 07:42
+Train No: 2302
+Tygerberg 08:53
+Parow 08:54
+Train No: 2504
+Tygerberg 09:41
+Parow 09:42
+Train No: 2304
+Tygerberg 10:51
+Parow 10:52
+Train No: 2506
+Tygerberg 11:41
+Parow 11:42
+Train No: 2306
+Tygerberg 12:51
+Parow 12:52
+
+Train No: 2501
+Tygerberg 05:55
+Bellville 06:01
+Train No: 2301
+Tygerberg 06:50
+Bellville 06:56
+Train No: 2503
+Tygerberg 07:45
+Bellville 07:51
+Train No: 2303
+Tygerberg 08:55
+Bellville 09:01
+Train No: 2505
+Tygerberg 09:45
+Bellville 09:51
+Train No: 2305
+Tygerberg 11:05
+Bellville 11:11
+Train No: 2507
+Tygerberg 11:50
+Bellville 11:56
+Train No: 2307
+Tygerberg 12:55
+Bellville 13:01
+
+Train No: 2301
+Tygerberg 06:50
+Kuils River 07:07
+Train No: 2303
+Tygerberg 08:55
+Kuils River 09:12
+Train No: 2305
+Tygerberg 11:05
+Kuils River 11:22
+Train No: 2307
+Tygerberg 12:55
+Kuils River 13:12
+
+Train No: 2301
+Tygerberg 06:50
+Blackheath 07:17
+Train No: 2303
+Tygerberg 08:55
+Blackheath 09:22
+Train No: 2305
+Tygerberg 11:05
+Blackheath 11:32
+Train No: 2307
+Tygerberg 12:55
+Blackheath 13:22
+
+Train No: 2301
+Tygerberg 06:50
+Meltonrose 07:23
+Train No: 2303
+Tygerberg 08:55
+Meltonrose 09:28
+Train No: 2305
+Tygerberg 11:05
+Meltonrose 11:38
+Train No: 2307
+Tygerberg 12:55
+Meltonrose 13:28
+
+Train No: 2301
+Tygerberg 06:50
+Eerste River 07:31
+Train No: 2303
+Tygerberg 08:55
+Eerste River 09:36
+Train No: 2305
+Tygerberg 11:05
+Eerste River 11:46
+Train No: 2307
+Tygerberg 12:55
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 2501
+Tygerberg 05:55
+Stikland 06:10
+Train No: 2503
+Tygerberg 07:45
+Stikland 08:00
+Train No: 2505
+Tygerberg 09:45
+Stikland 10:00
+Train No: 2507
+Tygerberg 11:50
+Stikland 12:05
+
+Train No: 2501
+Tygerberg 05:55
+Brackenfell 06:18
+Train No: 2503
+Tygerberg 07:45
+Brackenfell 08:08
+Train No: 2505
+Tygerberg 09:45
+Brackenfell 10:08
+Train No: 2507
+Tygerberg 11:50
+Brackenfell 12:13
+
+Train No: 2501
+Tygerberg 05:55
+Eikenfontein 06:23
+Train No: 2503
+Tygerberg 07:45
+Eikenfontein 08:13
+Train No: 2505
+Tygerberg 09:45
+Eikenfontein 10:13
+Train No: 2507
+Tygerberg 11:50
+Eikenfontein 12:18
+
+Train No: 2501
+Tygerberg 05:55
+Kraaifontein 06:26
+Train No: 2503
+Tygerberg 07:45
+Kraaifontein 08:16
+Train No: 2505
+Tygerberg 09:45
+Kraaifontein 10:16
+Train No: 2507
+Tygerberg 11:50
+Kraaifontein 12:21
+
+
+
+
+
+
+
+
+Train No: 2500
+Bellville 05:51
+Cape Town 06:40
+Train No: 2300
+Bellville 06:48
+Cape Town 07:37
+Train No: 2632
+Bellville 07:03
+Cape Town 07:50
+Train No: 2800
+Bellville 07:30
+Cape Town 08:14
+Train No: 2502
+Bellville 07:36
+Cape Town 08:25
+Train No: 2302
+Bellville 08:48
+Cape Town 09:37
+Train No: 2802
+Bellville 09:20
+Cape Town 10:04
+Train No: 2504
+Bellville 09:36
+Cape Town 10:25
+Train No: 2304
+Bellville 10:46
+Cape Town 11:35
+Train No: 2804
+Bellville 11:10
+Cape Town 11:54
+Train No: 2506
+Bellville 11:36
+Cape Town 12:25
+Train No: 2306
+Bellville 12:46
+Cape Town 13:35
+Train No: 2806
+Bellville 13:12
+Cape Town 13:56
+
+Train No: 2500
+Bellville 05:51
+Woodstock 06:35
+Train No: 2300
+Bellville 06:48
+Woodstock 07:32
+Train No: 2502
+Bellville 07:36
+Woodstock 08:20
+Train No: 2302
+Bellville 08:48
+Woodstock 09:32
+Train No: 2504
+Bellville 09:36
+Woodstock 10:20
+Train No: 2304
+Bellville 10:46
+Woodstock 11:30
+Train No: 2506
+Bellville 11:36
+Woodstock 12:20
+Train No: 2306
+Bellville 12:46
+Woodstock 13:30
+
+Train No: 2500
+Bellville 05:51
+Salt River 06:31
+Train No: 2300
+Bellville 06:48
+Salt River 07:28
+Train No: 2502
+Bellville 07:36
+Salt River 08:16
+Train No: 2302
+Bellville 08:48
+Salt River 09:28
+Train No: 2504
+Bellville 09:36
+Salt River 10:16
+Train No: 2304
+Bellville 10:46
+Salt River 11:26
+Train No: 2506
+Bellville 11:36
+Salt River 12:16
+Train No: 2306
+Bellville 12:46
+Salt River 13:26
+
+Train No: 2500
+Bellville 05:51
+Koeberg Road 06:28
+Train No: 2300
+Bellville 06:48
+Koeberg Road 07:25
+Train No: 2502
+Bellville 07:36
+Koeberg Road 08:13
+Train No: 2302
+Bellville 08:48
+Koeberg Road 09:25
+Train No: 2504
+Bellville 09:36
+Koeberg Road 10:13
+Train No: 2304
+Bellville 10:46
+Koeberg Road 11:23
+Train No: 2506
+Bellville 11:36
+Koeberg Road 12:13
+Train No: 2306
+Bellville 12:46
+Koeberg Road 13:23
+
+Train No: 2500
+Bellville 05:51
+Maitland 06:25
+Train No: 2300
+Bellville 06:48
+Maitland 07:22
+Train No: 2502
+Bellville 07:36
+Maitland 08:10
+Train No: 2302
+Bellville 08:48
+Maitland 09:22
+Train No: 2504
+Bellville 09:36
+Maitland 10:10
+Train No: 2304
+Bellville 10:46
+Maitland 11:20
+Train No: 2506
+Bellville 11:36
+Maitland 12:10
+Train No: 2306
+Bellville 12:46
+Maitland 13:20
+
+Train No: 2500
+Bellville 05:51
+Mutual 06:22
+Train No: 2300
+Bellville 06:48
+Mutual 07:19
+Train No: 2502
+Bellville 07:36
+Mutual 08:07
+Train No: 2302
+Bellville 08:48
+Mutual 09:19
+Train No: 2504
+Bellville 09:36
+Mutual 10:07
+Train No: 2304
+Bellville 10:46
+Mutual 11:17
+Train No: 2506
+Bellville 11:36
+Mutual 12:07
+Train No: 2306
+Bellville 12:46
+Mutual 13:17
+
+Train No: 2500
+Bellville 05:51
+Thornton 06:15
+Train No: 2300
+Bellville 06:48
+Thornton 07:12
+Train No: 2502
+Bellville 07:36
+Thornton 08:00
+Train No: 2302
+Bellville 08:48
+Thornton 09:12
+Train No: 2504
+Bellville 09:36
+Thornton 10:00
+Train No: 2304
+Bellville 10:46
+Thornton 11:10
+Train No: 2506
+Bellville 11:36
+Thornton 12:00
+Train No: 2306
+Bellville 12:46
+Thornton 13:10
+
+Train No: 2500
+Bellville 05:51
+Goodwood 06:09
+Train No: 2300
+Bellville 06:48
+Goodwood 07:06
+Train No: 2502
+Bellville 07:36
+Goodwood 07:54
+Train No: 2302
+Bellville 08:48
+Goodwood 09:06
+Train No: 2504
+Bellville 09:36
+Goodwood 09:54
+Train No: 2304
+Bellville 10:46
+Goodwood 11:04
+Train No: 2506
+Bellville 11:36
+Goodwood 11:54
+Train No: 2306
+Bellville 12:46
+Goodwood 13:04
+
+Train No: 2500
+Bellville 05:51
+Vasco 06:07
+Train No: 2300
+Bellville 06:48
+Vasco 07:04
+Train No: 2502
+Bellville 07:36
+Vasco 07:52
+Train No: 2302
+Bellville 08:48
+Vasco 09:04
+Train No: 2504
+Bellville 09:36
+Vasco 09:52
+Train No: 2304
+Bellville 10:46
+Vasco 11:02
+Train No: 2506
+Bellville 11:36
+Vasco 11:52
+Train No: 2306
+Bellville 12:46
+Vasco 13:02
+
+Train No: 2500
+Bellville 05:51
+Elsies River 06:03
+Train No: 2300
+Bellville 06:48
+Elsies River 07:00
+Train No: 2502
+Bellville 07:36
+Elsies River 07:48
+Train No: 2302
+Bellville 08:48
+Elsies River 09:00
+Train No: 2504
+Bellville 09:36
+Elsies River 09:48
+Train No: 2304
+Bellville 10:46
+Elsies River 10:58
+Train No: 2506
+Bellville 11:36
+Elsies River 11:48
+Train No: 2306
+Bellville 12:46
+Elsies River 12:58
+
+Train No: 2500
+Bellville 05:51
+Parow 05:57
+Train No: 2300
+Bellville 06:48
+Parow 06:54
+Train No: 2502
+Bellville 07:36
+Parow 07:42
+Train No: 2302
+Bellville 08:48
+Parow 08:54
+Train No: 2504
+Bellville 09:36
+Parow 09:42
+Train No: 2304
+Bellville 10:46
+Parow 10:52
+Train No: 2506
+Bellville 11:36
+Parow 11:42
+Train No: 2306
+Bellville 12:46
+Parow 12:52
+
+Train No: 2500
+Bellville 05:51
+Tygerberg 05:56
+Train No: 2300
+Bellville 06:48
+Tygerberg 06:53
+Train No: 2502
+Bellville 07:36
+Tygerberg 07:41
+Train No: 2302
+Bellville 08:48
+Tygerberg 08:53
+Train No: 2504
+Bellville 09:36
+Tygerberg 09:41
+Train No: 2304
+Bellville 10:46
+Tygerberg 10:51
+Train No: 2506
+Bellville 11:36
+Tygerberg 11:41
+Train No: 2306
+Bellville 12:46
+Tygerberg 12:51
+
+Train No: 2301
+Bellville 06:56
+Kuils River 07:07
+Train No: 2303
+Bellville 09:01
+Kuils River 09:12
+Train No: 2305
+Bellville 11:11
+Kuils River 11:22
+Train No: 2307
+Bellville 13:01
+Kuils River 13:12
+
+Train No: 2301
+Bellville 06:56
+Blackheath 07:17
+Train No: 2303
+Bellville 09:01
+Blackheath 09:22
+Train No: 2305
+Bellville 11:11
+Blackheath 11:32
+Train No: 2307
+Bellville 13:01
+Blackheath 13:22
+
+Train No: 2301
+Bellville 06:56
+Meltonrose 07:23
+Train No: 2303
+Bellville 09:01
+Meltonrose 09:28
+Train No: 2305
+Bellville 11:11
+Meltonrose 11:38
+Train No: 2307
+Bellville 13:01
+Meltonrose 13:28
+
+Train No: 2301
+Bellville 06:56
+Eerste River 07:31
+Train No: 2303
+Bellville 09:01
+Eerste River 09:36
+Train No: 2305
+Bellville 11:11
+Eerste River 11:46
+Train No: 2307
+Bellville 13:01
+Eerste River 13:36
+
+
+
+
+
+
+
+Train No: 3501
+Bellville 04:50
+Stikland 04:59
+Train No: 2501
+Bellville 06:01
+Stikland 06:10
+Train No: 3503
+Bellville 07:05
+Stikland 07:14
+Train No: 2503
+Bellville 07:51
+Stikland 08:00
+Train No: 3505
+Bellville 09:20
+Stikland 09:29
+Train No: 2505
+Bellville 09:51
+Stikland 10:00
+Train No: 3507
+Bellville 11:20
+Stikland 11:29
+Train No: 2507
+Bellville 11:56
+Stikland 12:05
+Train No: 3509
+Bellville 13:12
+Stikland 13:21
+Train No: 2661
+Bellville 14:31
+Stikland 14:40
+
+Train No: 3501
+Bellville 04:50
+Brackenfell 05:07
+Train No: 2501
+Bellville 06:01
+Brackenfell 06:18
+Train No: 3503
+Bellville 07:05
+Brackenfell 07:22
+Train No: 2503
+Bellville 07:51
+Brackenfell 08:08
+Train No: 3505
+Bellville 09:20
+Brackenfell 09:37
+Train No: 2505
+Bellville 09:51
+Brackenfell 10:08
+Train No: 3507
+Bellville 11:20
+Brackenfell 11:37
+Train No: 2507
+Bellville 11:56
+Brackenfell 12:13
+Train No: 3509
+Bellville 13:12
+Brackenfell 13:29
+Train No: 2661
+Bellville 14:31
+Brackenfell 14:48
+
+Train No: 3501
+Bellville 04:50
+Eikenfontein 05:12
+Train No: 2501
+Bellville 06:01
+Eikenfontein 06:23
+Train No: 3503
+Bellville 07:05
+Eikenfontein 07:27
+Train No: 2503
+Bellville 07:51
+Eikenfontein 08:13
+Train No: 3505
+Bellville 09:20
+Eikenfontein 09:42
+Train No: 2505
+Bellville 09:51
+Eikenfontein 10:13
+Train No: 3507
+Bellville 11:20
+Eikenfontein 11:42
+Train No: 2507
+Bellville 11:56
+Eikenfontein 12:18
+Train No: 3509
+Bellville 13:12
+Eikenfontein 13:34
+Train No: 2661
+Bellville 14:31
+Eikenfontein 14:53
+
+Train No: 3501
+Bellville 04:50
+Kraaifontein 05:15
+Train No: 2501
+Bellville 06:01
+Kraaifontein 06:26
+Train No: 3503
+Bellville 07:05
+Kraaifontein 07:30
+Train No: 2503
+Bellville 07:51
+Kraaifontein 08:16
+Train No: 3505
+Bellville 09:20
+Kraaifontein 09:45
+Train No: 2505
+Bellville 09:51
+Kraaifontein 10:16
+Train No: 3507
+Bellville 11:20
+Kraaifontein 11:45
+Train No: 2507
+Bellville 11:56
+Kraaifontein 12:21
+Train No: 3509
+Bellville 13:12
+Kraaifontein 13:37
+Train No: 2661
+Bellville 14:31
+Kraaifontein 14:56
+
+Train No: 3501
+Bellville 04:50
+Muldersvlei 05:27
+Train No: 3503
+Bellville 07:05
+Muldersvlei 07:42
+Train No: 3505
+Bellville 09:20
+Muldersvlei 09:57
+Train No: 3507
+Bellville 11:20
+Muldersvlei 11:57
+Train No: 3509
+Bellville 13:12
+Muldersvlei 13:49
+
+Train No: 3501
+Bellville 04:50
+Klapmuts 05:42
+Train No: 3503
+Bellville 07:05
+Klapmuts 07:57
+Train No: 3505
+Bellville 09:20
+Klapmuts 10:12
+Train No: 3507
+Bellville 11:20
+Klapmuts 12:12
+Train No: 3509
+Bellville 13:12
+Klapmuts 14:04
+
+Train No: 3501
+Bellville 04:50
+Paarl 05:56
+Train No: 3503
+Bellville 07:05
+Paarl 08:11
+Train No: 3505
+Bellville 09:20
+Paarl 10:26
+Train No: 3507
+Bellville 11:20
+Paarl 12:26
+Train No: 3509
+Bellville 13:12
+Paarl 14:18
+
+Train No: 3501
+Bellville 04:50
+Huguenot 06:05
+Train No: 3503
+Bellville 07:05
+Huguenot 08:20
+Train No: 3505
+Bellville 09:20
+Huguenot 10:35
+Train No: 3507
+Bellville 11:20
+Huguenot 12:35
+Train No: 3509
+Bellville 13:12
+Huguenot 14:27
+
+Train No: 3501
+Bellville 04:50
+Dal Josafat 06:13
+Train No: 3503
+Bellville 07:05
+Dal Josafat 08:28
+Train No: 3505
+Bellville 09:20
+Dal Josafat 10:43
+Train No: 3507
+Bellville 11:20
+Dal Josafat 12:43
+Train No: 3509
+Bellville 13:12
+Dal Josafat 14:35
+
+Train No: 3501
+Bellville 04:50
+Mbekweni 06:22
+Train No: 3503
+Bellville 07:05
+Mbekweni 08:37
+Train No: 3505
+Bellville 09:20
+Mbekweni 10:52
+Train No: 3507
+Bellville 11:20
+Mbekweni 12:52
+Train No: 3509
+Bellville 13:12
+Mbekweni 14:44
+
+Train No: 3501
+Bellville 04:50
+Wellington 06:36
+Train No: 3503
+Bellville 07:05
+Wellington 08:51
+Train No: 3505
+Bellville 09:20
+Wellington 11:06
+Train No: 3507
+Bellville 11:20
+Wellington 13:06
+Train No: 3509
+Bellville 13:12
+Wellington 14:58
+
+Train No: 2300
+Kuils River 06:34
+Cape Town 07:37
+Train No: 2302
+Kuils River 08:34
+Cape Town 09:37
+Train No: 2304
+Kuils River 10:32
+Cape Town 11:35
+Train No: 2306
+Kuils River 12:32
+Cape Town 13:35
+
+Train No: 2300
+Kuils River 06:34
+Woodstock 07:32
+Train No: 2302
+Kuils River 08:34
+Woodstock 09:32
+Train No: 2304
+Kuils River 10:32
+Woodstock 11:30
+Train No: 2306
+Kuils River 12:32
+Woodstock 13:30
+
+Train No: 2300
+Kuils River 06:34
+Salt River 07:28
+Train No: 2302
+Kuils River 08:34
+Salt River 09:28
+Train No: 2304
+Kuils River 10:32
+Salt River 11:26
+Train No: 2306
+Kuils River 12:32
+Salt River 13:26
+
+Train No: 2300
+Kuils River 06:34
+Koeberg Road 07:25
+Train No: 2302
+Kuils River 08:34
+Koeberg Road 09:25
+Train No: 2304
+Kuils River 10:32
+Koeberg Road 11:23
+Train No: 2306
+Kuils River 12:32
+Koeberg Road 13:23
+
+Train No: 2300
+Kuils River 06:34
+Maitland 07:22
+Train No: 2302
+Kuils River 08:34
+Maitland 09:22
+Train No: 2304
+Kuils River 10:32
+Maitland 11:20
+Train No: 2306
+Kuils River 12:32
+Maitland 13:20
+
+Train No: 2300
+Kuils River 06:34
+Mutual 07:19
+Train No: 2302
+Kuils River 08:34
+Mutual 09:19
+Train No: 2304
+Kuils River 10:32
+Mutual 11:17
+Train No: 2306
+Kuils River 12:32
+Mutual 13:17
+
+Train No: 2300
+Kuils River 06:34
+Thornton 07:12
+Train No: 2302
+Kuils River 08:34
+Thornton 09:12
+Train No: 2304
+Kuils River 10:32
+Thornton 11:10
+Train No: 2306
+Kuils River 12:32
+Thornton 13:10
+
+Train No: 2300
+Kuils River 06:34
+Goodwood 07:06
+Train No: 2302
+Kuils River 08:34
+Goodwood 09:06
+Train No: 2304
+Kuils River 10:32
+Goodwood 11:04
+Train No: 2306
+Kuils River 12:32
+Goodwood 13:04
+
+Train No: 2300
+Kuils River 06:34
+Vasco 07:04
+Train No: 2302
+Kuils River 08:34
+Vasco 09:04
+Train No: 2304
+Kuils River 10:32
+Vasco 11:02
+Train No: 2306
+Kuils River 12:32
+Vasco 13:02
+
+Train No: 2300
+Kuils River 06:34
+Elsies River 07:00
+Train No: 2302
+Kuils River 08:34
+Elsies River 09:00
+Train No: 2304
+Kuils River 10:32
+Elsies River 10:58
+Train No: 2306
+Kuils River 12:32
+Elsies River 12:58
+
+Train No: 2300
+Kuils River 06:34
+Parow 06:54
+Train No: 2302
+Kuils River 08:34
+Parow 08:54
+Train No: 2304
+Kuils River 10:32
+Parow 10:52
+Train No: 2306
+Kuils River 12:32
+Parow 12:52
+
+Train No: 2300
+Kuils River 06:34
+Tygerberg 06:53
+Train No: 2302
+Kuils River 08:34
+Tygerberg 08:53
+Train No: 2304
+Kuils River 10:32
+Tygerberg 10:51
+Train No: 2306
+Kuils River 12:32
+Tygerberg 12:51
+
+Train No: 2300
+Kuils River 06:34
+Bellville 06:48
+Train No: 2302
+Kuils River 08:34
+Bellville 08:48
+Train No: 2304
+Kuils River 10:32
+Bellville 10:46
+Train No: 2306
+Kuils River 12:32
+Bellville 12:46
+
+Train No: 2301
+Kuils River 07:07
+Blackheath 07:17
+Train No: 2303
+Kuils River 09:12
+Blackheath 09:22
+Train No: 2305
+Kuils River 11:22
+Blackheath 11:32
+Train No: 2307
+Kuils River 13:12
+Blackheath 13:22
+
+Train No: 2301
+Kuils River 07:07
+Meltonrose 07:23
+Train No: 2303
+Kuils River 09:12
+Meltonrose 09:28
+Train No: 2305
+Kuils River 11:22
+Meltonrose 11:38
+Train No: 2307
+Kuils River 13:12
+Meltonrose 13:28
+
+Train No: 2301
+Kuils River 07:07
+Eerste River 07:31
+Train No: 2303
+Kuils River 09:12
+Eerste River 09:36
+Train No: 2305
+Kuils River 11:22
+Eerste River 11:46
+Train No: 2307
+Kuils River 13:12
+Eerste River 13:36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2300
+Blackheath 06:24
+Cape Town 07:37
+Train No: 2302
+Blackheath 08:24
+Cape Town 09:37
+Train No: 2304
+Blackheath 10:22
+Cape Town 11:35
+Train No: 2306
+Blackheath 12:22
+Cape Town 13:35
+
+Train No: 2300
+Blackheath 06:24
+Woodstock 07:32
+Train No: 2302
+Blackheath 08:24
+Woodstock 09:32
+Train No: 2304
+Blackheath 10:22
+Woodstock 11:30
+Train No: 2306
+Blackheath 12:22
+Woodstock 13:30
+
+Train No: 2300
+Blackheath 06:24
+Salt River 07:28
+Train No: 2302
+Blackheath 08:24
+Salt River 09:28
+Train No: 2304
+Blackheath 10:22
+Salt River 11:26
+Train No: 2306
+Blackheath 12:22
+Salt River 13:26
+
+Train No: 2300
+Blackheath 06:24
+Koeberg Road 07:25
+Train No: 2302
+Blackheath 08:24
+Koeberg Road 09:25
+Train No: 2304
+Blackheath 10:22
+Koeberg Road 11:23
+Train No: 2306
+Blackheath 12:22
+Koeberg Road 13:23
+
+Train No: 2300
+Blackheath 06:24
+Maitland 07:22
+Train No: 2302
+Blackheath 08:24
+Maitland 09:22
+Train No: 2304
+Blackheath 10:22
+Maitland 11:20
+Train No: 2306
+Blackheath 12:22
+Maitland 13:20
+
+Train No: 2300
+Blackheath 06:24
+Mutual 07:19
+Train No: 2302
+Blackheath 08:24
+Mutual 09:19
+Train No: 2304
+Blackheath 10:22
+Mutual 11:17
+Train No: 2306
+Blackheath 12:22
+Mutual 13:17
+
+Train No: 2300
+Blackheath 06:24
+Thornton 07:12
+Train No: 2302
+Blackheath 08:24
+Thornton 09:12
+Train No: 2304
+Blackheath 10:22
+Thornton 11:10
+Train No: 2306
+Blackheath 12:22
+Thornton 13:10
+
+Train No: 2300
+Blackheath 06:24
+Goodwood 07:06
+Train No: 2302
+Blackheath 08:24
+Goodwood 09:06
+Train No: 2304
+Blackheath 10:22
+Goodwood 11:04
+Train No: 2306
+Blackheath 12:22
+Goodwood 13:04
+
+Train No: 2300
+Blackheath 06:24
+Vasco 07:04
+Train No: 2302
+Blackheath 08:24
+Vasco 09:04
+Train No: 2304
+Blackheath 10:22
+Vasco 11:02
+Train No: 2306
+Blackheath 12:22
+Vasco 13:02
+
+Train No: 2300
+Blackheath 06:24
+Elsies River 07:00
+Train No: 2302
+Blackheath 08:24
+Elsies River 09:00
+Train No: 2304
+Blackheath 10:22
+Elsies River 10:58
+Train No: 2306
+Blackheath 12:22
+Elsies River 12:58
+
+Train No: 2300
+Blackheath 06:24
+Parow 06:54
+Train No: 2302
+Blackheath 08:24
+Parow 08:54
+Train No: 2304
+Blackheath 10:22
+Parow 10:52
+Train No: 2306
+Blackheath 12:22
+Parow 12:52
+
+Train No: 2300
+Blackheath 06:24
+Tygerberg 06:53
+Train No: 2302
+Blackheath 08:24
+Tygerberg 08:53
+Train No: 2304
+Blackheath 10:22
+Tygerberg 10:51
+Train No: 2306
+Blackheath 12:22
+Tygerberg 12:51
+
+Train No: 2300
+Blackheath 06:24
+Bellville 06:48
+Train No: 2302
+Blackheath 08:24
+Bellville 08:48
+Train No: 2304
+Blackheath 10:22
+Bellville 10:46
+Train No: 2306
+Blackheath 12:22
+Bellville 12:46
+
+Train No: 2300
+Blackheath 06:24
+Kuils River 06:34
+Train No: 2302
+Blackheath 08:24
+Kuils River 08:34
+Train No: 2304
+Blackheath 10:22
+Kuils River 10:32
+Train No: 2306
+Blackheath 12:22
+Kuils River 12:32
+
+Train No: 2301
+Blackheath 07:17
+Meltonrose 07:23
+Train No: 2303
+Blackheath 09:22
+Meltonrose 09:28
+Train No: 2305
+Blackheath 11:32
+Meltonrose 11:38
+Train No: 2307
+Blackheath 13:22
+Meltonrose 13:28
+
+Train No: 2301
+Blackheath 07:17
+Eerste River 07:31
+Train No: 2303
+Blackheath 09:22
+Eerste River 09:36
+Train No: 2305
+Blackheath 11:32
+Eerste River 11:46
+Train No: 2307
+Blackheath 13:22
+Eerste River 13:36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2300
+Meltonrose 06:18
+Cape Town 07:37
+Train No: 2302
+Meltonrose 08:18
+Cape Town 09:37
+Train No: 2304
+Meltonrose 10:16
+Cape Town 11:35
+Train No: 2306
+Meltonrose 12:16
+Cape Town 13:35
+
+Train No: 2300
+Meltonrose 06:18
+Woodstock 07:32
+Train No: 2302
+Meltonrose 08:18
+Woodstock 09:32
+Train No: 2304
+Meltonrose 10:16
+Woodstock 11:30
+Train No: 2306
+Meltonrose 12:16
+Woodstock 13:30
+
+Train No: 2300
+Meltonrose 06:18
+Salt River 07:28
+Train No: 2302
+Meltonrose 08:18
+Salt River 09:28
+Train No: 2304
+Meltonrose 10:16
+Salt River 11:26
+Train No: 2306
+Meltonrose 12:16
+Salt River 13:26
+
+Train No: 2300
+Meltonrose 06:18
+Koeberg Road 07:25
+Train No: 2302
+Meltonrose 08:18
+Koeberg Road 09:25
+Train No: 2304
+Meltonrose 10:16
+Koeberg Road 11:23
+Train No: 2306
+Meltonrose 12:16
+Koeberg Road 13:23
+
+Train No: 2300
+Meltonrose 06:18
+Maitland 07:22
+Train No: 2302
+Meltonrose 08:18
+Maitland 09:22
+Train No: 2304
+Meltonrose 10:16
+Maitland 11:20
+Train No: 2306
+Meltonrose 12:16
+Maitland 13:20
+
+Train No: 2300
+Meltonrose 06:18
+Mutual 07:19
+Train No: 2302
+Meltonrose 08:18
+Mutual 09:19
+Train No: 2304
+Meltonrose 10:16
+Mutual 11:17
+Train No: 2306
+Meltonrose 12:16
+Mutual 13:17
+
+Train No: 2300
+Meltonrose 06:18
+Thornton 07:12
+Train No: 2302
+Meltonrose 08:18
+Thornton 09:12
+Train No: 2304
+Meltonrose 10:16
+Thornton 11:10
+Train No: 2306
+Meltonrose 12:16
+Thornton 13:10
+
+Train No: 2300
+Meltonrose 06:18
+Goodwood 07:06
+Train No: 2302
+Meltonrose 08:18
+Goodwood 09:06
+Train No: 2304
+Meltonrose 10:16
+Goodwood 11:04
+Train No: 2306
+Meltonrose 12:16
+Goodwood 13:04
+
+Train No: 2300
+Meltonrose 06:18
+Vasco 07:04
+Train No: 2302
+Meltonrose 08:18
+Vasco 09:04
+Train No: 2304
+Meltonrose 10:16
+Vasco 11:02
+Train No: 2306
+Meltonrose 12:16
+Vasco 13:02
+
+Train No: 2300
+Meltonrose 06:18
+Elsies River 07:00
+Train No: 2302
+Meltonrose 08:18
+Elsies River 09:00
+Train No: 2304
+Meltonrose 10:16
+Elsies River 10:58
+Train No: 2306
+Meltonrose 12:16
+Elsies River 12:58
+
+Train No: 2300
+Meltonrose 06:18
+Parow 06:54
+Train No: 2302
+Meltonrose 08:18
+Parow 08:54
+Train No: 2304
+Meltonrose 10:16
+Parow 10:52
+Train No: 2306
+Meltonrose 12:16
+Parow 12:52
+
+Train No: 2300
+Meltonrose 06:18
+Tygerberg 06:53
+Train No: 2302
+Meltonrose 08:18
+Tygerberg 08:53
+Train No: 2304
+Meltonrose 10:16
+Tygerberg 10:51
+Train No: 2306
+Meltonrose 12:16
+Tygerberg 12:51
+
+Train No: 2300
+Meltonrose 06:18
+Bellville 06:48
+Train No: 2302
+Meltonrose 08:18
+Bellville 08:48
+Train No: 2304
+Meltonrose 10:16
+Bellville 10:46
+Train No: 2306
+Meltonrose 12:16
+Bellville 12:46
+
+Train No: 2300
+Meltonrose 06:18
+Kuils River 06:34
+Train No: 2302
+Meltonrose 08:18
+Kuils River 08:34
+Train No: 2304
+Meltonrose 10:16
+Kuils River 10:32
+Train No: 2306
+Meltonrose 12:16
+Kuils River 12:32
+
+Train No: 2300
+Meltonrose 06:18
+Blackheath 06:24
+Train No: 2302
+Meltonrose 08:18
+Blackheath 08:24
+Train No: 2304
+Meltonrose 10:16
+Blackheath 10:22
+Train No: 2306
+Meltonrose 12:16
+Blackheath 12:22
+
+Train No: 2301
+Meltonrose 07:23
+Eerste River 07:31
+Train No: 2303
+Meltonrose 09:28
+Eerste River 09:36
+Train No: 2305
+Meltonrose 11:38
+Eerste River 11:46
+Train No: 2307
+Meltonrose 13:28
+Eerste River 13:36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2300
+Eerste River 06:12
+Cape Town 07:37
+Train No: 2302
+Eerste River 08:12
+Cape Town 09:37
+Train No: 2304
+Eerste River 10:10
+Cape Town 11:35
+Train No: 2306
+Eerste River 12:10
+Cape Town 13:35
+
+Train No: 2300
+Eerste River 06:12
+Woodstock 07:32
+Train No: 2302
+Eerste River 08:12
+Woodstock 09:32
+Train No: 2304
+Eerste River 10:10
+Woodstock 11:30
+Train No: 2306
+Eerste River 12:10
+Woodstock 13:30
+
+Train No: 2300
+Eerste River 06:12
+Salt River 07:28
+Train No: 2302
+Eerste River 08:12
+Salt River 09:28
+Train No: 2304
+Eerste River 10:10
+Salt River 11:26
+Train No: 2306
+Eerste River 12:10
+Salt River 13:26
+
+Train No: 2300
+Eerste River 06:12
+Koeberg Road 07:25
+Train No: 2302
+Eerste River 08:12
+Koeberg Road 09:25
+Train No: 2304
+Eerste River 10:10
+Koeberg Road 11:23
+Train No: 2306
+Eerste River 12:10
+Koeberg Road 13:23
+
+Train No: 2300
+Eerste River 06:12
+Maitland 07:22
+Train No: 2302
+Eerste River 08:12
+Maitland 09:22
+Train No: 2304
+Eerste River 10:10
+Maitland 11:20
+Train No: 2306
+Eerste River 12:10
+Maitland 13:20
+
+Train No: 2300
+Eerste River 06:12
+Mutual 07:19
+Train No: 2302
+Eerste River 08:12
+Mutual 09:19
+Train No: 2304
+Eerste River 10:10
+Mutual 11:17
+Train No: 2306
+Eerste River 12:10
+Mutual 13:17
+
+Train No: 2300
+Eerste River 06:12
+Thornton 07:12
+Train No: 2302
+Eerste River 08:12
+Thornton 09:12
+Train No: 2304
+Eerste River 10:10
+Thornton 11:10
+Train No: 2306
+Eerste River 12:10
+Thornton 13:10
+
+Train No: 2300
+Eerste River 06:12
+Goodwood 07:06
+Train No: 2302
+Eerste River 08:12
+Goodwood 09:06
+Train No: 2304
+Eerste River 10:10
+Goodwood 11:04
+Train No: 2306
+Eerste River 12:10
+Goodwood 13:04
+
+Train No: 2300
+Eerste River 06:12
+Vasco 07:04
+Train No: 2302
+Eerste River 08:12
+Vasco 09:04
+Train No: 2304
+Eerste River 10:10
+Vasco 11:02
+Train No: 2306
+Eerste River 12:10
+Vasco 13:02
+
+Train No: 2300
+Eerste River 06:12
+Elsies River 07:00
+Train No: 2302
+Eerste River 08:12
+Elsies River 09:00
+Train No: 2304
+Eerste River 10:10
+Elsies River 10:58
+Train No: 2306
+Eerste River 12:10
+Elsies River 12:58
+
+Train No: 2300
+Eerste River 06:12
+Parow 06:54
+Train No: 2302
+Eerste River 08:12
+Parow 08:54
+Train No: 2304
+Eerste River 10:10
+Parow 10:52
+Train No: 2306
+Eerste River 12:10
+Parow 12:52
+
+Train No: 2300
+Eerste River 06:12
+Tygerberg 06:53
+Train No: 2302
+Eerste River 08:12
+Tygerberg 08:53
+Train No: 2304
+Eerste River 10:10
+Tygerberg 10:51
+Train No: 2306
+Eerste River 12:10
+Tygerberg 12:51
+
+Train No: 2300
+Eerste River 06:12
+Bellville 06:48
+Train No: 2302
+Eerste River 08:12
+Bellville 08:48
+Train No: 2304
+Eerste River 10:10
+Bellville 10:46
+Train No: 2306
+Eerste River 12:10
+Bellville 12:46
+
+Train No: 2300
+Eerste River 06:12
+Kuils River 06:34
+Train No: 2302
+Eerste River 08:12
+Kuils River 08:34
+Train No: 2304
+Eerste River 10:10
+Kuils River 10:32
+Train No: 2306
+Eerste River 12:10
+Kuils River 12:32
+
+Train No: 2300
+Eerste River 06:12
+Blackheath 06:24
+Train No: 2302
+Eerste River 08:12
+Blackheath 08:24
+Train No: 2304
+Eerste River 10:10
+Blackheath 10:22
+Train No: 2306
+Eerste River 12:10
+Blackheath 12:22
+
+Train No: 2300
+Eerste River 06:12
+Meltonrose 06:18
+Train No: 2302
+Eerste River 08:12
+Meltonrose 08:18
+Train No: 2304
+Eerste River 10:10
+Meltonrose 10:16
+Train No: 2306
+Eerste River 12:10
+Meltonrose 12:16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2500
+Stikland 05:43
+Cape Town 06:40
+Train No: 2632
+Stikland 06:55
+Cape Town 07:50
+Train No: 2502
+Stikland 07:28
+Cape Town 08:25
+Train No: 2504
+Stikland 09:28
+Cape Town 10:25
+Train No: 2506
+Stikland 11:28
+Cape Town 12:25
+
+Train No: 2500
+Stikland 05:43
+Woodstock 06:35
+Train No: 2502
+Stikland 07:28
+Woodstock 08:20
+Train No: 2504
+Stikland 09:28
+Woodstock 10:20
+Train No: 2506
+Stikland 11:28
+Woodstock 12:20
+
+Train No: 2500
+Stikland 05:43
+Salt River 06:31
+Train No: 2502
+Stikland 07:28
+Salt River 08:16
+Train No: 2504
+Stikland 09:28
+Salt River 10:16
+Train No: 2506
+Stikland 11:28
+Salt River 12:16
+
+Train No: 2500
+Stikland 05:43
+Koeberg Road 06:28
+Train No: 2502
+Stikland 07:28
+Koeberg Road 08:13
+Train No: 2504
+Stikland 09:28
+Koeberg Road 10:13
+Train No: 2506
+Stikland 11:28
+Koeberg Road 12:13
+
+Train No: 2500
+Stikland 05:43
+Maitland 06:25
+Train No: 2502
+Stikland 07:28
+Maitland 08:10
+Train No: 2504
+Stikland 09:28
+Maitland 10:10
+Train No: 2506
+Stikland 11:28
+Maitland 12:10
+
+Train No: 2500
+Stikland 05:43
+Mutual 06:22
+Train No: 2502
+Stikland 07:28
+Mutual 08:07
+Train No: 2504
+Stikland 09:28
+Mutual 10:07
+Train No: 2506
+Stikland 11:28
+Mutual 12:07
+
+Train No: 2500
+Stikland 05:43
+Thornton 06:15
+Train No: 2502
+Stikland 07:28
+Thornton 08:00
+Train No: 2504
+Stikland 09:28
+Thornton 10:00
+Train No: 2506
+Stikland 11:28
+Thornton 12:00
+
+Train No: 2500
+Stikland 05:43
+Goodwood 06:09
+Train No: 2502
+Stikland 07:28
+Goodwood 07:54
+Train No: 2504
+Stikland 09:28
+Goodwood 09:54
+Train No: 2506
+Stikland 11:28
+Goodwood 11:54
+
+Train No: 2500
+Stikland 05:43
+Vasco 06:07
+Train No: 2502
+Stikland 07:28
+Vasco 07:52
+Train No: 2504
+Stikland 09:28
+Vasco 09:52
+Train No: 2506
+Stikland 11:28
+Vasco 11:52
+
+Train No: 2500
+Stikland 05:43
+Elsies River 06:03
+Train No: 2502
+Stikland 07:28
+Elsies River 07:48
+Train No: 2504
+Stikland 09:28
+Elsies River 09:48
+Train No: 2506
+Stikland 11:28
+Elsies River 11:48
+
+Train No: 2500
+Stikland 05:43
+Parow 05:57
+Train No: 2502
+Stikland 07:28
+Parow 07:42
+Train No: 2504
+Stikland 09:28
+Parow 09:42
+Train No: 2506
+Stikland 11:28
+Parow 11:42
+
+Train No: 2500
+Stikland 05:43
+Tygerberg 05:56
+Train No: 2502
+Stikland 07:28
+Tygerberg 07:41
+Train No: 2504
+Stikland 09:28
+Tygerberg 09:41
+Train No: 2506
+Stikland 11:28
+Tygerberg 11:41
+
+Train No: 2500
+Stikland 05:43
+Bellville 05:51
+Train No: 2632
+Stikland 06:55
+Bellville 07:03
+Train No: 2502
+Stikland 07:28
+Bellville 07:36
+Train No: 2504
+Stikland 09:28
+Bellville 09:36
+Train No: 2506
+Stikland 11:28
+Bellville 11:36
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3501
+Stikland 04:59
+Brackenfell 05:07
+Train No: 2501
+Stikland 06:10
+Brackenfell 06:18
+Train No: 3503
+Stikland 07:14
+Brackenfell 07:22
+Train No: 2503
+Stikland 08:00
+Brackenfell 08:08
+Train No: 3505
+Stikland 09:29
+Brackenfell 09:37
+Train No: 2505
+Stikland 10:00
+Brackenfell 10:08
+Train No: 3507
+Stikland 11:29
+Brackenfell 11:37
+Train No: 2507
+Stikland 12:05
+Brackenfell 12:13
+Train No: 3509
+Stikland 13:21
+Brackenfell 13:29
+Train No: 2661
+Stikland 14:40
+Brackenfell 14:48
+
+Train No: 3501
+Stikland 04:59
+Eikenfontein 05:12
+Train No: 2501
+Stikland 06:10
+Eikenfontein 06:23
+Train No: 3503
+Stikland 07:14
+Eikenfontein 07:27
+Train No: 2503
+Stikland 08:00
+Eikenfontein 08:13
+Train No: 3505
+Stikland 09:29
+Eikenfontein 09:42
+Train No: 2505
+Stikland 10:00
+Eikenfontein 10:13
+Train No: 3507
+Stikland 11:29
+Eikenfontein 11:42
+Train No: 2507
+Stikland 12:05
+Eikenfontein 12:18
+Train No: 3509
+Stikland 13:21
+Eikenfontein 13:34
+Train No: 2661
+Stikland 14:40
+Eikenfontein 14:53
+
+Train No: 3501
+Stikland 04:59
+Kraaifontein 05:15
+Train No: 2501
+Stikland 06:10
+Kraaifontein 06:26
+Train No: 3503
+Stikland 07:14
+Kraaifontein 07:30
+Train No: 2503
+Stikland 08:00
+Kraaifontein 08:16
+Train No: 3505
+Stikland 09:29
+Kraaifontein 09:45
+Train No: 2505
+Stikland 10:00
+Kraaifontein 10:16
+Train No: 3507
+Stikland 11:29
+Kraaifontein 11:45
+Train No: 2507
+Stikland 12:05
+Kraaifontein 12:21
+Train No: 3509
+Stikland 13:21
+Kraaifontein 13:37
+Train No: 2661
+Stikland 14:40
+Kraaifontein 14:56
+
+Train No: 3501
+Stikland 04:59
+Muldersvlei 05:27
+Train No: 3503
+Stikland 07:14
+Muldersvlei 07:42
+Train No: 3505
+Stikland 09:29
+Muldersvlei 09:57
+Train No: 3507
+Stikland 11:29
+Muldersvlei 11:57
+Train No: 3509
+Stikland 13:21
+Muldersvlei 13:49
+
+Train No: 3501
+Stikland 04:59
+Klapmuts 05:42
+Train No: 3503
+Stikland 07:14
+Klapmuts 07:57
+Train No: 3505
+Stikland 09:29
+Klapmuts 10:12
+Train No: 3507
+Stikland 11:29
+Klapmuts 12:12
+Train No: 3509
+Stikland 13:21
+Klapmuts 14:04
+
+Train No: 3501
+Stikland 04:59
+Paarl 05:56
+Train No: 3503
+Stikland 07:14
+Paarl 08:11
+Train No: 3505
+Stikland 09:29
+Paarl 10:26
+Train No: 3507
+Stikland 11:29
+Paarl 12:26
+Train No: 3509
+Stikland 13:21
+Paarl 14:18
+
+Train No: 3501
+Stikland 04:59
+Huguenot 06:05
+Train No: 3503
+Stikland 07:14
+Huguenot 08:20
+Train No: 3505
+Stikland 09:29
+Huguenot 10:35
+Train No: 3507
+Stikland 11:29
+Huguenot 12:35
+Train No: 3509
+Stikland 13:21
+Huguenot 14:27
+
+Train No: 3501
+Stikland 04:59
+Dal Josafat 06:13
+Train No: 3503
+Stikland 07:14
+Dal Josafat 08:28
+Train No: 3505
+Stikland 09:29
+Dal Josafat 10:43
+Train No: 3507
+Stikland 11:29
+Dal Josafat 12:43
+Train No: 3509
+Stikland 13:21
+Dal Josafat 14:35
+
+Train No: 3501
+Stikland 04:59
+Mbekweni 06:22
+Train No: 3503
+Stikland 07:14
+Mbekweni 08:37
+Train No: 3505
+Stikland 09:29
+Mbekweni 10:52
+Train No: 3507
+Stikland 11:29
+Mbekweni 12:52
+Train No: 3509
+Stikland 13:21
+Mbekweni 14:44
+
+Train No: 3501
+Stikland 04:59
+Wellington 06:36
+Train No: 3503
+Stikland 07:14
+Wellington 08:51
+Train No: 3505
+Stikland 09:29
+Wellington 11:06
+Train No: 3507
+Stikland 11:29
+Wellington 13:06
+Train No: 3509
+Stikland 13:21
+Wellington 14:58
+
+Train No: 2500
+Brackenfell 05:36
+Cape Town 06:40
+Train No: 2632
+Brackenfell 06:48
+Cape Town 07:50
+Train No: 2502
+Brackenfell 07:21
+Cape Town 08:25
+Train No: 2504
+Brackenfell 09:21
+Cape Town 10:25
+Train No: 2506
+Brackenfell 11:21
+Cape Town 12:25
+
+Train No: 2500
+Brackenfell 05:36
+Woodstock 06:35
+Train No: 2502
+Brackenfell 07:21
+Woodstock 08:20
+Train No: 2504
+Brackenfell 09:21
+Woodstock 10:20
+Train No: 2506
+Brackenfell 11:21
+Woodstock 12:20
+
+Train No: 2500
+Brackenfell 05:36
+Salt River 06:31
+Train No: 2502
+Brackenfell 07:21
+Salt River 08:16
+Train No: 2504
+Brackenfell 09:21
+Salt River 10:16
+Train No: 2506
+Brackenfell 11:21
+Salt River 12:16
+
+Train No: 2500
+Brackenfell 05:36
+Koeberg Road 06:28
+Train No: 2502
+Brackenfell 07:21
+Koeberg Road 08:13
+Train No: 2504
+Brackenfell 09:21
+Koeberg Road 10:13
+Train No: 2506
+Brackenfell 11:21
+Koeberg Road 12:13
+
+Train No: 2500
+Brackenfell 05:36
+Maitland 06:25
+Train No: 2502
+Brackenfell 07:21
+Maitland 08:10
+Train No: 2504
+Brackenfell 09:21
+Maitland 10:10
+Train No: 2506
+Brackenfell 11:21
+Maitland 12:10
+
+Train No: 2500
+Brackenfell 05:36
+Mutual 06:22
+Train No: 2502
+Brackenfell 07:21
+Mutual 08:07
+Train No: 2504
+Brackenfell 09:21
+Mutual 10:07
+Train No: 2506
+Brackenfell 11:21
+Mutual 12:07
+
+Train No: 2500
+Brackenfell 05:36
+Thornton 06:15
+Train No: 2502
+Brackenfell 07:21
+Thornton 08:00
+Train No: 2504
+Brackenfell 09:21
+Thornton 10:00
+Train No: 2506
+Brackenfell 11:21
+Thornton 12:00
+
+Train No: 2500
+Brackenfell 05:36
+Goodwood 06:09
+Train No: 2502
+Brackenfell 07:21
+Goodwood 07:54
+Train No: 2504
+Brackenfell 09:21
+Goodwood 09:54
+Train No: 2506
+Brackenfell 11:21
+Goodwood 11:54
+
+Train No: 2500
+Brackenfell 05:36
+Vasco 06:07
+Train No: 2502
+Brackenfell 07:21
+Vasco 07:52
+Train No: 2504
+Brackenfell 09:21
+Vasco 09:52
+Train No: 2506
+Brackenfell 11:21
+Vasco 11:52
+
+Train No: 2500
+Brackenfell 05:36
+Elsies River 06:03
+Train No: 2502
+Brackenfell 07:21
+Elsies River 07:48
+Train No: 2504
+Brackenfell 09:21
+Elsies River 09:48
+Train No: 2506
+Brackenfell 11:21
+Elsies River 11:48
+
+Train No: 2500
+Brackenfell 05:36
+Parow 05:57
+Train No: 2502
+Brackenfell 07:21
+Parow 07:42
+Train No: 2504
+Brackenfell 09:21
+Parow 09:42
+Train No: 2506
+Brackenfell 11:21
+Parow 11:42
+
+Train No: 2500
+Brackenfell 05:36
+Tygerberg 05:56
+Train No: 2502
+Brackenfell 07:21
+Tygerberg 07:41
+Train No: 2504
+Brackenfell 09:21
+Tygerberg 09:41
+Train No: 2506
+Brackenfell 11:21
+Tygerberg 11:41
+
+Train No: 2500
+Brackenfell 05:36
+Bellville 05:51
+Train No: 2632
+Brackenfell 06:48
+Bellville 07:03
+Train No: 2502
+Brackenfell 07:21
+Bellville 07:36
+Train No: 2504
+Brackenfell 09:21
+Bellville 09:36
+Train No: 2506
+Brackenfell 11:21
+Bellville 11:36
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2500
+Brackenfell 05:36
+Stikland 05:43
+Train No: 3500
+Brackenfell 06:22
+Stikland 06:29
+Train No: 2632
+Brackenfell 06:48
+Stikland 06:55
+Train No: 2502
+Brackenfell 07:21
+Stikland 07:28
+Train No: 3502
+Brackenfell 08:22
+Stikland 08:29
+Train No: 2504
+Brackenfell 09:21
+Stikland 09:28
+Train No: 3504
+Brackenfell 10:37
+Stikland 10:44
+Train No: 2506
+Brackenfell 11:21
+Stikland 11:28
+Train No: 3506
+Brackenfell 12:48
+Stikland 12:55
+Train No: 3508
+Brackenfell 16:42
+Stikland 16:49
+
+Train No: 3501
+Brackenfell 05:07
+Eikenfontein 05:12
+Train No: 2501
+Brackenfell 06:18
+Eikenfontein 06:23
+Train No: 3503
+Brackenfell 07:22
+Eikenfontein 07:27
+Train No: 2503
+Brackenfell 08:08
+Eikenfontein 08:13
+Train No: 3505
+Brackenfell 09:37
+Eikenfontein 09:42
+Train No: 2505
+Brackenfell 10:08
+Eikenfontein 10:13
+Train No: 3507
+Brackenfell 11:37
+Eikenfontein 11:42
+Train No: 2507
+Brackenfell 12:13
+Eikenfontein 12:18
+Train No: 3509
+Brackenfell 13:29
+Eikenfontein 13:34
+Train No: 2661
+Brackenfell 14:48
+Eikenfontein 14:53
+
+Train No: 3501
+Brackenfell 05:07
+Kraaifontein 05:15
+Train No: 2501
+Brackenfell 06:18
+Kraaifontein 06:26
+Train No: 3503
+Brackenfell 07:22
+Kraaifontein 07:30
+Train No: 2503
+Brackenfell 08:08
+Kraaifontein 08:16
+Train No: 3505
+Brackenfell 09:37
+Kraaifontein 09:45
+Train No: 2505
+Brackenfell 10:08
+Kraaifontein 10:16
+Train No: 3507
+Brackenfell 11:37
+Kraaifontein 11:45
+Train No: 2507
+Brackenfell 12:13
+Kraaifontein 12:21
+Train No: 3509
+Brackenfell 13:29
+Kraaifontein 13:37
+Train No: 2661
+Brackenfell 14:48
+Kraaifontein 14:56
+
+Train No: 3501
+Brackenfell 05:07
+Muldersvlei 05:27
+Train No: 3503
+Brackenfell 07:22
+Muldersvlei 07:42
+Train No: 3505
+Brackenfell 09:37
+Muldersvlei 09:57
+Train No: 3507
+Brackenfell 11:37
+Muldersvlei 11:57
+Train No: 3509
+Brackenfell 13:29
+Muldersvlei 13:49
+
+Train No: 3501
+Brackenfell 05:07
+Klapmuts 05:42
+Train No: 3503
+Brackenfell 07:22
+Klapmuts 07:57
+Train No: 3505
+Brackenfell 09:37
+Klapmuts 10:12
+Train No: 3507
+Brackenfell 11:37
+Klapmuts 12:12
+Train No: 3509
+Brackenfell 13:29
+Klapmuts 14:04
+
+Train No: 3501
+Brackenfell 05:07
+Paarl 05:56
+Train No: 3503
+Brackenfell 07:22
+Paarl 08:11
+Train No: 3505
+Brackenfell 09:37
+Paarl 10:26
+Train No: 3507
+Brackenfell 11:37
+Paarl 12:26
+Train No: 3509
+Brackenfell 13:29
+Paarl 14:18
+
+Train No: 3501
+Brackenfell 05:07
+Huguenot 06:05
+Train No: 3503
+Brackenfell 07:22
+Huguenot 08:20
+Train No: 3505
+Brackenfell 09:37
+Huguenot 10:35
+Train No: 3507
+Brackenfell 11:37
+Huguenot 12:35
+Train No: 3509
+Brackenfell 13:29
+Huguenot 14:27
+
+Train No: 3501
+Brackenfell 05:07
+Dal Josafat 06:13
+Train No: 3503
+Brackenfell 07:22
+Dal Josafat 08:28
+Train No: 3505
+Brackenfell 09:37
+Dal Josafat 10:43
+Train No: 3507
+Brackenfell 11:37
+Dal Josafat 12:43
+Train No: 3509
+Brackenfell 13:29
+Dal Josafat 14:35
+
+Train No: 3501
+Brackenfell 05:07
+Mbekweni 06:22
+Train No: 3503
+Brackenfell 07:22
+Mbekweni 08:37
+Train No: 3505
+Brackenfell 09:37
+Mbekweni 10:52
+Train No: 3507
+Brackenfell 11:37
+Mbekweni 12:52
+Train No: 3509
+Brackenfell 13:29
+Mbekweni 14:44
+
+Train No: 3501
+Brackenfell 05:07
+Wellington 06:36
+Train No: 3503
+Brackenfell 07:22
+Wellington 08:51
+Train No: 3505
+Brackenfell 09:37
+Wellington 11:06
+Train No: 3507
+Brackenfell 11:37
+Wellington 13:06
+Train No: 3509
+Brackenfell 13:29
+Wellington 14:58
+
+Train No: 2500
+Eikenfontein 05:30
+Cape Town 06:40
+Train No: 2632
+Eikenfontein 06:42
+Cape Town 07:50
+Train No: 2502
+Eikenfontein 07:15
+Cape Town 08:25
+Train No: 2504
+Eikenfontein 09:15
+Cape Town 10:25
+Train No: 2506
+Eikenfontein 11:15
+Cape Town 12:25
+
+Train No: 2500
+Eikenfontein 05:30
+Woodstock 06:35
+Train No: 2502
+Eikenfontein 07:15
+Woodstock 08:20
+Train No: 2504
+Eikenfontein 09:15
+Woodstock 10:20
+Train No: 2506
+Eikenfontein 11:15
+Woodstock 12:20
+
+Train No: 2500
+Eikenfontein 05:30
+Salt River 06:31
+Train No: 2502
+Eikenfontein 07:15
+Salt River 08:16
+Train No: 2504
+Eikenfontein 09:15
+Salt River 10:16
+Train No: 2506
+Eikenfontein 11:15
+Salt River 12:16
+
+Train No: 2500
+Eikenfontein 05:30
+Koeberg Road 06:28
+Train No: 2502
+Eikenfontein 07:15
+Koeberg Road 08:13
+Train No: 2504
+Eikenfontein 09:15
+Koeberg Road 10:13
+Train No: 2506
+Eikenfontein 11:15
+Koeberg Road 12:13
+
+Train No: 2500
+Eikenfontein 05:30
+Maitland 06:25
+Train No: 2502
+Eikenfontein 07:15
+Maitland 08:10
+Train No: 2504
+Eikenfontein 09:15
+Maitland 10:10
+Train No: 2506
+Eikenfontein 11:15
+Maitland 12:10
+
+Train No: 2500
+Eikenfontein 05:30
+Mutual 06:22
+Train No: 2502
+Eikenfontein 07:15
+Mutual 08:07
+Train No: 2504
+Eikenfontein 09:15
+Mutual 10:07
+Train No: 2506
+Eikenfontein 11:15
+Mutual 12:07
+
+Train No: 2500
+Eikenfontein 05:30
+Thornton 06:15
+Train No: 2502
+Eikenfontein 07:15
+Thornton 08:00
+Train No: 2504
+Eikenfontein 09:15
+Thornton 10:00
+Train No: 2506
+Eikenfontein 11:15
+Thornton 12:00
+
+Train No: 2500
+Eikenfontein 05:30
+Goodwood 06:09
+Train No: 2502
+Eikenfontein 07:15
+Goodwood 07:54
+Train No: 2504
+Eikenfontein 09:15
+Goodwood 09:54
+Train No: 2506
+Eikenfontein 11:15
+Goodwood 11:54
+
+Train No: 2500
+Eikenfontein 05:30
+Vasco 06:07
+Train No: 2502
+Eikenfontein 07:15
+Vasco 07:52
+Train No: 2504
+Eikenfontein 09:15
+Vasco 09:52
+Train No: 2506
+Eikenfontein 11:15
+Vasco 11:52
+
+Train No: 2500
+Eikenfontein 05:30
+Elsies River 06:03
+Train No: 2502
+Eikenfontein 07:15
+Elsies River 07:48
+Train No: 2504
+Eikenfontein 09:15
+Elsies River 09:48
+Train No: 2506
+Eikenfontein 11:15
+Elsies River 11:48
+
+Train No: 2500
+Eikenfontein 05:30
+Parow 05:57
+Train No: 2502
+Eikenfontein 07:15
+Parow 07:42
+Train No: 2504
+Eikenfontein 09:15
+Parow 09:42
+Train No: 2506
+Eikenfontein 11:15
+Parow 11:42
+
+Train No: 2500
+Eikenfontein 05:30
+Tygerberg 05:56
+Train No: 2502
+Eikenfontein 07:15
+Tygerberg 07:41
+Train No: 2504
+Eikenfontein 09:15
+Tygerberg 09:41
+Train No: 2506
+Eikenfontein 11:15
+Tygerberg 11:41
+
+Train No: 2500
+Eikenfontein 05:30
+Bellville 05:51
+Train No: 2632
+Eikenfontein 06:42
+Bellville 07:03
+Train No: 2502
+Eikenfontein 07:15
+Bellville 07:36
+Train No: 2504
+Eikenfontein 09:15
+Bellville 09:36
+Train No: 2506
+Eikenfontein 11:15
+Bellville 11:36
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2500
+Eikenfontein 05:30
+Stikland 05:43
+Train No: 3500
+Eikenfontein 06:16
+Stikland 06:29
+Train No: 2632
+Eikenfontein 06:42
+Stikland 06:55
+Train No: 2502
+Eikenfontein 07:15
+Stikland 07:28
+Train No: 3502
+Eikenfontein 08:16
+Stikland 08:29
+Train No: 2504
+Eikenfontein 09:15
+Stikland 09:28
+Train No: 3504
+Eikenfontein 10:31
+Stikland 10:44
+Train No: 2506
+Eikenfontein 11:15
+Stikland 11:28
+Train No: 3506
+Eikenfontein 12:42
+Stikland 12:55
+Train No: 3508
+Eikenfontein 16:36
+Stikland 16:49
+
+Train No: 2500
+Eikenfontein 05:30
+Brackenfell 05:36
+Train No: 3500
+Eikenfontein 06:16
+Brackenfell 06:22
+Train No: 2632
+Eikenfontein 06:42
+Brackenfell 06:48
+Train No: 2502
+Eikenfontein 07:15
+Brackenfell 07:21
+Train No: 3502
+Eikenfontein 08:16
+Brackenfell 08:22
+Train No: 2504
+Eikenfontein 09:15
+Brackenfell 09:21
+Train No: 3504
+Eikenfontein 10:31
+Brackenfell 10:37
+Train No: 2506
+Eikenfontein 11:15
+Brackenfell 11:21
+Train No: 3506
+Eikenfontein 12:42
+Brackenfell 12:48
+Train No: 3508
+Eikenfontein 16:36
+Brackenfell 16:42
+
+Train No: 3501
+Eikenfontein 05:12
+Kraaifontein 05:15
+Train No: 2501
+Eikenfontein 06:23
+Kraaifontein 06:26
+Train No: 3503
+Eikenfontein 07:27
+Kraaifontein 07:30
+Train No: 2503
+Eikenfontein 08:13
+Kraaifontein 08:16
+Train No: 3505
+Eikenfontein 09:42
+Kraaifontein 09:45
+Train No: 2505
+Eikenfontein 10:13
+Kraaifontein 10:16
+Train No: 3507
+Eikenfontein 11:42
+Kraaifontein 11:45
+Train No: 2507
+Eikenfontein 12:18
+Kraaifontein 12:21
+Train No: 3509
+Eikenfontein 13:34
+Kraaifontein 13:37
+Train No: 2661
+Eikenfontein 14:53
+Kraaifontein 14:56
+
+Train No: 3501
+Eikenfontein 05:12
+Muldersvlei 05:27
+Train No: 3503
+Eikenfontein 07:27
+Muldersvlei 07:42
+Train No: 3505
+Eikenfontein 09:42
+Muldersvlei 09:57
+Train No: 3507
+Eikenfontein 11:42
+Muldersvlei 11:57
+Train No: 3509
+Eikenfontein 13:34
+Muldersvlei 13:49
+
+Train No: 3501
+Eikenfontein 05:12
+Klapmuts 05:42
+Train No: 3503
+Eikenfontein 07:27
+Klapmuts 07:57
+Train No: 3505
+Eikenfontein 09:42
+Klapmuts 10:12
+Train No: 3507
+Eikenfontein 11:42
+Klapmuts 12:12
+Train No: 3509
+Eikenfontein 13:34
+Klapmuts 14:04
+
+Train No: 3501
+Eikenfontein 05:12
+Paarl 05:56
+Train No: 3503
+Eikenfontein 07:27
+Paarl 08:11
+Train No: 3505
+Eikenfontein 09:42
+Paarl 10:26
+Train No: 3507
+Eikenfontein 11:42
+Paarl 12:26
+Train No: 3509
+Eikenfontein 13:34
+Paarl 14:18
+
+Train No: 3501
+Eikenfontein 05:12
+Huguenot 06:05
+Train No: 3503
+Eikenfontein 07:27
+Huguenot 08:20
+Train No: 3505
+Eikenfontein 09:42
+Huguenot 10:35
+Train No: 3507
+Eikenfontein 11:42
+Huguenot 12:35
+Train No: 3509
+Eikenfontein 13:34
+Huguenot 14:27
+
+Train No: 3501
+Eikenfontein 05:12
+Dal Josafat 06:13
+Train No: 3503
+Eikenfontein 07:27
+Dal Josafat 08:28
+Train No: 3505
+Eikenfontein 09:42
+Dal Josafat 10:43
+Train No: 3507
+Eikenfontein 11:42
+Dal Josafat 12:43
+Train No: 3509
+Eikenfontein 13:34
+Dal Josafat 14:35
+
+Train No: 3501
+Eikenfontein 05:12
+Mbekweni 06:22
+Train No: 3503
+Eikenfontein 07:27
+Mbekweni 08:37
+Train No: 3505
+Eikenfontein 09:42
+Mbekweni 10:52
+Train No: 3507
+Eikenfontein 11:42
+Mbekweni 12:52
+Train No: 3509
+Eikenfontein 13:34
+Mbekweni 14:44
+
+Train No: 3501
+Eikenfontein 05:12
+Wellington 06:36
+Train No: 3503
+Eikenfontein 07:27
+Wellington 08:51
+Train No: 3505
+Eikenfontein 09:42
+Wellington 11:06
+Train No: 3507
+Eikenfontein 11:42
+Wellington 13:06
+Train No: 3509
+Eikenfontein 13:34
+Wellington 14:58
+
+Train No: 2500
+Kraaifontein 05:25
+Cape Town 06:40
+Train No: 2632
+Kraaifontein 06:37
+Cape Town 07:50
+Train No: 2502
+Kraaifontein 07:10
+Cape Town 08:25
+Train No: 2504
+Kraaifontein 09:10
+Cape Town 10:25
+Train No: 2506
+Kraaifontein 11:10
+Cape Town 12:25
+
+Train No: 2500
+Kraaifontein 05:25
+Woodstock 06:35
+Train No: 2502
+Kraaifontein 07:10
+Woodstock 08:20
+Train No: 2504
+Kraaifontein 09:10
+Woodstock 10:20
+Train No: 2506
+Kraaifontein 11:10
+Woodstock 12:20
+
+Train No: 2500
+Kraaifontein 05:25
+Salt River 06:31
+Train No: 2502
+Kraaifontein 07:10
+Salt River 08:16
+Train No: 2504
+Kraaifontein 09:10
+Salt River 10:16
+Train No: 2506
+Kraaifontein 11:10
+Salt River 12:16
+
+Train No: 2500
+Kraaifontein 05:25
+Koeberg Road 06:28
+Train No: 2502
+Kraaifontein 07:10
+Koeberg Road 08:13
+Train No: 2504
+Kraaifontein 09:10
+Koeberg Road 10:13
+Train No: 2506
+Kraaifontein 11:10
+Koeberg Road 12:13
+
+Train No: 2500
+Kraaifontein 05:25
+Maitland 06:25
+Train No: 2502
+Kraaifontein 07:10
+Maitland 08:10
+Train No: 2504
+Kraaifontein 09:10
+Maitland 10:10
+Train No: 2506
+Kraaifontein 11:10
+Maitland 12:10
+
+Train No: 2500
+Kraaifontein 05:25
+Mutual 06:22
+Train No: 2502
+Kraaifontein 07:10
+Mutual 08:07
+Train No: 2504
+Kraaifontein 09:10
+Mutual 10:07
+Train No: 2506
+Kraaifontein 11:10
+Mutual 12:07
+
+Train No: 2500
+Kraaifontein 05:25
+Thornton 06:15
+Train No: 2502
+Kraaifontein 07:10
+Thornton 08:00
+Train No: 2504
+Kraaifontein 09:10
+Thornton 10:00
+Train No: 2506
+Kraaifontein 11:10
+Thornton 12:00
+
+Train No: 2500
+Kraaifontein 05:25
+Goodwood 06:09
+Train No: 2502
+Kraaifontein 07:10
+Goodwood 07:54
+Train No: 2504
+Kraaifontein 09:10
+Goodwood 09:54
+Train No: 2506
+Kraaifontein 11:10
+Goodwood 11:54
+
+Train No: 2500
+Kraaifontein 05:25
+Vasco 06:07
+Train No: 2502
+Kraaifontein 07:10
+Vasco 07:52
+Train No: 2504
+Kraaifontein 09:10
+Vasco 09:52
+Train No: 2506
+Kraaifontein 11:10
+Vasco 11:52
+
+Train No: 2500
+Kraaifontein 05:25
+Elsies River 06:03
+Train No: 2502
+Kraaifontein 07:10
+Elsies River 07:48
+Train No: 2504
+Kraaifontein 09:10
+Elsies River 09:48
+Train No: 2506
+Kraaifontein 11:10
+Elsies River 11:48
+
+Train No: 2500
+Kraaifontein 05:25
+Parow 05:57
+Train No: 2502
+Kraaifontein 07:10
+Parow 07:42
+Train No: 2504
+Kraaifontein 09:10
+Parow 09:42
+Train No: 2506
+Kraaifontein 11:10
+Parow 11:42
+
+Train No: 2500
+Kraaifontein 05:25
+Tygerberg 05:56
+Train No: 2502
+Kraaifontein 07:10
+Tygerberg 07:41
+Train No: 2504
+Kraaifontein 09:10
+Tygerberg 09:41
+Train No: 2506
+Kraaifontein 11:10
+Tygerberg 11:41
+
+Train No: 2500
+Kraaifontein 05:25
+Bellville 05:51
+Train No: 2632
+Kraaifontein 06:37
+Bellville 07:03
+Train No: 2502
+Kraaifontein 07:10
+Bellville 07:36
+Train No: 2504
+Kraaifontein 09:10
+Bellville 09:36
+Train No: 2506
+Kraaifontein 11:10
+Bellville 11:36
+
+
+
+
+
+
+
+
+
+
+
+Train No: 2500
+Kraaifontein 05:25
+Stikland 05:43
+Train No: 3500
+Kraaifontein 06:11
+Stikland 06:29
+Train No: 2632
+Kraaifontein 06:37
+Stikland 06:55
+Train No: 2502
+Kraaifontein 07:10
+Stikland 07:28
+Train No: 3502
+Kraaifontein 08:11
+Stikland 08:29
+Train No: 2504
+Kraaifontein 09:10
+Stikland 09:28
+Train No: 3504
+Kraaifontein 10:26
+Stikland 10:44
+Train No: 2506
+Kraaifontein 11:10
+Stikland 11:28
+Train No: 3506
+Kraaifontein 12:37
+Stikland 12:55
+Train No: 3508
+Kraaifontein 16:31
+Stikland 16:49
+
+Train No: 2500
+Kraaifontein 05:25
+Brackenfell 05:36
+Train No: 3500
+Kraaifontein 06:11
+Brackenfell 06:22
+Train No: 2632
+Kraaifontein 06:37
+Brackenfell 06:48
+Train No: 2502
+Kraaifontein 07:10
+Brackenfell 07:21
+Train No: 3502
+Kraaifontein 08:11
+Brackenfell 08:22
+Train No: 2504
+Kraaifontein 09:10
+Brackenfell 09:21
+Train No: 3504
+Kraaifontein 10:26
+Brackenfell 10:37
+Train No: 2506
+Kraaifontein 11:10
+Brackenfell 11:21
+Train No: 3506
+Kraaifontein 12:37
+Brackenfell 12:48
+Train No: 3508
+Kraaifontein 16:31
+Brackenfell 16:42
+
+Train No: 2500
+Kraaifontein 05:25
+Eikenfontein 05:30
+Train No: 3500
+Kraaifontein 06:11
+Eikenfontein 06:16
+Train No: 2632
+Kraaifontein 06:37
+Eikenfontein 06:42
+Train No: 2502
+Kraaifontein 07:10
+Eikenfontein 07:15
+Train No: 3502
+Kraaifontein 08:11
+Eikenfontein 08:16
+Train No: 2504
+Kraaifontein 09:10
+Eikenfontein 09:15
+Train No: 3504
+Kraaifontein 10:26
+Eikenfontein 10:31
+Train No: 2506
+Kraaifontein 11:10
+Eikenfontein 11:15
+Train No: 3506
+Kraaifontein 12:37
+Eikenfontein 12:42
+Train No: 3508
+Kraaifontein 16:31
+Eikenfontein 16:36
+
+Train No: 3501
+Kraaifontein 05:15
+Muldersvlei 05:27
+Train No: 3503
+Kraaifontein 07:30
+Muldersvlei 07:42
+Train No: 3505
+Kraaifontein 09:45
+Muldersvlei 09:57
+Train No: 3507
+Kraaifontein 11:45
+Muldersvlei 11:57
+Train No: 3509
+Kraaifontein 13:37
+Muldersvlei 13:49
+
+Train No: 3501
+Kraaifontein 05:15
+Klapmuts 05:42
+Train No: 3503
+Kraaifontein 07:30
+Klapmuts 07:57
+Train No: 3505
+Kraaifontein 09:45
+Klapmuts 10:12
+Train No: 3507
+Kraaifontein 11:45
+Klapmuts 12:12
+Train No: 3509
+Kraaifontein 13:37
+Klapmuts 14:04
+
+Train No: 3501
+Kraaifontein 05:15
+Paarl 05:56
+Train No: 3503
+Kraaifontein 07:30
+Paarl 08:11
+Train No: 3505
+Kraaifontein 09:45
+Paarl 10:26
+Train No: 3507
+Kraaifontein 11:45
+Paarl 12:26
+Train No: 3509
+Kraaifontein 13:37
+Paarl 14:18
+
+Train No: 3501
+Kraaifontein 05:15
+Huguenot 06:05
+Train No: 3503
+Kraaifontein 07:30
+Huguenot 08:20
+Train No: 3505
+Kraaifontein 09:45
+Huguenot 10:35
+Train No: 3507
+Kraaifontein 11:45
+Huguenot 12:35
+Train No: 3509
+Kraaifontein 13:37
+Huguenot 14:27
+
+Train No: 3501
+Kraaifontein 05:15
+Dal Josafat 06:13
+Train No: 3503
+Kraaifontein 07:30
+Dal Josafat 08:28
+Train No: 3505
+Kraaifontein 09:45
+Dal Josafat 10:43
+Train No: 3507
+Kraaifontein 11:45
+Dal Josafat 12:43
+Train No: 3509
+Kraaifontein 13:37
+Dal Josafat 14:35
+
+Train No: 3501
+Kraaifontein 05:15
+Mbekweni 06:22
+Train No: 3503
+Kraaifontein 07:30
+Mbekweni 08:37
+Train No: 3505
+Kraaifontein 09:45
+Mbekweni 10:52
+Train No: 3507
+Kraaifontein 11:45
+Mbekweni 12:52
+Train No: 3509
+Kraaifontein 13:37
+Mbekweni 14:44
+
+Train No: 3501
+Kraaifontein 05:15
+Wellington 06:36
+Train No: 3503
+Kraaifontein 07:30
+Wellington 08:51
+Train No: 3505
+Kraaifontein 09:45
+Wellington 11:06
+Train No: 3507
+Kraaifontein 11:45
+Wellington 13:06
+Train No: 3509
+Kraaifontein 13:37
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Muldersvlei 05:59
+Stikland 06:29
+Train No: 3502
+Muldersvlei 07:59
+Stikland 08:29
+Train No: 3504
+Muldersvlei 10:14
+Stikland 10:44
+Train No: 3506
+Muldersvlei 12:25
+Stikland 12:55
+Train No: 3508
+Muldersvlei 16:19
+Stikland 16:49
+
+Train No: 3500
+Muldersvlei 05:59
+Brackenfell 06:22
+Train No: 3502
+Muldersvlei 07:59
+Brackenfell 08:22
+Train No: 3504
+Muldersvlei 10:14
+Brackenfell 10:37
+Train No: 3506
+Muldersvlei 12:25
+Brackenfell 12:48
+Train No: 3508
+Muldersvlei 16:19
+Brackenfell 16:42
+
+Train No: 3500
+Muldersvlei 05:59
+Eikenfontein 06:16
+Train No: 3502
+Muldersvlei 07:59
+Eikenfontein 08:16
+Train No: 3504
+Muldersvlei 10:14
+Eikenfontein 10:31
+Train No: 3506
+Muldersvlei 12:25
+Eikenfontein 12:42
+Train No: 3508
+Muldersvlei 16:19
+Eikenfontein 16:36
+
+Train No: 3500
+Muldersvlei 05:59
+Kraaifontein 06:11
+Train No: 3502
+Muldersvlei 07:59
+Kraaifontein 08:11
+Train No: 3504
+Muldersvlei 10:14
+Kraaifontein 10:26
+Train No: 3506
+Muldersvlei 12:25
+Kraaifontein 12:37
+Train No: 3508
+Muldersvlei 16:19
+Kraaifontein 16:31
+
+Train No: 3501
+Muldersvlei 05:27
+Klapmuts 05:42
+Train No: 3503
+Muldersvlei 07:42
+Klapmuts 07:57
+Train No: 3505
+Muldersvlei 09:57
+Klapmuts 10:12
+Train No: 3507
+Muldersvlei 11:57
+Klapmuts 12:12
+Train No: 3509
+Muldersvlei 13:49
+Klapmuts 14:04
+
+Train No: 3501
+Muldersvlei 05:27
+Paarl 05:56
+Train No: 3503
+Muldersvlei 07:42
+Paarl 08:11
+Train No: 3505
+Muldersvlei 09:57
+Paarl 10:26
+Train No: 3507
+Muldersvlei 11:57
+Paarl 12:26
+Train No: 3509
+Muldersvlei 13:49
+Paarl 14:18
+
+Train No: 3501
+Muldersvlei 05:27
+Huguenot 06:05
+Train No: 3503
+Muldersvlei 07:42
+Huguenot 08:20
+Train No: 3505
+Muldersvlei 09:57
+Huguenot 10:35
+Train No: 3507
+Muldersvlei 11:57
+Huguenot 12:35
+Train No: 3509
+Muldersvlei 13:49
+Huguenot 14:27
+
+Train No: 3501
+Muldersvlei 05:27
+Dal Josafat 06:13
+Train No: 3503
+Muldersvlei 07:42
+Dal Josafat 08:28
+Train No: 3505
+Muldersvlei 09:57
+Dal Josafat 10:43
+Train No: 3507
+Muldersvlei 11:57
+Dal Josafat 12:43
+Train No: 3509
+Muldersvlei 13:49
+Dal Josafat 14:35
+
+Train No: 3501
+Muldersvlei 05:27
+Mbekweni 06:22
+Train No: 3503
+Muldersvlei 07:42
+Mbekweni 08:37
+Train No: 3505
+Muldersvlei 09:57
+Mbekweni 10:52
+Train No: 3507
+Muldersvlei 11:57
+Mbekweni 12:52
+Train No: 3509
+Muldersvlei 13:49
+Mbekweni 14:44
+
+Train No: 3501
+Muldersvlei 05:27
+Wellington 06:36
+Train No: 3503
+Muldersvlei 07:42
+Wellington 08:51
+Train No: 3505
+Muldersvlei 09:57
+Wellington 11:06
+Train No: 3507
+Muldersvlei 11:57
+Wellington 13:06
+Train No: 3509
+Muldersvlei 13:49
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Klapmuts 05:44
+Stikland 06:29
+Train No: 3502
+Klapmuts 07:44
+Stikland 08:29
+Train No: 3504
+Klapmuts 09:59
+Stikland 10:44
+Train No: 3506
+Klapmuts 12:10
+Stikland 12:55
+Train No: 3508
+Klapmuts 16:04
+Stikland 16:49
+
+Train No: 3500
+Klapmuts 05:44
+Brackenfell 06:22
+Train No: 3502
+Klapmuts 07:44
+Brackenfell 08:22
+Train No: 3504
+Klapmuts 09:59
+Brackenfell 10:37
+Train No: 3506
+Klapmuts 12:10
+Brackenfell 12:48
+Train No: 3508
+Klapmuts 16:04
+Brackenfell 16:42
+
+Train No: 3500
+Klapmuts 05:44
+Eikenfontein 06:16
+Train No: 3502
+Klapmuts 07:44
+Eikenfontein 08:16
+Train No: 3504
+Klapmuts 09:59
+Eikenfontein 10:31
+Train No: 3506
+Klapmuts 12:10
+Eikenfontein 12:42
+Train No: 3508
+Klapmuts 16:04
+Eikenfontein 16:36
+
+Train No: 3500
+Klapmuts 05:44
+Kraaifontein 06:11
+Train No: 3502
+Klapmuts 07:44
+Kraaifontein 08:11
+Train No: 3504
+Klapmuts 09:59
+Kraaifontein 10:26
+Train No: 3506
+Klapmuts 12:10
+Kraaifontein 12:37
+Train No: 3508
+Klapmuts 16:04
+Kraaifontein 16:31
+
+Train No: 3500
+Klapmuts 05:44
+Muldersvlei 05:59
+Train No: 3502
+Klapmuts 07:44
+Muldersvlei 07:59
+Train No: 3504
+Klapmuts 09:59
+Muldersvlei 10:14
+Train No: 3506
+Klapmuts 12:10
+Muldersvlei 12:25
+Train No: 3508
+Klapmuts 16:04
+Muldersvlei 16:19
+
+Train No: 3501
+Klapmuts 05:42
+Paarl 05:56
+Train No: 3503
+Klapmuts 07:57
+Paarl 08:11
+Train No: 3505
+Klapmuts 10:12
+Paarl 10:26
+Train No: 3507
+Klapmuts 12:12
+Paarl 12:26
+Train No: 3509
+Klapmuts 14:04
+Paarl 14:18
+
+Train No: 3501
+Klapmuts 05:42
+Huguenot 06:05
+Train No: 3503
+Klapmuts 07:57
+Huguenot 08:20
+Train No: 3505
+Klapmuts 10:12
+Huguenot 10:35
+Train No: 3507
+Klapmuts 12:12
+Huguenot 12:35
+Train No: 3509
+Klapmuts 14:04
+Huguenot 14:27
+
+Train No: 3501
+Klapmuts 05:42
+Dal Josafat 06:13
+Train No: 3503
+Klapmuts 07:57
+Dal Josafat 08:28
+Train No: 3505
+Klapmuts 10:12
+Dal Josafat 10:43
+Train No: 3507
+Klapmuts 12:12
+Dal Josafat 12:43
+Train No: 3509
+Klapmuts 14:04
+Dal Josafat 14:35
+
+Train No: 3501
+Klapmuts 05:42
+Mbekweni 06:22
+Train No: 3503
+Klapmuts 07:57
+Mbekweni 08:37
+Train No: 3505
+Klapmuts 10:12
+Mbekweni 10:52
+Train No: 3507
+Klapmuts 12:12
+Mbekweni 12:52
+Train No: 3509
+Klapmuts 14:04
+Mbekweni 14:44
+
+Train No: 3501
+Klapmuts 05:42
+Wellington 06:36
+Train No: 3503
+Klapmuts 07:57
+Wellington 08:51
+Train No: 3505
+Klapmuts 10:12
+Wellington 11:06
+Train No: 3507
+Klapmuts 12:12
+Wellington 13:06
+Train No: 3509
+Klapmuts 14:04
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Paarl 05:29
+Stikland 06:29
+Train No: 3502
+Paarl 07:29
+Stikland 08:29
+Train No: 3504
+Paarl 09:44
+Stikland 10:44
+Train No: 3506
+Paarl 11:55
+Stikland 12:55
+Train No: 3508
+Paarl 15:49
+Stikland 16:49
+
+Train No: 3500
+Paarl 05:29
+Brackenfell 06:22
+Train No: 3502
+Paarl 07:29
+Brackenfell 08:22
+Train No: 3504
+Paarl 09:44
+Brackenfell 10:37
+Train No: 3506
+Paarl 11:55
+Brackenfell 12:48
+Train No: 3508
+Paarl 15:49
+Brackenfell 16:42
+
+Train No: 3500
+Paarl 05:29
+Eikenfontein 06:16
+Train No: 3502
+Paarl 07:29
+Eikenfontein 08:16
+Train No: 3504
+Paarl 09:44
+Eikenfontein 10:31
+Train No: 3506
+Paarl 11:55
+Eikenfontein 12:42
+Train No: 3508
+Paarl 15:49
+Eikenfontein 16:36
+
+Train No: 3500
+Paarl 05:29
+Kraaifontein 06:11
+Train No: 3502
+Paarl 07:29
+Kraaifontein 08:11
+Train No: 3504
+Paarl 09:44
+Kraaifontein 10:26
+Train No: 3506
+Paarl 11:55
+Kraaifontein 12:37
+Train No: 3508
+Paarl 15:49
+Kraaifontein 16:31
+
+Train No: 3500
+Paarl 05:29
+Muldersvlei 05:59
+Train No: 3502
+Paarl 07:29
+Muldersvlei 07:59
+Train No: 3504
+Paarl 09:44
+Muldersvlei 10:14
+Train No: 3506
+Paarl 11:55
+Muldersvlei 12:25
+Train No: 3508
+Paarl 15:49
+Muldersvlei 16:19
+
+Train No: 3500
+Paarl 05:29
+Klapmuts 05:44
+Train No: 3502
+Paarl 07:29
+Klapmuts 07:44
+Train No: 3504
+Paarl 09:44
+Klapmuts 09:59
+Train No: 3506
+Paarl 11:55
+Klapmuts 12:10
+Train No: 3508
+Paarl 15:49
+Klapmuts 16:04
+
+Train No: 3501
+Paarl 05:56
+Huguenot 06:05
+Train No: 3503
+Paarl 08:11
+Huguenot 08:20
+Train No: 3505
+Paarl 10:26
+Huguenot 10:35
+Train No: 3507
+Paarl 12:26
+Huguenot 12:35
+Train No: 3509
+Paarl 14:18
+Huguenot 14:27
+
+Train No: 3501
+Paarl 05:56
+Dal Josafat 06:13
+Train No: 3503
+Paarl 08:11
+Dal Josafat 08:28
+Train No: 3505
+Paarl 10:26
+Dal Josafat 10:43
+Train No: 3507
+Paarl 12:26
+Dal Josafat 12:43
+Train No: 3509
+Paarl 14:18
+Dal Josafat 14:35
+
+Train No: 3501
+Paarl 05:56
+Mbekweni 06:22
+Train No: 3503
+Paarl 08:11
+Mbekweni 08:37
+Train No: 3505
+Paarl 10:26
+Mbekweni 10:52
+Train No: 3507
+Paarl 12:26
+Mbekweni 12:52
+Train No: 3509
+Paarl 14:18
+Mbekweni 14:44
+
+Train No: 3501
+Paarl 05:56
+Wellington 06:36
+Train No: 3503
+Paarl 08:11
+Wellington 08:51
+Train No: 3505
+Paarl 10:26
+Wellington 11:06
+Train No: 3507
+Paarl 12:26
+Wellington 13:06
+Train No: 3509
+Paarl 14:18
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Huguenot 05:18
+Stikland 06:29
+Train No: 3502
+Huguenot 07:18
+Stikland 08:29
+Train No: 3504
+Huguenot 09:33
+Stikland 10:44
+Train No: 3506
+Huguenot 11:44
+Stikland 12:55
+Train No: 3508
+Huguenot 15:38
+Stikland 16:49
+
+Train No: 3500
+Huguenot 05:18
+Brackenfell 06:22
+Train No: 3502
+Huguenot 07:18
+Brackenfell 08:22
+Train No: 3504
+Huguenot 09:33
+Brackenfell 10:37
+Train No: 3506
+Huguenot 11:44
+Brackenfell 12:48
+Train No: 3508
+Huguenot 15:38
+Brackenfell 16:42
+
+Train No: 3500
+Huguenot 05:18
+Eikenfontein 06:16
+Train No: 3502
+Huguenot 07:18
+Eikenfontein 08:16
+Train No: 3504
+Huguenot 09:33
+Eikenfontein 10:31
+Train No: 3506
+Huguenot 11:44
+Eikenfontein 12:42
+Train No: 3508
+Huguenot 15:38
+Eikenfontein 16:36
+
+Train No: 3500
+Huguenot 05:18
+Kraaifontein 06:11
+Train No: 3502
+Huguenot 07:18
+Kraaifontein 08:11
+Train No: 3504
+Huguenot 09:33
+Kraaifontein 10:26
+Train No: 3506
+Huguenot 11:44
+Kraaifontein 12:37
+Train No: 3508
+Huguenot 15:38
+Kraaifontein 16:31
+
+Train No: 3500
+Huguenot 05:18
+Muldersvlei 05:59
+Train No: 3502
+Huguenot 07:18
+Muldersvlei 07:59
+Train No: 3504
+Huguenot 09:33
+Muldersvlei 10:14
+Train No: 3506
+Huguenot 11:44
+Muldersvlei 12:25
+Train No: 3508
+Huguenot 15:38
+Muldersvlei 16:19
+
+Train No: 3500
+Huguenot 05:18
+Klapmuts 05:44
+Train No: 3502
+Huguenot 07:18
+Klapmuts 07:44
+Train No: 3504
+Huguenot 09:33
+Klapmuts 09:59
+Train No: 3506
+Huguenot 11:44
+Klapmuts 12:10
+Train No: 3508
+Huguenot 15:38
+Klapmuts 16:04
+
+Train No: 3500
+Huguenot 05:18
+Paarl 05:29
+Train No: 3502
+Huguenot 07:18
+Paarl 07:29
+Train No: 3504
+Huguenot 09:33
+Paarl 09:44
+Train No: 3506
+Huguenot 11:44
+Paarl 11:55
+Train No: 3508
+Huguenot 15:38
+Paarl 15:49
+
+Train No: 3501
+Huguenot 06:05
+Dal Josafat 06:13
+Train No: 3503
+Huguenot 08:20
+Dal Josafat 08:28
+Train No: 3505
+Huguenot 10:35
+Dal Josafat 10:43
+Train No: 3507
+Huguenot 12:35
+Dal Josafat 12:43
+Train No: 3509
+Huguenot 14:27
+Dal Josafat 14:35
+
+Train No: 3501
+Huguenot 06:05
+Mbekweni 06:22
+Train No: 3503
+Huguenot 08:20
+Mbekweni 08:37
+Train No: 3505
+Huguenot 10:35
+Mbekweni 10:52
+Train No: 3507
+Huguenot 12:35
+Mbekweni 12:52
+Train No: 3509
+Huguenot 14:27
+Mbekweni 14:44
+
+Train No: 3501
+Huguenot 06:05
+Wellington 06:36
+Train No: 3503
+Huguenot 08:20
+Wellington 08:51
+Train No: 3505
+Huguenot 10:35
+Wellington 11:06
+Train No: 3507
+Huguenot 12:35
+Wellington 13:06
+Train No: 3509
+Huguenot 14:27
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Dal Josafat 05:12
+Stikland 06:29
+Train No: 3502
+Dal Josafat 07:12
+Stikland 08:29
+Train No: 3504
+Dal Josafat 09:27
+Stikland 10:44
+Train No: 3506
+Dal Josafat 11:38
+Stikland 12:55
+Train No: 3508
+Dal Josafat 15:32
+Stikland 16:49
+
+Train No: 3500
+Dal Josafat 05:12
+Brackenfell 06:22
+Train No: 3502
+Dal Josafat 07:12
+Brackenfell 08:22
+Train No: 3504
+Dal Josafat 09:27
+Brackenfell 10:37
+Train No: 3506
+Dal Josafat 11:38
+Brackenfell 12:48
+Train No: 3508
+Dal Josafat 15:32
+Brackenfell 16:42
+
+Train No: 3500
+Dal Josafat 05:12
+Eikenfontein 06:16
+Train No: 3502
+Dal Josafat 07:12
+Eikenfontein 08:16
+Train No: 3504
+Dal Josafat 09:27
+Eikenfontein 10:31
+Train No: 3506
+Dal Josafat 11:38
+Eikenfontein 12:42
+Train No: 3508
+Dal Josafat 15:32
+Eikenfontein 16:36
+
+Train No: 3500
+Dal Josafat 05:12
+Kraaifontein 06:11
+Train No: 3502
+Dal Josafat 07:12
+Kraaifontein 08:11
+Train No: 3504
+Dal Josafat 09:27
+Kraaifontein 10:26
+Train No: 3506
+Dal Josafat 11:38
+Kraaifontein 12:37
+Train No: 3508
+Dal Josafat 15:32
+Kraaifontein 16:31
+
+Train No: 3500
+Dal Josafat 05:12
+Muldersvlei 05:59
+Train No: 3502
+Dal Josafat 07:12
+Muldersvlei 07:59
+Train No: 3504
+Dal Josafat 09:27
+Muldersvlei 10:14
+Train No: 3506
+Dal Josafat 11:38
+Muldersvlei 12:25
+Train No: 3508
+Dal Josafat 15:32
+Muldersvlei 16:19
+
+Train No: 3500
+Dal Josafat 05:12
+Klapmuts 05:44
+Train No: 3502
+Dal Josafat 07:12
+Klapmuts 07:44
+Train No: 3504
+Dal Josafat 09:27
+Klapmuts 09:59
+Train No: 3506
+Dal Josafat 11:38
+Klapmuts 12:10
+Train No: 3508
+Dal Josafat 15:32
+Klapmuts 16:04
+
+Train No: 3500
+Dal Josafat 05:12
+Paarl 05:29
+Train No: 3502
+Dal Josafat 07:12
+Paarl 07:29
+Train No: 3504
+Dal Josafat 09:27
+Paarl 09:44
+Train No: 3506
+Dal Josafat 11:38
+Paarl 11:55
+Train No: 3508
+Dal Josafat 15:32
+Paarl 15:49
+
+Train No: 3500
+Dal Josafat 05:12
+Huguenot 05:18
+Train No: 3502
+Dal Josafat 07:12
+Huguenot 07:18
+Train No: 3504
+Dal Josafat 09:27
+Huguenot 09:33
+Train No: 3506
+Dal Josafat 11:38
+Huguenot 11:44
+Train No: 3508
+Dal Josafat 15:32
+Huguenot 15:38
+
+Train No: 3501
+Dal Josafat 06:13
+Mbekweni 06:22
+Train No: 3503
+Dal Josafat 08:28
+Mbekweni 08:37
+Train No: 3505
+Dal Josafat 10:43
+Mbekweni 10:52
+Train No: 3507
+Dal Josafat 12:43
+Mbekweni 12:52
+Train No: 3509
+Dal Josafat 14:35
+Mbekweni 14:44
+
+Train No: 3501
+Dal Josafat 06:13
+Wellington 06:36
+Train No: 3503
+Dal Josafat 08:28
+Wellington 08:51
+Train No: 3505
+Dal Josafat 10:43
+Wellington 11:06
+Train No: 3507
+Dal Josafat 12:43
+Wellington 13:06
+Train No: 3509
+Dal Josafat 14:35
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Mbekweni 05:03
+Stikland 06:29
+Train No: 3502
+Mbekweni 07:03
+Stikland 08:29
+Train No: 3504
+Mbekweni 09:18
+Stikland 10:44
+Train No: 3506
+Mbekweni 11:29
+Stikland 12:55
+Train No: 3508
+Mbekweni 15:23
+Stikland 16:49
+
+Train No: 3500
+Mbekweni 05:03
+Brackenfell 06:22
+Train No: 3502
+Mbekweni 07:03
+Brackenfell 08:22
+Train No: 3504
+Mbekweni 09:18
+Brackenfell 10:37
+Train No: 3506
+Mbekweni 11:29
+Brackenfell 12:48
+Train No: 3508
+Mbekweni 15:23
+Brackenfell 16:42
+
+Train No: 3500
+Mbekweni 05:03
+Eikenfontein 06:16
+Train No: 3502
+Mbekweni 07:03
+Eikenfontein 08:16
+Train No: 3504
+Mbekweni 09:18
+Eikenfontein 10:31
+Train No: 3506
+Mbekweni 11:29
+Eikenfontein 12:42
+Train No: 3508
+Mbekweni 15:23
+Eikenfontein 16:36
+
+Train No: 3500
+Mbekweni 05:03
+Kraaifontein 06:11
+Train No: 3502
+Mbekweni 07:03
+Kraaifontein 08:11
+Train No: 3504
+Mbekweni 09:18
+Kraaifontein 10:26
+Train No: 3506
+Mbekweni 11:29
+Kraaifontein 12:37
+Train No: 3508
+Mbekweni 15:23
+Kraaifontein 16:31
+
+Train No: 3500
+Mbekweni 05:03
+Muldersvlei 05:59
+Train No: 3502
+Mbekweni 07:03
+Muldersvlei 07:59
+Train No: 3504
+Mbekweni 09:18
+Muldersvlei 10:14
+Train No: 3506
+Mbekweni 11:29
+Muldersvlei 12:25
+Train No: 3508
+Mbekweni 15:23
+Muldersvlei 16:19
+
+Train No: 3500
+Mbekweni 05:03
+Klapmuts 05:44
+Train No: 3502
+Mbekweni 07:03
+Klapmuts 07:44
+Train No: 3504
+Mbekweni 09:18
+Klapmuts 09:59
+Train No: 3506
+Mbekweni 11:29
+Klapmuts 12:10
+Train No: 3508
+Mbekweni 15:23
+Klapmuts 16:04
+
+Train No: 3500
+Mbekweni 05:03
+Paarl 05:29
+Train No: 3502
+Mbekweni 07:03
+Paarl 07:29
+Train No: 3504
+Mbekweni 09:18
+Paarl 09:44
+Train No: 3506
+Mbekweni 11:29
+Paarl 11:55
+Train No: 3508
+Mbekweni 15:23
+Paarl 15:49
+
+Train No: 3500
+Mbekweni 05:03
+Huguenot 05:18
+Train No: 3502
+Mbekweni 07:03
+Huguenot 07:18
+Train No: 3504
+Mbekweni 09:18
+Huguenot 09:33
+Train No: 3506
+Mbekweni 11:29
+Huguenot 11:44
+Train No: 3508
+Mbekweni 15:23
+Huguenot 15:38
+
+Train No: 3500
+Mbekweni 05:03
+Dal Josafat 05:12
+Train No: 3502
+Mbekweni 07:03
+Dal Josafat 07:12
+Train No: 3504
+Mbekweni 09:18
+Dal Josafat 09:27
+Train No: 3506
+Mbekweni 11:29
+Dal Josafat 11:38
+Train No: 3508
+Mbekweni 15:23
+Dal Josafat 15:32
+
+Train No: 3501
+Mbekweni 06:22
+Wellington 06:36
+Train No: 3503
+Mbekweni 08:37
+Wellington 08:51
+Train No: 3505
+Mbekweni 10:52
+Wellington 11:06
+Train No: 3507
+Mbekweni 12:52
+Wellington 13:06
+Train No: 3509
+Mbekweni 14:44
+Wellington 14:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 3500
+Wellington 04:50
+Stikland 06:29
+Train No: 3502
+Wellington 06:50
+Stikland 08:29
+Train No: 3504
+Wellington 09:05
+Stikland 10:44
+Train No: 3506
+Wellington 11:16
+Stikland 12:55
+Train No: 3508
+Wellington 15:10
+Stikland 16:49
+
+Train No: 3500
+Wellington 04:50
+Brackenfell 06:22
+Train No: 3502
+Wellington 06:50
+Brackenfell 08:22
+Train No: 3504
+Wellington 09:05
+Brackenfell 10:37
+Train No: 3506
+Wellington 11:16
+Brackenfell 12:48
+Train No: 3508
+Wellington 15:10
+Brackenfell 16:42
+
+Train No: 3500
+Wellington 04:50
+Eikenfontein 06:16
+Train No: 3502
+Wellington 06:50
+Eikenfontein 08:16
+Train No: 3504
+Wellington 09:05
+Eikenfontein 10:31
+Train No: 3506
+Wellington 11:16
+Eikenfontein 12:42
+Train No: 3508
+Wellington 15:10
+Eikenfontein 16:36
+
+Train No: 3500
+Wellington 04:50
+Kraaifontein 06:11
+Train No: 3502
+Wellington 06:50
+Kraaifontein 08:11
+Train No: 3504
+Wellington 09:05
+Kraaifontein 10:26
+Train No: 3506
+Wellington 11:16
+Kraaifontein 12:37
+Train No: 3508
+Wellington 15:10
+Kraaifontein 16:31
+
+Train No: 3500
+Wellington 04:50
+Muldersvlei 05:59
+Train No: 3502
+Wellington 06:50
+Muldersvlei 07:59
+Train No: 3504
+Wellington 09:05
+Muldersvlei 10:14
+Train No: 3506
+Wellington 11:16
+Muldersvlei 12:25
+Train No: 3508
+Wellington 15:10
+Muldersvlei 16:19
+
+Train No: 3500
+Wellington 04:50
+Klapmuts 05:44
+Train No: 3502
+Wellington 06:50
+Klapmuts 07:44
+Train No: 3504
+Wellington 09:05
+Klapmuts 09:59
+Train No: 3506
+Wellington 11:16
+Klapmuts 12:10
+Train No: 3508
+Wellington 15:10
+Klapmuts 16:04
+
+Train No: 3500
+Wellington 04:50
+Paarl 05:29
+Train No: 3502
+Wellington 06:50
+Paarl 07:29
+Train No: 3504
+Wellington 09:05
+Paarl 09:44
+Train No: 3506
+Wellington 11:16
+Paarl 11:55
+Train No: 3508
+Wellington 15:10
+Paarl 15:49
+
+Train No: 3500
+Wellington 04:50
+Huguenot 05:18
+Train No: 3502
+Wellington 06:50
+Huguenot 07:18
+Train No: 3504
+Wellington 09:05
+Huguenot 09:33
+Train No: 3506
+Wellington 11:16
+Huguenot 11:44
+Train No: 3508
+Wellington 15:10
+Huguenot 15:38
+
+Train No: 3500
+Wellington 04:50
+Dal Josafat 05:12
+Train No: 3502
+Wellington 06:50
+Dal Josafat 07:12
+Train No: 3504
+Wellington 09:05
+Dal Josafat 09:27
+Train No: 3506
+Wellington 11:16
+Dal Josafat 11:38
+Train No: 3508
+Wellington 15:10
+Dal Josafat 15:32
+
+Train No: 3500
+Wellington 04:50
+Mbekweni 05:03
+Train No: 3502
+Wellington 06:50
+Mbekweni 07:03
+Train No: 3504
+Wellington 09:05
+Mbekweni 09:18
+Train No: 3506
+Wellington 11:16
+Mbekweni 11:29
+Train No: 3508
+Wellington 15:10
+Mbekweni 15:23
+
