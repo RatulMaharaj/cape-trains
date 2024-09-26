@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import SelectMenu from "@/components/ui/selectMenu";
+import SelectMenu2 from "@/components/combobox";
 import { useQuery } from "@tanstack/react-query";
 import { trainLines } from "@/lib/lines";
 import { properCase } from "@/lib/text";
@@ -65,6 +66,14 @@ export default function Page() {
           Please select a line and schedule
         </p>
         <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2">
+          <SelectMenu2
+            options={trainLines.map((line) => {
+              return {
+                id: line,
+                name: properCase(line),
+              };
+            })}
+          />
           <SelectMenu
             placeholder="Select a line"
             options={trainLines.map((line) => {
@@ -76,7 +85,6 @@ export default function Page() {
             value={line}
             setValue={setLine}
           />
-
           <SelectMenu
             placeholder="Select schedule"
             options={[
@@ -100,7 +108,7 @@ export default function Page() {
             </p>
             <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2">
               <SelectMenu
-                placeholder={"Select departure station"}
+                placeholder={"From?"}
                 options={
                   stations?.map((station: string) => {
                     return {
@@ -114,7 +122,7 @@ export default function Page() {
               />
 
               <SelectMenu
-                placeholder={"Select arrival station"}
+                placeholder={"To?"}
                 options={
                   stations?.map((station: string) => {
                     return {
