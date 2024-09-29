@@ -38,9 +38,6 @@ Train No: 9507
 Cape Town 17:00
 Maitland 17:14
 
-Train No: 9901
-Cape Town 04:48
-Ndabeni Ndabeni
 Train No: 9501
 Cape Town 06:40
 Ndabeni 06:58
@@ -997,21 +994,6 @@ Train No: 9409
 Ndabeni 18:34
 Pinelands 18:37
 
-Train No: 9901
-Ndabeni Ndabeni
-Esplanade 04:53
-
-Train No: 9901
-Ndabeni Ndabeni
-Ysterplaat 05:02
-
-Train No: 9901
-Ndabeni Ndabeni
-Mutual 05:12
-
-Train No: 9901
-Ndabeni Ndabeni
-Langa 05:19
 Train No: 9401
 Ndabeni 06:04
 Langa 06:16
@@ -1040,9 +1022,6 @@ Train No: 9409
 Ndabeni 18:34
 Langa 18:46
 
-Train No: 9901
-Ndabeni Ndabeni
-Nyanga 05:40
 Train No: 9401
 Ndabeni 06:04
 Nyanga 06:37
@@ -1058,28 +1037,6 @@ Nyanga 17:17
 Train No: 9409
 Ndabeni 18:34
 Nyanga 19:07
-
-Train No: 9901
-Ndabeni Ndabeni
-Philippi 05:46
-
-Train No: 9901
-Ndabeni Ndabeni
-Stock Road 05:51
-
-Train No: 9901
-Ndabeni Ndabeni
-Mandalay 05:56
-
-Train No: 9901
-Ndabeni Ndabeni
-Nolungile 06:00
-
-
-
-
-
-
 
 Train No: 9500
 Pinelands 05:54
@@ -1206,8 +1163,6 @@ Ndabeni 18:03
 Train No: 9508
 Pinelands 18:14
 Ndabeni 18:17
-
-
 
 
 Train No: 9401
