@@ -9,14 +9,14 @@ import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
 import clsx from "clsx";
 import { useState } from "react";
 
-export default function DropdownMenu({
+export default function ComboBox({
   options,
   placeholder,
   onChange,
 }: {
-  options: { id: number; name: string }[];
+  options: { value: number | string; label: string }[];
   placeholder?: string;
-  onChange?: (value: { id: number; name: string }) => void;
+  onChange?: (value: { value: number | string; label: string }) => void;
 }) {
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState(options[1]);
@@ -25,7 +25,7 @@ export default function DropdownMenu({
     query === ""
       ? options
       : options.filter((option) => {
-          return option.name.toLowerCase().includes(query.toLowerCase());
+          return option.label.toLowerCase().includes(query.toLowerCase());
         });
 
   return (
@@ -61,14 +61,14 @@ export default function DropdownMenu({
           "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0"
         )}
       >
-        {filteredOptions.map((option) => (
+        {filteredOptions.map((option, index) => (
           <ComboboxOption
-            key={option.id}
+            key={index}
             value={option}
             className="group flex cursor-default items-center gap-2 rounded-box py-1.5 px-3 select-none data-[focus]:bg-base-300"
           >
             <CheckIcon className="invisible size-4 fill-accent group-data-[selected]:visible" />
-            <div className="text-sm">{option.name}</div>
+            <div className="text-sm">{option.label}</div>
           </ComboboxOption>
         ))}
       </ComboboxOptions>

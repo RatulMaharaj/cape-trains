@@ -30,7 +30,7 @@ export const stations = [
 ];
 
 export const inbound = {
-  "simons town_d": {
+  "simons town": {
     "100": "",
     "200": "5:25",
     "102": "",
