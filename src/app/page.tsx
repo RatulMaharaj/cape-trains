@@ -73,6 +73,8 @@ export default function Page() {
 
   console.log({ day });
 
+  // TODO: Filter station options based on possible routes
+  // TODO: Show number of stops between stations as well as the estimated duration
   return (
     <>
       <div className="flex flex-col gap-x-2 gap-y-2 w-full items-center justify-center">
