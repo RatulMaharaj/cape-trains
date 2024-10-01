@@ -1,8 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import SelectMenu from "@/components/ui/selectMenu";
-import SelectMenu2 from "@/components/combobox";
+import SelectMenu from "@/components/combobox";
 import { useQuery } from "@tanstack/react-query";
 import { trainLines } from "@/lib/lines";
 import { properCase } from "@/lib/text";
@@ -13,16 +12,16 @@ export default function Page() {
   // Automatically set the schedule based on the day of the week
   const d = new Date();
   const dayInt = d.getDay();
-  let dayOfWeek = "monday - friday";
+  let dayOfWeek = "Mon-Fri";
   switch (dayInt) {
     case 0:
-      dayOfWeek = "sunday / public holidays";
+      dayOfWeek = "Sunday / Public Holiday";
       break;
     case 6:
-      dayOfWeek = "saturday";
+      dayOfWeek = "Saturday";
       break;
     default:
-      dayOfWeek = "monday - friday";
+      dayOfWeek = "Mon-Fri";
   }
 
   const [day, setDay] = useState(dayOfWeek);
@@ -42,7 +41,7 @@ export default function Page() {
     queryKey: ["schedules", line, departure, arrival],
     queryFn: async () => {
       const response = await fetch(
-        `/api/schedules?line=${line}&departure=${departure}&arrival=${arrival}`
+        `/api/schedules?line=${line}&departure=${departure}&arrival=${arrival}`,
       );
       return response.json() as Promise<
         {
@@ -57,89 +56,72 @@ export default function Page() {
     enabled: !!line && !!departure && !!arrival,
   });
 
-  console.log(schedules);
+  console.log({ day });
 
   return (
     <>
       <div className="flex flex-col gap-x-2 gap-y-2 w-full items-center justify-center">
         <p className="font-medium text-xs mb-2">
-          Please select a line and schedule
+          Please select departure and arrival stations
         </p>
-        <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2">
-          <SelectMenu2
-            options={trainLines.map((line, index) => {
-              return {
-                id: index,
-                name: properCase(line),
-              };
-            })}
-            onChange={(value) => {
-              setLine(value.name);
-            }}
-          />
+        <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2 mb-2">
           <SelectMenu
-            placeholder="Select a line"
             options={trainLines.map((line) => {
               return {
                 value: line,
                 label: properCase(line),
               };
             })}
-            value={line}
-            setValue={setLine}
+            onChange={(item) => {
+              setDeparture(item.value);
+            }}
+            placeholder="From?"
           />
           <SelectMenu
-            placeholder="Select schedule"
-            options={[
-              "monday - friday",
-              "saturday",
-              "sunday / public holidays",
-            ].map((day) => {
-              return {
-                value: day,
-                label: properCase(day),
-              };
-            })}
-            value={day}
-            setValue={setDay}
+            options={trainLines
+              .map((line) => {
+                if (line !== departure) {
+                  return {
+                    value: line,
+                    label: properCase(line),
+                  };
+                } else {
+                  return null;
+                }
+              })
+              .filter((item) => item !== null)}
+            onChange={(item) => {
+              setArrival(item.value);
+            }}
+            placeholder="To?"
           />
         </div>
-        {!isStationsLoading && stations ? (
-          <>
-            <p className="font-medium text-xs mt-4 mb-2">
-              Please select departure and arrival stations
-            </p>
-            <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2">
-              <SelectMenu
-                placeholder={"From?"}
-                options={
-                  stations?.map((station: string) => {
-                    return {
-                      value: station,
-                      label: properCase(station),
-                    };
-                  }) ?? ["No stations found"]
-                }
-                value={departure}
-                setValue={setDeparture}
-              />
-
-              <SelectMenu
-                placeholder={"To?"}
-                options={
-                  stations?.map((station: string) => {
-                    return {
-                      value: station,
-                      label: properCase(station),
-                    };
-                  }) ?? ["No stations found"]
-                }
-                value={arrival}
-                setValue={setArrival}
-              />
-            </div>
-          </>
-        ) : null}
+        <div className="join">
+          <input
+            className="join-item btn btn-sm"
+            type="radio"
+            name="day"
+            onChange={() => setDay("Mon-Fri")}
+            checked={day === "Mon-Fri"}
+            aria-label="Mon-Fri"
+          />
+          <input
+            className="join-item btn btn-sm"
+            type="radio"
+            name="day"
+            onChange={() => setDay("Saturday")}
+            checked={day === "Saturday"}
+            aria-label="Saturday"
+          />
+          <input
+            className="join-item btn btn-sm"
+            type="radio"
+            name="day"
+            onChange={() => setDay("Sunday / Public Holiday")}
+            checked={day === "Sunday / Public Holiday"}
+            aria-label="Sunday / Public Holiday"
+          />
+        </div>
 
         {isSchedulesLoading ? null : (
           <div className="w-full flex flex-col gap-y-4 my-8">

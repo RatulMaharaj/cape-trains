@@ -43,7 +43,7 @@ export default function ComboboxDemo({
           aria-expanded={open}
           className={cn(
             "justify-between min-w-96",
-            variant === "primary" ? "btn btn-outline btn-primary" : "btn"
+            variant === "primary" ? "btn btn-outline btn-primary" : "btn",
           )}
         >
           {value
@@ -71,7 +71,7 @@ export default function ComboboxDemo({
                   <CheckIcon
                     className={cn(
                       "ml-auto h-4 w-4",
-                      value === option.value ? "opacity-100" : "opacity-0"
+                      value === option.value ? "opacity-100" : "opacity-0",
                     )}
                   />
                 </CommandItem>

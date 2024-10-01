@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "format": "pnpm dlx prettier --write .",
     "start": "next start",
     "lint": "next lint"
   },

@@ -14,9 +14,9 @@ export default function ComboBox({
   placeholder,
   onChange,
 }: {
-  options: { value: number | string; label: string }[];
+  options: { value: string; label: string }[];
   placeholder?: string;
-  onChange?: (value: { value: number | string; label: string }) => void;
+  onChange?: (value: { value: string; label: string }) => void;
 }) {
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState(options[1]);
@@ -41,9 +41,9 @@ export default function ComboBox({
       }}
       onClose={() => setQuery("")}
     >
-      <div className="relative">
+      <div className="relative w-full">
         <ComboboxInput
-          className={clsx("input input-bordered")}
+          className={clsx("input input-bordered w-full")}
           displayValue={(option: { id: number; name: string }) => option?.name}
           placeholder={placeholder ?? "Select an option"}
           onChange={(event) => setQuery(event.target.value)}
@@ -58,7 +58,7 @@ export default function ComboBox({
         transition
         className={clsx(
           "w-[var(--input-width)] rounded-box border border-white/5 bg-base-200 p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
-          "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0"
+          "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0",
         )}
       >
         {filteredOptions.map((option, index) => (
@@ -68,7 +68,7 @@ export default function ComboBox({
             className="group flex cursor-default items-center gap-2 rounded-box py-1.5 px-3 select-none data-[focus]:bg-base-300"
           >
             <CheckIcon className="invisible size-4 fill-accent group-data-[selected]:visible" />
-            <div className="text-sm">{option.label}</div>
+            <div className="text-sm text-accent-content">{option.label}</div>
           </ComboboxOption>
         ))}
       </ComboboxOptions>
