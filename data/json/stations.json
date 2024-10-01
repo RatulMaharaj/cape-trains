@@ -1,0 +1,140 @@
+[
+  {
+    "name": "bellville",
+    "lines": ["northern_line", "combined_northern_line", "central_line"]
+  },
+  { "name": "oosterzee", "lines": ["northern_line"] },
+  { "name": "avondale", "lines": ["northern_line"] },
+  { "name": "de grendel", "lines": ["northern_line"] },
+  { "name": "monte vista", "lines": ["northern_line"] },
+  { "name": "century city", "lines": ["northern_line"] },
+  { "name": "kentemade", "lines": ["northern_line"] },
+  { "name": "ysterplaat", "lines": ["northern_line", "central_line"] },
+  { "name": "esplanade", "lines": ["northern_line", "central_line"] },
+  {
+    "name": "cape town",
+    "lines": [
+      "northern_line",
+      "cape_flats_line",
+      "combined_northern_line",
+      "southern_line",
+      "central_line"
+    ]
+  },
+  {
+    "name": "woodstock",
+    "lines": [
+      "cape_flats_line",
+      "combined_northern_line",
+      "southern_line",
+      "central_line"
+    ]
+  },
+  {
+    "name": "salt river",
+    "lines": [
+      "cape_flats_line",
+      "combined_northern_line",
+      "southern_line",
+      "central_line"
+    ]
+  },
+  { "name": "koeberg rd", "lines": ["cape_flats_line"] },
+  {
+    "name": "maitland",
+    "lines": ["cape_flats_line", "combined_northern_line", "central_line"]
+  },
+  { "name": "ndabeni", "lines": ["cape_flats_line", "central_line"] },
+  { "name": "pinelands", "lines": ["cape_flats_line", "central_line"] },
+  { "name": "hazendal", "lines": ["cape_flats_line"] },
+  { "name": "athlone", "lines": ["cape_flats_line"] },
+  { "name": "crawford", "lines": ["cape_flats_line"] },
+  { "name": "lansdowne", "lines": ["cape_flats_line"] },
+  { "name": "wetton", "lines": ["cape_flats_line"] },
+  { "name": "ottery", "lines": ["cape_flats_line"] },
+  { "name": "southfield", "lines": ["cape_flats_line"] },
+  { "name": "heathfield", "lines": ["cape_flats_line", "southern_line"] },
+  { "name": "retreat", "lines": ["cape_flats_line", "southern_line"] },
+  {
+    "name": "koeberg road",
+    "lines": ["combined_northern_line", "central_line"]
+  },
+  { "name": "mutual", "lines": ["combined_northern_line", "central_line"] },
+  { "name": "thornton", "lines": ["combined_northern_line"] },
+  { "name": "goodwood", "lines": ["combined_northern_line"] },
+  { "name": "vasco", "lines": ["combined_northern_line"] },
+  { "name": "elsies river", "lines": ["combined_northern_line"] },
+  { "name": "parow", "lines": ["combined_northern_line"] },
+  { "name": "tygerberg", "lines": ["combined_northern_line"] },
+  { "name": "kuils river", "lines": ["combined_northern_line"] },
+  { "name": "blackheath", "lines": ["combined_northern_line"] },
+  { "name": "meltonrose", "lines": ["combined_northern_line"] },
+  { "name": "eerste river", "lines": ["combined_northern_line"] },
+  { "name": "somerset west", "lines": ["combined_northern_line"] },
+  { "name": "van der stel", "lines": ["combined_northern_line"] },
+  { "name": "strand", "lines": ["combined_northern_line"] },
+  { "name": "lynedoch", "lines": ["combined_northern_line"] },
+  { "name": "vlottenburg", "lines": ["combined_northern_line"] },
+  { "name": "stellenbosch", "lines": ["combined_northern_line"] },
+  { "name": "stikland", "lines": ["combined_northern_line"] },
+  { "name": "brackenfell", "lines": ["combined_northern_line"] },
+  { "name": "eikenfontein", "lines": ["combined_northern_line"] },
+  { "name": "kraaifontein", "lines": ["combined_northern_line"] },
+  { "name": "muldersvlei", "lines": ["combined_northern_line"] },
+  { "name": "klapmuts", "lines": ["combined_northern_line"] },
+  { "name": "paarl", "lines": ["combined_northern_line"] },
+  { "name": "huguenot", "lines": ["combined_northern_line"] },
+  { "name": "dal josafat", "lines": ["combined_northern_line"] },
+  { "name": "mbekweni", "lines": ["combined_northern_line"] },
+  { "name": "wellington", "lines": ["combined_northern_line"] },
+  { "name": "observatory", "lines": ["southern_line"] },
+  { "name": "mowbray", "lines": ["southern_line"] },
+  { "name": "rosebank", "lines": ["southern_line"] },
+  { "name": "rondebosch", "lines": ["southern_line"] },
+  { "name": "newlands", "lines": ["southern_line"] },
+  { "name": "claremont", "lines": ["southern_line"] },
+  { "name": "harfield rd", "lines": ["southern_line"] },
+  { "name": "kenilworth", "lines": ["southern_line"] },
+  { "name": "wynberg", "lines": ["southern_line"] },
+  { "name": "wittebome", "lines": ["southern_line"] },
+  { "name": "plumstead", "lines": ["southern_line"] },
+  { "name": "steurhof", "lines": ["southern_line"] },
+  { "name": "dieprivier", "lines": ["southern_line"] },
+  { "name": "steenberg", "lines": ["southern_line"] },
+  { "name": "lakeside", "lines": ["southern_line"] },
+  { "name": "false bay", "lines": ["southern_line"] },
+  { "name": "muizenberg", "lines": ["southern_line"] },
+  { "name": "st james", "lines": ["southern_line"] },
+  { "name": "kalk bay", "lines": ["southern_line"] },
+  {
+    "name": "fish hoek",
+    "lines": [
+      "southern_line",
+      "shuttle_fish_hoek_simons_tow",
+      "shuttle_fish_hoek_simons_town"
+    ]
+  },
+  {
+    "name": "simonstown",
+    "lines": ["shuttle_fish_hoek_simons_tow", "shuttle_fish_hoek_simons_town"]
+  },
+  {
+    "name": "glencairn",
+    "lines": ["shuttle_fish_hoek_simons_tow", "shuttle_fish_hoek_simons_town"]
+  },
+  {
+    "name": "sunny cove",
+    "lines": ["shuttle_fish_hoek_simons_tow", "shuttle_fish_hoek_simons_town"]
+  },
+  { "name": "sarepta", "lines": ["central_line"] },
+  { "name": "pentech", "lines": ["central_line"] },
+  { "name": "unibell", "lines": ["central_line"] },
+  { "name": "belhar", "lines": ["central_line"] },
+  { "name": "lavistown", "lines": ["central_line"] },
+  { "name": "nolungile", "lines": ["central_line"] },
+  { "name": "mandalay", "lines": ["central_line"] },
+  { "name": "stock road", "lines": ["central_line"] },
+  { "name": "philippi", "lines": ["central_line"] },
+  { "name": "nyanga", "lines": ["central_line"] },
+  { "name": "langa", "lines": ["central_line"] }
+]

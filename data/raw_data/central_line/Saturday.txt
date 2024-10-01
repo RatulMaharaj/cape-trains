@@ -1,0 +1,2310 @@
+Train No: 9501
+Cape Town 06:40
+Woodstock 06:43
+Train No: 9503
+Cape Town 08:00
+Woodstock 08:03
+Train No: 9505
+Cape Town 11:00
+Woodstock 11:03
+Train No: 9507
+Cape Town 12:50
+Woodstock 12:53
+
+Train No: 9501
+Cape Town 06:40
+Salt River 06:48
+Train No: 9503
+Cape Town 08:00
+Salt River 08:08
+Train No: 9505
+Cape Town 11:00
+Salt River 11:08
+Train No: 9507
+Cape Town 12:50
+Salt River 12:58
+
+Train No: 9501
+Cape Town 06:40
+Koeberg Road 06:51
+Train No: 9503
+Cape Town 08:00
+Koeberg Road 08:11
+Train No: 9505
+Cape Town 11:00
+Koeberg Road 11:11
+Train No: 9507
+Cape Town 12:50
+Koeberg Road 13:01
+
+Train No: 9501
+Cape Town 06:40
+Maitland 06:54
+Train No: 9503
+Cape Town 08:00
+Maitland 08:14
+Train No: 9505
+Cape Town 11:00
+Maitland 11:14
+Train No: 9507
+Cape Town 12:50
+Maitland 13:04
+
+Train No: 9501
+Cape Town 06:40
+Ndabeni 06:58
+Train No: 9503
+Cape Town 08:00
+Ndabeni 08:18
+Train No: 9505
+Cape Town 11:00
+Ndabeni 11:18
+Train No: 9507
+Cape Town 12:50
+Ndabeni 13:08
+
+Train No: 9501
+Cape Town 06:40
+Pinelands 07:01
+Train No: 9503
+Cape Town 08:00
+Pinelands 08:21
+Train No: 9505
+Cape Town 11:00
+Pinelands 11:21
+Train No: 9507
+Cape Town 12:50
+Pinelands 13:11
+
+Train No: 9901
+Cape Town 04:48
+Esplanade 04:53
+Train No: 9903
+Cape Town 06:08
+Esplanade 06:13
+Train No: 9905
+Cape Town 07:40
+Esplanade 07:45
+Train No: 9907
+Cape Town 09:30
+Esplanade 09:35
+Train No: 9909
+Cape Town 11:20
+Esplanade 11:25
+Train No: 9911
+Cape Town 13:10
+Esplanade 13:15
+
+Train No: 9901
+Cape Town 04:48
+Ysterplaat 05:02
+Train No: 9903
+Cape Town 06:08
+Ysterplaat 06:22
+Train No: 9905
+Cape Town 07:40
+Ysterplaat 07:54
+Train No: 9907
+Cape Town 09:30
+Ysterplaat 09:44
+Train No: 9909
+Cape Town 11:20
+Ysterplaat 11:34
+Train No: 9911
+Cape Town 13:10
+Ysterplaat 13:24
+
+Train No: 9901
+Cape Town 04:48
+Mutual 05:12
+Train No: 9903
+Cape Town 06:08
+Mutual 06:32
+Train No: 9905
+Cape Town 07:40
+Mutual 08:04
+Train No: 9907
+Cape Town 09:30
+Mutual 09:54
+Train No: 9909
+Cape Town 11:20
+Mutual 11:44
+Train No: 9911
+Cape Town 13:10
+Mutual 13:34
+
+Train No: 9901
+Cape Town 04:48
+Langa 05:19
+Train No: 9903
+Cape Town 06:08
+Langa 06:39
+Train No: 9501
+Cape Town 06:40
+Langa 07:10
+Train No: 9905
+Cape Town 07:40
+Langa 08:11
+Train No: 9503
+Cape Town 08:00
+Langa 08:30
+Train No: 9907
+Cape Town 09:30
+Langa 10:01
+Train No: 9505
+Cape Town 11:00
+Langa 11:30
+Train No: 9909
+Cape Town 11:20
+Langa 11:51
+Train No: 9507
+Cape Town 12:50
+Langa 13:20
+Train No: 9911
+Cape Town 13:10
+Langa 13:41
+
+Train No: 9901
+Cape Town 04:48
+Nyanga 05:40
+Train No: 9903
+Cape Town 06:08
+Nyanga 07:00
+Train No: 9905
+Cape Town 07:40
+Nyanga 08:32
+Train No: 9907
+Cape Town 09:30
+Nyanga 10:22
+Train No: 9909
+Cape Town 11:20
+Nyanga 12:12
+Train No: 9911
+Cape Town 13:10
+Nyanga 14:02
+
+
+Train No: 9901
+Cape Town 04:48
+Stock Road 05:51
+Train No: 9903
+Cape Town 06:08
+Stock Road 07:11
+Train No: 9905
+Cape Town 07:40
+Stock Road 08:43
+Train No: 9907
+Cape Town 09:30
+Stock Road 10:33
+Train No: 9909
+Cape Town 11:20
+Stock Road 12:23
+Train No: 9911
+Cape Town 13:10
+Stock Road 14:13
+
+Train No: 9901
+Cape Town 04:48
+Mandalay 05:56
+Train No: 9903
+Cape Town 06:08
+Mandalay 07:16
+Train No: 9905
+Cape Town 07:40
+Mandalay 08:48
+Train No: 9907
+Cape Town 09:30
+Mandalay 10:38
+Train No: 9909
+Cape Town 11:20
+Mandalay 12:28
+Train No: 9911
+Cape Town 13:10
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9500
+Woodstock 06:27
+Cape Town 06:30
+Train No: 9502
+Woodstock 07:47
+Cape Town 07:50
+Train No: 9504
+Woodstock 09:07
+Cape Town 09:10
+Train No: 9506
+Woodstock 12:27
+Cape Town 12:30
+Train No: 9508
+Woodstock 14:12
+Cape Town 14:15
+
+Train No: 9501
+Woodstock 06:43
+Salt River 06:48
+Train No: 9503
+Woodstock 08:03
+Salt River 08:08
+Train No: 9505
+Woodstock 11:03
+Salt River 11:08
+Train No: 9507
+Woodstock 12:53
+Salt River 12:58
+
+Train No: 9501
+Woodstock 06:43
+Koeberg Road 06:51
+Train No: 9503
+Woodstock 08:03
+Koeberg Road 08:11
+Train No: 9505
+Woodstock 11:03
+Koeberg Road 11:11
+Train No: 9507
+Woodstock 12:53
+Koeberg Road 13:01
+
+Train No: 9501
+Woodstock 06:43
+Maitland 06:54
+Train No: 9503
+Woodstock 08:03
+Maitland 08:14
+Train No: 9505
+Woodstock 11:03
+Maitland 11:14
+Train No: 9507
+Woodstock 12:53
+Maitland 13:04
+
+Train No: 9501
+Woodstock 06:43
+Ndabeni 06:58
+Train No: 9503
+Woodstock 08:03
+Ndabeni 08:18
+Train No: 9505
+Woodstock 11:03
+Ndabeni 11:18
+Train No: 9507
+Woodstock 12:53
+Ndabeni 13:08
+
+Train No: 9501
+Woodstock 06:43
+Pinelands 07:01
+Train No: 9503
+Woodstock 08:03
+Pinelands 08:21
+Train No: 9505
+Woodstock 11:03
+Pinelands 11:21
+Train No: 9507
+Woodstock 12:53
+Pinelands 13:11
+
+
+
+
+Train No: 9501
+Woodstock 06:43
+Langa 07:10
+Train No: 9503
+Woodstock 08:03
+Langa 08:30
+Train No: 9505
+Woodstock 11:03
+Langa 11:30
+Train No: 9507
+Woodstock 12:53
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9500
+Salt River 06:22
+Cape Town 06:30
+Train No: 9502
+Salt River 07:42
+Cape Town 07:50
+Train No: 9504
+Salt River 09:02
+Cape Town 09:10
+Train No: 9506
+Salt River 12:22
+Cape Town 12:30
+Train No: 9508
+Salt River 14:07
+Cape Town 14:15
+
+Train No: 9500
+Salt River 06:22
+Woodstock 06:27
+Train No: 9502
+Salt River 07:42
+Woodstock 07:47
+Train No: 9504
+Salt River 09:02
+Woodstock 09:07
+Train No: 9506
+Salt River 12:22
+Woodstock 12:27
+Train No: 9508
+Salt River 14:07
+Woodstock 14:12
+
+Train No: 9501
+Salt River 06:48
+Koeberg Road 06:51
+Train No: 9503
+Salt River 08:08
+Koeberg Road 08:11
+Train No: 9505
+Salt River 11:08
+Koeberg Road 11:11
+Train No: 9507
+Salt River 12:58
+Koeberg Road 13:01
+
+Train No: 9501
+Salt River 06:48
+Maitland 06:54
+Train No: 9503
+Salt River 08:08
+Maitland 08:14
+Train No: 9505
+Salt River 11:08
+Maitland 11:14
+Train No: 9507
+Salt River 12:58
+Maitland 13:04
+
+Train No: 9501
+Salt River 06:48
+Ndabeni 06:58
+Train No: 9503
+Salt River 08:08
+Ndabeni 08:18
+Train No: 9505
+Salt River 11:08
+Ndabeni 11:18
+Train No: 9507
+Salt River 12:58
+Ndabeni 13:08
+
+Train No: 9501
+Salt River 06:48
+Pinelands 07:01
+Train No: 9503
+Salt River 08:08
+Pinelands 08:21
+Train No: 9505
+Salt River 11:08
+Pinelands 11:21
+Train No: 9507
+Salt River 12:58
+Pinelands 13:11
+
+
+
+
+Train No: 9501
+Salt River 06:48
+Langa 07:10
+Train No: 9503
+Salt River 08:08
+Langa 08:30
+Train No: 9505
+Salt River 11:08
+Langa 11:30
+Train No: 9507
+Salt River 12:58
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9500
+Koeberg Road 06:19
+Cape Town 06:30
+Train No: 9502
+Koeberg Road 07:39
+Cape Town 07:50
+Train No: 9504
+Koeberg Road 08:59
+Cape Town 09:10
+Train No: 9506
+Koeberg Road 12:19
+Cape Town 12:30
+Train No: 9508
+Koeberg Road 14:04
+Cape Town 14:15
+
+Train No: 9500
+Koeberg Road 06:19
+Woodstock 06:27
+Train No: 9502
+Koeberg Road 07:39
+Woodstock 07:47
+Train No: 9504
+Koeberg Road 08:59
+Woodstock 09:07
+Train No: 9506
+Koeberg Road 12:19
+Woodstock 12:27
+Train No: 9508
+Koeberg Road 14:04
+Woodstock 14:12
+
+Train No: 9500
+Koeberg Road 06:19
+Salt River 06:22
+Train No: 9502
+Koeberg Road 07:39
+Salt River 07:42
+Train No: 9504
+Koeberg Road 08:59
+Salt River 09:02
+Train No: 9506
+Koeberg Road 12:19
+Salt River 12:22
+Train No: 9508
+Koeberg Road 14:04
+Salt River 14:07
+
+Train No: 9501
+Koeberg Road 06:51
+Maitland 06:54
+Train No: 9503
+Koeberg Road 08:11
+Maitland 08:14
+Train No: 9505
+Koeberg Road 11:11
+Maitland 11:14
+Train No: 9507
+Koeberg Road 13:01
+Maitland 13:04
+
+Train No: 9501
+Koeberg Road 06:51
+Ndabeni 06:58
+Train No: 9503
+Koeberg Road 08:11
+Ndabeni 08:18
+Train No: 9505
+Koeberg Road 11:11
+Ndabeni 11:18
+Train No: 9507
+Koeberg Road 13:01
+Ndabeni 13:08
+
+Train No: 9501
+Koeberg Road 06:51
+Pinelands 07:01
+Train No: 9503
+Koeberg Road 08:11
+Pinelands 08:21
+Train No: 9505
+Koeberg Road 11:11
+Pinelands 11:21
+Train No: 9507
+Koeberg Road 13:01
+Pinelands 13:11
+
+
+
+
+Train No: 9501
+Koeberg Road 06:51
+Langa 07:10
+Train No: 9503
+Koeberg Road 08:11
+Langa 08:30
+Train No: 9505
+Koeberg Road 11:11
+Langa 11:30
+Train No: 9507
+Koeberg Road 13:01
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9500
+Maitland 06:16
+Cape Town 06:30
+Train No: 9502
+Maitland 07:36
+Cape Town 07:50
+Train No: 9504
+Maitland 08:56
+Cape Town 09:10
+Train No: 9506
+Maitland 12:16
+Cape Town 12:30
+Train No: 9508
+Maitland 14:01
+Cape Town 14:15
+
+Train No: 9500
+Maitland 06:16
+Woodstock 06:27
+Train No: 9502
+Maitland 07:36
+Woodstock 07:47
+Train No: 9504
+Maitland 08:56
+Woodstock 09:07
+Train No: 9506
+Maitland 12:16
+Woodstock 12:27
+Train No: 9508
+Maitland 14:01
+Woodstock 14:12
+
+Train No: 9500
+Maitland 06:16
+Salt River 06:22
+Train No: 9502
+Maitland 07:36
+Salt River 07:42
+Train No: 9504
+Maitland 08:56
+Salt River 09:02
+Train No: 9506
+Maitland 12:16
+Salt River 12:22
+Train No: 9508
+Maitland 14:01
+Salt River 14:07
+
+Train No: 9500
+Maitland 06:16
+Koeberg Road 06:19
+Train No: 9502
+Maitland 07:36
+Koeberg Road 07:39
+Train No: 9504
+Maitland 08:56
+Koeberg Road 08:59
+Train No: 9506
+Maitland 12:16
+Koeberg Road 12:19
+Train No: 9508
+Maitland 14:01
+Koeberg Road 14:04
+
+Train No: 9501
+Maitland 06:54
+Ndabeni 06:58
+Train No: 9503
+Maitland 08:14
+Ndabeni 08:18
+Train No: 9505
+Maitland 11:14
+Ndabeni 11:18
+Train No: 9507
+Maitland 13:04
+Ndabeni 13:08
+
+Train No: 9501
+Maitland 06:54
+Pinelands 07:01
+Train No: 9503
+Maitland 08:14
+Pinelands 08:21
+Train No: 9505
+Maitland 11:14
+Pinelands 11:21
+Train No: 9507
+Maitland 13:04
+Pinelands 13:11
+
+
+
+
+Train No: 9501
+Maitland 06:54
+Langa 07:10
+Train No: 9503
+Maitland 08:14
+Langa 08:30
+Train No: 9505
+Maitland 11:14
+Langa 11:30
+Train No: 9507
+Maitland 13:04
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9500
+Ndabeni 06:12
+Cape Town 06:30
+Train No: 9502
+Ndabeni 07:32
+Cape Town 07:50
+Train No: 9504
+Ndabeni 08:52
+Cape Town 09:10
+Train No: 9506
+Ndabeni 12:12
+Cape Town 12:30
+Train No: 9508
+Ndabeni 13:57
+Cape Town 14:15
+
+Train No: 9500
+Ndabeni 06:12
+Woodstock 06:27
+Train No: 9502
+Ndabeni 07:32
+Woodstock 07:47
+Train No: 9504
+Ndabeni 08:52
+Woodstock 09:07
+Train No: 9506
+Ndabeni 12:12
+Woodstock 12:27
+Train No: 9508
+Ndabeni 13:57
+Woodstock 14:12
+
+Train No: 9500
+Ndabeni 06:12
+Salt River 06:22
+Train No: 9502
+Ndabeni 07:32
+Salt River 07:42
+Train No: 9504
+Ndabeni 08:52
+Salt River 09:02
+Train No: 9506
+Ndabeni 12:12
+Salt River 12:22
+Train No: 9508
+Ndabeni 13:57
+Salt River 14:07
+
+Train No: 9500
+Ndabeni 06:12
+Koeberg Road 06:19
+Train No: 9502
+Ndabeni 07:32
+Koeberg Road 07:39
+Train No: 9504
+Ndabeni 08:52
+Koeberg Road 08:59
+Train No: 9506
+Ndabeni 12:12
+Koeberg Road 12:19
+Train No: 9508
+Ndabeni 13:57
+Koeberg Road 14:04
+
+Train No: 9500
+Ndabeni 06:12
+Maitland 06:16
+Train No: 9502
+Ndabeni 07:32
+Maitland 07:36
+Train No: 9504
+Ndabeni 08:52
+Maitland 08:56
+Train No: 9506
+Ndabeni 12:12
+Maitland 12:16
+Train No: 9508
+Ndabeni 13:57
+Maitland 14:01
+
+Train No: 9501
+Ndabeni 06:58
+Pinelands 07:01
+Train No: 9503
+Ndabeni 08:18
+Pinelands 08:21
+Train No: 9505
+Ndabeni 11:18
+Pinelands 11:21
+Train No: 9507
+Ndabeni 13:08
+Pinelands 13:11
+
+
+
+
+Train No: 9501
+Ndabeni 06:58
+Langa 07:10
+Train No: 9503
+Ndabeni 08:18
+Langa 08:30
+Train No: 9505
+Ndabeni 11:18
+Langa 11:30
+Train No: 9507
+Ndabeni 13:08
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9500
+Pinelands 06:09
+Cape Town 06:30
+Train No: 9502
+Pinelands 07:29
+Cape Town 07:50
+Train No: 9504
+Pinelands 08:49
+Cape Town 09:10
+Train No: 9506
+Pinelands 12:09
+Cape Town 12:30
+Train No: 9508
+Pinelands 13:54
+Cape Town 14:15
+
+Train No: 9500
+Pinelands 06:09
+Woodstock 06:27
+Train No: 9502
+Pinelands 07:29
+Woodstock 07:47
+Train No: 9504
+Pinelands 08:49
+Woodstock 09:07
+Train No: 9506
+Pinelands 12:09
+Woodstock 12:27
+Train No: 9508
+Pinelands 13:54
+Woodstock 14:12
+
+Train No: 9500
+Pinelands 06:09
+Salt River 06:22
+Train No: 9502
+Pinelands 07:29
+Salt River 07:42
+Train No: 9504
+Pinelands 08:49
+Salt River 09:02
+Train No: 9506
+Pinelands 12:09
+Salt River 12:22
+Train No: 9508
+Pinelands 13:54
+Salt River 14:07
+
+Train No: 9500
+Pinelands 06:09
+Koeberg Road 06:19
+Train No: 9502
+Pinelands 07:29
+Koeberg Road 07:39
+Train No: 9504
+Pinelands 08:49
+Koeberg Road 08:59
+Train No: 9506
+Pinelands 12:09
+Koeberg Road 12:19
+Train No: 9508
+Pinelands 13:54
+Koeberg Road 14:04
+
+Train No: 9500
+Pinelands 06:09
+Maitland 06:16
+Train No: 9502
+Pinelands 07:29
+Maitland 07:36
+Train No: 9504
+Pinelands 08:49
+Maitland 08:56
+Train No: 9506
+Pinelands 12:09
+Maitland 12:16
+Train No: 9508
+Pinelands 13:54
+Maitland 14:01
+
+Train No: 9500
+Pinelands 06:09
+Ndabeni 06:12
+Train No: 9502
+Pinelands 07:29
+Ndabeni 07:32
+Train No: 9504
+Pinelands 08:49
+Ndabeni 08:52
+Train No: 9506
+Pinelands 12:09
+Ndabeni 12:12
+Train No: 9508
+Pinelands 13:54
+Ndabeni 13:57
+
+
+
+
+Train No: 9501
+Pinelands 07:01
+Langa 07:10
+Train No: 9503
+Pinelands 08:21
+Langa 08:30
+Train No: 9505
+Pinelands 11:21
+Langa 11:30
+Train No: 9507
+Pinelands 13:11
+Langa 13:20
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9900
+Esplanade 05:47
+Cape Town 05:52
+Train No: 9902
+Esplanade 07:17
+Cape Town 07:22
+Train No: 9904
+Esplanade 08:37
+Cape Town 08:42
+Train No: 9906
+Esplanade 10:27
+Cape Town 10:32
+Train No: 9908
+Esplanade 12:17
+Cape Town 12:22
+Train No: 9910
+Esplanade 14:02
+Cape Town 14:07
+Train No: 9912
+Esplanade 15:42
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9901
+Esplanade 04:53
+Ysterplaat 05:02
+Train No: 9903
+Esplanade 06:13
+Ysterplaat 06:22
+Train No: 9905
+Esplanade 07:45
+Ysterplaat 07:54
+Train No: 9907
+Esplanade 09:35
+Ysterplaat 09:44
+Train No: 9909
+Esplanade 11:25
+Ysterplaat 11:34
+Train No: 9911
+Esplanade 13:15
+Ysterplaat 13:24
+
+Train No: 9901
+Esplanade 04:53
+Mutual 05:12
+Train No: 9903
+Esplanade 06:13
+Mutual 06:32
+Train No: 9905
+Esplanade 07:45
+Mutual 08:04
+Train No: 9907
+Esplanade 09:35
+Mutual 09:54
+Train No: 9909
+Esplanade 11:25
+Mutual 11:44
+Train No: 9911
+Esplanade 13:15
+Mutual 13:34
+
+Train No: 9901
+Esplanade 04:53
+Langa 05:19
+Train No: 9903
+Esplanade 06:13
+Langa 06:39
+Train No: 9905
+Esplanade 07:45
+Langa 08:11
+Train No: 9907
+Esplanade 09:35
+Langa 10:01
+Train No: 9909
+Esplanade 11:25
+Langa 11:51
+Train No: 9911
+Esplanade 13:15
+Langa 13:41
+
+Train No: 9901
+Esplanade 04:53
+Nyanga 05:40
+Train No: 9903
+Esplanade 06:13
+Nyanga 07:00
+Train No: 9905
+Esplanade 07:45
+Nyanga 08:32
+Train No: 9907
+Esplanade 09:35
+Nyanga 10:22
+Train No: 9909
+Esplanade 11:25
+Nyanga 12:12
+Train No: 9911
+Esplanade 13:15
+Nyanga 14:02
+
+
+Train No: 9901
+Esplanade 04:53
+Stock Road 05:51
+Train No: 9903
+Esplanade 06:13
+Stock Road 07:11
+Train No: 9905
+Esplanade 07:45
+Stock Road 08:43
+Train No: 9907
+Esplanade 09:35
+Stock Road 10:33
+Train No: 9909
+Esplanade 11:25
+Stock Road 12:23
+Train No: 9911
+Esplanade 13:15
+Stock Road 14:13
+
+Train No: 9901
+Esplanade 04:53
+Mandalay 05:56
+Train No: 9903
+Esplanade 06:13
+Mandalay 07:16
+Train No: 9905
+Esplanade 07:45
+Mandalay 08:48
+Train No: 9907
+Esplanade 09:35
+Mandalay 10:38
+Train No: 9909
+Esplanade 11:25
+Mandalay 12:28
+Train No: 9911
+Esplanade 13:15
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9900
+Ysterplaat 05:38
+Cape Town 05:52
+Train No: 9902
+Ysterplaat 07:08
+Cape Town 07:22
+Train No: 9904
+Ysterplaat 08:28
+Cape Town 08:42
+Train No: 9906
+Ysterplaat 10:18
+Cape Town 10:32
+Train No: 9908
+Ysterplaat 12:08
+Cape Town 12:22
+Train No: 9910
+Ysterplaat 13:53
+Cape Town 14:07
+Train No: 9912
+Ysterplaat 15:33
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9900
+Ysterplaat 05:38
+Esplanade 05:47
+Train No: 9902
+Ysterplaat 07:08
+Esplanade 07:17
+Train No: 9904
+Ysterplaat 08:28
+Esplanade 08:37
+Train No: 9906
+Ysterplaat 10:18
+Esplanade 10:27
+Train No: 9908
+Ysterplaat 12:08
+Esplanade 12:17
+Train No: 9910
+Ysterplaat 13:53
+Esplanade 14:02
+Train No: 9912
+Ysterplaat 15:33
+Esplanade 15:42
+
+Train No: 9901
+Ysterplaat 05:02
+Mutual 05:12
+Train No: 9903
+Ysterplaat 06:22
+Mutual 06:32
+Train No: 9905
+Ysterplaat 07:54
+Mutual 08:04
+Train No: 9907
+Ysterplaat 09:44
+Mutual 09:54
+Train No: 9909
+Ysterplaat 11:34
+Mutual 11:44
+Train No: 9911
+Ysterplaat 13:24
+Mutual 13:34
+
+Train No: 9901
+Ysterplaat 05:02
+Langa 05:19
+Train No: 9903
+Ysterplaat 06:22
+Langa 06:39
+Train No: 9905
+Ysterplaat 07:54
+Langa 08:11
+Train No: 9907
+Ysterplaat 09:44
+Langa 10:01
+Train No: 9909
+Ysterplaat 11:34
+Langa 11:51
+Train No: 9911
+Ysterplaat 13:24
+Langa 13:41
+
+Train No: 9901
+Ysterplaat 05:02
+Nyanga 05:40
+Train No: 9903
+Ysterplaat 06:22
+Nyanga 07:00
+Train No: 9905
+Ysterplaat 07:54
+Nyanga 08:32
+Train No: 9907
+Ysterplaat 09:44
+Nyanga 10:22
+Train No: 9909
+Ysterplaat 11:34
+Nyanga 12:12
+Train No: 9911
+Ysterplaat 13:24
+Nyanga 14:02
+
+
+Train No: 9901
+Ysterplaat 05:02
+Stock Road 05:51
+Train No: 9903
+Ysterplaat 06:22
+Stock Road 07:11
+Train No: 9905
+Ysterplaat 07:54
+Stock Road 08:43
+Train No: 9907
+Ysterplaat 09:44
+Stock Road 10:33
+Train No: 9909
+Ysterplaat 11:34
+Stock Road 12:23
+Train No: 9911
+Ysterplaat 13:24
+Stock Road 14:13
+
+Train No: 9901
+Ysterplaat 05:02
+Mandalay 05:56
+Train No: 9903
+Ysterplaat 06:22
+Mandalay 07:16
+Train No: 9905
+Ysterplaat 07:54
+Mandalay 08:48
+Train No: 9907
+Ysterplaat 09:44
+Mandalay 10:38
+Train No: 9909
+Ysterplaat 11:34
+Mandalay 12:28
+Train No: 9911
+Ysterplaat 13:24
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9900
+Mutual 05:28
+Cape Town 05:52
+Train No: 9902
+Mutual 06:58
+Cape Town 07:22
+Train No: 9904
+Mutual 08:18
+Cape Town 08:42
+Train No: 9906
+Mutual 10:08
+Cape Town 10:32
+Train No: 9908
+Mutual 11:58
+Cape Town 12:22
+Train No: 9910
+Mutual 13:43
+Cape Town 14:07
+Train No: 9912
+Mutual 15:23
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9900
+Mutual 05:28
+Esplanade 05:47
+Train No: 9902
+Mutual 06:58
+Esplanade 07:17
+Train No: 9904
+Mutual 08:18
+Esplanade 08:37
+Train No: 9906
+Mutual 10:08
+Esplanade 10:27
+Train No: 9908
+Mutual 11:58
+Esplanade 12:17
+Train No: 9910
+Mutual 13:43
+Esplanade 14:02
+Train No: 9912
+Mutual 15:23
+Esplanade 15:42
+
+Train No: 9900
+Mutual 05:28
+Ysterplaat 05:38
+Train No: 9902
+Mutual 06:58
+Ysterplaat 07:08
+Train No: 9904
+Mutual 08:18
+Ysterplaat 08:28
+Train No: 9906
+Mutual 10:08
+Ysterplaat 10:18
+Train No: 9908
+Mutual 11:58
+Ysterplaat 12:08
+Train No: 9910
+Mutual 13:43
+Ysterplaat 13:53
+Train No: 9912
+Mutual 15:23
+Ysterplaat 15:33
+
+Train No: 9901
+Mutual 05:12
+Langa 05:19
+Train No: 9903
+Mutual 06:32
+Langa 06:39
+Train No: 9905
+Mutual 08:04
+Langa 08:11
+Train No: 9907
+Mutual 09:54
+Langa 10:01
+Train No: 9909
+Mutual 11:44
+Langa 11:51
+Train No: 9911
+Mutual 13:34
+Langa 13:41
+
+Train No: 9901
+Mutual 05:12
+Nyanga 05:40
+Train No: 9903
+Mutual 06:32
+Nyanga 07:00
+Train No: 9905
+Mutual 08:04
+Nyanga 08:32
+Train No: 9907
+Mutual 09:54
+Nyanga 10:22
+Train No: 9909
+Mutual 11:44
+Nyanga 12:12
+Train No: 9911
+Mutual 13:34
+Nyanga 14:02
+
+
+Train No: 9901
+Mutual 05:12
+Stock Road 05:51
+Train No: 9903
+Mutual 06:32
+Stock Road 07:11
+Train No: 9905
+Mutual 08:04
+Stock Road 08:43
+Train No: 9907
+Mutual 09:54
+Stock Road 10:33
+Train No: 9909
+Mutual 11:44
+Stock Road 12:23
+Train No: 9911
+Mutual 13:34
+Stock Road 14:13
+
+Train No: 9901
+Mutual 05:12
+Mandalay 05:56
+Train No: 9903
+Mutual 06:32
+Mandalay 07:16
+Train No: 9905
+Mutual 08:04
+Mandalay 08:48
+Train No: 9907
+Mutual 09:54
+Mandalay 10:38
+Train No: 9909
+Mutual 11:44
+Mandalay 12:28
+Train No: 9911
+Mutual 13:34
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9900
+Langa 05:21
+Cape Town 05:52
+Train No: 9500
+Langa 06:00
+Cape Town 06:30
+Train No: 9902
+Langa 06:51
+Cape Town 07:22
+Train No: 9502
+Langa 07:20
+Cape Town 07:50
+Train No: 9904
+Langa 08:11
+Cape Town 08:42
+Train No: 9504
+Langa 08:40
+Cape Town 09:10
+Train No: 9906
+Langa 10:01
+Cape Town 10:32
+Train No: 9908
+Langa 11:51
+Cape Town 12:22
+Train No: 9506
+Langa 12:00
+Cape Town 12:30
+Train No: 9910
+Langa 13:36
+Cape Town 14:07
+Train No: 9508
+Langa 13:45
+Cape Town 14:15
+Train No: 9912
+Langa 15:16
+Cape Town 15:47
+
+Train No: 9500
+Langa 06:00
+Woodstock 06:27
+Train No: 9502
+Langa 07:20
+Woodstock 07:47
+Train No: 9504
+Langa 08:40
+Woodstock 09:07
+Train No: 9506
+Langa 12:00
+Woodstock 12:27
+Train No: 9508
+Langa 13:45
+Woodstock 14:12
+
+Train No: 9500
+Langa 06:00
+Salt River 06:22
+Train No: 9502
+Langa 07:20
+Salt River 07:42
+Train No: 9504
+Langa 08:40
+Salt River 09:02
+Train No: 9506
+Langa 12:00
+Salt River 12:22
+Train No: 9508
+Langa 13:45
+Salt River 14:07
+
+Train No: 9500
+Langa 06:00
+Koeberg Road 06:19
+Train No: 9502
+Langa 07:20
+Koeberg Road 07:39
+Train No: 9504
+Langa 08:40
+Koeberg Road 08:59
+Train No: 9506
+Langa 12:00
+Koeberg Road 12:19
+Train No: 9508
+Langa 13:45
+Koeberg Road 14:04
+
+Train No: 9500
+Langa 06:00
+Maitland 06:16
+Train No: 9502
+Langa 07:20
+Maitland 07:36
+Train No: 9504
+Langa 08:40
+Maitland 08:56
+Train No: 9506
+Langa 12:00
+Maitland 12:16
+Train No: 9508
+Langa 13:45
+Maitland 14:01
+
+Train No: 9500
+Langa 06:00
+Ndabeni 06:12
+Train No: 9502
+Langa 07:20
+Ndabeni 07:32
+Train No: 9504
+Langa 08:40
+Ndabeni 08:52
+Train No: 9506
+Langa 12:00
+Ndabeni 12:12
+Train No: 9508
+Langa 13:45
+Ndabeni 13:57
+
+Train No: 9500
+Langa 06:00
+Pinelands 06:09
+Train No: 9502
+Langa 07:20
+Pinelands 07:29
+Train No: 9504
+Langa 08:40
+Pinelands 08:49
+Train No: 9506
+Langa 12:00
+Pinelands 12:09
+Train No: 9508
+Langa 13:45
+Pinelands 13:54
+
+Train No: 9900
+Langa 05:21
+Esplanade 05:47
+Train No: 9902
+Langa 06:51
+Esplanade 07:17
+Train No: 9904
+Langa 08:11
+Esplanade 08:37
+Train No: 9906
+Langa 10:01
+Esplanade 10:27
+Train No: 9908
+Langa 11:51
+Esplanade 12:17
+Train No: 9910
+Langa 13:36
+Esplanade 14:02
+Train No: 9912
+Langa 15:16
+Esplanade 15:42
+
+Train No: 9900
+Langa 05:21
+Ysterplaat 05:38
+Train No: 9902
+Langa 06:51
+Ysterplaat 07:08
+Train No: 9904
+Langa 08:11
+Ysterplaat 08:28
+Train No: 9906
+Langa 10:01
+Ysterplaat 10:18
+Train No: 9908
+Langa 11:51
+Ysterplaat 12:08
+Train No: 9910
+Langa 13:36
+Ysterplaat 13:53
+Train No: 9912
+Langa 15:16
+Ysterplaat 15:33
+
+Train No: 9900
+Langa 05:21
+Mutual 05:28
+Train No: 9902
+Langa 06:51
+Mutual 06:58
+Train No: 9904
+Langa 08:11
+Mutual 08:18
+Train No: 9906
+Langa 10:01
+Mutual 10:08
+Train No: 9908
+Langa 11:51
+Mutual 11:58
+Train No: 9910
+Langa 13:36
+Mutual 13:43
+Train No: 9912
+Langa 15:16
+Mutual 15:23
+
+Train No: 9901
+Langa 05:19
+Nyanga 05:40
+Train No: 9903
+Langa 06:39
+Nyanga 07:00
+Train No: 9905
+Langa 08:11
+Nyanga 08:32
+Train No: 9907
+Langa 10:01
+Nyanga 10:22
+Train No: 9909
+Langa 11:51
+Nyanga 12:12
+Train No: 9911
+Langa 13:41
+Nyanga 14:02
+
+
+Train No: 9901
+Langa 05:19
+Stock Road 05:51
+Train No: 9903
+Langa 06:39
+Stock Road 07:11
+Train No: 9905
+Langa 08:11
+Stock Road 08:43
+Train No: 9907
+Langa 10:01
+Stock Road 10:33
+Train No: 9909
+Langa 11:51
+Stock Road 12:23
+Train No: 9911
+Langa 13:41
+Stock Road 14:13
+
+Train No: 9901
+Langa 05:19
+Mandalay 05:56
+Train No: 9903
+Langa 06:39
+Mandalay 07:16
+Train No: 9905
+Langa 08:11
+Mandalay 08:48
+Train No: 9907
+Langa 10:01
+Mandalay 10:38
+Train No: 9909
+Langa 11:51
+Mandalay 12:28
+Train No: 9911
+Langa 13:41
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9900
+Nyanga 05:00
+Cape Town 05:52
+Train No: 9902
+Nyanga 06:30
+Cape Town 07:22
+Train No: 9904
+Nyanga 07:50
+Cape Town 08:42
+Train No: 9906
+Nyanga 09:40
+Cape Town 10:32
+Train No: 9908
+Nyanga 11:30
+Cape Town 12:22
+Train No: 9910
+Nyanga 13:15
+Cape Town 14:07
+Train No: 9912
+Nyanga 14:55
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9900
+Nyanga 05:00
+Esplanade 05:47
+Train No: 9902
+Nyanga 06:30
+Esplanade 07:17
+Train No: 9904
+Nyanga 07:50
+Esplanade 08:37
+Train No: 9906
+Nyanga 09:40
+Esplanade 10:27
+Train No: 9908
+Nyanga 11:30
+Esplanade 12:17
+Train No: 9910
+Nyanga 13:15
+Esplanade 14:02
+Train No: 9912
+Nyanga 14:55
+Esplanade 15:42
+
+Train No: 9900
+Nyanga 05:00
+Ysterplaat 05:38
+Train No: 9902
+Nyanga 06:30
+Ysterplaat 07:08
+Train No: 9904
+Nyanga 07:50
+Ysterplaat 08:28
+Train No: 9906
+Nyanga 09:40
+Ysterplaat 10:18
+Train No: 9908
+Nyanga 11:30
+Ysterplaat 12:08
+Train No: 9910
+Nyanga 13:15
+Ysterplaat 13:53
+Train No: 9912
+Nyanga 14:55
+Ysterplaat 15:33
+
+Train No: 9900
+Nyanga 05:00
+Mutual 05:28
+Train No: 9902
+Nyanga 06:30
+Mutual 06:58
+Train No: 9904
+Nyanga 07:50
+Mutual 08:18
+Train No: 9906
+Nyanga 09:40
+Mutual 10:08
+Train No: 9908
+Nyanga 11:30
+Mutual 11:58
+Train No: 9910
+Nyanga 13:15
+Mutual 13:43
+Train No: 9912
+Nyanga 14:55
+Mutual 15:23
+
+Train No: 9900
+Nyanga 05:00
+Langa 05:21
+Train No: 9902
+Nyanga 06:30
+Langa 06:51
+Train No: 9904
+Nyanga 07:50
+Langa 08:11
+Train No: 9906
+Nyanga 09:40
+Langa 10:01
+Train No: 9908
+Nyanga 11:30
+Langa 11:51
+Train No: 9910
+Nyanga 13:15
+Langa 13:36
+Train No: 9912
+Nyanga 14:55
+Langa 15:16
+
+
+Train No: 9901
+Nyanga 05:40
+Stock Road 05:51
+Train No: 9903
+Nyanga 07:00
+Stock Road 07:11
+Train No: 9905
+Nyanga 08:32
+Stock Road 08:43
+Train No: 9907
+Nyanga 10:22
+Stock Road 10:33
+Train No: 9909
+Nyanga 12:12
+Stock Road 12:23
+Train No: 9911
+Nyanga 14:02
+Stock Road 14:13
+
+Train No: 9901
+Nyanga 05:40
+Mandalay 05:56
+Train No: 9903
+Nyanga 07:00
+Mandalay 07:16
+Train No: 9905
+Nyanga 08:32
+Mandalay 08:48
+Train No: 9907
+Nyanga 10:22
+Mandalay 10:38
+Train No: 9909
+Nyanga 12:12
+Mandalay 12:28
+Train No: 9911
+Nyanga 14:02
+Mandalay 14:18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train No: 9900
+Stock Road 04:49
+Cape Town 05:52
+Train No: 9902
+Stock Road 06:19
+Cape Town 07:22
+Train No: 9904
+Stock Road 07:39
+Cape Town 08:42
+Train No: 9906
+Stock Road 09:29
+Cape Town 10:32
+Train No: 9908
+Stock Road 11:19
+Cape Town 12:22
+Train No: 9910
+Stock Road 13:04
+Cape Town 14:07
+Train No: 9912
+Stock Road 14:44
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9900
+Stock Road 04:49
+Esplanade 05:47
+Train No: 9902
+Stock Road 06:19
+Esplanade 07:17
+Train No: 9904
+Stock Road 07:39
+Esplanade 08:37
+Train No: 9906
+Stock Road 09:29
+Esplanade 10:27
+Train No: 9908
+Stock Road 11:19
+Esplanade 12:17
+Train No: 9910
+Stock Road 13:04
+Esplanade 14:02
+Train No: 9912
+Stock Road 14:44
+Esplanade 15:42
+
+Train No: 9900
+Stock Road 04:49
+Ysterplaat 05:38
+Train No: 9902
+Stock Road 06:19
+Ysterplaat 07:08
+Train No: 9904
+Stock Road 07:39
+Ysterplaat 08:28
+Train No: 9906
+Stock Road 09:29
+Ysterplaat 10:18
+Train No: 9908
+Stock Road 11:19
+Ysterplaat 12:08
+Train No: 9910
+Stock Road 13:04
+Ysterplaat 13:53
+Train No: 9912
+Stock Road 14:44
+Ysterplaat 15:33
+
+Train No: 9900
+Stock Road 04:49
+Mutual 05:28
+Train No: 9902
+Stock Road 06:19
+Mutual 06:58
+Train No: 9904
+Stock Road 07:39
+Mutual 08:18
+Train No: 9906
+Stock Road 09:29
+Mutual 10:08
+Train No: 9908
+Stock Road 11:19
+Mutual 11:58
+Train No: 9910
+Stock Road 13:04
+Mutual 13:43
+Train No: 9912
+Stock Road 14:44
+Mutual 15:23
+
+Train No: 9900
+Stock Road 04:49
+Langa 05:21
+Train No: 9902
+Stock Road 06:19
+Langa 06:51
+Train No: 9904
+Stock Road 07:39
+Langa 08:11
+Train No: 9906
+Stock Road 09:29
+Langa 10:01
+Train No: 9908
+Stock Road 11:19
+Langa 11:51
+Train No: 9910
+Stock Road 13:04
+Langa 13:36
+Train No: 9912
+Stock Road 14:44
+Langa 15:16
+
+Train No: 9900
+Stock Road 04:49
+Nyanga 05:00
+Train No: 9902
+Stock Road 06:19
+Nyanga 06:30
+Train No: 9904
+Stock Road 07:39
+Nyanga 07:50
+Train No: 9906
+Stock Road 09:29
+Nyanga 09:40
+Train No: 9908
+Stock Road 11:19
+Nyanga 11:30
+Train No: 9910
+Stock Road 13:04
+Nyanga 13:15
+Train No: 9912
+Stock Road 14:44
+Nyanga 14:55
+
+
+Train No: 9901
+Stock Road 05:51
+Mandalay 05:56
+Train No: 9903
+Stock Road 07:11
+Mandalay 07:16
+Train No: 9905
+Stock Road 08:43
+Mandalay 08:48
+Train No: 9907
+Stock Road 10:33
+Mandalay 10:38
+Train No: 9909
+Stock Road 12:23
+Mandalay 12:28
+Train No: 9911
+Stock Road 14:13
+Mandalay 14:18
+
+
+
+
+
+
+
+
+Train No: 9900
+Mandalay 04:44
+Cape Town 05:52
+Train No: 9902
+Mandalay 06:14
+Cape Town 07:22
+Train No: 9904
+Mandalay 07:34
+Cape Town 08:42
+Train No: 9906
+Mandalay 09:24
+Cape Town 10:32
+Train No: 9908
+Mandalay 11:14
+Cape Town 12:22
+Train No: 9910
+Mandalay 12:59
+Cape Town 14:07
+Train No: 9912
+Mandalay 14:39
+Cape Town 15:47
+
+
+
+
+
+
+
+Train No: 9900
+Mandalay 04:44
+Esplanade 05:47
+Train No: 9902
+Mandalay 06:14
+Esplanade 07:17
+Train No: 9904
+Mandalay 07:34
+Esplanade 08:37
+Train No: 9906
+Mandalay 09:24
+Esplanade 10:27
+Train No: 9908
+Mandalay 11:14
+Esplanade 12:17
+Train No: 9910
+Mandalay 12:59
+Esplanade 14:02
+Train No: 9912
+Mandalay 14:39
+Esplanade 15:42
+
+Train No: 9900
+Mandalay 04:44
+Ysterplaat 05:38
+Train No: 9902
+Mandalay 06:14
+Ysterplaat 07:08
+Train No: 9904
+Mandalay 07:34
+Ysterplaat 08:28
+Train No: 9906
+Mandalay 09:24
+Ysterplaat 10:18
+Train No: 9908
+Mandalay 11:14
+Ysterplaat 12:08
+Train No: 9910
+Mandalay 12:59
+Ysterplaat 13:53
+Train No: 9912
+Mandalay 14:39
+Ysterplaat 15:33
+
+Train No: 9900
+Mandalay 04:44
+Mutual 05:28
+Train No: 9902
+Mandalay 06:14
+Mutual 06:58
+Train No: 9904
+Mandalay 07:34
+Mutual 08:18
+Train No: 9906
+Mandalay 09:24
+Mutual 10:08
+Train No: 9908
+Mandalay 11:14
+Mutual 11:58
+Train No: 9910
+Mandalay 12:59
+Mutual 13:43
+Train No: 9912
+Mandalay 14:39
+Mutual 15:23
+
+Train No: 9900
+Mandalay 04:44
+Langa 05:21
+Train No: 9902
+Mandalay 06:14
+Langa 06:51
+Train No: 9904
+Mandalay 07:34
+Langa 08:11
+Train No: 9906
+Mandalay 09:24
+Langa 10:01
+Train No: 9908
+Mandalay 11:14
+Langa 11:51
+Train No: 9910
+Mandalay 12:59
+Langa 13:36
+Train No: 9912
+Mandalay 14:39
+Langa 15:16
+
+Train No: 9900
+Mandalay 04:44
+Nyanga 05:00
+Train No: 9902
+Mandalay 06:14
+Nyanga 06:30
+Train No: 9904
+Mandalay 07:34
+Nyanga 07:50
+Train No: 9906
+Mandalay 09:24
+Nyanga 09:40
+Train No: 9908
+Mandalay 11:14
+Nyanga 11:30
+Train No: 9910
+Mandalay 12:59
+Nyanga 13:15
+Train No: 9912
+Mandalay 14:39
+Nyanga 14:55
+
+
+Train No: 9900
+Mandalay 04:44
+Stock Road 04:49
+Train No: 9902
+Mandalay 06:14
+Stock Road 06:19
+Train No: 9904
+Mandalay 07:34
+Stock Road 07:39
+Train No: 9906
+Mandalay 09:24
+Stock Road 09:29
+Train No: 9908
+Mandalay 11:14
+Stock Road 11:19
+Train No: 9910
+Mandalay 12:59
+Stock Road 13:04
+Train No: 9912
+Mandalay 14:39
+Stock Road 14:44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

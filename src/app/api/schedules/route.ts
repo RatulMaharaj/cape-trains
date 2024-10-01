@@ -19,7 +19,7 @@ export async function GET(request: Request) {
   if (!departure || !arrival) {
     return Response.json(
       { error: "No departure or arrival provided" },
-      { status: 400 }
+      { status: 400 },
     );
   }
 
@@ -33,7 +33,7 @@ export async function GET(request: Request) {
 
   // remove empty times from the departures
   const trainNumbers = Object.keys(departureTimes).filter(
-    (key) => departureTimes[key] !== ""
+    (key) => departureTimes[key] !== "",
   );
   console.log(trainNumbers);
 
