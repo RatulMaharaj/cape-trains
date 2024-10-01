@@ -4,12 +4,12 @@
 import React, { useState } from "react";
 import SelectMenu from "@/components/combobox";
 import { useQuery } from "@tanstack/react-query";
-import { trainLines } from "@/lib/lines";
 import { properCase } from "@/lib/text";
+import { sortStations } from "@/lib/utils";
+
+const baseUrl = "https://ratulmaharaj.github.io/cape-trains/data/json";
 
 export default function Page() {
-  const [line, setLine] = useState(trainLines[0]);
-
   // Automatically set the schedule based on the day of the week
   const d = new Date();
   const dayInt = d.getDay();
@@ -30,20 +30,34 @@ export default function Page() {
   const [departure, setDeparture] = useState("");
 
   const { data: stations, isLoading: isStationsLoading } = useQuery({
-    queryKey: ["stations", line],
+    queryKey: ["stations"],
     queryFn: async () => {
-      const response = await fetch(`/api/stations?line=${line}`, {});
-      return response.json() as Promise<string[]>;
+      const response = await fetch(`${baseUrl}/stations.json`);
+      return response.json() as Promise<
+        {
+          name: string;
+          lines: string[];
+        }[]
+      >;
     },
-    enabled: !!line,
   });
 
+  console.log({ stations });
+
   const { data: schedules, isLoading: isSchedulesLoading } = useQuery({
-    queryKey: ["schedules", line, departure, arrival],
+    queryKey: ["schedules", departure, arrival],
     queryFn: async () => {
-      const response = await fetch(
-        `/api/schedules?line=${line}&departure=${departure}&arrival=${arrival}`,
-      );
+      const response = await fetch(`/api/schedules`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          departure,
+          arrival,
+          day,
+        }),
+      });
       return response.json() as Promise<
         {
           trainNumber: string;
@@ -54,7 +68,7 @@ export default function Page() {
         }[]
       >;
     },
-    enabled: !!line && !!departure && !!arrival,
+    enabled: !!departure && !!arrival,
   });
 
   console.log({ day });
@@ -62,69 +76,65 @@ export default function Page() {
   return (
     <>
       <div className="flex flex-col gap-x-2 gap-y-2 w-full items-center justify-center">
-        <p className="font-medium text-xs mb-2">
+        <p className="font-medium text-xs mb-1">
           Please select departure and arrival stations
         </p>
-        <div className="flex-col md:flex-row flex items-center justify-center w-full gap-2 mb-2">
+        <div className="flex-row flex items-center justify-center w-full gap-2 mb-2">
           <SelectMenu
-            options={trainLines.map((line) => {
-              return {
-                value: line,
-                label: properCase(line),
-              };
-            })}
+            options={
+              sortStations(stations)
+                ?.filter((station) => {
+                  return station.name !== arrival;
+                })
+                ?.map((station) => {
+                  return {
+                    value: station.name,
+                    label: properCase(station.name),
+                  };
+                }) ?? []
+            }
             onChange={(item) => {
               setDeparture(item.value);
             }}
             placeholder="From?"
           />
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="size-6 fill-primary hover:cursor-pointer"
+            viewBox="0 0 256 256"
+          >
+            <path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"></path>
+          </svg>
           <SelectMenu
-            options={trainLines
-              .map((line) => {
-                if (line !== departure) {
+            options={
+              sortStations(stations)
+                ?.filter((station) => {
+                  return station.name !== departure;
+                })
+                ?.map((station) => {
                   return {
-                    value: line,
-                    label: properCase(line),
+                    value: station.name,
+                    label: properCase(station.name),
                   };
-                } else {
-                  return null;
-                }
-              })
-              .filter((item) => item !== null)}
+                }) ?? []
+            }
             onChange={(item) => {
               setArrival(item.value);
             }}
             placeholder="To?"
           />
-        </div>
-        <div className="join">
-          <input
-            className="join-item btn btn-sm"
-            type="radio"
-            name="day"
-            onChange={() => setDay("Mon-Fri")}
-            checked={day === "Mon-Fri"}
-            aria-label="Mon-Fri"
-          />
-          <input
-            className="join-item btn btn-sm"
-            type="radio"
-            name="day"
-            onChange={() => setDay("Saturday")}
-            checked={day === "Saturday"}
-            aria-label="Saturday"
-          />
-          <input
-            className="join-item btn btn-sm"
-            type="radio"
-            name="day"
-            onChange={() => setDay("Sunday / Public Holiday")}
-            checked={day === "Sunday / Public Holiday"}
-            aria-label="Sunday / Public Holiday"
-          />
+          <button type="button" className="btn btn-primary">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="size-4 fill-primary-content"
+              viewBox="0 0 256 256"
+            >
+              <path d="M232.49,215.51,185,168a92.12,92.12,0,1,0-17,17l47.53,47.54a12,12,0,0,0,17-17ZM44,112a68,68,0,1,1,68,68A68.07,68.07,0,0,1,44,112Z"></path>
+            </svg>
+          </button>
         </div>
 
-        {isSchedulesLoading ? null : (
+        {true ? null : (
           <div className="w-full flex flex-col gap-y-4 my-8">
             {schedules?.map((train, index) => {
               console.log(train);

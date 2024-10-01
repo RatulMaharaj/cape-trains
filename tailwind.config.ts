@@ -23,7 +23,7 @@ const config: Config = {
   },
   plugins: [daisyui, require("tailwindcss-animate")],
   daisyui: {
-    themes: ["nord"],
+    themes: ["nord", "aqua", "pastel", "winter"],
   },
 };
 export default config;
