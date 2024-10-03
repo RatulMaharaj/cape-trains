@@ -4,22 +4,21 @@ import { useState } from "react";
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { ToastContainer } from "react-toastify";
-// import posthog from "posthog-js";
-// import { PostHogProvider } from "posthog-js/react";
 import "react-toastify/dist/ReactToastify.css";
+import posthog from "posthog-js";
+import { PostHogProvider } from "posthog-js/react";
+
+if (typeof window !== "undefined") {
+  posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY ?? "", {
+    api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST,
+  });
+}
 
 export default function Providers({ children }: { children: React.ReactNode }) {
   const [queryClient] = useState(new QueryClient());
 
-  //   if (typeof window !== "undefined") {
-  //     posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY ?? "", {
-  //       api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST,
-  //     });
-  //   }
-
   return (
-    <>
-      {/* <PostHogProvider client={posthog}> */}
+    <PostHogProvider client={posthog}>
       <QueryClientProvider client={queryClient}>
         {children}
         <ReactQueryDevtools
@@ -39,7 +38,6 @@ export default function Providers({ children }: { children: React.ReactNode }) {
           bodyClassName={() => `flex p-4 flex-row justify-center rounded-md`}
         />
       </QueryClientProvider>
-      {/* </PostHogProvider> */}
-    </>
+    </PostHogProvider>
   );
 }
